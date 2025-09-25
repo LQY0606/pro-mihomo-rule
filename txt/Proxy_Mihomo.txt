@@ -155,7 +155,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -4699,6 +4698,7 @@
 +.comodoca2.com
 +.comodoca3.com
 +.comodoca4.com
++.company.com
 +.compaq.org
 +.comparitech.com
 +.compass-system.com
@@ -4905,6 +4905,7 @@
 +.ctexcel.com.hk
 +.ctfassets.net
 +.ctfriend.net
++.ctinets.com
 +.ctinews.com
 +.ctotires.com
 +.ctowc.org
@@ -9111,6 +9112,7 @@
 +.herokussl.com
 +.herominers.com
 +.herringnetwork.com
++.heshare1password.drift.click
 +.hetzner.cloud
 +.hetzner.com
 +.hetzner.company
@@ -10341,6 +10343,7 @@
 +.internetofeverything.com
 +.internetpopculture.com
 +.interracial-sites.com
++.interseclab.org
 +.intescort.com
 +.intgram.com
 +.inthenameofconfuciusmovie.com
@@ -11601,6 +11604,7 @@
 +.linkedin.com
 +.linkideo.com
 +.linkjunkies.com
++.links8.me
 +.linksalpha.com
 +.linkshit.com
 +.linkuswell.com
