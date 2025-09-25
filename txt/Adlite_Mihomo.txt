@@ -53326,6 +53326,7 @@
 +.ads.oppomobile.com
 +.adsfs-in.oppomobile.com
 +.adsfs.oppomobile.com
++.api.open.oppomobile.com
 +.dhfs-id.oppomobile.com
 +.dhfs-in.oppomobile.com
 +.dhfs-th.oppomobile.com
