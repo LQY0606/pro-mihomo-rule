@@ -155,6 +155,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -4698,7 +4699,6 @@
 +.comodoca2.com
 +.comodoca3.com
 +.comodoca4.com
-+.company.com
 +.compaq.org
 +.comparitech.com
 +.compass-system.com
@@ -9112,7 +9112,6 @@
 +.herokussl.com
 +.herominers.com
 +.herringnetwork.com
-+.heshare1password.drift.click
 +.hetzner.cloud
 +.hetzner.com
 +.hetzner.company
@@ -11604,7 +11603,6 @@
 +.linkedin.com
 +.linkideo.com
 +.linkjunkies.com
-+.links8.me
 +.linksalpha.com
 +.linkshit.com
 +.linkuswell.com
