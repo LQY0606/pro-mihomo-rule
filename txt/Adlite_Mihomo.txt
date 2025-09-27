@@ -4059,7 +4059,7 @@
 +.admana.net
 +.admangrauc.com
 +.admangrsw.com
-+.admanmedia.com
++.admanmedia.c
 +.admantx.com
 +.admapp.com
 +.admarket.mobi
@@ -6593,6 +6593,7 @@
 +.aax-us-cpm.amazon-adsystem.amazon.com
 +.aax-us-iad.amazon.com
 +.aax-us-ott.amazon-adsystem.amazon.com
++.aax-us-west-2-ott.amazon-adsystem.amazon.com
 +.aax-us.amazon-adsystem.amazon.com
 +.aax.amazon-adsystem.amazon.com
 +.ads-setu-proxy-eu.amazon.com
@@ -72387,6 +72388,7 @@
 +.blobcollector.events.data.trafficmanager.net
 +.bn2-ris-ap-prod-atm.trafficmanager.net
 +.bn2-ris-prod-atm.trafficmanager.net
++.ch-asimov-leafs-events-data.trafficmanager.net
 +.cnzz.trafficmanager.net
 +.collection-location-livenet.trafficmanager.net
 +.collector-main.trafficmanager.net
@@ -76309,7 +76311,9 @@
 +.cname-asia-stsdk09.vivoglobal.com
 +.cname-asia02-stsdk.vivoglobal.com
 +.cname-de-stsdk.vivoglobal.com
++.cname-in-apport-stsdk.vivoglobal.com
 +.cname-in-bom01-nginxpool03.vivoglobal.com
++.cname-in-ctdbonrt-stsdk.vivoglobal.com
 +.cname-sin01-stsdk09.vivoglobal.com
 +.co-cota.vivoglobal.com
 +.co-domaincfg.vivoglobal.com
