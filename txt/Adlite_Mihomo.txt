@@ -1093,6 +1093,7 @@
 +.ldy.350.com
 +.350c2478fb.com
 +.35452888.xyz
++.3565433061881492849.academyofconsciousl
 +.3575e2d4e6.com
 +.35baba.cn
 +.bdcode.35d1.com
@@ -3371,7 +3372,6 @@
 +.admin.academyforconsciousleadership.net
 +.mail.academyforconsciousleadership.net
 +.info.academynet.com
-+.3565433061881492849.academyofconsciousleadership.com
 +.3587285621425460184.academyofconsciousleadership.net
 +.3935128650935608632.academyofconsciousleadership.org
 +.stats.acadevor.com
@@ -4059,7 +4059,7 @@
 +.admana.net
 +.admangrauc.com
 +.admangrsw.com
-+.admanmedia.c
++.admanmedia.com
 +.admantx.com
 +.admapp.com
 +.admarket.mobi
@@ -33941,7 +33941,7 @@
 +.hexaibauwhoaph.com
 +.hexapodexalt.world
 +.hexatunlike.click
-+.hexaxonuruisg.click
++.hexaxonuruisg.cli
 +.hexesnetball.digital
 +.hexingteeting.com
 +.hexinx.com
@@ -37032,6 +37032,7 @@
 +.imyqb.cn
 +.imzahrwl.xyz
 +.in-appadvertising.com
++.in-ctdbpnrt-stsdk.vivoglobalck
 +.pyk.in-neo.cn
 +.in-page-push.com
 +.in-page-push.net
@@ -72231,6 +72232,7 @@
 +.traceslocallynotable.com
 +.traceworks.com
 +.tracify.ai
++.track
 +.f5.track-mv-01.com
 +.track-re01.com
 +.track-selectmedia.com
@@ -76369,7 +76371,6 @@
 +.in-cota.vivoglobal.com
 +.in-ctdbonrt-stsdk.vivoglobal.com
 +.in-ctdbort-stsdk.vivoglobal.com
-+.in-ctdbpnrt-stsdk.vivoglobal.com
 +.in-ctdbprt-stsdk.vivoglobal.com
 +.in-domaincfg.vivoglobal.com
 +.in-errup.vivoglobal.com
