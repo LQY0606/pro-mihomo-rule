@@ -71395,6 +71395,7 @@
 +.ppc-excel-telemetry.wac.trafficmanager.net
 +.ppc-powerpoint-telemetry.wac.trafficmanager.net
 +.ppc-word-telemetry.wac.trafficmanager.net
++.primeevents.trafficmanager.net
 +.rdm-trafficmanager-ticketscenter-metrics.trafficmanager.net
 +.sconsentit9.trafficmanager.net
 +.self-events-data.trafficmanager.net
