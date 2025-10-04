@@ -4059,7 +4059,6 @@
 +.adlane.info
 +.adlatch.com
 +.adlayer.net
-+.wwww.adleads.com
 +.track.adx.adlefee.com
 +.adlegend.com
 +.configure.adlermode.com
@@ -6643,6 +6642,7 @@
 +.aax-ott-sdk.amazon-adsystem.amazon.com
 +.aax-ott.amazon-adsystem.amazon.com
 +.aax-us-cpm.amazon-adsystem.amazon.com
++.aax-us-east-1-ott.amazon-adsystem.amazon.com
 +.aax-us-iad.amazon.com
 +.aax-us-ott.amazon-adsystem.amazon.com
 +.aax-us-west-2-ott.amazon-adsystem.amazon.com
@@ -26836,7 +26836,6 @@
 +.tracking.fcmtravel.com
 +.fcopqjfgfdzvv.online
 +.pls.fcrpg.net
-+.fcs.ovh
 +.metrics.fcsamerica.com
 +.fcswogrcyplcs.space
 +.m.fcuit.com
@@ -45830,7 +45829,6 @@
 +.adsdk.microsoft.com
 +.adsstatic-int.microsoft.com
 +.advertising.microsoft.com
-+.analytics.pstnhub.microsoft.com
 +.analyticspixel.microsoft.com
 +.api.edgeoffer.microsoft.com
 +.applicationinsights.microsoft.com
@@ -75380,6 +75378,7 @@
 +.pnrt-stsdk.vivoglobal.com
 +.prt-stsdk.vivoglobal.com
 +.ro-up.vivoglobal.com
++.ru-album-api.vivoglobal.com
 +.ru-analyzer-appstore.vivoglobal.com
 +.ru-commonitor-stsdk.vivoglobal.com
 +.ru-comonrt-stsdk.vivoglobal.com
@@ -78709,6 +78708,7 @@
 +.wwwkiuxvdmglf.online
 +.wwwokzyzy.com
 +.wwwpromoter.com
++.wwww
 +.wwwwzerbmoeez.top
 +.wwyeejlxobqqn.site
 +.wwyomynzybgqn.top
@@ -79363,8 +79363,8 @@
 +.xiazai.xiaomi.com
 +.api.account.preview.n.xiaomi.net
 +.api.g.micloud.xiaomi.net
-+.api.micloud.xiaomi.net
 +.bugreport.xiaomi.net
++.find.api.micloud.xiaomi.net
 +.findapi.micloud.xiaomi.net
 +.fr.resolver.msg.global.xiaomi.net
 +.idmb.app.chat.global.xiaomi.net
@@ -79376,6 +79376,7 @@
 +.sec.resource.xiaomi.net
 +.sentry.d.xiaomi.net
 +.statusapi.micloud.xiaomi.net
++.us.api.micloud.xiaomi.net
 +.ww.xiaopiaoyou.com
 +.xiaopinwo.com
 +.db.xiaoshuofuwuqi.com
