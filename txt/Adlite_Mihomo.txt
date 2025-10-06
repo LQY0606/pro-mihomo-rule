@@ -6251,7 +6251,7 @@
 +.tr.news.allopneus.com
 +.tr.newsmarketing.allopneus.com
 +.tracking.allopneus.com
-+.allosponsor.com
++.allosponsor.c
 +.allotupwardmalicious.com
 +.alloutdubstep.com
 +.analytics.allovoisins.com
@@ -10857,6 +10857,7 @@
 +.betahit.click
 +.betainehoolee.com
 +.dd.betano.com
++.betarge
 +.betarget.com
 +.betazebra.com
 +.beteemsheeves.digital
@@ -32215,7 +32216,7 @@
 +.ogee.gyimieblockers.biz
 +.gyipdlomyttqb.online
 +.gylavpnvbaacd.online
-+.gylor.xyz
++.gylor.xy
 +.wa.gymboree.com
 +.gymea.site
 +.plausible.gymglish.com
@@ -37973,7 +37974,7 @@
 +.iybwitllknbmq.site
 +.iyclfhofnwbqvlm.net
 +.iycljnpwjyvyk.website
-+.iyfbodn.com
++.iyf
 +.iyfnz.com
 +.iyfnzgb.com
 +.iyfsearch.com
