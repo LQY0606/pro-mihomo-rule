@@ -567,7 +567,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1838,6 +1837,7 @@
 +.asmhentai.com
 +.asminternational.org
 +.asmrbuluo.com
++.asn-onlin+.aaa
 +.asn-online.org
 +.asobostudio.com
 +.asp-cc.com
@@ -3694,7 +3694,6 @@
 +.businesswebwise.com
 +.businessweek.com
 +.businessweekmag.com
-+.busnter.net
 +.bustyangelique.com
 +.bustyarianna.com
 +.bustydanniashe.com
@@ -5019,6 +5018,7 @@
 +.d-trust.net
 +.d-upp.com
 +.d.cash
++.d.tv
 +.d0z.net
 +.d100.net
 +.d2bay.com
@@ -5954,6 +5954,7 @@
 +.e-traderland.net
 +.e-tugra.com
 +.e-zone.com.hk
++.e.org
 +.e123.hk
 +.e53w.com
 +.e621.net
@@ -6563,6 +6564,7 @@
 +.every1dns.net
 +.everydayporn.co
 +.evgld7cg58l8.com
++.evil000webhost.com
 +.evilangel.com
 +.evise.com
 +.evolver.com
@@ -6700,7 +6702,6 @@
 +.facebook-login.com
 +.facebook-newsroom.com
 +.facebook-newsroom.org
-+.facebook-pmdce# NAME: Proxy
 +.facebook-pmdcenter.com
 +.facebook-pmdcenter.net
 +.facebook-pmdcenter.org
@@ -7456,6 +7457,7 @@
 +.fox46charlotte.com
 +.fox47.com
 +.fox49.tv
++.fox49gee.com
 +.fox4news.com
 +.fox51tns.net
 +.fox5atlanta.com
@@ -8329,7 +8331,6 @@
 +.girlsxxx.net
 +.gisplanning.com
 +.git-scm.com
-+.gitbodalailamajapanese.com
 +.gitbook.com
 +.githack.com
 +.github.blog
@@ -9347,6 +9348,7 @@
 +.homesexmade.com
 +.homestylerapp.com
 +.homestylernews.com
++.homet2bay.com
 +.hominis.media
 +.honawalaan.com
 +.honda
@@ -9608,7 +9610,6 @@
 +.hpwsn.com
 +.hq69.com
 +.hqbabes.com
-+.hqbabesr.com
 +.hqbutt.com
 +.hqcdp.org
 +.hqcollect.net
@@ -10277,7 +10278,6 @@
 +.instawank.com
 +.instgram.com
 +.institut-tibetain.org
-+.institute-of-cant
 +.instituteofwar.org
 +.instructables.com
 +.insuyo.xyz
@@ -10519,6 +10519,7 @@
 +.istef.info
 +.istiqlalhewer.com
 +.istockphoto.com
++.istorytell.coetibet.org
 +.istorytell.com
 +.istripper.com
 +.isunaffairs.com
@@ -10962,7 +10963,6 @@
 +.jove.com
 +.joyhentai.com
 +.joyjoy.net
-+.joylovedolketcdn.me
 +.joylovedolls.com
 +.joymiihub.com
 +.joyourself.com
@@ -11569,6 +11569,7 @@
 +.lihkg.com
 +.lihksnap.com
 +.like.com
++.like.o
 +.likeseiyu.com
 +.liketruyen.net
 +.liketwice.com
@@ -11610,7 +11611,7 @@
 +.linkedin.com
 +.linkideo.com
 +.linkjunkies.com
-+.linksalketchappsources.com
++.linksalpha.com
 +.linkshit.com
 +.linkuswell.com
 +.linode.com
@@ -12462,7 +12463,7 @@
 +.microsoftstream.com
 +.microsoftteams.com
 +.microsofttradein.com
-+.microsofttranslatoom.c.footprint.net
++.microsofttranslatopud.org
 +.microsofttranslator.com
 +.microsoftuwp.com
 +.microvpn.com
@@ -12987,6 +12988,7 @@
 +.ms
 +.ms-studiosmedia.com
 +.ms365surfaceoffer.com
++.ms365surfacer.com
 +.ms4dre.com
 +.msa-it.org
 +.msads.net
@@ -14335,7 +14337,6 @@
 +.openbase.com
 +.opencollective.com
 +.opencreate.org
-+.opendemocracy.ne.com
 +.opendemocracy.net
 +.opendesktop.org
 +.opendn.xyz
@@ -14883,7 +14884,6 @@
 +.pg
 +.pgyy67.top
 +.ph
-+.pha.com
 +.phantomjs.org
 +.phapluan.org
 +.phayul.com
@@ -15103,6 +15103,7 @@
 +.podictionary.com
 +.poe.com
 +.poecdn.net
++.poffer.com
 +.pogo.com
 +.pogobeta.com
 +.pohl
@@ -16266,7 +16267,6 @@
 +.roborecall.com
 +.robotoffice.com
 +.robustnessiskey.com
-+.rocio
 +.rocket-inc.net
 +.rocket.chat
 +.rocketbbs.com
@@ -16309,7 +16309,7 @@
 +.routerboard.com
 +.routledgehandbooks.com
 +.royalcams.com
-+.royalma000webhost.com
++.royalmaketchappsources.com
 +.royalsocietypublishing.org
 +.rpglogs.com
 +.rplay.live
@@ -16400,6 +16400,7 @@
 +.rwe
 +.rxhj.net
 +.ryukyu
++.s
 +.s-bluemix.net
 +.s-books.com
 +.s-cashonmobile.com
@@ -17250,7 +17251,6 @@
 +.slinginternational.com
 +.slinkset.com
 +.slotbitches.com
-+.sls.com
 +.slutclit.com
 +.slutdump.com
 +.slutload.com
@@ -17569,6 +17569,7 @@
 +.ss
 +.ss-link.com
 +.ssdevrd.com
++.ssglobal.c# NAME: Proxy
 +.ssglobal.co
 +.ssglobal.me
 +.ssh91.com
@@ -18423,6 +18424,7 @@
 +.thisav.org
 +.thisispolaris.com
 +.thisvid.com
++.thisvid.comt.org
 +.thisvidscat.net
 +.thlib.org
 +.thomasbernhard.org
