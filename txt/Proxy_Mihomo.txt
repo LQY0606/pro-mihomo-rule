@@ -567,6 +567,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1837,7 +1838,6 @@
 +.asmhentai.com
 +.asminternational.org
 +.asmrbuluo.com
-+.asn-onlin+.aaa
 +.asn-online.org
 +.asobostudio.com
 +.asp-cc.com
@@ -5018,7 +5018,6 @@
 +.d-trust.net
 +.d-upp.com
 +.d.cash
-+.d.tv
 +.d0z.net
 +.d100.net
 +.d2bay.com
@@ -5954,7 +5953,6 @@
 +.e-traderland.net
 +.e-tugra.com
 +.e-zone.com.hk
-+.e.org
 +.e123.hk
 +.e53w.com
 +.e621.net
@@ -6564,7 +6562,6 @@
 +.every1dns.net
 +.everydayporn.co
 +.evgld7cg58l8.com
-+.evil000webhost.com
 +.evilangel.com
 +.evise.com
 +.evolver.com
@@ -7457,7 +7454,6 @@
 +.fox46charlotte.com
 +.fox47.com
 +.fox49.tv
-+.fox49gee.com
 +.fox4news.com
 +.fox51tns.net
 +.fox5atlanta.com
@@ -9348,7 +9344,6 @@
 +.homesexmade.com
 +.homestylerapp.com
 +.homestylernews.com
-+.homet2bay.com
 +.hominis.media
 +.honawalaan.com
 +.honda
@@ -10519,7 +10514,6 @@
 +.istef.info
 +.istiqlalhewer.com
 +.istockphoto.com
-+.istorytell.coetibet.org
 +.istorytell.com
 +.istripper.com
 +.isunaffairs.com
@@ -11569,7 +11563,6 @@
 +.lihkg.com
 +.lihksnap.com
 +.like.com
-+.like.o
 +.likeseiyu.com
 +.liketruyen.net
 +.liketwice.com
@@ -12463,7 +12456,6 @@
 +.microsoftstream.com
 +.microsoftteams.com
 +.microsofttradein.com
-+.microsofttranslatopud.org
 +.microsofttranslator.com
 +.microsoftuwp.com
 +.microvpn.com
@@ -12988,7 +12980,6 @@
 +.ms
 +.ms-studiosmedia.com
 +.ms365surfaceoffer.com
-+.ms365surfacer.com
 +.ms4dre.com
 +.msa-it.org
 +.msads.net
@@ -15103,7 +15094,6 @@
 +.podictionary.com
 +.poe.com
 +.poecdn.net
-+.poffer.com
 +.pogo.com
 +.pogobeta.com
 +.pohl
@@ -16309,7 +16299,6 @@
 +.routerboard.com
 +.routledgehandbooks.com
 +.royalcams.com
-+.royalmaketchappsources.com
 +.royalsocietypublishing.org
 +.rpglogs.com
 +.rplay.live
@@ -16400,7 +16389,6 @@
 +.rwe
 +.rxhj.net
 +.ryukyu
-+.s
 +.s-bluemix.net
 +.s-books.com
 +.s-cashonmobile.com
@@ -17569,7 +17557,6 @@
 +.ss
 +.ss-link.com
 +.ssdevrd.com
-+.ssglobal.c# NAME: Proxy
 +.ssglobal.co
 +.ssglobal.me
 +.ssh91.com
@@ -18424,7 +18411,6 @@
 +.thisav.org
 +.thisispolaris.com
 +.thisvid.com
-+.thisvid.comt.org
 +.thisvidscat.net
 +.thlib.org
 +.thomasbernhard.org
