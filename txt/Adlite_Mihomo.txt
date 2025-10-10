@@ -24337,6 +24337,7 @@
 +.eic-ngfts.lge.com.edgekey.net
 +.experiments.apple.com.edgekey.net
 +.iadsdk.apple.com.edgekey.net
++.mon-boot.tiktokv.com.edgekey.net
 +.partiality.itunes.apple.com.edgekey.net
 +.qt2-ngfts.lge.com.edgekey.net
 +.wildcard.moatads.com.edgekey.net
@@ -71273,6 +71274,7 @@
 +.mcs-va-useast2a.tiktokv.com
 +.mcs-va.tiktokv.com
 +.mcs.us.tiktokv.com
++.mon-boot.tiktokv.com
 +.mon-i18n.tiktokv.com
 +.mon-phx.tiktokv.com
 +.mon-ru.tiktokv.com
