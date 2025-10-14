@@ -1503,7 +1503,6 @@
 +.apibay.org
 +.apigee.com
 +.apina.biz
-+.apioll.net
 +.apisof.net
 +.apk-dl.com
 +.apk.support
@@ -3478,7 +3477,6 @@
 +.boundhub.com
 +.bountyhunterporn.com
 +.bowenpress.com
-+.bowlr000webhost.com
 +.bowlroll.net
 +.bowsersinsidestory.com
 +.box.com
@@ -4635,7 +4633,6 @@
 +.codespot.com
 +.codethemicrobit.com
 +.codivorexxx.com
-+.cods-nugee.com
 +.coedcherry.com
 +.coinalyze.net
 +.coinbase.com
