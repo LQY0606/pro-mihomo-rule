@@ -4151,7 +4151,6 @@
 +.channel4.com
 +.channel5.com
 +.channelnewsasia.com
-+.chanworexxx.com
 +.chanworld.org
 +.chaoex.com
 +.chaos.social
@@ -6785,7 +6784,6 @@
 +.facebooknude.com
 +.facebookofsex.com
 +.facebookook.com
-+.facebookorld.org
 +.facebookpaper.com
 +.facebookpay.com
 +.facebookphonenumber.net
@@ -9350,7 +9348,6 @@
 +.homestylernews.com
 +.hominis.media
 +.honawalaan.com
-+.honbbs.com
 +.honda
 +.honestpornreviews.com
 +.honeynet.org
@@ -11448,7 +11445,6 @@
 +.leakxxx.com
 +.leancloud.com
 +.leannecrowvideos.com
-+.learnhigiggit.org
 +.learnwithleague.com
 +.leavinghpinc.com
 +.leclerc
@@ -12765,7 +12761,6 @@
 +.mofos.com
 +.mofosex.com
 +.mofosnetwork.com
-+.mofsex.com
 +.mog.com
 +.mohu.club
 +.mohu.rocks
@@ -19091,7 +19086,6 @@
 +.twlegs.com
 +.twline5.com
 +.twnextdigital.com
-+.twomestylerapp.com
 +.twoo.com
 +.twporn.net
 +.twreporter.org
@@ -20066,6 +20060,7 @@
 +.webrtc.org
 +.webrush.net
 +.webs-tv.net
++.websdr.org
 +.websitepulse.com
 +.websnapr.com
 +.webtoons.com
@@ -20792,6 +20787,7 @@
 +.xn--sgt856gbjl.cc
 +.xn--sjqr38j.com
 +.xn--tkry91n.com
++.xn--u2u927b.com
 +.xn--ubt498knmf.com
 +.xn--uis17aj9kmuf.com
 +.xn--w4r85el8fhu5dnra
