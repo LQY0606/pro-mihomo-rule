@@ -465,7 +465,6 @@
 +.ebis.15jikai.com
 +.15tianqi.com
 +.16211973.xyz
-+.ac.dun.163.com
 +.adgeo.163.com
 +.adgeo.corp.163.com
 +.adimg.163.com
@@ -503,7 +502,6 @@
 +.16327739.xyz
 +.qipt.1632j6.cn
 +.163ren.com
-+.ac.dun.163yun.com
 +.ye.dun.163yun.com
 +.165tchuang.com
 +.1668420cbb.com
@@ -12005,6 +12003,7 @@
 +.t.bluehens.com
 +.bluehomework.com
 +.gg.blueidea.com
++.images.go.bluejacketslink.com
 +.bluekai.com
 +.blueknow.com
 +.bluelinknow.com
@@ -18404,6 +18403,7 @@
 +.feedbackws.icloud.com.cn
 +.feih.com.cn
 +.frame.enet.com.cn
++.ftwo-feedback.autohome.com.cn
 +.ftwo-receiver.autohome.com.cn
 +.game.weibo.com.cn
 +.go.hangzhou.com.cn
@@ -29569,7 +29569,6 @@
 +.fttzfw.top
 +.ftvsgjbdbzwip.site
 +.ftwawfsjadhjm.online
-+.ftwo-feedba
 +.cdn.ftwpcn.com
 +.ftz.io
 +.fu-nu-ra.com
@@ -30410,6 +30409,7 @@
 +.cmp.gearupbooster.com
 +.analytics.geastore.com
 +.geatmap.com
++.secureclicks.geaviation.com
 +.gebnzqdxldykl.space
 +.gebpgxeateqns.website
 +.geckad.com
@@ -31527,7 +31527,6 @@
 +.go-rillatrack.com
 +.go-srv.com
 +.go-static.info
-+.images.go.bluejackets
 +.ad.go.com
 +.adimages.go.com
 +.adsatt.espn.go.com
@@ -65574,7 +65573,6 @@
 +.secureanalytic.com
 +.sanalytics.securebanklogin.com
 +.securebreathstuffing.com
-+.secureclicks.geavi
 +.securecloud-dt.com
 +.securecloud-smart.com
 +.secureclouddt-cd.com
