@@ -4855,6 +4855,7 @@
 +.creatwhatsnext.com
 +.crececonebay.com
 +.creditcardsbay.com
++.cri# NAME: Proxy
 +.cricketcountry.com
 +.crisp.chat
 +.cristyli.com
@@ -5328,6 +5329,7 @@
 +.dhlestudio.com.co
 +.diablo3.com
 +.diabloimmortal.com
++.diabrowser.com
 +.dialga.com
 +.dialogflow.com
 +.diamantewebcam.com
@@ -5421,6 +5423,7 @@
 +.directvsports.com
 +.directvsundayticket.com
 +.direectv.com
++.diretv.co
 +.diretv.com
 +.dirty.games
 +.dirtyasiantube.com
@@ -5655,6 +5658,7 @@
 +.domains
 +.domywife.com
 +.donatecarsoh.org
++.donationalerts.com
 +.donga.com
 +.dongtaiwang.com
 +.dongtaiwang.net
@@ -6073,6 +6077,7 @@
 +.ebaydts.com
 +.ebayedu.com
 +.ebayeletro.com
++.ebayenter
 +.ebayenterprise.com
 +.ebayenterprise.info
 +.ebayenterprise.net
@@ -6986,6 +6991,7 @@
 +.fantasticyoungporn.com
 +.fantv.hk
 +.fanyue.info
++.faoft.com
 +.fap-xxx.com
 +.fap18.net
 +.fap666.com
@@ -8070,6 +8076,7 @@
 +.gastrointestinalexam.com
 +.gate-project.com
 +.gate.cc
++.gate.iom
 +.gatecoin.com
 +.gatedata.org
 +.gateimg.com
@@ -8324,6 +8331,7 @@
 +.girlsheaven-job.net
 +.girlsnudepic.com
 +.girlsofdesire.org
++.girlsonginew
 +.girlsongirlstube.com
 +.girlspoopingtube.com
 +.girlssexxxx.com
@@ -8712,6 +8720,7 @@
 +.guangming.org
 +.guangnianvpn.com
 +.guaranitermal.com
++.guardarian.com
 +.guardianapis.com
 +.guardianproject.info
 +.guardster.com
@@ -12311,6 +12320,7 @@
 +.meltoday.com
 +.meme
 +.meme111.com
++.memealerts.com
 +.memehk.com
 +.memorybbs.com
 +.memri.org
@@ -12466,6 +12476,7 @@
 +.microsofttradein.com
 +.microsofttranslator.com
 +.microsoftuwp.com
++.microsprise.tv
 +.microvpn.com
 +.micstl.com
 +.midatlanticbmwmotorcycles.com
@@ -16252,6 +16263,7 @@
 +.rjgsp1.buzz
 +.rk.com
 +.rlczdo.xyz
++.rlstube.com
 +.rlwlw.com
 +.rm2029.com
 +.rmjdw.com
@@ -16471,10 +16483,15 @@
 +.samsung.com
 +.samsungapps.com
 +.samsungcloud.com
++.samsungconsent.com
 +.samsungdm.com
 +.samsunggalaxyfriends.com
++.samsunghealth.com
++.samsungiotcloud.com
 +.samsungknox.com
++.samsungosp.com
 +.samsungqbe.com
++.samsungrs.com
 +.sandisk.com
 +.sandisk.hk
 +.sandscotaicentral.com
@@ -17172,6 +17189,7 @@
 +.siterips.org
 +.siteripz.com
 +.siteripz.net
++.sites.cebook-forum.com
 +.situero.com
 +.six9dy.pw
 +.sixth.biz
