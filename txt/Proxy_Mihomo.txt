@@ -2046,6 +2046,7 @@
 +.autodeskmediarequest.com
 +.autodeskmeetings.com
 +.autodeskmfg.com
++.autodeskmotiongra000webhost.com
 +.autodeskmotiongraphicsandmore.com
 +.autodesknews.com
 +.autodeskonline.com
@@ -4855,7 +4856,6 @@
 +.creatwhatsnext.com
 +.crececonebay.com
 +.creditcardsbay.com
-+.cri# NAME: Proxy
 +.cricketcountry.com
 +.crisp.chat
 +.cristyli.com
@@ -5423,7 +5423,6 @@
 +.directvsports.com
 +.directvsundayticket.com
 +.direectv.com
-+.diretv.co
 +.diretv.com
 +.dirty.games
 +.dirtyasiantube.com
@@ -6077,7 +6076,6 @@
 +.ebaydts.com
 +.ebayedu.com
 +.ebayeletro.com
-+.ebayenter
 +.ebayenterprise.com
 +.ebayenterprise.info
 +.ebayenterprise.net
@@ -6991,7 +6989,6 @@
 +.fantasticyoungporn.com
 +.fantv.hk
 +.fanyue.info
-+.faoft.com
 +.fap-xxx.com
 +.fap18.net
 +.fap666.com
@@ -8076,7 +8073,6 @@
 +.gastrointestinalexam.com
 +.gate-project.com
 +.gate.cc
-+.gate.iom
 +.gatecoin.com
 +.gatedata.org
 +.gateimg.com
@@ -8331,7 +8327,6 @@
 +.girlsheaven-job.net
 +.girlsnudepic.com
 +.girlsofdesire.org
-+.girlsonginew
 +.girlsongirlstube.com
 +.girlspoopingtube.com
 +.girlssexxxx.com
@@ -12476,7 +12471,6 @@
 +.microsofttradein.com
 +.microsofttranslator.com
 +.microsoftuwp.com
-+.microsprise.tv
 +.microvpn.com
 +.micstl.com
 +.midatlanticbmwmotorcycles.com
@@ -14116,6 +14110,7 @@
 +.nyt.net
 +.nytchina.com
 +.nytcn.me
++.nytcn.phicsandmore.com
 +.nytco.com
 +.nytimes.com
 +.nytimg.com
@@ -14947,6 +14942,7 @@
 +.picjs.xyz
 +.pickinguppussy.com
 +.picknicekicks.net
++.pickpackapp.com
 +.pickshoesclothes.com
 +.picnik.com
 +.picpost.com
@@ -16263,7 +16259,6 @@
 +.rjgsp1.buzz
 +.rk.com
 +.rlczdo.xyz
-+.rlstube.com
 +.rlwlw.com
 +.rm2029.com
 +.rmjdw.com
@@ -17189,7 +17184,6 @@
 +.siterips.org
 +.siteripz.com
 +.siteripz.net
-+.sites.cebook-forum.com
 +.situero.com
 +.six9dy.pw
 +.sixth.biz
@@ -18727,6 +18721,7 @@
 +.tortoisesvn.net
 +.torvpn.com
 +.toshiba
++.tospotify.com
 +.total
 +.totalmateria.com
 +.totalvpn.com
