@@ -2046,7 +2046,6 @@
 +.autodeskmediarequest.com
 +.autodeskmeetings.com
 +.autodeskmfg.com
-+.autodeskmotiongra000webhost.com
 +.autodeskmotiongraphicsandmore.com
 +.autodesknews.com
 +.autodeskonline.com
@@ -14110,7 +14109,6 @@
 +.nyt.net
 +.nytchina.com
 +.nytcn.me
-+.nytcn.phicsandmore.com
 +.nytco.com
 +.nytimes.com
 +.nytimg.com
