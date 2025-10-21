@@ -82533,6 +82533,7 @@
 +.c3mini.pandora.xiaomi.com
 +.c4.pandora.xiaomi.com
 +.callback.xmpush.xiaomi.com
++.cdn-exp-sg-recommend.pt.xiaomi.com
 +.cdn.exp.xiaomi.com
 +.cdn.fds-ssl.api.xiaomi.com
 +.cdn.fds.api.xiaomi.com
