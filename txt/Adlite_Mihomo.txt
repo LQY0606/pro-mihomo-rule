@@ -8143,7 +8143,6 @@
 +.fusiontechnology.arrow.com
 +.hptechnology.arrow.com
 +.ibmtechnology.arrow.com
-+.images.connect.ais.arrow.com
 +.images.connect.globalservices.arrow.com
 +.lxlx6p7y.arrow.com
 +.old.globalservices.arrow.com
@@ -18367,6 +18366,7 @@
 +.appdriver.com.cn
 +.applogapi.autohome.com.cn
 +.apppv.zol.com.cn
++.appstore-trace-h5sdk.vivo.com.cn
 +.az.appstore.vivo.com.cn
 +.baidu1.weather.com.cn
 +.baimuyuan.com.cn
@@ -18668,6 +18668,7 @@
 +.tmuseum.com.cn
 +.tongji.techweb.com.cn
 +.toutiao.jxnews.com.cn
++.trace-h5sdk.vivo.com.cn
 +.tracking-adnet.vivo.com.cn
 +.tracking.c.mercedes-benz.com.cn
 +.tracking.m.mercedes-benz.com.cn
@@ -21484,6 +21485,8 @@
 +.u.ddvip.com
 +.dm1.ddwk8.cn
 +.ddwpamlwoneob.space
++.trackercollect.ddxq.mobi
++.trackerfeed.ddxq.mobi
 +.ddzk5l3bd.com
 +.de-mi-nis-ner.info
 +.de-ner-mi-nis4.info
@@ -37179,6 +37182,7 @@
 +.imageadvantage.net
 +.static.img.imagecdn.cn
 +.imagenest.site
++.images.
 +.images9999.com
 +.imageshh.com
 +.imageter.com
@@ -65079,11 +65083,13 @@
 +.metrics.samsclub.com
 +.analytics.bigdata.samsung.com
 +.analytics.mpay.samsung.com
++.api.runestone.samsung.com
 +.bigdata.ssp.samsung.com
 +.bldr.mkt.samsung.com
 +.channelusa.samsung.com
 +.dc.di.atlas.samsung.com
 +.dc.dqa.samsung.com
++.di.runestone.samsung.com
 +.dls-account.di.atlas.samsung.com
 +.dls-ddc.dqa.samsung.com
 +.dls-udc.dqa.samsung.com
@@ -65116,6 +65122,7 @@
 +.samsungacr.com
 +.samsungads.com
 +.samsungallstore.com
++.ureca.samsungapps.com
 +.acr0.samsungcloudsolution.com
 +.prderrordumphsm.samsungcloudsolution.com
 +.devicelog.samsungcloudsolution.net
@@ -78403,6 +78410,7 @@
 +.cname-sin01-stsdk09.vivoglobal.com
 +.co-cota.vivoglobal.com
 +.co-domaincfg.vivoglobal.com
++.co-err-up.vivoglobal.com
 +.co-onrt-stsdk.vivoglobal.com
 +.co-ort-stsdk.vivoglobal.com
 +.co-pnrt-stsdk.vivoglobal.com
@@ -78414,8 +78422,10 @@
 +.co-vcode-od.vivoglobal.com
 +.co-vcode-or.vivoglobal.com
 +.de-gdpr-err-up.vivoglobal.com
++.de-gdpr-vcode-od.vivoglobal.com
 +.err-up.vivoglobal.com
 +.err.up.vivoglobal.com
++.eu-album-api.vivoglobal.com
 +.eu-domaincfg.vivoglobal.com
 +.eu-errup.vivoglobal.com
 +.eu-onrt-stsdk.vivoglobal.com
@@ -78424,6 +78434,7 @@
 +.eu-pnrt-stsdk.vivoglobal.com
 +.eu-romsp-unifyconfig.vivoglobal.com
 +.eu-st-sl.vivoglobal.com
++.eu-stsdk.vivoglobal.com
 +.eu-timesync.vivoglobal.com
 +.eu-vcode-api.vivoglobal.com
 +.eu-vcode-od.vivoglobal.com
@@ -78475,6 +78486,7 @@
 +.kz-st-sl.vivoglobal.com
 +.kz-st-sysupgrade.vivoglobal.com
 +.kz-stsdk.vivoglobal.com
++.kz-timesync.vivoglobal.com
 +.kz-vcode-api.vivoglobal.com
 +.kz-vcode-od.vivoglobal.com
 +.kz-vcode-or.vivoglobal.com
