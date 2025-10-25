@@ -1673,7 +1673,6 @@
 +.ssl.51lhcx.com
 +.51link.com
 +.51maiwanju.com
-+.51mld.cn
 +.51mypc.cn
 +.51network.com
 +.dm.51okc.com
@@ -18567,7 +18566,6 @@
 +.huidakms.com.cn
 +.huishenghuiying.com.cn
 +.hy.huangye88.com.cn
-+.iask.com.cn
 +.idm.api.autohome.com.cn
 +.images.enet.com.cn
 +.images.mkt.zte.com.cn
@@ -18626,6 +18624,7 @@
 +.motu.p4p.sina.com.cn
 +.mstat.zol.com.cn
 +.murroliving.com.cn
++.mwzbp.iask.com.cn
 +.n.baminw.com.cn
 +.news.reedexpo.com.cn
 +.newwiesdom.com.cn
@@ -34681,6 +34680,7 @@
 +.browser-api-vn.heytapmobile.com
 +.browser-api-za.heytapmobile.com
 +.browser-sdk-fr.heytapmobile.com
++.browser-sdk-in.heytapmobile.com
 +.browser-sdk-ru.heytapmobile.com
 +.browserfiles.heytapmobile.com
 +.bsf.sc.heytapmobile.com
@@ -36549,7 +36549,7 @@
 +.iareascebc.life
 +.iasbetaffiliates.com
 +.sc.iasds01.com
-+.iask.cn
++.dd.iask.cn
 +.qiyeb.iaskbus.com
 +.wneia.iaskhot.com
 +.stats.iata.org
@@ -60245,7 +60245,6 @@
 +.adping.qq.com
 +.adpm.app.qq.com
 +.adrdir.qq.com
-+.ads.privacy.qq.com
 +.adsclick.qq.com
 +.adsense.html5.qq.com
 +.adsfile.qq.com
@@ -72078,6 +72077,7 @@
 +.ads-api.tiktok.com
 +.ads-frontier.tiktok.com
 +.ads-jp.tiktok.com
++.ads-service.tiktok.com
 +.ads-sg.tiktok.com
 +.ads-ttp2.us.tiktok.com
 +.ads.tiktok.com
@@ -72292,9 +72292,11 @@
 +.ad-instantpage-ttp2.tiktokv.eu
 +.adinstantpage16-normal-useastred.tiktokv.eu
 +.location-v6-ttp2.tiktokv.eu
++.locationv16-normal-useastred.tiktokv.eu
 +.log32-normal-no1a.tiktokv.eu
 +.mon.tiktokv.eu
 +.rtc-logger-ie.tiktokv.eu
++.rtc-logger16-normal-useastred.tiktokv.eu
 +.rtlog16-normal-no1a.tiktokv.eu
 +.rtlog16-normal-useastred.tiktokv.eu
 +.tnc16-normal-ie.tiktokv.eu
@@ -73343,7 +73345,6 @@
 +.events.data.trafficmanager.net
 +.eventservice.trafficmanager.net
 +.excel-telemetry.wac.trafficmanager.net
-+.fsad.trafficmanager.net
 +.ghochv3eng.trafficmanager.net
 +.glance-analytics.trafficmanager.net
 +.hash.trafficmanager.net
@@ -77637,6 +77638,7 @@
 +.err-up.vivoglobal.com
 +.err.up.vivoglobal.com
 +.eu-album-api.vivoglobal.com
++.eu-cota.vivoglobal.com
 +.eu-domaincfg.vivoglobal.com
 +.eu-errup.vivoglobal.com
 +.eu-onrt-stsdk.vivoglobal.com
@@ -80185,6 +80187,7 @@
 +.rawtelemetry-east.servicebus.windows.net
 +.rawtelemetry-west.servicebus.windows.net
 +.ss-telemetry.servicebus.windows.net
++.swiftanalyticsprod.servicebus.windows.net
 +.targetemsecure.blob.core.windows.net
 +.wayfinderanalytics.servicebus.windows.net
 +.weus2watcab01.blob.core.windows.net
