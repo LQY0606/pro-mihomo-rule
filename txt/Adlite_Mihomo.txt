@@ -479,6 +479,7 @@
 +.bobo.163.com
 +.bobo.corp.163.com
 +.channel.m.163.com
++.clientlog.music.163.com
 +.count.mail.163.com
 +.crash.163.com
 +.crashlytics.163.com
@@ -898,7 +899,9 @@
 +.24newstech.com
 +.m.24pga.cn
 +.dndvms.24s.com
-+.24smi.
++.24smi.info
++.24smi.net
++.24smi.org
 +.24x7adservice.com
 +.24y0c8hek.com
 +.2501may2024.com
@@ -957,7 +960,9 @@
 +.2c5d30b6f1.com
 +.2cba2742a4.com
 +.dgkpzy.2ch2.net
-+.2cnjuh34j
++.2cnjuh34jbman.com
++.2cnjuh34jbpoint.com
++.2cnjuh34jbstar.com
 +.2cnt.net
 +.2cvnmbxnc.com
 +.t.2d-c.cn
@@ -1142,6 +1147,7 @@
 +.huodong.mobilem.360.cn
 +.iad.e.360.cn
 +.leak.360.cn
++.lianmeng.360.cn
 +.mclean.f.360.cn
 +.msg.shouji.360.cn
 +.qstore.inner.api.sj.360.cn
@@ -1661,6 +1667,7 @@
 +.519fa5be1d.com
 +.51ads.com
 +.51chumoping.com
++.gg.51cto.com
 +.logs.51cto.com
 +.eef.51dmn.top
 +.ssf.51dmn.top
@@ -1692,6 +1699,7 @@
 +.m.51t4d.cn
 +.51taifu.com
 +.ad.video.51togic.com
++.customstat.video.51togic.com
 +.51vipedu.com
 +.ad.51wnl-cq.com
 +.ad.51wnl.com
@@ -2794,6 +2802,7 @@
 +.963fc.com
 +.964ka.cn
 +.96679950.xyz
++.bs14.9669.cn
 +.js.9669.cn
 +.9669.com
 +.9679c2b616.com
@@ -3819,7 +3828,6 @@
 +.acxjncpcsmreax.com
 +.aczridptoo.com
 +.aczrxebflhpkx.online
-+.ad
 +.ad-
 +.ad-adapex.io
 +.ad-m.asia
@@ -4218,7 +4226,6 @@
 +.admeridianads.com
 +.admetric.io
 +.admetricspro.com
-+.admicro
 +.admidainsight.com
 +.admin25.com
 +.admin5.com
@@ -4649,7 +4656,7 @@
 +.adsrv.net
 +.adsrv.wtf
 +.adsrv4k.com
-+.adsrvmedia
++.adsrvmedia.com
 +.adsrvr.org
 +.comms.adss.com
 +.adstargeting.com
@@ -5017,7 +5024,10 @@
 +.aeroplaneversion.com
 +.tr.info.aeroportdeauville.com
 +.pzxhyp.aeropostale.com
-+.aeros
++.aeros01.tk
++.aeros02.tk
++.aeros11.tk
++.aeros12.tk
 +.adobeanalytic.aerotek.com
 +.adobeanalytics.aerotek.com
 +.securetags.aeroterra.com
@@ -5839,6 +5849,7 @@
 +.qsearch-a.akamaihd.net
 +.rtxpx-a.akamaihd.net
 +.statictapcdn-a.akamaihd.net
++.supersonicads-a.akamaihd.net
 +.tillertag-a.akamaihd.net
 +.w4o7aea80ss3-a.akamaihd.net
 +.analytics2-3-meride-tv.akamaized.net
@@ -7194,7 +7205,6 @@
 +.analyticswizard.com
 +.analyzecorona.com
 +.analyzee.io
-+.analyzer
 +.analyzz.com
 +.anamaembush.com
 +.anametrix.com
@@ -7799,7 +7809,7 @@
 +.applixir.com
 +.applk.cn
 +.applocus.com
-+.applovin
++.applovin.com
 +.applstr.com
 +.applvn.com
 +.applyless.com
@@ -7835,7 +7845,7 @@
 +.apps1cdn.com
 +.st.appsad.cn
 +.share.appsaround.net
-+.appsflyer
++.appsflyer.com
 +.appslime.com
 +.appsmall.mobi
 +.amp-error-reporting.appspot.com
@@ -13208,7 +13218,8 @@
 +.brtsumthree.com
 +.brtwlhfmomcng.site
 +.app.bruce.work
-+.brucelead
++.brucelead.com
++.bruceleadx1.com
 +.marketing.brucknertruck.com
 +.brugfioaghrv.com
 +.bruinsinapt.digital
@@ -13246,7 +13257,6 @@
 +.bryond.com
 +.brzjthsubtlwj.site
 +.brzvtueeyyqdo.space
-+.bs
 +.m.bs641.cn
 +.bsayrigevm.com
 +.bsaziqhaldzoy.site
@@ -15151,6 +15161,7 @@
 +.learn.centricconsulting.com
 +.centrnotify.com
 +.smetrics.centrum.com
++.usage.centsdonations.com
 +.centumshough.com
 +.info.centurybizsolutions.com
 +.metrics.centurylink.com
@@ -16511,7 +16522,6 @@
 +.clictrck.com
 +.app.clientbook.com
 +.clientgear.com
-+.clientlog
 +.marketing.clientsfirst-us.com
 +.clientslaugh.com
 +.sense.cliexa.com
@@ -16562,7 +16572,6 @@
 +.clkmg.com
 +.clknrtrg.pro
 +.clkrev.com
-+.clkservice
 +.clksite.com
 +.clktds.org
 +.clladss.com
@@ -17083,7 +17092,6 @@
 +.d2e30rravz97d4.cloudfront.net
 +.d2e5x3k1s6dpd4.cloudfront.net
 +.d2e7rsjh22yn3g.cloudfront.net
-+.d2edfzx4ay42og.cloudfront.net
 +.d2ei3pn5qbemvt.cloudfront.net
 +.d2eklqgy1klqeu.cloudfront.net
 +.d2ele6m9umnaue.cloudfront.net
@@ -17876,7 +17884,6 @@
 +.cloudpath82.com
 +.a8cv.control.cloudphotobook.com
 +.cloudpsh.top
-+.cloudservice
 +.collect.cloudsponge.com
 +.info.cloudsteer.com
 +.a8cv.cloudthome.com
@@ -18592,6 +18599,8 @@
 +.count.pcauto.com.cn
 +.count.pcgames.com.cn
 +.count.video.sina.com.cn
++.count5.pconline.com.cn
++.count6.pconline.com.cn
 +.counter.pcauto.com.cn
 +.counter.sina.com.cn
 +.cpro.zol.com.cn
@@ -18617,6 +18626,7 @@
 +.discover.absciex.com.cn
 +.dmp.sina.com.cn
 +.dns.weixin.qq.com.cn
++.domob.com.cn
 +.dopa.com.cn
 +.down10d.zol.com.cn
 +.dsp.hypers.com.cn
@@ -19832,7 +19842,6 @@
 +.councernedasesi.org
 +.counciladvertising.net
 +.councilvomitscarlet.com
-+.count
 +.countabledawdlerunaudited.com
 +.countby.com
 +.countenancedrykeeper.com
@@ -21021,6 +21030,7 @@
 +.d2-apps.net
 +.d24ak3f2b.top
 +.d24fx92qb.com
++.d2edfzx4ay42
 +.d2ship.com
 +.d3d30ac9d4.com
 +.d3edbb478c.com
@@ -23427,7 +23437,9 @@
 +.domitedryas.click
 +.domnlk.com
 +.secure.info.domo.com
-+.domob
++.domob.cn
++.domob.org
++.sm.domobcdn.com
 +.domodomain.com
 +.dompeterapp.com
 +.domslc.com
@@ -23873,6 +23885,9 @@
 +.drnniuaxhvpgz.website
 +.drofcalvous.life
 +.drohlaneh.com
++.log.droid4x.cn
++.mtlog.droid4x.cn
++.nlog.droid4x.cn
 +.drollwharf.com
 +.dronedensate.life
 +.dronishskater.click
@@ -24197,7 +24212,9 @@
 +.metrics.duolingo.com
 +.duologsnecktie.shop
 +.duomai.com
-+.duomeng
++.duomeng.cn
++.duomeng.net
++.duomeng.org
 +.ad.duomi.com
 +.duomilm.com
 +.duopodatingle.shop
@@ -24325,7 +24342,6 @@
 +.vimg.dwstatic.com
 +.qr.dwtc.com
 +.imgict.dwtcmarketing.com
-+.dwtrack
 +.dwvdofpcelstt.site
 +.dwvrkuoyfewin.website
 +.dwyeeunm.com
@@ -27464,7 +27480,6 @@
 +.ezzwechiiewt.com
 +.f-counter.net
 +.f-hgwmesh.buzz
-+.f-log
 +.f-tra.com
 +.f0b02e7c3f.com
 +.f0d5add3ea.com
@@ -27956,6 +27971,8 @@
 +.a8clk.fc-mado.com
 +.js.fc090.com
 +.fc09u3zfm.com
++.analyzer.fc2.com
++.analyzer2.fc2.com
 +.counter1.fc2.com
 +.fc3ppv.xyz
 +.fc5d7c4624.com
@@ -28943,7 +28960,8 @@
 +.stats.flightsphere.com
 +.flighttraditional.com
 +.flighty.win
-+.flightzy.
++.flightzy.date
++.flightzy.win
 +.flimsy-beat.com
 +.flimsycircle.com
 +.flimsydepth.pro
@@ -29768,7 +29786,10 @@
 +.freeadultcomix.com
 +.freebiesurveys.com
 +.freebloghitcounter.com
-+.freecontent.
++.freecontent.date
++.freecontent.science
++.freecontent.stream
++.freecontent.win
 +.freeconverter.io
 +.freecounter.ovh
 +.freecountercode.com
@@ -32690,6 +32711,10 @@
 +.marketing.gramener.com
 +.gnar.grammarly.com
 +.treatment.grammarly.com
++.f-log-at.grammarly.io
++.f-log-extension.grammarly.io
++.f-log-mobile-ios.grammarly.io
++.f-log-test.grammarly.io
 +.femetrics.grammarly.io
 +.gramombird.com
 +.sadbmetrics.granadablogs.com
@@ -32953,7 +32978,6 @@
 +.griwourtadoothe.net
 +.grizzledcourage.pro
 +.grjqvelblmzmu.website
-+.grjs0
 +.grknnolhmwypkn.com
 +.grmciysmhnyaj.site
 +.grmtas.com
@@ -35912,7 +35936,9 @@
 +.sstats.hostelworld.com
 +.partners.hostgator.com
 +.hostileconductive.com
-+.hostingcloud.
++.hostingcloud.racing
++.hostingcloud.trade
++.hostingcloud.win
 +.hostip.info
 +.hostolhg.com
 +.ignore.hot-bbw-tube.com
@@ -37330,7 +37356,6 @@
 +.ifkyco.icu
 +.iflfnermnmnhj.space
 +.iflucav.icu
-+.iflyad.
 +.log.iflytek.com
 +.logconf.iflytek.com
 +.ifmccdn.icu
@@ -41003,7 +41028,7 @@
 +.jsgo979.com
 +.jshilr.icu
 +.jshonghuadq.com
-+.jshosting.
++.jshosting.win
 +.ao.jsitel.com
 +.jsiygcyzrhg.club
 +.jsjs.pro
@@ -42195,6 +42220,8 @@
 +.marketing.kingsiii.com
 +.abroad-ad.kingsoft-office-service.com
 +.bannera.kingsoft-office-service.com
++.cloudservice13.kingsoft-office-service.com
++.cloudservice27.kingsoft-office-service.com
 +.rating6.kingsoft-office-service.com
 +.counter.kingsoft.com
 +.up.wps.kingsoft.com
@@ -44413,7 +44440,7 @@
 +.dig.lianjia.com
 +.lianka.cn
 +.lianle.com
-+.lianmeng
++.lianmeng.com
 +.lianova.space
 +.lianwangtech.com
 +.dm.lianzhixiu.com
@@ -45311,7 +45338,6 @@
 +.smetrics.loft.com
 +.loftedcarlish.world
 +.dd.lofujj.com
-+.log
 +.log-report.com
 +.log.
 +.logaholic.com
@@ -49281,6 +49307,11 @@
 +.app.innovate.molex.com
 +.moleya.click
 +.molikrebaumt.xyz
++.ad.molitv.cn
++.adlog.molitv.cn
++.log.molitv.cn
++.log1.molitv.cn
++.log2.molitv.cn
 +.track.molitv.cn
 +.log.tv.moliv.cn
 +.mollified.top
@@ -53918,7 +53949,7 @@
 +.oiuiybsfqfmyd.site
 +.oivlvkwuwlssr.website
 +.oivzkyesgwkqh.site
-+.oiwjcsh
++.oiwjcsh001.top
 +.oiycak.com
 +.oiyhpucamolav.website
 +.oiylclkpohspa.space
@@ -54677,6 +54708,8 @@
 +.itv2-up.openspeech.cn
 +.scs.openspeech.cn
 +.openstat.net
++.iflyad.bj.openstorage.cn
++.iflyad.bjb.openstorage.cn
 +.ads2.opensubtitles.org
 +.openswim.pro
 +.o.opentable.com
@@ -54694,8 +54727,13 @@
 +.opentracker.net
 +.openvenue.com
 +.openweb.bid
-+.openx
++.openx.net
 +.samsungtv-d.openx.net
++.openxadexchange.com
++.openxcdn.net
++.openxenterprise.com
++.openxmarket.asia
++.openxt.cn
 +.adx.opera.com
 +.operakeyboardhindsight.com
 +.operaserver.com
@@ -55618,7 +55656,6 @@
 +.m.oyrim.com
 +.xxjiqg.oysho.com
 +.sstats.oyster.com
-+.stats.oyster.com
 +.oysterbywordwishful.com
 +.oyudmaizidpnx.space
 +.oyuluswjqnpzr.site
@@ -57282,7 +57319,6 @@
 +.pingclock.net
 +.secure-stats.pingdom.com
 +.pingdom.net
-+.pingfore
 +.gg86.pinggu.org
 +.img50.pingguolv.com
 +.pic50.pingguolv.com
@@ -59788,7 +59824,8 @@
 +.pusishegre.com
 +.pusleyrwound.top
 +.pussiesactives.shop
-+.pussl
++.pussl3.com
++.pussl48.com
 +.pussy-pics.net
 +.pussyeatingclub.com
 +.pusure.com
@@ -59802,7 +59839,8 @@
 +.putrescentpremonitionspoon.com
 +.putrescentsacred.com
 +.putrid-meal.pro
-+.putrr
++.putrr16.com
++.putrr7.com
 +.putteecirculi.shop
 +.tracking.puustelli.com
 +.puuush.me
@@ -60349,6 +60387,7 @@
 +.qichexin.com
 +.qidfamogebcku.space
 +.cj.qidian.com
++.dwtrack.qidian.com
 +.game.qidian.com
 +.o.if.qidian.com
 +.path.qidian.com
@@ -60804,6 +60843,7 @@
 +.p2pupgrade.gamedl.qq.com
 +.p3.l.qq.com
 +.pcm-img.zhls.qq.com
++.pingfore.qq.com
 +.pingjs.qq.com
 +.pingma.qq.com
 +.pingmid.qq.com
@@ -65432,8 +65472,8 @@
 +.scyvqhcehstpt.top
 +.ed.sczhilong.cn
 +.statscollector.sd-rtn.com
-+.sda
 +.sdadarotfnhoy.website
++.eo.sdagxz.xyz
 +.m.sdaih.com
 +.sdaiv.com
 +.sdamcsb.top
@@ -65471,6 +65511,7 @@
 +.sdnc.top
 +.aa.sdo.com
 +.adrs.sdo.com
++.dwtracking.sdo.com
 +.reportsk.web.sdo.com
 +.snyu.sdo.com
 +.t.sdpaji.com
@@ -65713,6 +65754,7 @@
 +.sehiba.com
 +.sehjwenicsjrc.site
 +.sehlicegxy.com
++.usage.seibert-media.io
 +.smetrics.seic.com
 +.seigewakiup.click
 +.hxbgxi.seikousa.com
@@ -67933,7 +67975,7 @@
 +.chrooo.soccerandrugby.com
 +.hiuplq.soccerstand.com
 +.socde.com
-+.socdm
++.socdm.com
 +.social-discovery.io
 +.social-sb.com
 +.social-touch.com
@@ -69267,6 +69309,7 @@
 +.smetrics.statnews.com
 +.statorkumyk.com
 +.statowl.com
++.stats
 +.stats2.com
 +.stats21.com
 +.stats4all.com
@@ -70008,7 +70051,7 @@
 +.target.sunlifeglobalinvestments.com
 +.uhmpda.sunlocation.com
 +.sunmediaads.com
-+.sunnimiq
++.sunnimiq.cf
 +.sunnshele.com
 +.sunny-club.pro
 +.sunny-membership.pro
@@ -70100,7 +70143,7 @@
 +.doclec.supersmart.com
 +.supersonic.com
 +.invite.supersonic.run
-+.supersonicads
++.supersonicads.com
 +.superspeedapp.com
 +.yajkhd.supersports.com
 +.superstat.info
@@ -70199,7 +70242,7 @@
 +.surveyonline.top
 +.surveyscout.com
 +.surveywriter.com
-+.survicate.com
++.survica
 +.app.suse.com
 +.stats.sushibyte.io
 +.susianulidia.com
@@ -75717,7 +75760,10 @@
 +.t.griztix.umt.edu
 +.app.umterps.com
 +.t.umterps.com
-+.umtrack
++.umtrack.com
++.umtrack0.com
++.umtrack1.com
++.umtrack2.com
 +.umtudo.com
 +.umugsyfnbzvou.com
 +.ebis.umulin-lab.com
@@ -76426,7 +76472,6 @@
 +.usable-march.pro
 +.usablenet.com
 +.iabgvi.usadosbr.com
-+.usage
 +.cnameebis.usagi-online.com
 +.dptgdj.usagi-online.com
 +.ssc.usagm.gov
@@ -77223,7 +77268,8 @@
 +.veezljzkrjkbz.top
 +.veezljzkrjmwq.top
 +.vegaingi.com
-+.vegaoo
++.vgo.vegaoo.com
++.vgo.vegaoopro.com
 +.vegaschina.cn
 +.pages.feedback.vegasgoldenknights.com
 +.om.vegasmeansbusiness.com
@@ -78474,7 +78520,7 @@
 +.vmjjzk.cn
 +.vmjr.cn
 +.vmlrxs.top
-+.vmm-satellite
++.vmm-satellite1.com
 +.vmmcdn.com
 +.vmmolyvnnzgnl.top
 +.vmmpxl.com
@@ -78672,7 +78718,8 @@
 +.volunteerrelievegrateful.com
 +.metrics.volusion.com
 +.smetrics.volusion.com
-+.voluumtrk
++.voluumtrk.com
++.voluumtrk3.com
 +.webstats.volvoce.com
 +.webstats.volvoit.com
 +.images.performance.volvotrucks.com
@@ -79208,7 +79255,7 @@
 +.info.wafergen.com
 +.wafflesquaking.com
 +.wafflestee.com
-+.wafmedia
++.wafmedia6.com
 +.wagatibruet.com
 +.wagejustifieddoze.com
 +.wagepicturesque.com
@@ -80526,6 +80573,8 @@
 +.wijphyfu.com
 +.wijqnlrjczisx.space
 +.wijrejzkekuvy.site
++.ad-channel.wikawika.xyz
++.ad-display.wikawika.xyz
 +.wikgojdk.bar
 +.wikia-beacon.com
 +.beacon.wikia-services.com
@@ -84279,6 +84328,9 @@
 +.youboranqs01.com
 +.youcandrawanything.com
 +.a.youdao.com
++.clkservice.mail.youdao.com
++.clkservice.youdao.com
++.clkservice2.dict.youdao.com
 +.conv.youdao.com
 +.corp.youdao.com
 +.gorgon.youdao.com
