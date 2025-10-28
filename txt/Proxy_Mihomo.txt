@@ -1,3 +1,4 @@
++.-tokapi.com
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -567,6 +568,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -5081,6 +5083,7 @@
 +.dalailamaquotes.org
 +.dalailamatrust.org
 +.dalailamaworld.com
++.dalailamtnam.com
 +.dalianmeng.org
 +.daliulian.org
 +.damduc.org
@@ -5198,6 +5201,7 @@
 +.deeper.com
 +.deepfake-porn.com
 +.deepfakeporn.net
++.deepflood.com
 +.deepfreeze.com
 +.deepfreeze.net
 +.deepfreeze.tech
@@ -8324,7 +8328,6 @@
 +.giffgaff.design
 +.gifnuki.com
 +.gifree.com
-+.gig+.aaa
 +.gigabyte.com
 +.gigacircle.com
 +.giganews.com
@@ -16516,6 +16519,7 @@
 +.sakya.org
 +.sale-nikeshoes.com
 +.salebeatslasteststyle4you.com
++.saleblackfridainaustralia.org
 +.saleblackfridaydrebeats.com
 +.salecheaphandbags.com
 +.salesforce.com
@@ -18613,6 +18617,7 @@
 +.tig-ol-bitties.live
 +.tigervpn.com
 +.tik-tokapi.com
++.tik.com
 +.tiktok.com
 +.tiktokcdn-eu.com
 +.tiktokcdn-us.com
@@ -19681,6 +19686,7 @@
 +.vimeostatus.com
 +.vimperator.org
 +.vincnd.com
++.vincndaydrebeats.com
 +.vine.co
 +.vinniev.com
 +.vintage-erotica-forum.com
@@ -20968,6 +20974,7 @@
 +.xshaker.net
 +.xshr.online
 +.xsijishe.com
++.xsijishe.net
 +.xskywalker.com
 +.xskywalker.net
 +.xslist.org
