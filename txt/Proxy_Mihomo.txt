@@ -567,6 +567,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1069,7 +1070,6 @@
 +.alibabacloud.com
 +.alibabacloud.com.hk
 +.alicloud.com
-+.alie000webhost.com
 +.aliengu.com
 +.alienware.biz
 +.alienware.com
@@ -1682,7 +1682,6 @@
 +.applestore.net
 +.applestore.wang
 +.applestoreonline.com
-+.applestoreprodeskonline.com
 +.applesurveys.com
 +.appleswift.com
 +.appletaiwan.com
@@ -2594,7 +2593,6 @@
 +.beatsbydrecustomwireless.com
 +.beatsbydrecybermondaydeals2013.com
 +.beatsbydrecybermondaydeals2013.net
-+.beatsbydrecybities.com
 +.beatsbydredanmarks.com
 +.beatsbydredealsblackfriday.com
 +.beatsbydredealscybermonday.com
@@ -3701,7 +3699,6 @@
 +.business-humanrights.org
 +.business.site
 +.businesscatalyst.com
-+.businesscove-blackcountry
 +.businessinsider.com
 +.businesswebwise.com
 +.businessweek.com
@@ -7035,7 +7032,6 @@
 +.fapporn.me
 +.faproulette.co
 +.faproulette.online
-+.faproulette.onlineermondaydeals2013.com
 +.faproxy.com
 +.fapsafari.com
 +.fapteencam.com
@@ -9603,7 +9599,6 @@
 +.hplfmedia.com
 +.hplip.net
 +.hplipopensource.com
-+.hplrockettube.com
 +.hpmarketplace.com
 +.hpmemorychips.com
 +.hpmicrcartridge.com
@@ -10270,7 +10265,6 @@
 +.insiderintelligence.com
 +.insidevoa.com
 +.insight.tech
-+.insorg
 +.instaadder.com
 +.instabang.com
 +.instachecker.com
@@ -11166,7 +11160,6 @@
 +.karger.com
 +.karinahart.com
 +.karkhung.com
-+.karlajames..rest
 +.karlajames.com
 +.karmapa-teachings.org
 +.karmapa.org
@@ -11623,7 +11616,6 @@
 +.lighti.me
 +.lightnovel.cn
 +.lightxxxtube.com
-+.lightyearman.net
 +.lightyearvpn.com
 +.lihkg.com
 +.lihksnap.com
@@ -12185,7 +12177,6 @@
 +.masseffectarchives.com
 +.mastercad.com
 +.mastercard-email.com
-+.mastercard.+.aaa
 +.mastercard.com
 +.mastercard.com.co
 +.mastercard.com.hk
@@ -18098,7 +18089,6 @@
 +.tacem.org
 +.tachusz.xyz
 +.tafm.org
-+.tagify.com
 +.tagwalk.com
 +.taiav.com
 +.tail-f.com
@@ -19078,7 +19068,6 @@
 +.tw.hao123.com
 +.tw.iqiyi.com
 +.tw.weibo.com
-+.tw01.ipopensource.com
 +.tw01.org
 +.tw985.com
 +.twaitter.com
@@ -19927,7 +19916,6 @@
 +.voyeurweb.com
 +.vpejey.xyz
 +.vpn.cjb.net
-+.vpn.com
 +.vpn.net
 +.vpn4all.com
 +.vpnaccount.org
