@@ -14413,6 +14413,19 @@
 +.capaciousdrewreligion.com
 +.capacitygrid.com
 +.capcap621.cn
++.log-boot.capcutapi.com
++.log-sg.capcutapi.com
++.log16-normal-sg.capcutapi.com
++.log16-normal.capcutapi.com
++.log32-normal-sg.capcutapi.com
++.log32-normal.capcutapi.com
++.mcs-normal-sg.capcutapi.com
++.mon-boot.capcutapi.com
++.mon-sg.capcutapi.com
++.mon16-normal-sg.capcutapi.com
++.mon32-normal-sg.capcutapi.com
++.pc-mon-boot.capcutapi.com
++.pc-mon-normal-sg.capcutapi.com
 +.tnc-boot.capcutapi.com
 +.tnc-sg.capcutapi.com
 +.tnc-va-us-looki.capcutapi.com
@@ -73062,6 +73075,7 @@
 +.tiktokcdn1.xyz
 +.stats.tiktoker.win
 +.log-snssdk.tiktokv-us.com
++.ad-instantpage-ru.tiktokv.com
 +.ad-instantpage-sg.tiktokv.com
 +.ad-instantpage-va.tiktokv.com
 +.ad.tiktokv.com
