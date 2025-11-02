@@ -567,7 +567,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -3090,6 +3089,7 @@
 +.bitterwinter.org
 +.bittrex.com
 +.bitvise.com
++.bitwa+.aaa
 +.bitwarden.com
 +.bitwarden.net
 +.bizarresexuality.com
@@ -3571,6 +3571,7 @@
 +.briantreepayments.net
 +.briantreepayments.tv
 +.bridgebim.com
++.bridges.rexroth
 +.bridgestone
 +.bridgestone-asiapacific.com
 +.bridgestone-bandag.com
@@ -4449,6 +4450,7 @@
 +.citrixandautodesk.com
 +.city-hentai.com
 +.city9x.com
++.cityainaustralia.org
 +.cityheaven.net
 +.citylab.com
 +.cityoflove.com
@@ -5082,6 +5084,7 @@
 +.dalailamaquotes.org
 +.dalailamatrust.org
 +.dalailamaworld.com
++.dalailamnet.com.hk
 +.dalianmeng.org
 +.daliulian.org
 +.damduc.org
@@ -10154,6 +10157,7 @@
 +.imkev.com
 +.imlive.co
 +.imlive.com
++.immersivetranslate.com
 +.immidio.com
 +.immxd.com
 +.imod.com
@@ -16275,7 +16279,6 @@
 +.revver.com
 +.rewrite-anime.tv
 +.rexcha.com
-+.rexroth
 +.rexxx.org
 +.rfa.org
 +.rfachina.com
@@ -18265,6 +18268,7 @@
 +.tellmewhygame.com
 +.temasek
 +.temetube.xyz
++.temu.com
 +.tenacy.com
 +.tenbyfotolia.com
 +.tencent.com.hk
@@ -18721,6 +18725,7 @@
 +.tomsguide.com
 +.tomshardware.com
 +.tonec.com
++.tonerewards.com
 +.tonicmovies.com
 +.tonyyan.net
 +.toodoc.com
