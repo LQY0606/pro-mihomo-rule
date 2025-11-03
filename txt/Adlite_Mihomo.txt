@@ -597,7 +597,6 @@
 +.h2.18sd.cn
 +.daima1.18tzx.com
 +.titi.18tzx.com
-+.190
 +.19009143.xyz
 +.190b1f9880.com
 +.e.1919388.net
@@ -2440,6 +2439,7 @@
 +.cdn.810236.com
 +.810251.com
 +.bpts.8111216.cn
++.m1.81312.com
 +.8131889.com
 +.815ss.cn
 +.8162f6c343.com
@@ -3039,7 +3039,6 @@
 +.a9562f872f.com
 +.a9684972c2.com
 +.a9v8.cn
-+.aa-metrics.hokench
 +.images.cargomarketing.email.aa.com
 +.metrics.aa.com
 +.smetrics.aa.com
@@ -6292,6 +6291,7 @@
 +.connect.api.almirall.com
 +.almlvydsmcinw.website
 +.almoneraugite.com
++.19035924.automated.almosafer.com
 +.19035924.email.almosafer.com
 +.19035924.loyalty.almosafer.com
 +.19035924.mktg.almosafer.com
@@ -10253,7 +10253,7 @@
 +.bea7r.com
 +.beach-vacation.site
 +.smetrics.beachbody.com
-+.beachinfinite
++.beachinfinitegag.com
 +.marketing.beachleymedical.com
 +.beachlinkz.com
 +.beaconadnetwork.com
@@ -11916,7 +11916,7 @@
 +.bonzai.ad
 +.boo-box.com
 +.boobausauhipsa.net
-+.boobbounds.c
++.boobbounds.com
 +.boodaisi.xyz
 +.boodiebankers.shop
 +.boodybasalt.com
@@ -34193,6 +34193,7 @@
 +.hojwzmimfnadl.space
 +.a8.hoken-connect.com
 +.a8cv.hoken-laundry.com
++.aa-metrics.hokench.com
 +.a8.hokengarden.com
 +.app.hokiesports.com
 +.t.hokiesports.com
@@ -45382,6 +45383,7 @@
 +.manageshalfmoonaccess.com
 +.managetroubles.com
 +.manamoment.com
++.marketing.manchesterspecialty.com
 +.manconsider.com
 +.zdbbqb.mancrates.com
 +.smetrics.mandai.com
@@ -45564,7 +45566,6 @@
 +.marketgid.com
 +.markethealth.com
 +.tracking.markethero.io
-+.marketing.manchesterspecia
 +.marketingcloudfx.com
 +.marketing.marketinggeneral.com
 +.marketizator.com
