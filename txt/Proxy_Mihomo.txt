@@ -567,7 +567,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -2591,6 +2590,7 @@
 +.beatsbydrecheaponlinesales.com
 +.beatsbydrecolors.com
 +.beatsbydrecustomwireless.com
++.beatsbydrecyb+.aaa
 +.beatsbydrecybermondaydeals2013.com
 +.beatsbydrecybermondaydeals2013.net
 +.beatsbydredanmarks.com
@@ -6406,6 +6406,7 @@
 +.eriversoft.com
 +.erktv.com
 +.erlang.org
++.ermondaydeals2013.com
 +.ernestmandel.org
 +.erni
 +.ero-anime.net
@@ -7218,6 +7219,7 @@
 +.fi11.com
 +.fi11av1.com
 +.fi11tv1.com
++.ficbook.net
 +.ficeboock.com
 +.fictionmania.tv
 +.fidelity
@@ -8308,6 +8310,8 @@
 +.ggoogle.com
 +.ggpds.com
 +.ggpht.com
++.ggsel.com
++.ggsel.net
 +.ggsrv.com
 +.ggssl.com
 +.gh
