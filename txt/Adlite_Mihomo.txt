@@ -3021,6 +3021,7 @@
 +.a9562f872f.com
 +.a9684972c2.com
 +.a9v8.cn
++.aa.
 +.images.cargomarketing.email.aa.com
 +.metrics.aa.com
 +.smetrics.aa.com
@@ -4274,7 +4275,6 @@
 +.lp.hol15.demoamericas275.adobe.com
 +.lp.hol16.demoamericas275.adobe.com
 +.lp.hol17.demoamericas275.adobe.com
-+.lp.hol18.demoamericas275.adobe.com
 +.lp.hol19.demoamericas275.adobe.com
 +.lp.hol2.demoamericas275.adobe.com
 +.lp.hol20.demoamericas275.adobe.com
@@ -14181,7 +14181,6 @@
 +.cdafsilizdoqm.website
 +.cdauseplnacwd.website
 +.cdb4bd7cb1.com
-+.cdbgmj12.com
 +.cdbnx5.com
 +.cdbqhsjaornka.website
 +.cnzz.cdbsoi.com
