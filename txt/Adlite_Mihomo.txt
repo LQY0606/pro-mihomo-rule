@@ -46102,6 +46102,7 @@
 +.marketgid.com
 +.markethealth.com
 +.tracking.markethero.io
++.marketing
 +.marketingcloudfx.com
 +.marketing.marketinggeneral.com
 +.marketizator.com
