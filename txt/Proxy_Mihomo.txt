@@ -2318,6 +2318,7 @@
 +.baby-kingdom.com
 +.babycondom.com
 +.babylonbee.com
++.babylonharperapps.com
 +.babynet.com.hk
 +.babyzone.com
 +.backchina.com
@@ -3486,7 +3487,6 @@
 +.boulx.com
 +.boundhub.com
 +.bountyhunterporn.com
-+.bournemouthansurge.run
 +.bowenpress.com
 +.bowlroll.net
 +.bowsersinsidestory.com
@@ -4642,6 +4642,7 @@
 +.code1984.com
 +.codeberg.org
 +.codecademy.com
++.codeforces.co
 +.codeforces.com
 +.codeish.co
 +.codeplex.com
@@ -6179,6 +6180,7 @@
 +.ebookbrowse.com
 +.ebookee.com
 +.ebookforipad.com
++.ebpantswalker.net
 +.ebsco.com
 +.ebscohost.com
 +.ebtcbank.com
@@ -11189,6 +11191,7 @@
 +.karupspc.com
 +.kaspersky-labs.com
 +.kaspersky.com
++.kaspersky.com.hk
 +.kastatic.org
 +.katestube.com
 +.kavkazr.com
@@ -11617,6 +11620,7 @@
 +.libgen.me
 +.liboggirls.net
 +.library.lol
++.library.usc.cu.com
 +.libraryinformationtechnology.com
 +.librarylovefest.com
 +.libraryofthumbs.com
@@ -11959,6 +11963,7 @@
 +.lyzsxx.com
 +.lzjscript.com
 +.lzmtnews.org
++.m
 +.m-power.com
 +.m-team.cc
 +.m.me
@@ -16673,6 +16678,7 @@
 +.schwabassetmanagement.com
 +.schwabplan.com
 +.schwarz
++.sci
 +.sci-hub.mksa.top
 +.sci.hubg.org
 +.science.com
@@ -18620,6 +18626,7 @@
 +.tibetgermany.com
 +.tibethaus.com
 +.tibetheritagefund.org
++.tibethouse.ohk.edu.hk
 +.tibethouse.org
 +.tibetinfonet.net
 +.tibetjustice.org
@@ -19705,6 +19712,7 @@
 +.vilavpn5.xyz
 +.vilavpn6.xyz
 +.vilavpn7.xyz
++.vilibus.cc
 +.vim.org
 +.vimeo-staging.com
 +.vimeo-staging2.com
