@@ -1723,7 +1723,6 @@
 +.52xiyou.com
 +.52zdm.com
 +.a.52zxw.com
-+.app.financialinstitutions.53.com
 +.app.payments.53.com
 +.contactus.53.com
 +.eloqua.53.com
@@ -7448,7 +7447,7 @@
 +.apgpaphuksz.com
 +.apharponloun.com
 +.aphealxgt.net
-+.apheekoudoastuh.com
++.apheekoudoastuh
 +.asg.aphex.me
 +.aphizogelleck.click
 +.aphnutate.click
@@ -13691,6 +13690,7 @@
 +.creative.camonade.com
 +.camonster.com
 +.camouque.net
++.cf.campagnes-france.com
 +.campaigncog.com
 +.app.campaignhero.ai
 +.campaignlook.com
@@ -19688,6 +19688,7 @@
 +.crocodail-dandy.com
 +.b8ms7gkwq7g.crocotube.com
 +.metrics.crocs.com
++.smetrics.crocs.com
 +.smetrics.crocs.eu
 +.croea.com
 +.crolerl.com
@@ -50511,6 +50512,7 @@
 +.naivewithdrawal.com
 +.naivtyu.icu
 +.naixanshihdj.com
++.pytxsn.najlacnejsisport.s
 +.najmgqfwacvln.website
 +.najva.com
 +.nakedanalytics.net
@@ -67950,7 +67952,6 @@
 +.smecticburping.click
 +.smellyredirect.click
 +.smenqskfmpfxnb.bid
-+.smetrics.
 +.smglvclyfsfbt.website
 +.smgru.net
 +.smheyshqkrwms.online
@@ -81549,7 +81550,7 @@
 +.winneradequateablebodied.com
 +.winneradsmedia.com
 +.winnersolutions.net
-+.winni
++.winningsposh.world
 +.winnye.com
 +.winonascards.com
 +.winopcozdnpa.com
@@ -81912,7 +81913,7 @@
 +.smetrics.wnetwork.com
 +.wnffvyjs.com
 +.wnfjdlpeo.com
-+.wng
++.wngegvxrgpsvm.site
 +.wnguqkeiiicpt.site
 +.wnifhkhtpemse.space
 +.wniqvgtjbfcouq.com
