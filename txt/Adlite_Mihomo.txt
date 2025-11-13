@@ -1723,6 +1723,7 @@
 +.52xiyou.com
 +.52zdm.com
 +.a.52zxw.com
++.app.financialinstitutions.53.com
 +.app.payments.53.com
 +.contactus.53.com
 +.eloqua.53.com
@@ -7300,15 +7301,7 @@
 +.anysad.pro
 +.anysdk.com
 +.anysize.pro
-+.adx-bj-req.anythinktech.com
-+.adx-bj.anythinktech.com
-+.adx-cn.anythinktech.com
-+.adx-os.anythinktech.com
-+.api.anythinktech.com
-+.cn-api.anythinktech.com
-+.da.anythinktech.com
-+.datk.anythinktech.com
-+.tk.anythinktech.com
++.anythinktech.com
 +.anytimebananarecoil.com
 +.anytimespurt.com
 +.anytrack.io
@@ -7447,7 +7440,7 @@
 +.apgpaphuksz.com
 +.apharponloun.com
 +.aphealxgt.net
-+.apheekoudoastuh
++.apheekoudoastuh.com
 +.asg.aphex.me
 +.aphizogelleck.click
 +.aphnutate.click
@@ -50512,7 +50505,6 @@
 +.naivewithdrawal.com
 +.naivtyu.icu
 +.naixanshihdj.com
-+.pytxsn.najlacnejsisport.s
 +.najmgqfwacvln.website
 +.najva.com
 +.nakedanalytics.net
