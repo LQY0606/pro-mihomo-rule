@@ -20044,6 +20044,7 @@
 +.w-pool.com
 +.w.org
 +.w.wiki
++.w000webhost.com
 +.w0512.com
 +.w3.org
 +.w3s.link
