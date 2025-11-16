@@ -19248,6 +19248,7 @@
 +.data.digital.costco.com
 +.data.orders.costco.com
 +.data.trx.costco.com
++.metrics.costco.com
 +.smetrics.costco.com
 +.subscriptions.costco.com
 +.metrics.costcobusinessdelivery.com
@@ -24498,7 +24499,6 @@
 +.edxymyepu.com
 +.m.edysn.cn
 +.edyurliw.top
-+.ee
 +.ee035.cn
 +.ee5.icu
 +.eecd.xyz
@@ -37502,7 +37502,6 @@
 +.infnexhjihlxyhf.xyz
 +.tr.info-btob-leaders.com
 +.info-paiement-relais.com
-+.info.ortecfinance
 +.eloqua.infobip.com
 +.images.infofreddiemac.com
 +.s.infogram.com
@@ -41223,6 +41222,7 @@
 +.client-log.karte.io
 +.karthliunstagy.com
 +.bee.kascend.com
++.a8-affiliate.kase3535.com
 +.kasgge.icu
 +.kashimtrichi.click
 +.panda.kasika.io
@@ -47819,7 +47819,6 @@
 +.metricode.com
 +.metricool.com
 +.sc.metrics-shell.com
-+.metrics.
 +.metrics.io
 +.metrics0.com
 +.metricsdirect.com
@@ -55189,6 +55188,7 @@
 +.orssgypxniykf.space
 +.campaigns.ortec.com
 +.event.ortec.com
++.info.ortecfinance.com
 +.orterderemill.com
 +.orthiteflexion.life
 +.wxgmca.orthofeet.com
@@ -65174,6 +65174,7 @@
 +.s3s-main.net
 +.pb.s3wfg.com
 +.pixel.s3xified.com
++.ee.s47e8.cn
 +.m.s47e8.cn
 +.events.s4long.com
 +.s4y6lhotaw.com
@@ -83754,7 +83755,6 @@
 +.union1.xiaojianjian.net
 +.xiaomeihq.info
 +.xiaomengquan.cn
-+.shenghuo.xiaomi.
 +.11-c3.bigdata.ctc.neo.xiaomi.com
 +.5-c3.bigdata.ctc.neo.xiaomi.com
 +.a.market.xiaomi.com
@@ -83895,6 +83895,7 @@
 +.sentry.be.xiaomi.com
 +.sentry.pay.xiaomi.com
 +.sgp-api.xmpush.global.xiaomi.com
++.shenghuo.xiaomi.com
 +.shoes.app-xae.xiaomi.com
 +.shop.pandora.xiaomi.com
 +.ssp.xiaomi.com
