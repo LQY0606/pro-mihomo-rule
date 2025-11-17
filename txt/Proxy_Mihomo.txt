@@ -577,6 +577,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -994,7 +995,6 @@
 +.akahost.net
 +.akaint.net
 +.akam.net
-+.akama+.aaa
 +.akamaa.com
 +.akamah.com
 +.akamai-access.com
@@ -10106,7 +10106,6 @@
 +.igvita.com
 +.ihakka.net
 +.ihao.org
-+.ihd-staging.net
 +.iherb.com
 +.ihsd-mp4.pics
 +.ihsdav.cc
