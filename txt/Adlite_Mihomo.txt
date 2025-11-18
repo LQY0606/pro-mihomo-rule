@@ -21031,6 +21031,7 @@
 +.marketing.deepcrawl.com
 +.deeperregardingcontend.com
 +.deepintent.com
++.deeplinkdev.
 +.deeplygumssandwich.com
 +.deeplypishtennisscale.com
 +.deepmetrix.com
@@ -73833,6 +73834,7 @@
 +.uniregistry.com
 +.popup-static.unisender.com
 +.images.learn.unisourceworldwide.com
++.lyypsy.unisportstore.s
 +.icmakp.united-arrows.tw
 +.united-infos.net
 +.cltxxq.cruises.united.com
@@ -74155,7 +74157,6 @@
 +.logs.upnono.com
 +.upnoqulclouar.space
 +.upodaitie.net
-+.deeplinkdev.upoker.net
 +.deeplinkuat.upoker.net
 +.i.upoker.net
 +.s.upoker.net
