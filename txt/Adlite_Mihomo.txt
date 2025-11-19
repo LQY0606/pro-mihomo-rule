@@ -21031,7 +21031,6 @@
 +.marketing.deepcrawl.com
 +.deeperregardingcontend.com
 +.deepintent.com
-+.deeplinkdev.
 +.deeplygumssandwich.com
 +.deeplypishtennisscale.com
 +.deepmetrix.com
@@ -25870,6 +25869,7 @@
 +.euwdsqkrxwhwu.online
 +.euxwrrtbbo.xyz
 +.euz.net
++.ev
 +.tr.ev001.net
 +.discover.evaluate.com
 +.branchio.services.evaneos.com
@@ -32929,7 +32929,6 @@
 +.j.hbwcl.com
 +.hbwenyllyunbsxn.com
 +.hbwrapper.com
-+.hbxhpqsociiwc.space
 +.hbxmdf.icu
 +.hbxpjlbmhffda.space
 +.hbygyhcgjvclv.online
@@ -35855,7 +35854,7 @@
 +.g.ieeod0.com
 +.ieerpxkwfqplf.com
 +.weld.iefsf.com
-+.track.iegcom.com
++.track.iegcom.
 +.iegrozrmvgjfp.online
 +.iehbhejfnetvc.site
 +.smetrics.iehp.org
@@ -57454,7 +57453,6 @@
 +.push.delivery
 +.push.world
 +.push1000.com
-+.push1000.top
 +.push1001.com
 +.push1005.com
 +.push2check.com
@@ -59443,7 +59441,7 @@
 +.rashcolonizeexpand.com
 +.rashlyblowfly.com
 +.rashogrisy.com
-+.rashseedlingexpenditure.com
++.rashseedlingexpenditu
 +.rashweekend.pro
 +.app.learn.rasmussen.edu
 +.application.rasmussen.edu
@@ -69980,7 +69978,6 @@
 +.event.thermoscientific.cn
 +.event.thermoscientific.com
 +.event1.thermoscientific.com
-+.event3.thermoscientific.com
 +.image.thermoscientific.com
 +.info.thermoscientific.com
 +.info1.thermoscientific.com
@@ -73834,7 +73831,6 @@
 +.uniregistry.com
 +.popup-static.unisender.com
 +.images.learn.unisourceworldwide.com
-+.lyypsy.unisportstore.s
 +.icmakp.united-arrows.tw
 +.united-infos.net
 +.cltxxq.cruises.united.com
@@ -74157,6 +74153,7 @@
 +.logs.upnono.com
 +.upnoqulclouar.space
 +.upodaitie.net
++.deeplinkdev.upoker.net
 +.deeplinkuat.upoker.net
 +.i.upoker.net
 +.s.upoker.net
