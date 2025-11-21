@@ -10235,6 +10235,7 @@
 +.baiducom.bj.bcebos.com
 +.cms-image.cdn.bcebos.com
 +.cocojen.cdn.bcebos.com
++.cpu-baidu-com-block.cdn.bcebos.com
 +.dd713.bj.bcebos.com
 +.dingbu.bj.bcebos.com
 +.fc-feed.cdn.bcebos.com
@@ -11948,7 +11949,6 @@
 +.z1.bohuaqiche.com
 +.z2.bohuaqiche.com
 +.boidaedamara.click
-+.boiledegglabs.com
 +.boilingbeetle.com
 +.boilingcredit.com
 +.boilingmadsoup.com
@@ -19352,7 +19352,6 @@
 +.smetrics.cpsenergy.com
 +.marketing.cpsi.com
 +.cpsqqqgynbdjv.online
-+.cpu-baidu-com-block.cdn
 +.cpueaimrtggmd.space
 +.cpufan.club
 +.cpuim.com
@@ -51065,6 +51064,7 @@
 +.tr.account.np6.com
 +.tr.communication.np6.com
 +.tr.customer-solutions.np6.com
++.tr.demo.np6.com
 +.tr.digitalacademy.np6.com
 +.tr.info.np6.com
 +.tr.mktg.np6.com
@@ -63892,7 +63892,7 @@
 +.sentinelp.com
 +.sentinelpro.com
 +.marketing.sentirlabs.com
-+.sentry-cdn.t
++.sentry-cdn.top
 +.sentry.io
 +.sentrymagic.com
 +.senzari.com
