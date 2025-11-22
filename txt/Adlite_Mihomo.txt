@@ -2988,6 +2988,7 @@
 +.advertising.a2z.com
 +.bugsnag-event.monitor.core.app.alexa.a2z.com
 +.bugsnag-session.monitor.core.app.alexa.a2z.com
++.bugsnag.appstore.a2z.com
 +.forester.a2z.com
 +.insights.video.a2z.com
 +.minerva.devices.a2z.com
@@ -3979,6 +3980,7 @@
 +.adfrontiers.com
 +.adfsda005.xyz
 +.adfunds.org
++.adfunlink.com
 +.adfusion.com
 +.adfuture.cn
 +.adgainersolutions.com
@@ -6660,6 +6662,8 @@
 +.vfw-us-west.amazon-adsystem.com
 +.vfw-us.amazon-adsystem.com
 +.vfw.amazon-adsystem.com
++.vfwm.amazon-adsystem.com
++.vfws.amazon-adsystem.com
 +.vq-eu-west-1.amazon-adsystem.com
 +.vq-fe-us-west-2.amazon-adsystem.com
 +.vq-test-us-east-1.amazon-adsystem.com
@@ -11006,7 +11010,7 @@
 +.bidsxchange.com
 +.bidtheatre.com
 +.bidtimize.com
-+.c.bidtoolads.com
++.bidtoolads.com
 +.m.biduo.cc
 +.cn.bidushe.com
 +.bidvance.com
@@ -11949,6 +11953,7 @@
 +.z1.bohuaqiche.com
 +.z2.bohuaqiche.com
 +.boidaedamara.click
++.boiledegglabs.com
 +.boilingbeetle.com
 +.boilingcredit.com
 +.boilingmadsoup.com
@@ -38516,10 +38521,7 @@
 +.japaneseexceedinglysanctuary.com
 +.japbdpdmazimj.club
 +.japishbaetyl.click
-+.conn-v2.samsung.japps.cn
 +.japps.cn
-+.report-v2.samsung.japps.cn
-+.sis-v2.samsung.japps.cn
 +.japw.cloud
 +.jaqhbfzeufxgp.online
 +.jaqvwdzjuhebs.site
@@ -47137,7 +47139,6 @@
 +.srv.sec.miui.com
 +.staging-notify.sec.miui.com
 +.stat.miui.com
-+.static.geek.miui.com
 +.streamback.ff.avast.sec.miui.com
 +.testit.miui.com
 +.tracking.eu.miui.com
@@ -68729,6 +68730,7 @@
 +.takingbackjuly.com
 +.yddtah.takingshape.com
 +.a8clk.takken-job.com
++.takuad.com
 +.talaropa.com
 +.marketing.talbot-promo.com
 +.ctlayn.talbots.com
@@ -71061,6 +71063,7 @@
 +.toazdkl.top
 +.tobaccosturgeon.com
 +.tobaltoyon.com
++.tobidad.com
 +.tobipovsem.com
 +.toboads.com
 +.toc.io
@@ -71251,6 +71254,7 @@
 +.topnewsgo.com
 +.topodat.info
 +.topofblogs.com
++.toponad.com
 +.topperformance.xyz
 +.otx23nu6rzon.prep.toppers.com
 +.toppleunit.com
@@ -78205,6 +78209,7 @@
 +.citrixanalyticseh-alias.servicebus.windows.net
 +.citrixanalyticseh.servicebus.windows.net
 +.citrixanalyticseh2-alias.servicebus.windows.net
++.citrixanalyticseh2.servicebus.windows.net
 +.citrixanalyticsehaps-alias.servicebus.windows.net
 +.citrixanalyticsehaps.servicebus.windows.net
 +.citrixanalyticseheu-alias.servicebus.windows.net
@@ -79804,6 +79809,7 @@
 +.global-ad-intl-pri-alisgp.alb.xiaomi.com
 +.globalvideo.cdn.pandora.intl.xiaomi.com
 +.gstat.pandora.xiaomi.com
++.h5-ru.video.intl.xiaomi.com
 +.hd.xiaomi.com
 +.heyue.xiaomi.com
 +.hook.gitv.pandora.xiaomi.com
@@ -79865,6 +79871,7 @@
 +.ru-feedback.xmpush.global.xiaomi.com
 +.ru-register.xmpush.global.xiaomi.com
 +.ru.feedback.xmpush.global.xiaomi.com
++.ru.video.intl.xiaomi.com
 +.ruvideo.cdn.pandora.intl.xiaomi.com
 +.sandbox.xmpush.xiaomi.com
 +.sdkconfig.ad.eu.xiaomi.com
@@ -79921,7 +79928,6 @@
 +.tz.sec.xiaomi.com
 +.upgrade.pandora.xiaomi.com
 +.userid.xiaomi.com
-+.video.intl.xiaomi.com
 +.video.market.xiaomi.com
 +.vip-api.xmpush.global.xiaomi.com
 +.vip-api.xmpush.xiaomi.com
