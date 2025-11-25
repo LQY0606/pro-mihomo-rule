@@ -35483,7 +35483,6 @@
 +.hurkarubypaths.com
 +.hurra.com
 +.hurriedlyslumremiss.com
-+.photography.hursey.com
 +.hurtful-job.com
 +.hurtfullong.pro
 +.hurtgrape.com
@@ -59565,7 +59564,7 @@
 +.quarreljaggedloathe.com
 +.quarrelsome-black.pro
 +.quarrelsome-development.com
-+.quarrelsome-serve.pro
++.quarrelsome-ser
 +.quarterbackchangeless.com
 +.quarterlybeyond.com
 +.quarterlybeyond.pro
@@ -62535,6 +62534,7 @@
 +.rtkfpbarlsef.com
 +.rtkndlpcwprqp.online
 +.rtlfqocrotlhz.website
++.rtlog16-normal-useastrinelp.com
 +.rtmark.net
 +.rtmfpocimwjsf.online
 +.rtmhrrydflggue.net
@@ -64275,6 +64275,7 @@
 +.sensorsdata.cn
 +.sensualsheilas.com
 +.marketing.sensysgatso.com
++.sent
 +.sentencecarry.com
 +.sentenceinformedveil.com
 +.metrics.sentido.com
@@ -64285,7 +64286,6 @@
 +.sentinelbi.com
 +.marketing.sentinelgroup.com
 +.sentinelol.com
-+.sentinelp.com
 +.sentinelpro.com
 +.marketing.sentirlabs.com
 +.sentry-cdn.top
@@ -64948,7 +64948,6 @@
 +.tracker.shopclues.com
 +.speedtrap.shopdirect.com
 +.sw88.shopdisney.asia
-+.sw88.shopdisney.eu
 +.xdcpfs.shopdoen.com
 +.spigte.shopee.tw
 +.connect.shopezrentals.com
@@ -71103,7 +71102,7 @@
 +.rtc-logger-ie.tiktokv.eu
 +.rtc-logger16-normal-useastred.tiktokv.eu
 +.rtlog16-normal-no1a.tiktokv.eu
-+.rtlog16-normal-useastred.tiktokv.eu
++.sw88.shopdisneyed.tiktokv.eu
 +.tnc16-normal-ie.tiktokv.eu
 +.tnc16-normal-no1a.tiktokv.eu
 +.tnc16-normal-useastred.tiktokv.eu
@@ -76295,7 +76294,6 @@
 +.in-ctdbonrt-stsdk.vivoglobal.com
 +.in-ctdbort-stsdk.vivoglobal.com
 +.in-ctdbpnrt-stsdk.vivoglobal.com
-+.in-ctdbprt-stsdk.vivoglobal.com
 +.in-domaincfg.vivoglobal.com
 +.in-errup.vivoglobal.com
 +.in-ex-adlog.vivoglobal.com
@@ -76346,6 +76344,7 @@
 +.mx-vcode-or.vivoglobal.com
 +.onrt-stsdk.vivoglobal.com
 +.ort-stsdk.vivoglobal.com
++.phot.vivoglobal.com
 +.pnrt-stsdk.vivoglobal.com
 +.prt-stsdk.vivoglobal.com
 +.ro-up.vivoglobal.com
