@@ -578,6 +578,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1354,7 +1355,6 @@
 +.ancensored.com
 +.anchorfree.com
 +.ancsconf.org
-+.and
 +.andfaraway.net
 +.android
 +.android-x86.org
@@ -4035,7 +4035,6 @@
 +.cbart.net
 +.cbn
 +.cbre
-+.cbs
 +.cbs.com
 +.cbsaavideo.com
 +.cbscorporation.com
@@ -9842,7 +9841,6 @@
 +.hung-ya.com
 +.hungerstrikeforaids.org
 +.hungryclit.com
-+.huob+.aaa
 +.huobi.co
 +.huobi.com
 +.huobi.me
@@ -9896,7 +9894,6 @@
 +.i-o-u.info
 +.i-scmp.com
 +.i.jeded.com
-+.i.me
 +.i.org
 +.i1.hk
 +.i234.me
@@ -12340,11 +12337,9 @@
 +.mc
 +.mcadforums.com
 +.mcafee.com
-+.mcd
 +.mcd.com
 +.mcdindia.com
 +.mcdindonesia.com
-+.mcdonalds
 +.mcdonalds-online.com
 +.mcdonalds.com
 +.mcdonalds.com.hk
@@ -17233,7 +17228,6 @@
 +.shotwithgeforce.com
 +.showhaotu.com
 +.shownote.com
-+.showtime
 +.showtime.com
 +.showtimeanytime.com
 +.showup.tv
@@ -18500,7 +18494,6 @@
 +.thegithubshop.com
 +.thegly.com
 +.thegooglestore.com
-+.theguardian
 +.theguardian.com
 +.theguardiandns.com
 +.thehabibshow.com
