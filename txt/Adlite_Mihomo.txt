@@ -33812,6 +33812,7 @@
 +.marketing.hellomedia.com
 +.marketing.helloposition.com
 +.hellosherpa.com
++.on.hellostake.com
 +.brc.hellotalk.com
 +.hellounbox.com
 +.uwxdru.hellovillam.com
@@ -61680,6 +61681,7 @@
 +.resteddiabetepocket.com
 +.info.restek.com
 +.t.restek.com
++.restfultools.com
 +.restlesscompeldescend.com
 +.metric.restockit.com
 +.metrics.restockit.com
@@ -63003,7 +63005,6 @@
 +.rtkfpbarlsef.com
 +.rtkndlpcwprqp.online
 +.rtlfqocrotlhz.website
-+.rtlog16-normal-useastrtv
 +.rtmark.net
 +.rtmfpocimwjsf.online
 +.rtmhrrydflggue.net
@@ -63731,7 +63732,6 @@
 +.samsungads.com
 +.samsungallstore.com
 +.ureca.samsungapps.com
-+.acr-in-prd.samsungcloud.
 +.acr0.samsungcloudsolution.com
 +.prderrordumphsm.samsungcloudsolution.com
 +.devicelog.samsungcloudsolution.net
@@ -71592,6 +71592,7 @@
 +.rtc-logger-ie.tiktokv.eu
 +.rtc-logger16-normal-useastred.tiktokv.eu
 +.rtlog16-normal-no1a.tiktokv.eu
++.rtlog16-normal-useastred.tiktokv.eu
 +.tnc16-normal-ie.tiktokv.eu
 +.tnc16-normal-no1a.tiktokv.eu
 +.tnc16-normal-useastred.tiktokv.eu
