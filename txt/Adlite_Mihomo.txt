@@ -1721,7 +1721,6 @@
 +.market.52pk.com
 +.un.52rkl.cn
 +.adm.52swine.com
-+.m.52tushuo.com
 +.52xiyou.com
 +.52zdm.com
 +.a.52zxw.com
@@ -45260,6 +45259,7 @@
 +.sk-sanasport.m-shop.me
 +.sk-topgal.m-shop.me
 +.m-t.io
++.m.52tushu
 +.m0mentum.net
 +.m0rsq075u.com
 +.m17d1e83q.com
