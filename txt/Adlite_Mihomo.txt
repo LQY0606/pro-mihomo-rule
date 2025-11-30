@@ -13710,7 +13710,7 @@
 +.app.calbears.com
 +.t.calbears.com
 +.applink.calciumhealth.com
-+.calcpol.com
++.calcp
 +.calculatingcircle.com
 +.calculatingequal.pro
 +.calculatingimagination.pro
@@ -28318,7 +28318,7 @@
 +.fkku194.com
 +.e.fkogs.com
 +.m.fkogs.com
-+.fkoixuuzbvklu.online
++.fkoixuuzbvklu.onlin
 +.fkojwcmyymgjt.online
 +.fkondate.com
 +.fkqwhiyfckztp.site
@@ -30185,7 +30185,6 @@
 +.images8.gaotie.cn
 +.metrics.gap.com
 +.metrics.gap.eu
-+.securemetrics.gap.eu
 +.gapcontroversialprodigal.com
 +.gappoison.com
 +.gaptooju.net
@@ -65016,6 +65015,7 @@
 +.secureleadsforever.com
 +.secureleadsrn.com
 +.securely-send.com
++.securem
 +.data.securemetrics-apple.com
 +.securepaths.com
 +.app.secureprivacy.ai
