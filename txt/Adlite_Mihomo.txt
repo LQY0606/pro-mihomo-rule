@@ -50723,7 +50723,7 @@
 +.nativegram.com
 +.nativepu.sh
 +.nativery.com
-+.nativespot.c
++.nativespot.com
 +.nativesprivately.com
 +.nativesubscribe.pro
 +.info.natlenvtrainers.com
@@ -77902,6 +77902,7 @@
 +.app.smart.vivint.com
 +.sslmetrics.vivint.com
 +.vivistats.com
++.ads-api.vivo.com
 +.bhwkju.vivo.com
 +.vivocha.com
 +.asia-abeacdataonrt-stsdk.vivoglobal.com
@@ -78114,6 +78115,7 @@
 +.tr-weather.vivoglobal.com
 +.xn-ex-adreq-asa-c5b.vivoglobal.com
 +.zasc-cota.vivoglobal.com
++.zasc-vcode-od.vivoglobal.com
 +.vixentycckwtz.buzz
 +.viyouhui.com
 +.sstats.vizergy.com
