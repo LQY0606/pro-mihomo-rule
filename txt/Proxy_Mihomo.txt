@@ -578,7 +578,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -2886,6 +2885,7 @@
 +.bestvpn.com
 +.bestvpnanalysis.com
 +.bestvpnforchina.net
++.bestvpns+.aaa
 +.bestvpnserver.com
 +.bestvpnservice.com
 +.bestvpnusa.com
@@ -6513,6 +6513,7 @@
 +.eroxia.com
 +.eroyakuba.com
 +.ertk.net
++.erver.com
 +.es
 +.es-visiontimes.com
 +.esbeatsbydrebuy.com
