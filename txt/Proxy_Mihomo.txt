@@ -578,6 +578,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -2885,7 +2886,6 @@
 +.bestvpn.com
 +.bestvpnanalysis.com
 +.bestvpnforchina.net
-+.bestvpns+.aaa
 +.bestvpnserver.com
 +.bestvpnservice.com
 +.bestvpnusa.com
@@ -3222,6 +3222,7 @@
 +.bloomsburydesignlibrary.com
 +.blowjobit.com
 +.blowjobqueens.net
++.blox.com
 +.blpcareers.com
 +.blpevents.com
 +.blpprofessional.com
@@ -6513,7 +6514,6 @@
 +.eroxia.com
 +.eroyakuba.com
 +.ertk.net
-+.erver.com
 +.es
 +.es-visiontimes.com
 +.esbeatsbydrebuy.com
@@ -7992,7 +7992,6 @@
 +.full:vsmarketplacebadge.apphb.com
 +.full:wetv.qq.com
 +.full:widgets.stripst.com
-+.full:ztedevices.com
 +.fulldesisex.com
 +.fullerconsideration.com
 +.fullfuli.com
@@ -8515,6 +8514,8 @@
 +.gobeatsye.com
 +.gobet.cc
 +.gobianywhere.com
++.goblocks.com
++.goblox.com
 +.gobuildx.net
 +.gobuyonlinestore.net
 +.gockhuatviet.com
@@ -8572,6 +8573,7 @@
 +.gonzo-movies.com
 +.gonzo.com
 +.goo
++.gooblox.com
 +.good-gay.com
 +.good.news
 +.gooday.xyz
@@ -9842,6 +9844,7 @@
 +.huluteam.com
 +.hulutv.com
 +.huluusa.com
++.humancoexperience.com
 +.humanparty.me
 +.humanrightsbriefing.org
 +.humanrightspressawards.org
@@ -16163,6 +16166,8 @@
 +.rbeuroinfo.com
 +.rbgrads.com
 +.rbgraduates.com
++.rblx.co
++.rblx.com
 +.rblx.org
 +.rbmavericks.com
 +.rbnainternational.com
@@ -16172,6 +16177,9 @@
 +.rbspeakup.com
 +.rbx.com
 +.rbxcdn.com
++.rbxinfra.net
++.rbxlabs.com
++.rbxtrk.com
 +.rcl07.xyz
 +.rclon.com
 +.rd.com
@@ -16426,12 +16434,20 @@
 +.rmjdw.com
 +.rmjdw132.info
 +.ro
++.ro-blox.com
 +.ro89.com
 +.road-crew.com
++.roadblocks.com
 +.roadshow.hk
++.roblocks.com
 +.roblox-api.arkoselabs.co
++.roblox-api.arkoselabs.com
++.roblox.cc
 +.roblox.com
++.roblox.net
++.roblox.org
 +.roblox.qq.com
++.roblox.tv
 +.robloxlabs.com
 +.robobat.com
 +.roboforex.com
@@ -16480,6 +16496,8 @@
 +.roughman.net
 +.routerboard.com
 +.routledgehandbooks.com
++.rowblocks.com
++.rowblox.com
 +.royalcams.com
 +.royalsocietypublishing.org
 +.rpglogs.com
