@@ -44717,6 +44717,7 @@
 +.adb-analytics.live-now.com
 +.fsqwdj.live-tennis.eu
 +.tx-p2p-pull.live-voip.com
++.aec-visio-telemetry.officeapps.live.com
 +.analytics.live.com
 +.auc-visio-telemetry.officeapps.live.com
 +.brc-visio-telemetry.officeapps.live.com
@@ -49900,6 +49901,8 @@
 +.t-ring-fallback-s2.msedge.net
 +.t-ring-fallback.msedge.net
 +.t-ring-fallbacks1.msedge.net
++.t-ring-fallbacks2.msedge.net
++.t-ring-fdv2.msedge.net
 +.t-ring-s.msedge.net
 +.t-ring-s2.msedge.net
 +.t-ring.msedge.net
@@ -63999,10 +64002,6 @@
 +.methodofpay-ads.web.roku.com
 +.pixel.staging.web.roku.com
 +.pixel.web.roku.com
-+.ravm-qa-e.data.roku.com
-+.ravm-qa-w.data.roku.com
-+.ravm-staging-e.data.roku.com
-+.ravm-staging-w.data.roku.com
 +.ravm-staging.data.roku.com
 +.samples.voice.cti.roku.com
 +.traces-us-east-1.dev.sr.roku.com
@@ -72941,6 +72940,7 @@
 +.ads-service.tiktok.com
 +.ads-sg.tiktok.com
 +.ads-ttp2.us.tiktok.com
++.ads-useast2a.tiktok.com
 +.ads.tiktok.com
 +.ads.us.tiktok.com
 +.analytics-attribution-va.tiktok.com
@@ -82728,7 +82728,6 @@
 +.mibi.xiaomi.com
 +.micloudevents.preview.n.xiaomi.com
 +.milink.pandora.xiaomi.com
-+.mina.xmpush.xiaomi.com
 +.misc.pandora.xiaomi.com
 +.mishop.cdn.pandora.xiaomi.com
 +.mishop.pandora.xiaomi.com
