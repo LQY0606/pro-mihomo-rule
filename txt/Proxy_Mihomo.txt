@@ -1765,6 +1765,7 @@
 +.archiveofourown.org
 +.archlinux.org
 +.archlinuxarm.org
++.arcraiders.com
 +.arctosia.com
 +.area120.com
 +.areca-backup.org
@@ -6325,6 +6326,8 @@
 +.eltondisney.com
 +.emaga.com
 +.emanna.com
++.embark-studios.com
++.embark.games
 +.embase.com
 +.embed-cdn.com
 +.embedly.com
@@ -6911,6 +6914,8 @@
 +.faceid99.com
 +.faceid99.net
 +.faceidglobal.com
++.faceit-cdn.net
++.faceit.com
 +.faceless.me
 +.faceobk.com
 +.faceobok.com
@@ -16195,6 +16200,7 @@
 +.rea.tech
 +.reabble.com
 +.reachporn.com
++.reachthefinals.com
 +.reachtheworldonfacebook.com
 +.react.com
 +.reactjs.com
@@ -16440,7 +16446,6 @@
 +.roadblocks.com
 +.roadshow.hk
 +.roblocks.com
-+.roblox-api.arkoselabs.co
 +.roblox-api.arkoselabs.com
 +.roblox.cc
 +.roblox.com
