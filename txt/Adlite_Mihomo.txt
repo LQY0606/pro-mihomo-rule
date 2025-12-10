@@ -17671,7 +17671,6 @@
 +.cnzzlink.com
 +.a8clk.cart.co-heart.com
 +.lebtpm.co-medical.com
-+.eltex.co.j
 +.co5457chu.com
 +.co85264.com
 +.metrics.coach.com
@@ -29965,6 +29964,7 @@
 +.gameads.io
 +.gameanalytics.com
 +.img.gamebookers.com
++.simg.gamebookers.com
 +.gamecps.com
 +.analytics.gamedatacrunch.com
 +.trk.gamedeveloper.com
