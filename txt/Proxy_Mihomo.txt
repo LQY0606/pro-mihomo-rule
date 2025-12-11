@@ -15270,6 +15270,9 @@
 +.pogo.com
 +.pogobeta.com
 +.pohl
++.poi.icu
++.poi6.net
++.poihub.com
 +.points-media.com
 +.poisontube.com
 +.pojapp.cfd
@@ -15797,6 +15800,7 @@
 +.profilemaster.com
 +.profreeporno.com
 +.progressive
++.project-poi.com
 +.project-syndicate.org
 +.projectapex.com
 +.projectara.com
