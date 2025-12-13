@@ -3935,8 +3935,8 @@
 +.addelive.com
 +.addf375bbe.com
 +.addfreestats.com
++.addict
 +.addictedattention.com
-+.addictedfastestgasp.com
 +.addictrelive.com
 +.addinginstancesroadmap.com
 +.addinto.com
@@ -6713,6 +6713,7 @@
 +.vfw-eu-gamma.amazon-adsystem.com
 +.vfw-eu.amazon-adsystem.com
 +.vfw-gamma.amazon-adsystem.com
++.vfw-us-gamma.amazon-adsystem.com
 +.vfw-us-west-gamma.amazon-adsystem.com
 +.vfw-us-west.amazon-adsystem.com
 +.vfw-us.amazon-adsystem.com
@@ -10852,7 +10853,7 @@
 +.dd.betano.com
 +.betarget.com
 +.betazebra.com
-+.beteemsheeves.digital
++.beteems
 +.beterrakionan.com
 +.ads.betfair.com
 +.out.betforce.io
@@ -17173,7 +17174,6 @@
 +.d3tfeohk35h2ye.cloudfront.net
 +.d3tfz9q9zlwk84.cloudfront.net
 +.d3tjml0i5ek35w.cloudfront.net
-+.d3tnmn8yxiwfkj.cloudfront.net
 +.d3tozt7si7bmf7.cloudfront.net
 +.d3u0wd7ppfhcxv.cloudfront.net
 +.d3u598arehftfk.cloudfront.net
@@ -43921,7 +43921,6 @@
 +.liangao.com
 +.liangpinge.com
 +.liangsbeflea.shop
-+.dig.lianjia.com
 +.lianka.cn
 +.lianle.com
 +.lianmeng.com
@@ -53118,7 +53117,6 @@
 +.odqfitju.com
 +.odqqtpfcatzbl.website
 +.odspjksksgqxx.website
-+.oduauledfalmc.online
 +.app.odusports.com
 +.odvazhfsnswns.online
 +.odxh.cn
@@ -67797,7 +67795,7 @@
 +.gas-sensing.spec-sensors.com
 +.marketing.specgradeled.com
 +.special-offers.online
-+.special-promotions.online
++.special-promotios
 +.trk.specialevents.com
 +.link.lead-out-app-staging.specialized.com
 +.link.lead-out-app.specialized.com
@@ -72044,10 +72042,13 @@
 +.tnc19-normal-ie.tiktokv.eu
 +.tnc19-normal-no1a.tiktokv.eu
 +.tnc19-normal-useastred.tiktokv.eu
++.xlog16-normal-no1a.tiktokv.eu
++.rtlog16-normal-useast8.tiktokv.u
 +.ads-ie.tiktokw.eu
 +.ads-ttp2.tiktokw.eu
 +.analytics-ie.tiktokw.eu
 +.analytics-ttp2.tiktokw.eu
++.analytics16-normal-no1a.tiktokw.eu
 +.analytics16-normal-useastred.tiktokw.eu
 +.mcs-ie.tiktokw.eu
 +.mcs-ie2.tiktokw.eu
@@ -81426,6 +81427,7 @@
 +.xiaomeihq.info
 +.xiaomengquan.cn
 +.11-c3.bigdata.ctc.neo.xiaomi.com
++.3rdupgrade.pandora.xiaomi.com
 +.5-c3.bigdata.ctc.neo.xiaomi.com
 +.a.market.xiaomi.com
 +.a.union.xiaomi.com
