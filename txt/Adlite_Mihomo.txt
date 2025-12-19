@@ -3311,7 +3311,6 @@
 +.m.abeij.com
 +.abelestheca.com
 +.smetrics.abercrombie.cn
-+.metrics.abercrombie.com
 +.smetrics.abercrombie.com
 +.smetrics.abercrombiekids.com
 +.images.response.aberdeenstandard.com
@@ -6147,7 +6146,6 @@
 +.c.alimama.com
 +.cpc.click.alimama.com
 +.p.alimama.com
-+.static.alimama.com
 +.t.alimama.com
 +.tr.news.alinea.com
 +.tr.satisfaction.alinea.com
@@ -10033,7 +10031,6 @@
 +.newads.bangbros.com
 +.bangdom.com
 +.appanalysis.banggood.com
-+.bi.banggood.com
 +.collect.banggood.com
 +.dc.banggood.com
 +.lntvby.banggood.com
@@ -11197,6 +11194,7 @@
 +.fei232.bhzje7ua9.com
 +.smetrics.bi-connect.com
 +.smetrics.bi-vetmedica.com
++.bi.banggood
 +.bi205u0cx.com
 +.biabfqq.icu
 +.biakvwhahqeto.site
@@ -64706,6 +64704,7 @@
 +.rzxirmnqefyfm.website
 +.rzxxflvdnvtws.vip
 +.rzzwgowiotgft.online
++.s
 +.s-adzone.com
 +.a8cv.s-darts.com
 +.aa-metrics.s-lms.net
@@ -64764,6 +64763,7 @@
 +.s8x1.com
 +.news.s9377.com
 +.s99i.org
++.sa
 +.stats.sa-as.com
 +.sa909.com
 +.marketing.saa.com
@@ -64925,7 +64925,6 @@
 +.client-logger.beta.salemove.com
 +.client-logger.salemove.com
 +.allpass.salemwebnetwork.com
-+.sales-frontier.com
 +.analytics.salesanalytics.io
 +.acms.saleseos.com
 +.branch-4567w2a56q-test.salesfloor.net
@@ -66813,6 +66812,7 @@
 +.links.go.shoretel.com
 +.shorgaurtosaft.net
 +.withyou.shorr.com
++.short.afgruppen
 +.shortagedissatisfaction.com
 +.shortcutacheless.com
 +.analytics.shorte.st
