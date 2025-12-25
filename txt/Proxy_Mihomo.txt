@@ -579,7 +579,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -11312,6 +11311,7 @@
 +.karmapa.org
 +.karupsha.com
 +.karupspc.com
++.kas+.aaa
 +.kaspersky-labs.com
 +.kaspersky.com
 +.kaspersky.com.hk
@@ -13719,6 +13719,7 @@
 +.neoforged.net
 +.neotokyo.supertop-100.com
 +.neowin.net
++.nephobox.com
 +.nepusoku.com
 +.nerdnudes.com
 +.nervanasys.com
