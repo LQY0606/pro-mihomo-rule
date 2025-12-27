@@ -6917,7 +6917,6 @@
 +.mads-eu.amazon.com
 +.mads-fe.amazon.com
 +.mads.amazon.com
-+.rcm-images.amazon.com
 +.rcm.amazon.com
 +.smetrics.afpjobs.amazon.com
 +.smetrics.flex.amazon.com
@@ -62376,7 +62375,6 @@
 +.tbsone.imtt.qq.com
 +.tcss.qq.com
 +.tdc.qq.com
-+.tdid.m.qq.com
 +.tj.b.qq.com
 +.tj.video.qq.com
 +.tmead.y.qq.com
@@ -69590,6 +69588,7 @@
 +.gecko-lq.snssdk.com
 +.gecko.snssdk.com
 +.haohuo.snssdk.com
++.i.snssdk.com
 +.ic.snssdk.com
 +.log-hl.snssdk.com
 +.log-lf.snssdk.com
