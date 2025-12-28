@@ -1567,6 +1567,7 @@
 +.appget.com
 +.appl-e.com
 +.appl.com
++.appl000webhost.com
 +.appl4e.com
 +.appla.com
 +.apple
@@ -4301,6 +4302,7 @@
 +.cherrysave.com
 +.chhongbi.org
 +.chianxv.buzz
++.chicaff.com
 +.chicagolandbmw.com
 +.chicagoncmtv.com
 +.chicksonblackdicks.com
@@ -5353,6 +5355,7 @@
 +.destinationbim.com
 +.detaliczny.com
 +.detentiongirls.com
++.dettoereach.com
 +.dettol-prize.com
 +.dettol.com
 +.dettol.com.hk
@@ -8378,6 +8381,7 @@
 +.gfw.press
 +.gfw.report
 +.gfwatch.org
++.gfwbao.com
 +.gfwlist.end
 +.gfwlist.start
 +.gfycat.com
@@ -8408,6 +8412,7 @@
 +.giantessnight.com
 +.giffgaff.com
 +.giffgaff.design
++.giffgarnsites.guide
 +.gifnuki.com
 +.gifree.com
 +.gigabyte.com
@@ -11365,6 +11370,7 @@
 +.keytransparency.org
 +.kfh
 +.kg
++.kgoncmtv.com
 +.kgslb.com
 +.kh
 +.khabdha.org
@@ -18006,6 +18012,7 @@
 +.steamdb.info
 +.steamdeck.com
 +.steamgames.com
++.steamladder.com
 +.steamofporn.com
 +.steampowered.com
 +.steamserver.net
