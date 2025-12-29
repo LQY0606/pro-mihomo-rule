@@ -1567,7 +1567,6 @@
 +.appget.com
 +.appl-e.com
 +.appl.com
-+.appl000webhost.com
 +.appl4e.com
 +.appla.com
 +.apple
@@ -1769,6 +1768,7 @@
 +.archiveofourown.org
 +.archlinux.org
 +.archlinuxarm.org
++.archlinuxcn.org
 +.arcraiders.com
 +.arctosia.com
 +.area120.com
@@ -4302,7 +4302,6 @@
 +.cherrysave.com
 +.chhongbi.org
 +.chianxv.buzz
-+.chicaff.com
 +.chicagolandbmw.com
 +.chicagoncmtv.com
 +.chicksonblackdicks.com
@@ -5355,7 +5354,6 @@
 +.destinationbim.com
 +.detaliczny.com
 +.detentiongirls.com
-+.dettoereach.com
 +.dettol-prize.com
 +.dettol.com
 +.dettol.com.hk
@@ -8412,7 +8410,6 @@
 +.giantessnight.com
 +.giffgaff.com
 +.giffgaff.design
-+.giffgarnsites.guide
 +.gifnuki.com
 +.gifree.com
 +.gigabyte.com
@@ -8563,6 +8560,7 @@
 +.gockhuatviet.com
 +.godaddy
 +.godaddy.com
++.godbolt.org
 +.godfootsteps.org
 +.godns.work
 +.godoc.org
@@ -11370,7 +11368,6 @@
 +.keytransparency.org
 +.kfh
 +.kg
-+.kgoncmtv.com
 +.kgslb.com
 +.kh
 +.khabdha.org
