@@ -36172,7 +36172,6 @@
 +.cloudi-vn.browser.heytapmobile.com
 +.conf-in-dc.heytapmobile.com
 +.dc-stat-in.heytapmobile.com
-+.dc.heytapmobile.com
 +.dragate-in-dc.heytapmobile.com
 +.i-in.browser.heytapmobile.com
 +.i-sg.browser.heytapmobile.com
@@ -36197,10 +36196,12 @@
 +.obus-dc20305-sg.heytapmobile.com
 +.obus-dctech-in.heytapmobile.com
 +.obus-dctech-sg.heytapmobile.com
++.obus-in.dc.heytapmobile.com
 +.obus-jssdk-fr.heytapmobile.com
 +.obus-jssdk-in.heytapmobile.com
 +.obus-jssdk-sg.heytapmobile.com
 +.obus-jssdk-us.heytapmobile.com
++.obus-sg.dc.heytapmobile.com
 +.omes-sec.heytapmobile.com
 +.push-dc-us.heytapmobile.com
 +.push.heytapmobile.com
@@ -50674,7 +50675,6 @@
 +.in-protect-dev.sec.intl.miui.com
 +.india.miui.com
 +.inf.miui.com
-+.info.analysis.kp.sec.miui.com
 +.intl.up.w.xk.miui.com
 +.ip-info.ff.avast.sec.miui.com
 +.jupiter.intl.sys.miui.com
