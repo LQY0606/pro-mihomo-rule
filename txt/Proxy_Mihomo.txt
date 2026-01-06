@@ -158,7 +158,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -579,7 +578,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -762,6 +760,7 @@
 +.adobelogin.com
 +.adobeoobe.com
 +.adobeplatinumclub.com
++.adobepochbuy.com
 +.adobeprojectm.com
 +.adobesc.com
 +.adobesign.com
@@ -938,6 +937,7 @@
 +.ai
 +.ai-kan.net
 +.ai-wen.net
++.ai.studio
 +.ai7995.site
 +.ai91porn.cc
 +.aiaa.org
@@ -1153,6 +1153,7 @@
 +.allpasswords.com
 +.allporncomic.com
 +.allpornsites.net
++.allpornsitespass.c
 +.allpornsitespass.com
 +.allspyclips.com
 +.allstate
@@ -1661,6 +1662,7 @@
 +.appleinsider.com
 +.appleiphone.net
 +.appleiphonecell.com
++.appleiphonecellilme.com
 +.appleipodsettlement.com
 +.appleiservices.com
 +.applelink.com
@@ -3750,6 +3752,7 @@
 +.burningcamel.com
 +.burstly.net
 +.burstlyrewards.com
++.busaloon.net
 +.busayari.com
 +.bushi-navi.com
 +.bushiroad-creative.com
@@ -6232,6 +6235,7 @@
 +.ebayopen.com
 +.ebayopensource.com
 +.ebayopensource.net
++.ebaypakist1password.drift.click
 +.ebaypakistan.net
 +.ebaypark.com
 +.ebayparts.com
@@ -6572,6 +6576,7 @@
 +.erotelki.org
 +.eroterest.net
 +.erothots.co
++.erotic# NAME: Proxy
 +.erotic-artsites.com
 +.erotic-hentai.com
 +.erotic-photos.net
@@ -7408,6 +7413,7 @@
 +.firestoneip.com
 +.firestonerewards.com
 +.firestonetire.com
++.firewirsayari.com
 +.firmaprofesional.com
 +.firmdale
 +.firstanalvideos.com
@@ -7449,6 +7455,7 @@
 +.flexclip.com
 +.flexibits.com
 +.flexsig.com
++.flexsig.comesign.com
 +.flgjustice.org
 +.fli8.xyz
 +.flickr
@@ -8919,6 +8926,7 @@
 +.gy
 +.gyakusimei.com
 +.gyalwarinpoche.com
++.gyalwarinpoche.cs.hk
 +.gyatsostudio.com
 +.gynoexam.info
 +.gyutte.site
@@ -9105,6 +9113,7 @@
 +.hdzog.com
 +.he.net
 +.headlinejobs.hk
++.headlinejobu
 +.headphonepubs.com
 +.headphones-cool.com
 +.headphones-dre.com
@@ -9389,6 +9398,7 @@
 +.hindiweb.com
 +.hindustantimes.com
 +.hinet.net
++.hinkingtaiwan.com
 +.hipaa6020.com
 +.hiporn.net
 +.hippyhillscomix.com
@@ -10653,6 +10663,7 @@
 +.iphonetaiwan.org
 +.iphoneunlockimei.com
 +.iphonexs.tv
++.iphoto.euom
 +.iphoto.wang
 +.ipify.org
 +.ipiranga
@@ -10834,6 +10845,7 @@
 +.izles.net
 +.izlesem.org
 +.izmirautodeskegitimleri.com
++.j
 +.j2objc.org
 +.jabcomix.com
 +.jable.one
@@ -12396,6 +12408,7 @@
 +.massagerepublic.com
 +.masseffect.com
 +.masseffectarchives.com
++.mastav101.com
 +.mastercad.com
 +.mastercard-email.com
 +.mastercard.com
@@ -13918,6 +13931,7 @@
 +.newxxx24.cc
 +.newyorker.com
 +.newyorktimes.com
++.nexcat..com
 +.nexcat.com
 +.nexitally.com
 +.nexitallysafe.com
@@ -15389,6 +15403,7 @@
 +.plunder.com
 +.plurk.com
 +.plus.codes
++.plus.net
 +.plus28.com
 +.plusbb.com
 +.plusone8.com
@@ -16745,6 +16760,7 @@
 +.rust-lang.org
 +.rustdesk.com
 +.rusvpn.com
++.rutor.info
 +.rutracker.cc
 +.rutracker.me
 +.rutracker.net
@@ -17800,6 +17816,7 @@
 +.sorazone.net
 +.sorcerersarena.com
 +.sorting-algorithms.com
++.sorting-algorithms.com.com
 +.sos.org
 +.sos44.com
 +.sosad.fun
@@ -18372,6 +18389,7 @@
 +.szetowah.org.hk
 +.szexvideo.top
 +.szwinnertechnology.com
++.t+.aaa
 +.t-g.com
 +.t-msedge.net
 +.t-splines.com
@@ -20970,6 +20988,7 @@
 +.xbtce.com
 +.xcafe.com
 +.xcams.com
++.xcancel.com
 +.xcg123.com
 +.xchina.co
 +.xchina.fun
