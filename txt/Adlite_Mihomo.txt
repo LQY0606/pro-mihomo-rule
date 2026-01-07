@@ -704,7 +704,6 @@
 +.m.1p04f.cn
 +.1paujqtq9.com
 +.1pel.com
-+.d1.1ppt.com
 +.1pt7wq8di.com
 +.1push.io
 +.1q2w3.fun
@@ -3938,7 +3937,7 @@
 +.adblock-360.com
 +.adblock-guru.com
 +.adblock-zen.com
-+.adblockanalytics.com
++.adblockanalyt
 +.adblockeromega.com
 +.adblockerprofessional.com
 +.adblockrelief.com
@@ -13160,6 +13159,7 @@
 +.bttrack.com
 +.btttag.com
 +.bttzjdxxmazye.site
++.btv-du-p.com
 +.btvhdscr.com
 +.btvjidjvmurhx.website
 +.events.btw.so
@@ -31325,7 +31325,7 @@
 +.ggo10101lq.com
 +.ggo10110lq.com
 +.ggo10111lq.com
-+.ggo10120lq.com
++.ggo10120lq
 +.ggo10121lq.com
 +.ggo10130lq.com
 +.ggo10131lq.com
@@ -31837,7 +31837,6 @@
 +.electronics.tradeshow.globalsources.com
 +.exhibition.edm.globalsources.com
 +.fashion.edm.globalsources.com
-+.fashion.tradeshow.globalsources.com
 +.gslive.edm.globalsources.com
 +.gsmatch.edm.globalsources.com
 +.gsol.edm.globalsources.com
@@ -34352,7 +34351,6 @@
 +.link.qa.heal.com
 +.healflowers.com
 +.metrics.health.com
-+.smetrics.health.com
 +.app.health2sync.com
 +.link.healthbank.io
 +.trk.share.healthc2u.com
@@ -66717,6 +66715,7 @@
 +.smetrics.shoppremiumoutlets.com
 +.trk.shoppremiumoutlets.com
 +.m.shoppreparcels.com
++.reviews.shoppydoo.
 +.connect.shoprentone.com
 +.branch.shoprunner.com
 +.dp.shoprunner.com
@@ -80924,7 +80923,6 @@
 +.analyticsiot-prod-simpad-ehn.servicebus.windows.net
 +.best10cdn.blob.core.windows.net
 +.btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
-+.btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 +.ceuswatcab01.blob.core.windows.net
 +.ceuswatcab02.blob.core.windows.net
 +.citrixanalyticseh-alias.servicebus.windows.net
@@ -80942,6 +80940,7 @@
 +.cltgtstor001.blob.core.windows.net
 +.eaus2watcab01.blob.core.windows.net
 +.eaus2watcab02.blob.core.windows.net
++.fashion.tradeshow.grod-eventhub-streamanalytics.servicebus.windows.net
 +.ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
 +.hme-live-loganalytics-namespace.servicebus.windows.net
 +.hotelembuguacu.blob.core.windows.net
