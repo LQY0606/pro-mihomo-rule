@@ -3925,7 +3925,6 @@
 +.adbits.online
 +.adbkwai.com
 +.adblade.com
-+.adblck.com
 +.adblock-360.com
 +.adblock-guru.com
 +.adblock-zen.com
@@ -15568,7 +15567,6 @@
 +.chdnenjtyssmn.online
 +.cheap-dump.pro
 +.cnpxwl.cheapcaribbean.com
-+.cheapenleaving.com
 +.cheaperelbows.com
 +.cheaperredressrationally.com
 +.cheaplow.pro
@@ -49628,7 +49626,7 @@
 +.a.mjlnbx.cn
 +.mjmobi.com
 +.mjnaxeqmnpmgg.site
-+.mjriazemzybdg.online
++.mjriazem
 +.mjskjzhiyhvua.website
 +.mjtdqvpeqvcwq.site
 +.mjtzbkdmpbayx.online
