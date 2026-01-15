@@ -4441,7 +4441,6 @@
 +.magento-recs-sdk.adobe.net
 +.samsungcard.data.adobedc.net
 +.ajo-lp-salesvelocity.adobedemo.com
-+.data.ajo-demosystem4.adobedemosystem.com
 +.acc.marketing.adobedxcusteng.com
 +.adobehelp.net
 +.ablink.marketing.adobemailing.com
@@ -5890,6 +5889,7 @@
 +.ajjwutdytigzg.rocks
 +.acton.ajmfg.com
 +.ajmivgvmaclye.online
++.data.ajo-demosystem4.adobed
 +.ajoxxit.top
 +.ajptwiopvptab.website
 +.ajqhmhvihexlk.website
@@ -14228,7 +14228,6 @@
 +.smetrics.caliastudio.com
 +.marketing.caliberpublicsafety.com
 +.qutsgp.calif.cc
-+.link.californiapsychics.com
 +.qa-link.californiapsychics.com
 +.rel-link.californiapsychics.com
 +.test-link.californiapsychics.com
@@ -19955,10 +19954,10 @@
 +.coshoansurdoms.net
 +.srepdata.coshoctontribune.com
 +.a8cv.cosmeonline.com
++.cosmetics
 +.metrics.cosmeticsdesign-asia.com
 +.metrics.cosmeticsdesign-europe.com
 +.metrics.cosmeticsdesign.com
-+.cosmeticsgenerosity.com
 +.cosmi.io
 +.cosmicsculptor.com
 +.a8cv.cosmo-water.net
@@ -45716,6 +45715,7 @@
 +.linglong001.com
 +.lingpaocar.com
 +.marketing.linguamatics.com
++.link.californi
 +.link5view.com
 +.linkbuddies.com
 +.pubfeed.linkby.com
