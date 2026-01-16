@@ -1949,7 +1949,6 @@
 +.5kmqy60r7.com
 +.5kov1f2o.xyz
 +.5lf5cujc5.com
-+.abcd.5lu.com
 +.efgh.5lu.com
 +.5lu8.com
 +.5lz3u8s5uq.com
@@ -4441,6 +4440,7 @@
 +.magento-recs-sdk.adobe.net
 +.samsungcard.data.adobedc.net
 +.ajo-lp-salesvelocity.adobedemo.com
++.data.ajo-demosystem4.adobedemosystem.com
 +.acc.marketing.adobedxcusteng.com
 +.adobehelp.net
 +.ablink.marketing.adobemailing.com
@@ -5889,7 +5889,6 @@
 +.ajjwutdytigzg.rocks
 +.acton.ajmfg.com
 +.ajmivgvmaclye.online
-+.data.ajo-demosystem4.adobed
 +.ajoxxit.top
 +.ajptwiopvptab.website
 +.ajqhmhvihexlk.website
@@ -12033,7 +12032,7 @@
 +.geobanner.blacksexmatch.com
 +.marketing.blacktrace.com
 +.blacktri.com
-+.bladdersdisarmaware.com
++.blad
 +.bladdersruinousalternative.com
 +.bladderssewing.com
 +.bladedescendant.com
@@ -14228,6 +14227,7 @@
 +.smetrics.caliastudio.com
 +.marketing.caliberpublicsafety.com
 +.qutsgp.calif.cc
++.link.californiapsychics.com
 +.qa-link.californiapsychics.com
 +.rel-link.californiapsychics.com
 +.test-link.californiapsychics.com
@@ -19954,10 +19954,10 @@
 +.coshoansurdoms.net
 +.srepdata.coshoctontribune.com
 +.a8cv.cosmeonline.com
-+.cosmetics
 +.metrics.cosmeticsdesign-asia.com
 +.metrics.cosmeticsdesign-europe.com
 +.metrics.cosmeticsdesign.com
++.cosmeticsgenerosity.com
 +.cosmi.io
 +.cosmicsculptor.com
 +.a8cv.cosmo-water.net
@@ -30048,7 +30048,6 @@
 +.data.stage-mail.fpl.com
 +.data.stageno.reply.fpl.com
 +.metrics.fpl.com
-+.smetrics.fpl.com
 +.fpmcsntitrwpd.space
 +.fpmlkyxazjqzo.website
 +.fpmnbakn.com
@@ -32658,6 +32657,7 @@
 +.tredir.go.com
 +.w88.go.com
 +.w88.m.espn.go.com
++.go.fe
 +.go22zd6lwm.com
 +.go2affise.com
 +.go2app.org
@@ -33674,7 +33674,6 @@
 +.grudgesscup.shop
 +.gruesome-magazine.pro
 +.gruesome1x.xyz
-+.gruffsubjectpatiently.com
 +.grufidraigh.net
 +.grughouteersok.net
 +.grulrestikroubs.net
@@ -37983,7 +37982,7 @@
 +.ieeucpssxsepw.online
 +.weld.iefsf.com
 +.iegbhbkgnglsz.site
-+.track.iegcom.com
++.track.iegcom.
 +.iegrozrmvgjfp.online
 +.iehbhejfnetvc.site
 +.smetrics.iehp.org
@@ -45715,7 +45714,6 @@
 +.linglong001.com
 +.lingpaocar.com
 +.marketing.linguamatics.com
-+.link.californi
 +.link5view.com
 +.linkbuddies.com
 +.pubfeed.linkby.com
@@ -49610,7 +49608,6 @@
 +.go.christsingles.mingle.com
 +.go.datingapp.mingle.com
 +.go.europe.mingle.com
-+.go.fem.mingle.com
 +.go.jsh.mingle.com
 +.go.latin.mingle.com
 +.go.muslim.mingle.com
@@ -66026,6 +66023,7 @@
 +.rzxxflvdnvtws.vip
 +.rzycnidbqwnjl.website
 +.rzzwgowiotgft.online
++.s
 +.s-adzone.com
 +.a8cv.s-darts.com
 +.aa-metrics.s-lms.net
