@@ -579,6 +579,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -978,7 +979,6 @@
 +.airvpn.org
 +.airwatchexpress.com
 +.airwatchqa.com
-+.airwi+.aaa
 +.airwick.com
 +.airwick.net
 +.airwick.tv
@@ -21366,6 +21366,7 @@
 +.xuite.net
 +.xujan.com
 +.xuzhiyong.net
++.xv-ru.com
 +.xv1.monster
 +.xvbelink.com
 +.xvds.tv
@@ -21378,8 +21379,10 @@
 +.xvideo1.org
 +.xvideo2.org
 +.xvideoporno.tv
++.xvideos-ar.com
 +.xvideos-cdn.com
 +.xvideos-dl.top
++.xvideos-india.com
 +.xvideos-porn-video.com
 +.xvideos-xxxx.com
 +.xvideos.blog
