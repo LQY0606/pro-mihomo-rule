@@ -51674,6 +51674,7 @@
 +.smetrics.mslifelines.com
 +.mslozfyqcdtxq.website
 +.browser.events.data.msn.cn
++.events-sandbox.data.msn.cn
 +.events.data.msn.cn
 +.srtb.msn.cn
 +.ac2.msn.com
