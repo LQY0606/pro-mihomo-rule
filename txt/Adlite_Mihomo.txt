@@ -75913,6 +75913,7 @@
 +.xlog16-normal-no1a.tiktokv.eu
 +.ads-ie.tiktokw.eu
 +.ads-ttp2.tiktokw.eu
++.ads16-normal-useastred.tiktokw.eu
 +.analytics-ie.tiktokw.eu
 +.analytics-ttp2.tiktokw.eu
 +.analytics16-normal-no1a.tiktokw.eu
