@@ -30050,7 +30050,6 @@
 +.jcblar.floridarentals.com
 +.repdata.floridatoday.com
 +.sxjfhh.floridatoday.com
-+.analytics.floridatravellife.com
 +.floroungeranic.shop
 +.asdad.florpeter.xyz
 +.flossiegorcrow.com
@@ -37667,7 +37666,6 @@
 +.mas.hronboard.me
 +.hrqadiqrxkz.com
 +.hrqecm0d.xyz
-+.hrqmbugn.xyz
 +.hrrsimgjcllyz.site
 +.hrryumrafhzjs.site
 +.corporate-marketing.hrs.com
@@ -37832,7 +37830,6 @@
 +.aahamarketing.hubinternational.com
 +.hub.hubinternational.com
 +.internalcomms.hubinternational.com
-+.partner.hubinternational.com
 +.privateclient.hubinternational.com
 +.hublosk.com
 +.hubrisone.com
@@ -58982,6 +58979,7 @@
 +.partishion.com
 +.partner-ads.com
 +.partner-dateconnects.com
++.partner.hubinterncom
 +.partnerbcgame.com
 +.app.partnerboost.com
 +.smetrics.partnerbrands.com
@@ -76268,6 +76266,7 @@
 +.tiktokcdn1.xyz
 +.stats.tiktoker.win
 +.log-snssdk.tiktokv-us.com
++.rtlog16-normal-useast2a.tiktokv.
 +.ad-instantpage-ru.tiktokv.com
 +.ad-instantpage-sg.tiktokv.com
 +.ad-instantpage-va.tiktokv.com
@@ -76380,7 +76379,6 @@
 +.rtlog16-normal-alisg.tiktokv.com
 +.rtlog16-normal-ind.tiktokv.com
 +.rtlog16-normal-useast1a.tiktokv.com
-+.rtlog16-normal-useast2a.tiktokv.com
 +.rtlog16-normal-useast8.us.tiktokv.com
 +.rtlog16-normal.tiktokv.com
 +.rtlog16-platform-useast5.us.tiktokv.com
