@@ -1074,7 +1074,7 @@
 +.2za.fun
 +.2zjftxgl5s.com
 +.nzfc.2zm4.cn
-+.2znp09oa.com
++.2zn
 +.ad.3.cn
 +.atom-log.3.cn
 +.static.3001.net
@@ -3135,7 +3135,7 @@
 +.minerva.devices.a2z.com
 +.video-ads.a2z.com
 +.a2zapk.com
-+.a3a706a0ae.com
++.a3a706a0ae.
 +.a3b2c775eb.com
 +.a3c72512d5.com
 +.t.a3cloud.net
@@ -9930,6 +9930,7 @@
 +.in.applicationinsights.azure.cn
 +.live.applicationinsights.azure.cn
 +.applicationinsights.azure.com
++.azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 +.inference-app-gateway.eastus2.cloudapp.azure.com
 +.inference-app-gateway.koreacentral.cloudapp.azure.com
 +.inference-app-gateway.northeurope.cloudapp.azure.com
@@ -18382,7 +18383,6 @@
 +.doo9gpa5xdov2.cloudfront.net
 +.dp45nhyltt487.cloudfront.net
 +.dp94m8xzwqsjk.cloudfront.net
-+.dpd9yiocsyy6p.cloudfront.net
 +.dpirwgljl6cjp.cloudfront.net
 +.dpjlvaveq1byu.cloudfront.net
 +.dpsq2uzakdgqz.cloudfront.net
@@ -21815,9 +21815,9 @@
 +.obqclg.dadway-onlineshop.com
 +.klwuhp.daehyuninside.com
 +.daejyre.com
++.daf
 +.axoqvl.daf-shoes.com
 +.daffaite.com
-+.daffodilnotifyquarterback.com
 +.daffodilo44.com
 +.dagnar.com
 +.m.dagym-manager.com
@@ -24534,6 +24534,7 @@
 +.dpbolvw.net
 +.dpcgdnvvcysuo.website
 +.s.dpcq1.net
++.dpd9yiocsyy
 +.dpehzyosanbhl.website
 +.sp.dpgmedia.net
 +.dphheyqbwgaau.online
@@ -45636,6 +45637,7 @@
 +.kzwdhgakfrxcv.website
 +.e.kzwsh.cn
 +.kzymdbeygaukr.online
++.l
 +.perr.l-agent.me
 +.go.l-com.com
 +.perr.l-err.biz
@@ -48187,7 +48189,6 @@
 +.love-romancejunction.com
 +.dl.love4porn.com
 +.l4s.love4porn.com
-+.loveclaw.com
 +.metrics.lovefilm.com
 +.loveflirt-haven.com
 +.loveflirte.com
