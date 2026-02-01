@@ -1662,6 +1662,7 @@
 +.applepay.tv
 +.applepaycash.net
 +.applepaycash.tv
++.applepaymerchants+.aaa
 +.applepaymerchantsupplies.info
 +.applepaysupplies.com
 +.applepaysupplies.info
@@ -2442,6 +2443,7 @@
 +.bbc.co
 +.bbc.com
 +.bbc.mp-pxcdn.com
++.bbc.pdn.tritondigital.com
 +.bbcchinese.com
 +.bbchat.tv
 +.bbcpersian.com
@@ -5106,7 +5108,6 @@
 +.daftporn.com
 +.daftsex-hd.com
 +.daftsex.com
-+.dagelijk+.aaa
 +.dagfs.com
 +.dailidaili.com
 +.dailybasis.com
@@ -11981,6 +11982,7 @@
 +.lotsawahouse.org
 +.lotte
 +.lotuslight.org.hk
++.louisvuitton.com
 +.love4porn.com
 +.love6.tv
 +.love7.xyz
@@ -19626,6 +19628,7 @@
 +.uplust.com
 +.uplynk.com
 +.upornia.com
++.upplies.info
 +.uproxy.org
 +.uptodown.com
 +.upwill.org
