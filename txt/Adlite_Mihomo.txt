@@ -34801,7 +34801,6 @@
 +.grnddeqgxnmyoa.net
 +.grnfwylvabmbb.website
 +.grnvvxcjpbokg.site
-+.rtlog16-normal-useast2a.tiktokv.groagnowi.net
 +.groajodsaursie.net
 +.groampez.xyz
 +.groamsal.net
@@ -36042,7 +36041,7 @@
 +.hatchunbaledplotter.click
 +.go.hatcocorp.com
 +.hatdiu.xyz
-+.hatefu
++.hateful-pride.pro
 +.hatefulrequest.com
 +.hatmiso.net
 +.hatqnnwgdxvkq.online
@@ -40196,6 +40195,7 @@
 +.imyqb.cn
 +.imzahrwl.xyz
 +.in-appadvertising.com
++.in-ctdbort-stsdk.vivoglo
 +.pyk.in-neo.cn
 +.in-page-push.com
 +.in-page-push.net
@@ -77286,7 +77286,6 @@
 +.thljnv.top
 +.thmbgxwqp.com
 +.thnwxvghrnfst.website
-+.tho
 +.thoafteebe.net
 +.thoakeet.net
 +.thoaltauptoojiw.net
@@ -77294,6 +77293,7 @@
 +.thoatsizounseeh.com
 +.thoawhumoo.net
 +.thoghoadoo.net
++.thogroagnowi.net
 +.tholor.com
 +.metrics.thomasandfriends.com
 +.stats.thomasbandt.com
@@ -77430,7 +77430,7 @@
 +.thushandkerchiefcentered.com
 +.thustilpn.com
 +.thuthoock.net
-+.thutsoorse.necom
++.thutsoorse.net
 +.thuwhehyli.com
 +.kn.thuyki.cn
 +.repdata.thv11.com
@@ -77720,6 +77720,7 @@
 +.rtlog16-normal-alisg.tiktokv.com
 +.rtlog16-normal-ind.tiktokv.com
 +.rtlog16-normal-useast1a.tiktokv.com
++.rtlog16-normal-useast2a.tiktokv.com
 +.rtlog16-normal-useast8.us.tiktokv.com
 +.rtlog16-normal.tiktokv.com
 +.rtlog16-platform-useast5.us.tiktokv.com
@@ -83694,7 +83695,6 @@
 +.in-cfg-stsdk.vivoglobal.com
 +.in-cota.vivoglobal.com
 +.in-ctdbonrt-stsdk.vivoglobal.com
-+.in-ctdbort-stsdk.vivoglobal.com
 +.in-ctdbpnrt-stsdk.vivoglobal.com
 +.in-ctdbprt-stsdk.vivoglobal.com
 +.in-domaincfg.vivoglobal.com
