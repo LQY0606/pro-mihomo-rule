@@ -40195,7 +40195,6 @@
 +.imyqb.cn
 +.imzahrwl.xyz
 +.in-appadvertising.com
-+.in-ctdbort-stsdk.vivoglo
 +.pyk.in-neo.cn
 +.in-page-push.com
 +.in-page-push.net
@@ -83695,6 +83694,7 @@
 +.in-cfg-stsdk.vivoglobal.com
 +.in-cota.vivoglobal.com
 +.in-ctdbonrt-stsdk.vivoglobal.com
++.in-ctdbort-stsdk.vivoglobal.com
 +.in-ctdbpnrt-stsdk.vivoglobal.com
 +.in-ctdbprt-stsdk.vivoglobal.com
 +.in-domaincfg.vivoglobal.com
