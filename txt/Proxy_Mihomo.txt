@@ -159,6 +159,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -340,7 +341,6 @@
 +.4tube.com
 +.4tubefree.net
 +.4u4c.com
-+.5
 +.5-d.com
 +.500caocao.com
 +.500px.com
@@ -580,6 +580,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -2289,7 +2290,6 @@
 +.azuresmartspaces.net
 +.azurestackvalidation.com
 +.azurewebsites.net
-+.b+.aaa
 +.b-cdn.net
 +.b-eroland.net
 +.b-ok.asia
@@ -4276,7 +4276,6 @@
 +.cheapsalemonster.com
 +.cheapshoesvip.com
 +.cheapwireless04.com
-+.cheapwirelessbea.rexroth
 +.cheapwirelessbeats.com
 +.checkgfw.com
 +.chegg.com
@@ -6307,7 +6306,6 @@
 +.ehv.cc
 +.ehwiki.org
 +.eic-av.com
-+.eights.com
 +.eilieili.cc
 +.einstein.com
 +.eireinikotaerukai.com
@@ -7186,7 +7184,6 @@
 +.fbworkmail.com
 +.fc-buddyfight.com
 +.fc2.com
-+.fc2.coom
 +.fc2blog.net
 +.fc2china.com
 +.fc2cn.com
@@ -8802,6 +8799,7 @@
 +.greginhollywood.com
 +.grindr.com
 +.grok.com
++.grokipedia.com
 +.grooby.com
 +.groq.com
 +.grotty-monday.com
@@ -12598,7 +12596,6 @@
 +.mhqwe.xyz
 +.mhradio.org
 +.mhshosting.com
-+.mi
 +.mi.kochudaho.me
 +.mi.mashiro.site
 +.mi9cdn.com
@@ -14935,7 +14932,6 @@
 +.paypal-labs.com
 +.paypal-latam.com
 +.paypal-learning.com
-+.paypal-login.c# NAME: Proxy
 +.paypal-login.com
 +.paypal-login.info
 +.paypal-login.org
@@ -16198,6 +16194,7 @@
 +.radgametools.com
 +.radian6.com
 +.radicalparty.org
++.radiko-cf.com
 +.radio.co
 +.radio.garden
 +.radiofarda.com
@@ -16504,6 +16501,7 @@
 +.revver.com
 +.rewrite-anime.tv
 +.rexcha.com
++.rexroth
 +.rexxx.org
 +.rfa.org
 +.rfachina.com
@@ -19191,7 +19189,6 @@
 +.tryquinn.com
 +.tryrating.com
 +.tryst.link
-+.ts.com
 +.ts.net
 +.tsctv.net
 +.tsemtulku.com
@@ -19234,7 +19231,6 @@
 +.tubecaptain.com
 +.tubecop.com
 +.tubecup.com
-+.tubecup.com1password.drift.click
 +.tubedna.com
 +.tubedupe.com
 +.tubeenema.com
@@ -20484,7 +20480,6 @@
 +.wenweipo.com
 +.wenxuecity.com
 +.wenyunchao.com
-+.wercyprophet.org
 +.westca.com
 +.westerndigital.com
 +.westernshugdensociety.org
