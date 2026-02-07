@@ -3103,7 +3103,6 @@
 +.a2tw6yoodsag.com
 +.advertising.a2z.com
 +.bugsnag-event.monitor.core.app.alexa.a2z.com
-+.bugsnag-session.monitor.core.app.alexa.a2z.com
 +.bugsnag.appstore.a2z.com
 +.forester.a2z.com
 +.insights.video.a2z.com
@@ -6880,6 +6879,7 @@
 +.maws-aax-eu-rtb-adx.amazon-adsystem.com
 +.maws-aax-eu-rtb.amazon-adsystem.com
 +.maws-aax-fe-sin.amazon-adsystem.com
++.maws-aax-fe.amazon-adsystem.com
 +.maws-aax-us-east-rtb-adx.amazon-adsystem.com
 +.maws-aax-us-east-rtb.amazon-adsystem.com
 +.maws-aax-us-east-test4.amazon-adsystem.com
@@ -6925,6 +6925,7 @@
 +.vfw-us-west.amazon-adsystem.com
 +.vfw-us.amazon-adsystem.com
 +.vfw.amazon-adsystem.com
++.vfwm-us-west.amazon-adsystem.com
 +.vfwm-us.amazon-adsystem.com
 +.vfwm.amazon-adsystem.com
 +.vfws.amazon-adsystem.com
@@ -66426,7 +66427,6 @@
 +.adeng-looker-dev-1001.bdp.roku.com
 +.adeng-looker-dev-1003.bdp.roku.com
 +.adi-airflow.bdp.roku.com
-+.admin-advertising.roku.com
 +.ads-aka-us-east-1.delivery.roku.com
 +.ads-aka-us-west-2.delivery.roku.com
 +.ads-cf-us-east-1.delivery.roku.com
@@ -70725,6 +70725,7 @@
 +.pangolin.snssdk.com
 +.pc-mon.snssdk.com
 +.sdfp.snssdk.com
++.stream.snssdk.com
 +.tbm.snssdk.com
 +.temai.snssdk.com
 +.tnc3-aliec2.snssdk.com
@@ -70736,6 +70737,7 @@
 +.tsearch.snssdk.com
 +.ug.snssdk.com
 +.vas-hl-x.snssdk.com
++.vcl-brain.snssdk.com
 +.xlog.snssdk.com
 +.snta0034.com
 +.sntjim.com
@@ -75852,6 +75854,7 @@
 +.ads-ie.tiktokw.eu
 +.ads-ttp2.tiktokw.eu
 +.ads16-normal-useastred.tiktokw.eu
++.analytics-exp-ttp2.tiktokw.eu
 +.analytics-ie.tiktokw.eu
 +.analytics-ttp2.tiktokw.eu
 +.analytics16-normal-no1a.tiktokw.eu
@@ -88237,7 +88240,6 @@
 +.store.xl.api.3g.youku.com
 +.tdrec.youku.com
 +.test.ott.youku.com
-+.un-acs.youku.com
 +.v2html.atm.youku.com
 +.v6-adashx.ut.youku.com
 +.val.api.youku.com
