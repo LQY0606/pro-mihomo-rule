@@ -5103,6 +5103,7 @@
 +.d2pass.com
 +.d4dj-pj.com
 +.da-files.com
++.daboja18# NAME: Proxy
 +.daboja18.com
 +.dabr.me
 +.dabr.mobi
@@ -9883,6 +9884,7 @@
 +.huggingface.co
 +.hughes
 +.huhaitai.com
++.huhamh.com
 +.huhamhire.com
 +.huhangfei.com
 +.huiav.com
@@ -12431,6 +12433,7 @@
 +.mayaonlinux.com
 +.mayaonmac.com
 +.mayaonosx.com
++.mayaonosx.ire.com
 +.mayapressbooks.com
 +.mayasucks.com
 +.mayaunlimited.com
