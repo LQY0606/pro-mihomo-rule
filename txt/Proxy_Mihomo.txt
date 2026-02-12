@@ -1,3 +1,4 @@
++..com
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -345,6 +346,7 @@
 +.4tubefree.net
 +.4u4c.com
 +.5-d.com
++.500caocao+.aaa
 +.500caocao.com
 +.500px.com
 +.500px.org
@@ -583,7 +585,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -2461,7 +2462,6 @@
 +.bbqm1.xyz
 +.bbs-tw.com
 +.bbs.boingboing.net
-+.bbs.sina.com
 +.bbs.tuitui.info
 +.bbsdigest.com
 +.bbsfeed.com
@@ -5124,7 +5124,6 @@
 +.dailymail.com
 +.dailymailonline.com
 +.dailymotion.com
-+.dailynews.sina.com
 +.dailyporn.club
 +.dailysabah.com
 +.daindianporn.com
@@ -9484,7 +9483,6 @@
 +.home-sex-tapes.com
 +.home-song.com
 +.home.saxo
-+.home.sina.com
 +.homealonemilfs.com
 +.homebox.com
 +.homeboxoffice.com
@@ -9792,7 +9790,6 @@
 +.hrichina.org
 +.hrntt.org
 +.hrsaz.com
-+.hrtsea.com
 +.hrw.org
 +.hrweb.org
 +.hsbc
