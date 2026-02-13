@@ -4995,7 +4995,6 @@
 +.adviva.net
 +.adx-saas.advlion.com
 +.bj-td-menta-01-callback.advlion.com
-+.s1.cdn-sg.advlion.com
 +.advmd.com
 +.advmedialtd.com
 +.advmob.cn
@@ -6034,7 +6033,6 @@
 +.ds-aksb-a.akamaihd.net
 +.e77lmzbqou0n-a.akamaihd.net
 +.hdapp1003-a.akamaihd.net
-+.hdapp1008-a.akamaihd.net
 +.hdsrc-a.akamaihd.net
 +.iddu1vvb7sk8-a.akamaihd.net
 +.jly24aw29n5m-a.akamaihd.net
@@ -15281,6 +15279,7 @@
 +.cdn-net.com
 +.cdn-server.cc
 +.cdn-service.com
++.s1.cdn-sg.
 +.cdn-sitegainer.com
 +.adquire.us.cdn-world.net
 +.woaizhongguo.cdn111222.com
@@ -16896,8 +16895,8 @@
 +.clickpathmedia.com
 +.clickperks.info
 +.clickpoint.com
++.clickprote
 +.clickprotector.com
-+.clickprotects.com
 +.clickpunch.icu
 +.clickpupbit.com
 +.js.clickrank.ai
@@ -19476,7 +19475,6 @@
 +.serviceos.comcast.net
 +.comcastbiz.com
 +.go.comcastspectacor.com
-+.widgets.comcontent.net
 +.marketing.comda.com
 +.smetrics.comdata.com
 +.target.comdata.com
@@ -35701,6 +35699,7 @@
 +.link.hd.io
 +.hd100546c.com
 +.cnt.hd21.com
++.hda
 +.hdacode.com
 +.hdaglczxvulaj.online
 +.e.hdanc.com
@@ -83515,6 +83514,7 @@
 +.vzydopxwdqnqt.space
 +.vzzcxrfujjtjg.tech
 +.vzzkyyvmklrxv.site
++.w
 +.info.w-systems.com
 +.my.w.tt
 +.w0054.com
