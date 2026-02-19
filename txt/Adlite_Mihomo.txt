@@ -10289,7 +10289,6 @@
 +.hao123union.baidu.com
 +.hc.baidu.com
 +.hdj.baidu.com
-+.hijack.baidu.com
 +.hm.baidu.com
 +.hmma.baidu.com
 +.hpd.baidu.com
@@ -17494,7 +17493,6 @@
 +.d1rgnfh960lz2b.cloudfront.net
 +.d1rguclfwp7nc8.cloudfront.net
 +.d1rkd1d0jv6skn.cloudfront.net
-+.d1rkf0bq85yx06.cloudfront.net
 +.d1rnejrnt2c4br.cloudfront.net
 +.d1rnknz34k1ko0.cloudfront.net
 +.d1ros97qkrwjf5.cloudfront.net
@@ -18766,6 +18764,7 @@
 +.co-emas.com
 +.a8clk.cart.co-heart.com
 +.lebtpm.co-medical.com
++.ebis.cp.claudia.co.
 +.co5457chu.com
 +.co85264.com
 +.metrics.coach.com
@@ -24017,6 +24016,7 @@
 +.dkswshap-3.online
 +.dktclumdglhds.site
 +.dktknarhxsoza.com
++.dktokv.com
 +.dkvxgrxrehfuiw.com
 +.dkweuy.com
 +.dkwiwhotwo.net
@@ -37138,6 +37138,7 @@
 +.ad.hiiir.com
 +.log.hiiir.com
 +.hiiona.com
++.hijack.
 +.a8clk.hikakaku.com
 +.a8cv.hikari-mega.com
 +.web.hikari-ocn.com
@@ -37841,7 +37842,6 @@
 +.hoptopboy.com
 +.hoqodd.com
 +.horacegreater.com
-+.horagloogremp.net
 +.info.horanassoc.com
 +.smetrics.horizonblue.com
 +.marketing.horizonfoodgroup.com
@@ -68575,6 +68575,7 @@
 +.rtkemctcfddwz.website
 +.rtkndlpcwprqp.online
 +.rtlfqocrotlhz.website
++.rtlog16-normal-useast1a.tijp
 +.rtmark.net
 +.rtmfpocimwjsf.online
 +.rtmhrrydflggue.net
@@ -77716,7 +77717,6 @@
 +.rtlog16-applog-useast5.us.tiktokv.com
 +.rtlog16-normal-alisg.tiktokv.com
 +.rtlog16-normal-ind.tiktokv.com
-+.rtlog16-normal-useast1a.tiktokv.com
 +.rtlog16-normal-useast2a.tiktokv.com
 +.rtlog16-normal-useast8.us.tiktokv.com
 +.rtlog16-normal.tiktokv.com
