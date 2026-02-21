@@ -4131,10 +4131,10 @@
 +.addonsmash.com
 +.addoor.net
 +.addotnet.com
++.addr
 +.addressacaciaante.com
 +.addressfriend.com
 +.addroid.com
-+.addroplet.com
 +.addthief.com
 +.addthis.com
 +.addthisedge.com
@@ -4546,6 +4546,7 @@
 +.analytics.adobe.io
 +.telemetry.adobe.io
 +.magento-recs-sdk.adobe.net
++.adobeanalytic.a
 +.samsungcard.data.adobedc.net
 +.ajo-lp-salesvelocity.adobedemo.com
 +.data.ajo-demosystem4.adobedemosystem.com
@@ -5199,7 +5200,6 @@
 +.aeros02.tk
 +.aeros11.tk
 +.aeros12.tk
-+.adobeanalytic.aerotek.com
 +.adobeanalytics.aerotek.com
 +.securetags.aeroterra.com
 +.aes01.com
@@ -6991,6 +6991,7 @@
 +.maws-aax-us-east-rtb-adx.amazon-adsystem.com
 +.maws-aax-us-east-rtb.amazon-adsystem.com
 +.maws-aax-us-east-test4.amazon-adsystem.com
++.maws-aax-us-east.amazon-adsystem.com
 +.maws-aax-us-pdx-rtb.amazon-adsystem.com
 +.origin-sq-tungsten-ts.amazon-adsystem.com
 +.pri1-3ps.amazon-adsystem.com
@@ -41254,6 +41255,14 @@
 +.intimidatingsideway.com
 +.blziha.intimissimi.com
 +.intimlife.net
++.ecs.nel.measure.office.net.cn.intinfra.com
++.exo.nel.measure.office.net.cn.intinfra.com
++.identity.nel.measure.office.net.cn.intinfra.com
++.m365cdn.nel.measure.office.net.cn.intinfra.com
++.officehub.nel.measure.office.net.cn.intinfra.com
++.spo.nel.measure.office.net.cn.intinfra.com
++.teams.nel.measure.office.net.cn.intinfra.com
++.wordonline.nel.measure.office.net.cn.intinfra.com
 +.track.into-giving.com
 +.track.intoglobal.com
 +.intopicmedia.com
@@ -51633,7 +51642,6 @@
 +.a.hl.mi.com
 +.a.union.mi.com
 +.ad.mi.com
-+.ads.mi.com
 +.adx.tv.mi.com
 +.api.jr.mi.com
 +.d.g.mi.com
