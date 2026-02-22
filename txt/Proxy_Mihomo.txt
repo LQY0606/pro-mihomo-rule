@@ -348,6 +348,7 @@
 +.4tubefree.net
 +.4u4c.com
 +.5-d.com
++.5.com
 +.500caocao.com
 +.500px.com
 +.500px.org
@@ -586,7 +587,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1882,6 +1882,7 @@
 +.assembla.com
 +.assemblesystems.com
 +.assesphoto.com
++.assets.nxtrace.org
 +.assetsadobe.com
 +.assimp.org
 +.assistirhentai.com
@@ -13931,7 +13932,6 @@
 +.nftstatic.com
 +.nftstorage.link
 +.ng
-+.ngenix.net
 +.ngensis.com
 +.ngeo.com
 +.ngfiles.com
@@ -14612,6 +14612,7 @@
 +.openbase.com
 +.opencollective.com
 +.opencreate.org
++.opencritic.com
 +.opendemocracy.net
 +.opendesktop.org
 +.opendn.xyz
@@ -15487,6 +15488,7 @@
 +.porn4days.cc
 +.porn4fap.com
 +.porn5.com
++.porn55+.aaa
 +.porn555.com
 +.porn5f.com
 +.porn62.com
