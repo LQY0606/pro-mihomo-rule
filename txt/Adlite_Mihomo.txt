@@ -4131,10 +4131,10 @@
 +.addonsmash.com
 +.addoor.net
 +.addotnet.com
-+.addr
 +.addressacaciaante.com
 +.addressfriend.com
 +.addroid.com
++.addroplet.com
 +.addthief.com
 +.addthis.com
 +.addthisedge.com
@@ -4546,7 +4546,6 @@
 +.analytics.adobe.io
 +.telemetry.adobe.io
 +.magento-recs-sdk.adobe.net
-+.adobeanalytic.a
 +.samsungcard.data.adobedc.net
 +.ajo-lp-salesvelocity.adobedemo.com
 +.data.ajo-demosystem4.adobedemosystem.com
@@ -5200,6 +5199,7 @@
 +.aeros02.tk
 +.aeros11.tk
 +.aeros12.tk
++.adobeanalytic.aerotek.com
 +.adobeanalytics.aerotek.com
 +.securetags.aeroterra.com
 +.aes01.com
@@ -12358,6 +12358,7 @@
 +.messages.blackhat.com
 +.blackhattoolz.com
 +.smon.blackhistorymonth.gov
++.blackhole
 +.file.blackint3.com
 +.blacklinknow.com
 +.blacklivesmatter1.org
@@ -17398,7 +17399,6 @@
 +.d19bpqj0yivlb3.cloudfront.net
 +.d19diizb3qce6y.cloudfront.net
 +.d19gkl2iaav80x.cloudfront.net
-+.d19y03yc9s7c1c.cloudfront.net
 +.d1a3jb5hjny5s4.cloudfront.net
 +.d1aa9f6zukqylf.cloudfront.net
 +.d1ac2du043ydir.cloudfront.net
@@ -21846,6 +21846,7 @@
 +.d170971757.com
 +.d175757719.com
 +.d194f6c2fc.com
++.d19y
 +.d1ad.com
 +.d1mahjlm.xyz
 +.d1pc1a0g34.com
@@ -22176,6 +22177,7 @@
 +.data-insight365.com
 +.data-px.services
 +.marketing.data-source.com
++.data.
 +.data159.click
 +.marketing.data180.com
 +.data284.click
@@ -27261,6 +27263,7 @@
 +.info.energizect.com
 +.a8clk.www.oms.energy-itsol.com
 +.a8clk.www.solarmonitorlp.energy-itsol.com
++.energy63.r
 +.energyflexibilituk.org
 +.energypopulationpractical.com
 +.marketing.energystewardsinc.com
@@ -31472,7 +31475,6 @@
 +.freqginidbyek.online
 +.frequentday.com
 +.frequentflesh.com
-+.tracking.marketing.frequentis.com
 +.frequentjam.com
 +.frequentlyadulatory.com
 +.frequentlycharmsincomplete.com
@@ -42603,7 +42605,6 @@
 +.addata.jd.com
 +.ads-union.jd.com
 +.ads.union.jd.com
-+.blackhole-m.m.jd.com
 +.blackhole.m.jd.com
 +.c-nfa.jd.com
 +.cc.m.jd.com
@@ -45895,6 +45896,7 @@
 +.ktlasik.space
 +.ktldjkvzcxpmv.online
 +.ktnwsfisfbvjl.space
++.rigorlab.ktokv.com
 +.ktperlnfnadgz.website
 +.api.ktplay.com
 +.track.ktplay.com
@@ -66041,8 +66043,8 @@
 +.qvlatpbizkile.site
 +.qvmsvlpwksuaj.site
 +.qvnpuwougsyug.website
++.qvo
 +.qvogpwchuqsvi.site
-+.qvokfoczqacvk.site
 +.qvootzzyckdef.online
 +.qvpmtnnrwjubd.website
 +.api.qvpublish.com
@@ -67958,7 +67960,7 @@
 +.rhxdsplm.com
 +.edeals.rhymebiz.com
 +.rhymezebra.com
-+.rhythmclamour.com
++.rhythmclam
 +.rhythmrule.com
 +.log.rhythmtowers.com
 +.rhythmxchange.com
@@ -68061,7 +68063,6 @@
 +.rigidveil.com
 +.rigill.com
 +.riginvestigator.com
-+.rigorlab.com
 +.rigpikkndmetnb.xyz
 +.rihbouxzdfvvu.website
 +.rihhfqeqwimni.website
@@ -78237,7 +78238,6 @@
 +.rtlog16-applog-useast5.us.tiktokv.com
 +.rtlog16-normal-alisg.tiktokv.com
 +.rtlog16-normal-ind.tiktokv.com
-+.rtlog16-normal-useast1a.tiktokv.com
 +.rtlog16-normal-useast2a.tiktokv.com
 +.rtlog16-normal-useast8.us.tiktokv.com
 +.rtlog16-normal.tiktokv.com
@@ -78443,6 +78443,7 @@
 +.tionininanceena.com
 +.tionsandindeedther.org
 +.tiotezbvkfggq.space
++.rtlog16-normal-useast1a.tiour.com
 +.tipcompoundextreme.com
 +.tippcom01.tipp24.com
 +.tippola.com
@@ -79334,6 +79335,7 @@
 +.trackfeed.com
 +.tracki.click
 +.tracking-aws-5.com
++.tracking.mark
 +.tracking202.com
 +.tracking24.net
 +.trackingca.com
@@ -80341,7 +80343,7 @@
 +.tuipenguin.com
 +.tuite8.com
 +.tuitiger.com
-+.tuituigui19999.com
++.tuituigui19999.
 +.a.tuizhuti.com
 +.tujidao.com
 +.tujlpraovjert.site
