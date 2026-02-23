@@ -348,7 +348,6 @@
 +.4tubefree.net
 +.4u4c.com
 +.5-d.com
-+.5.com
 +.500caocao.com
 +.500px.com
 +.500px.org
@@ -1622,6 +1621,7 @@
 +.applecomputer.com.hk
 +.applecomputerimac.com
 +.applecomputerinc.info
++.applecoron+.aaa
 +.applecoronavirus.com
 +.appledaily.com
 +.appledaily.com.hk
@@ -2168,6 +2168,7 @@
 +.avinetworks.com
 +.avinin.com
 +.avira.com
++.avirus.com
 +.avizoon.site
 +.avizoone.com
 +.avjb.com
@@ -15488,7 +15489,6 @@
 +.porn4days.cc
 +.porn4fap.com
 +.porn5.com
-+.porn55+.aaa
 +.porn555.com
 +.porn5f.com
 +.porn62.com
