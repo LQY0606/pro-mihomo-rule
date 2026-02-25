@@ -3847,6 +3847,7 @@
 +.acquireuser.com
 +.acquisitionhonestlybough.com
 +.acqwyqfecrlsh.online
++.acr-
 +.acrdfrcfapzvn.site
 +.acredo.space
 +.acreinterstatethe.com
@@ -47785,7 +47786,6 @@
 +.kr.lgsmartad.com
 +.kw.lgsmartad.com
 +.ky.lgsmartad.com
-+.kz.lgsmartad.com
 +.lb.lgsmartad.com
 +.lc.lgsmartad.com
 +.lgsmartad.com
@@ -65772,7 +65772,6 @@
 +.cm.l.qq.com
 +.commdata.v.qq.com
 +.configsvr.msf.3g.qq.com
-+.d3g.qq.com
 +.data.qq.com
 +.date.ab.qq.com
 +.detect.mb.qq.com
@@ -82921,7 +82920,7 @@
 +.user-clicks.com
 +.user-red.com
 +.userballot.com
-+.usercentrics.eu
++.uct.service.usercentrics.eu
 +.usercycle.com
 +.userdatatrust.com
 +.userdive.com
