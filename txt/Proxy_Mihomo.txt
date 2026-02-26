@@ -586,6 +586,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1269,6 +1270,7 @@
 +.amazon-launchpad.com
 +.amazon.co
 +.amazon.com
++.amazon.com.co
 +.amazon.jobs
 +.amazon.red
 +.amazonalexavoxcon.com
@@ -2247,6 +2249,7 @@
 +.awsthinkbox.com
 +.awstrack.me
 +.awstrust.com
++.awswaf.com
 +.awwcn.buzz
 +.awwcn.xyz
 +.awxcdn.com
@@ -2807,7 +2810,6 @@
 +.beibao.com
 +.beijing1989.com
 +.beijing2022.art
-+.beijing2022.art+.aaa
 +.beijingnike.com
 +.beijingspring.com
 +.beijingzx.org
@@ -7315,6 +7317,7 @@
 +.figprayer.com
 +.fileflyer.com
 +.fileforum.com
++.files.oaiuserswahili.com
 +.files2me.com
 +.fileserve.com
 +.filesmonster.vip
@@ -16991,6 +16994,7 @@
 +.seat
 +.seatguru.com
 +.seattlefdc.com
++.seattlespheres.com
 +.secomtrust.net
 +.second-ns.com
 +.secret-flirt-hub.com
@@ -20166,6 +20170,7 @@
 +.vnet.link
 +.vnware.net
 +.voa.mobi
++.voa000webhost.com
 +.voaafaanoromoo.com
 +.voaafrique.com
 +.voabambara.com
@@ -21279,6 +21284,7 @@
 +.xnxx.net
 +.xnxx.tv
 +.xnxx18.pro
++.xnxx2.content.com
 +.xnxx2.info
 +.xnxx2.org
 +.xnxx2.pro
