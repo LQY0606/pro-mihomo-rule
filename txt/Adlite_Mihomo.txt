@@ -6038,7 +6038,7 @@
 +.aj2550.bid
 +.aj2555.bid
 +.aj2635.bid
-+.ajacoehkzhvla.website
++.ajacoehkzh
 +.ajaelmjytzgmn.website
 +.ajapk.com
 +.ajar-instruction.pro
@@ -6215,7 +6215,6 @@
 +.akupmhxbzdhau.space
 +.akutapro.com
 +.akvvltgfzmxvj.website
-+.akvxpoguhja.com
 +.akwnihwgxvmim.space
 +.akxadycnshxpr.space
 +.al-adtech.com
@@ -61220,6 +61219,7 @@
 +.pauvoobouchie.net
 +.pauxihypoxia.com
 +.pavdiibdvr.com
++.appstore.pavla.website
 +.pavwrr.icu
 +.pawgleamed.com
 +.pawheatyous.com
@@ -90013,6 +90013,7 @@
 +.ad.quickapp.hybrid.xiaomi.com
 +.ad.xiaomi.com
 +.ad1.xiaomi.com
++.akndora.xiaomi.com
 +.api.ads.xiaomi.com
 +.api.developer.xiaomi.com
 +.api.hybrid.xiaomi.com
@@ -90020,7 +90021,6 @@
 +.api.miui.security.xiaomi.com
 +.api.xmpush.global.xiaomi.com
 +.appstore.cdn.pandora.xiaomi.com
-+.appstore.pandora.xiaomi.com
 +.awssgp0-files.fds.api.xiaomi.com
 +.awsusor0-cdn.fds-ssl.api.xiaomi.com
 +.bgp.fe01.c3.xiaomi.com
