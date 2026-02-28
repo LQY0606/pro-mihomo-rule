@@ -6038,7 +6038,7 @@
 +.aj2550.bid
 +.aj2555.bid
 +.aj2635.bid
-+.ajacoehkzh
++.ajacoehkzhvla.website
 +.ajaelmjytzgmn.website
 +.ajapk.com
 +.ajar-instruction.pro
@@ -6215,6 +6215,7 @@
 +.akupmhxbzdhau.space
 +.akutapro.com
 +.akvvltgfzmxvj.website
++.akvxpoguhja.com
 +.akwnihwgxvmim.space
 +.akxadycnshxpr.space
 +.al-adtech.com
@@ -13794,7 +13795,7 @@
 +.cdns.brsrvr.com
 +.brthrfkyidygq.online
 +.brtsumthree.com
-+.brtwlhfmomcng.site
++.brtwlhfmo
 +.app.bruce.work
 +.brucelead.com
 +.bruceleadx1.com
@@ -14505,6 +14506,8 @@
 +.sgaws-mcs.byteoversea.com
 +.sgee-log.byteoversea.com
 +.sgee-mcs.byteoversea.com
++.tnc16-alisg.byteoversea.com
++.tnc16-useast1a.byteoversea.com
 +.ug-sg.byteoversea.com
 +.v16-ad.byteoversea.com
 +.vaali-mcs-useast1a.byteoversea.com
@@ -17443,7 +17446,6 @@
 +.d10lv7w3g0jvk9.cloudfront.net
 +.d10nkw6w2k1o10.cloudfront.net
 +.d10wfab8zt419p.cloudfront.net
-+.d10zmv6hrj5cx1.cloudfront.net
 +.d114isgihvajcp.cloudfront.net
 +.d1180od816jent.cloudfront.net
 +.d1198dzygjftam.cloudfront.net
@@ -22018,6 +22020,7 @@
 +.d0d9f1bb4b.com
 +.d0i5db8gp.com
 +.d0i8m5ddv6.com
++.d10zmv6hrj5cx1.cloudfron
 +.m.d11.io
 +.ggjs.d17.cc
 +.d170971757.com
@@ -37367,6 +37370,7 @@
 +.obus-cn.dc.heytapmobi.com
 +.obus-config-cn.heytapmobi.com
 +.obus-dc10-cn.heytapmobi.com
++.obus-dc136101-cn.heytapmobi.com
 +.obus-dc2-cn.heytapmobi.com
 +.obus-dc20058-cn.heytapmobi.com
 +.obus-dc2007-cn.heytapmobi.com
@@ -37374,6 +37378,8 @@
 +.obus-dc20157-cn.heytapmobi.com
 +.obus-dc2020-cn.heytapmobi.com
 +.obus-dctech-cn.heytapmobi.com
++.obus-dcyitai-cn.heytapmobi.com
++.obus-dcyitai-in.heytapmobi.com
 +.obus-jssdk-cn.heytapmobi.com
 +.omes-sec.heytapmobi.com
 +.stat.browser.heytapmobi.com
@@ -41680,14 +41686,15 @@
 +.intimidatingsideway.com
 +.blziha.intimissimi.com
 +.intimlife.net
-+.ecs.nel.measure.office.net.cn.intinfra.com
-+.exo.nel.measure.office.net.cn.intinfra.com
-+.identity.nel.measure.office.net.cn.intinfra.com
-+.m365cdn.nel.measure.office.net.cn.intinfra.com
-+.officehub.nel.measure.office.net.cn.intinfra.com
-+.spo.nel.measure.office.net.cn.intinfra.com
-+.teams.nel.measure.office.net.cn.intinfra.com
-+.wordonline.nel.measure.office.net.cn.intinfra.com
++.ecs.nel.measure.office.net.cz.intinfra.com
++.exo.nel.measure.office.net.cz.intinfra.com
++.exo.nel.measure.office.net.in.intinfra.com
++.identity.nel.measure.office.net.cz.intinfra.com
++.m365cdn.nel.measure.office.net.cz.intinfra.com
++.measure.office.net.cn.intinfra.com
++.officehub.nel.measure.office.net.cz.intinfra.com
++.spo.nel.measure.office.net.cz.intinfra.com
++.teams.nel.measure.office.net.cz.intinfra.com
 +.track.into-giving.com
 +.track.intoglobal.com
 +.intopicmedia.com
@@ -61219,7 +61226,6 @@
 +.pauvoobouchie.net
 +.pauxihypoxia.com
 +.pavdiibdvr.com
-+.appstore.pavla.website
 +.pavwrr.icu
 +.pawgleamed.com
 +.pawheatyous.com
@@ -79035,6 +79041,8 @@
 +.mssdk-i18n.tiktok.com
 +.mssdk.us.tiktok.com
 +.sf16-telemetry-proxy-oci.tiktokcdn-us.com
++.p16-ad-site-sign-sg.tiktokcdn.com
++.p19-ad-site-sign-sg.tiktokcdn.com
 +.tiktokcdn1.xyz
 +.stats.tiktoker.win
 +.log-snssdk.tiktokv-us.com
@@ -85356,6 +85364,7 @@
 +.ru-comort-stsdk.vivoglobal.com
 +.ru-compnrt-stsdk.vivoglobal.com
 +.ru-comprt-stsdk.vivoglobal.com
++.ru-cota.vivoglobal.com
 +.ru-err-up.vivoglobal.com
 +.ru-exstsdk.vivoglobal.com
 +.ru-monitor-stsdk.vivoglobal.com
@@ -90013,7 +90022,6 @@
 +.ad.quickapp.hybrid.xiaomi.com
 +.ad.xiaomi.com
 +.ad1.xiaomi.com
-+.akndora.xiaomi.com
 +.api.ads.xiaomi.com
 +.api.developer.xiaomi.com
 +.api.hybrid.xiaomi.com
@@ -90021,6 +90029,7 @@
 +.api.miui.security.xiaomi.com
 +.api.xmpush.global.xiaomi.com
 +.appstore.cdn.pandora.xiaomi.com
++.appstore.pandora.xiaomi.com
 +.awssgp0-files.fds.api.xiaomi.com
 +.awsusor0-cdn.fds-ssl.api.xiaomi.com
 +.bgp.fe01.c3.xiaomi.com
