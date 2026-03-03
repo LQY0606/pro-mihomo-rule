@@ -1,3 +1,4 @@
++..club
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -10923,6 +10924,7 @@
 +.javheroine.com
 +.javhihi.com
 +.javhip.com
++.javhub.com
 +.javhub.me
 +.javhub.net
 +.javhuge.com
@@ -10960,6 +10962,7 @@
 +.javpub.me
 +.javpush.com
 +.javqd.com
++.javquick.com
 +.javrank.com
 +.javrate.com
 +.javrave.club
@@ -14254,6 +14257,7 @@
 +.ntdtv.org
 +.ntdtvla.com
 +.ntdvn.com
++.nter.com
 +.ntp.ripe.net
 +.ntp0.ntp-servers.net
 +.ntp1.ntp-servers.net
@@ -16997,6 +17001,7 @@
 +.securepaypal.info
 +.secureservercdn.net
 +.securetunnel.com
++.securis.org
 +.securityinabox.org
 +.securitykiss.com
 +.securitypreview.com
@@ -19518,6 +19523,7 @@
 +.txxx.com
 +.txxx1.com
 +.tycool.com
++.tyinabox.org
 +.tyler-brown.com
 +.tyms2022.com
 +.typcn.com
@@ -20648,6 +20654,7 @@
 +.wikia.com
 +.wikia.nocookie.net
 +.wikia.org
++.wikibooklamayeshe.com
 +.wikibooks.org
 +.wikidata.org
 +.wikidot.com
@@ -20882,7 +20889,6 @@
 +.www-paypal.info
 +.www-sms-apple.com
 +.www.destinationurl.com
-+.www.imdb.com
 +.www.msn.com
 +.www.pxcc.com
 +.www1.biz
