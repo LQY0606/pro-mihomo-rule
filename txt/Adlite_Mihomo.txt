@@ -3824,6 +3824,7 @@
 +.acquireuser.com
 +.acquisitionhonestlybough.com
 +.acqwyqfecrlsh.online
++.acr-
 +.acrdfrcfapzvn.site
 +.acredo.space
 +.acreinterstatethe.com
@@ -69056,7 +69057,6 @@
 +.sare25.com
 +.eulerian.sarenza.com
 +.sarrowgrivois.com
-+.sas.com
 +.sas15k01.com
 +.ced.sascdn.com
 +.sashtrizone.com
@@ -80545,7 +80545,6 @@
 +.understated-recognition.pro
 +.understoodocean.com
 +.understoodwestteeth.com
-+.undertone.com
 +.undertow52.top
 +.underwaterexilemovements.com
 +.underwearcrackerprison.com
@@ -87700,8 +87699,12 @@
 +.a.union.xiaomi.com
 +.a0.app.xiaomi.com
 +.activity.hybrid.xiaomi.com
++.ad.cdn.pandora.xiaomi.com
++.ad.eu.xiaomi.com
++.ad.india.xiaomi.com
 +.ad.intl.xiaomi.com
 +.ad.quickapp.hybrid.xiaomi.com
++.ad.rus.xiaomi.com
 +.ad.xiaomi.com
 +.ad1.xiaomi.com
 +.api.ads.xiaomi.com
@@ -87828,9 +87831,6 @@
 +.ru.video.intl.xiaomi.com
 +.ruvideo.cdn.pandora.intl.xiaomi.com
 +.sandbox.xmpush.xiaomi.com
-+.sdkconfig.ad.eu.xiaomi.com
-+.sdkconfig.ad.india.xiaomi.com
-+.sdkconfig.ad.rus.xiaomi.com
 +.secure.report.iss.xiaomi.com
 +.sentry.be.xiaomi.com
 +.sentry.pay.xiaomi.com
@@ -87892,6 +87892,7 @@
 +.xadx.file.market.xiaomi.com
 +.xiazai.xiaomi.com
 +.api.account.preview.n.xiaomi.net
++.api.device.xiaomi.net
 +.api.g.micloud.xiaomi.net
 +.api.micloud.xiaomi.net
 +.bugreport.xiaomi.net
