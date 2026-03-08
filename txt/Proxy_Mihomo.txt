@@ -586,6 +586,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -14003,7 +14004,6 @@
 +.nikeaw77.com
 +.nikeb.com
 +.nikebbn.com
-+.nikebetr+.aaa
 +.nikebetrue.com
 +.nikebetterworld.com
 +.nikebetterworld.info
@@ -16829,6 +16829,7 @@
 +.samsunggalaxyfriends.com
 +.samsunghealth.com
 +.samsungiotcloud.com
++.samsungiots.com
 +.samsungknox.com
 +.samsungosp.com
 +.samsungqbe.com
@@ -17656,6 +17657,7 @@
 +.smartonerobotics.com
 +.smartonesolutions.com.hk
 +.smartonesolutions.hk
++.smartthings.com
 +.smchbooks.com
 +.smhric.org
 +.smm99999.com
@@ -19590,7 +19592,6 @@
 +.udnfunlife.com
 +.udomain.hk
 +.udtrucksmeena.com
-+.ue.com
 +.uflash.tv
 +.ufreevpn.com
 +.ug
