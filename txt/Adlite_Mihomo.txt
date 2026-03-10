@@ -51502,7 +51502,6 @@
 +.msadsscale.microsoft.com
 +.oca.microsoft.com
 +.pipe.aria.microsoft.com
-+.rad.microsoft.com
 +.redir.metaservices.microsoft.com
 +.romeccs.microsoft.com
 +.settings-sandbox.data.microsoft.com
@@ -78972,7 +78971,6 @@
 +.ppc-excel-telemetry.wac.trafficmanager.net
 +.ppc-powerpoint-telemetry.wac.trafficmanager.net
 +.ppc-word-telemetry.wac.trafficmanager.net
-+.sconsentit9.trafficmanager.net
 +.self-events-data.trafficmanager.net
 +.settingsfd-geo.trafficmanager.net
 +.ssp-prod-eastus-nonmutt.trafficmanager.net
