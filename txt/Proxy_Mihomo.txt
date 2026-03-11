@@ -586,6 +586,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -2952,7 +2953,6 @@
 +.biaoqs.xyz
 +.biaoqs1.xyz
 +.biaoqs2.xyz
-+.bibackup.com
 +.bible
 +.biblesforamerica.org
 +.bibliocommons.com
@@ -5783,7 +5783,6 @@
 +.dotplane.com
 +.dotsub.com
 +.dotvpn.com
-+.dou+.aaa
 +.doubibackup.com
 +.doubiyunbackup.com
 +.doubleclick-cn.net
@@ -9903,6 +9902,7 @@
 +.huggingface.co
 +.hughes
 +.huhaitai.com
++.huhamhicom
 +.huhamhire.com
 +.huhangfei.com
 +.huiav.com
@@ -11676,6 +11676,7 @@
 +.ldplayer.net
 +.ldstatic.com
 +.le-direct.tv
++.le-vpn.# NAME: Proxy
 +.le-vpn.com
 +.leafyvpn.net
 +.leaguehighschool.com
@@ -13321,6 +13322,7 @@
 +.mucinex.net
 +.mucinex.tv
 +.mucinexprofessional.com
++.mucire.com
 +.mudbox3d.com
 +.mudfish.net
 +.mudvod.tv
@@ -14640,6 +14642,7 @@
 +.openresty.org
 +.openreview.net
 +.opensource.guide
++.opensourceinsightplunder.com
 +.openssl.org
 +.openstreetmap.com
 +.openstreetmap.net
