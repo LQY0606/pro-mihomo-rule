@@ -1678,7 +1678,6 @@
 +.4yl3e3fmv.com
 +.4z50jczq2.com
 +.4zm6p17ppr.com
-+.5
 +.hmyjoj.5-fifth.com
 +.1.5000yan.com
 +.5008677d85.com
@@ -1945,6 +1944,7 @@
 +.5a5751fd6a.com
 +.5a8a1b39d4.com
 +.5ac36d146b.com
++.5adbjiwp.xyz
 +.5adde1db4b.com
 +.5advertise.com
 +.5azvpjx8xj.com
@@ -3200,7 +3200,6 @@
 +.a89da11668.com
 +.a8aebc73ca.com
 +.a8bea9eb5d.com
-+.a8cv.n
 +.a8h4zhbmxi.com
 +.a8qwjt7dwi.com
 +.cdntest.a8tiyu.com
@@ -40078,7 +40077,6 @@
 +.static.img.imagecdn.cn
 +.imagecutie.com
 +.imagenest.site
-+.images.c
 +.images9999.com
 +.imageshh.com
 +.imageter.com
@@ -50725,7 +50723,7 @@
 +.mbenxfvimvcmf.site
 +.mbfmgrkpaaiqs.space
 +.mbg06251pg.com
-+.mbg06260
++.mbg06260pg.com
 +.mbg06261pg.com
 +.mbg06270pg.com
 +.mbg06271pg.com
@@ -65965,7 +65963,7 @@
 +.quietleaffield.com
 +.quietleafgarden.com
 +.quietstonewalk.com
-+.quietwindpath
++.quietwindpath.com
 +.quihrnucr.xyz
 +.smetrics.quikshiptoner.com
 +.metrics.quiksilver.com
@@ -69862,6 +69860,7 @@
 +.channelusa.samsung.com
 +.dc.di.atlas.samsung.com
 +.dc.dqa.samsung.com
++.ddf.di.atlas.samsung.com
 +.di.runestone.samsung.com
 +.dls-account.di.atlas.samsung.com
 +.dls-ddc.dqa.samsung.com
@@ -70692,6 +70691,7 @@
 +.sectordashboardjaguar.com
 +.marketing.sectra.com
 +.edge.secure-24.com
++.images.cloud.secure-24.com
 +.secureaddisplay.com
 +.secureanalytic.com
 +.sanalytics.securebanklogin.com
