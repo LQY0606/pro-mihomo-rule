@@ -2835,7 +2835,6 @@
 +.berlin
 +.berlincompanions.com
 +.berlintwitterwall.com
-+.best-sex-gam000webhost.com
 +.best-sex-games.com
 +.best3dhere.com
 +.best4bim.com
@@ -2947,7 +2946,6 @@
 +.bh
 +.bharti
 +.bhggn.xyz
-+.bhu.net
 +.bhzyk.buzz
 +.bhzyw2.top
 +.bi
@@ -4852,7 +4850,6 @@
 +.copy-manga.com
 +.copy20.com
 +.copy2000.online
-+.copy2xeldrain.com
 +.coqnu.com
 +.corbinfisher.com
 +.cordcloud.org
@@ -5446,7 +5443,6 @@
 +.didce.com
 +.diddykongracing.com
 +.didilist.com
-+.dier.org
 +.dierectv.com
 +.difangwenge.org
 +.digicert-cn.com
@@ -7272,7 +7268,6 @@
 +.feministteacher.com
 +.femjoy.com
 +.femscat.com
-+.fengzhenges.com
 +.fengzhenghu.com
 +.fengzhenghu.net
 +.feook.com
@@ -16979,7 +16974,6 @@
 +.scnsrc.me
 +.scolle.net
 +.scopus.com
-+.scordsays.com
 +.scoreclassics.com
 +.scorediscounts.club
 +.scoregroup.com
@@ -18973,6 +18967,9 @@
 +.tiktokglobalshopv.com
 +.tiktokrow-cdn.com
 +.tiktokv.com
++.tilda.cc
++.tildaapi.com
++.tildacdn.com
 +.tiltbrush.com
 +.timdir.com
 +.time.com
@@ -19536,7 +19533,6 @@
 +.twnextdigital.com
 +.twoo.com
 +.twporn.net
-+.twreport000.online
 +.twreporter.org
 +.twskype.com
 +.twstar.net
