@@ -4224,7 +4224,6 @@
 +.changeip.org
 +.changp.com
 +.changsa.net
-+.channel+.aaa
 +.channel4.com
 +.channel5.com
 +.channelnewsasia.com
@@ -9913,6 +9912,7 @@
 +.huhangfei.com
 +.huiav.com
 +.huj-pizda.com
++.hul+.aaa
 +.hulkshare.com
 +.huloo.cc
 +.huloo.tv
@@ -11555,6 +11555,7 @@
 +.ksd235qw.com
 +.ksdl.org
 +.ksescortclub.com
++.kshare.com
 +.kspcoin.com
 +.ksyp10.com
 +.ktvu.com
@@ -13871,7 +13872,6 @@
 +.news18.com
 +.newsamerica.com
 +.newsancai.com
-+.newsasia.com
 +.newsblur.com
 +.newschinacomment.org
 +.newschristmasshopping.com
