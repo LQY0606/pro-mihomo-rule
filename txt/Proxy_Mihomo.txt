@@ -586,6 +586,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -9912,7 +9913,6 @@
 +.huhangfei.com
 +.huiav.com
 +.huj-pizda.com
-+.hul+.aaa
 +.hulkshare.com
 +.huloo.cc
 +.huloo.tv
@@ -11555,7 +11555,6 @@
 +.ksd235qw.com
 +.ksdl.org
 +.ksescortclub.com
-+.kshare.com
 +.kspcoin.com
 +.ksyp10.com
 +.ktvu.com
