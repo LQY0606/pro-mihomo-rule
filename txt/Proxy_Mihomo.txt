@@ -14648,6 +14648,7 @@
 +.openlibrary.org
 +.openmaps.org
 +.openreality.com
++.openrec.tv
 +.openresty.org
 +.openreview.net
 +.opensource.guide
@@ -16782,6 +16783,7 @@
 +.s-nbcnews.com
 +.s-rewards.hk
 +.s-xoom.com
++.s.rmimg.com
 +.s.team
 +.s1heng.com
 +.s1s1s1.com
