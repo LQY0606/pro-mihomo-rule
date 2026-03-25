@@ -160,7 +160,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -1322,6 +1321,7 @@
 +.amerikaovozi.com
 +.amerikayidzayn.com
 +.amerikiskhma.com
++.amescapital.com
 +.amex
 +.amfam
 +.amiblockedornot.com
@@ -1613,6 +1613,7 @@
 +.applecard.tv
 +.applecare.cc
 +.applecare.wang
++.applecchg.com.cn
 +.applecensorship.com
 +.applecentre.info
 +.appleclassicipod.com
@@ -2428,6 +2429,7 @@
 +.bartvpn.com
 +.baselinestudy.com
 +.baselinestudy.org
++.basi
 +.basilisk-browser.org
 +.bastillepost.com
 +.bastropfirestone.com
@@ -5334,6 +5336,7 @@
 +.dellprinter.com
 +.dellsupportcenter.com
 +.delltechcenter.com
++.delltechnologi1password.drift.click
 +.delltechnologies.com
 +.delltechnologiescapital.com
 +.delltechnologiesworld.com
@@ -14813,6 +14816,8 @@
 +.ozeex.com
 +.ozodi.org
 +.ozodlik.org
++.ozon.com
++.ozonru.me
 +.ozonusercontent.com
 +.ozvoice.org
 +.ozxw.com
@@ -17881,6 +17886,7 @@
 +.spankwire.com
 +.sparknotes.com
 +.sparkpool.com
++.sparkpool.comomputer.com
 +.spb.com
 +.spcc-sp.com
 +.speakerdeck.com
@@ -19151,6 +19157,7 @@
 +.total
 +.totalmateria.com
 +.totalvpn.com
++.totlisk-browser.org
 +.totoleak.com
 +.tou.tv
 +.touchid.tv
@@ -21091,6 +21098,7 @@
 +.xiaohexie.com
 +.xiaolan.me
 +.xiaoma.org
++.xiaomiflash.com
 +.xiaoou.tv
 +.xiaoshuobb.life
 +.xiaoyaoge.xyz
@@ -21146,6 +21154,7 @@
 +.xmoviesforyou.com
 +.xn--096-4g6em5t.com
 +.xn--11xs86f.icu
++.xn--1jqvh729avzfcy2d8ummib.com
 +.xn--201-4g6em5t.com
 +.xn--202-4g6em5t.com
 +.xn--203-4g6em5t.com
