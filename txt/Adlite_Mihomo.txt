@@ -89296,7 +89296,6 @@
 +.cdn.exp.xiaomi.com
 +.cdn.fds-ssl.api.xiaomi.com
 +.cdn.fds.api.xiaomi.com
-+.cnbj1.fds.api.xiaomi.com
 +.comc4l7.pandora.xiaomi.com
 +.console.admin.xmpush.xiaomi.com
 +.controller.india.xiaomi.com
