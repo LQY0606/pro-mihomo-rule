@@ -160,6 +160,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -1321,7 +1322,6 @@
 +.amerikaovozi.com
 +.amerikayidzayn.com
 +.amerikiskhma.com
-+.amescapital.com
 +.amex
 +.amfam
 +.amiblockedornot.com
@@ -1613,7 +1613,6 @@
 +.applecard.tv
 +.applecare.cc
 +.applecare.wang
-+.applecchg.com.cn
 +.applecensorship.com
 +.applecentre.info
 +.appleclassicipod.com
@@ -2429,7 +2428,6 @@
 +.bartvpn.com
 +.baselinestudy.com
 +.baselinestudy.org
-+.basi
 +.basilisk-browser.org
 +.bastillepost.com
 +.bastropfirestone.com
@@ -4447,6 +4445,7 @@
 +.chuizi.net
 +.chuneo.xyz
 +.chunja19.net
++.chunkbase.com
 +.chuporno.com
 +.churchinhongkong.org
 +.chutuno.fun
@@ -5336,7 +5335,6 @@
 +.dellprinter.com
 +.dellsupportcenter.com
 +.delltechcenter.com
-+.delltechnologi1password.drift.click
 +.delltechnologies.com
 +.delltechnologiescapital.com
 +.delltechnologiesworld.com
@@ -12800,6 +12798,7 @@
 +.minecraft-services.net
 +.minecraft.net
 +.minecraft.wiki
++.minecraftforge.net
 +.minecraftservices.com
 +.minecraftshop.com
 +.mingdemedia.org
@@ -13647,6 +13646,7 @@
 +.nalandabodhi.org
 +.nalandawest.org
 +.name.com
++.namemc.com
 +.namemybeats.com
 +.namethatporn.com
 +.namethatpornad.com
@@ -13958,6 +13958,7 @@
 +.nginx.com
 +.nginx.org
 +.ngodupdongchung.com
++.ngrok-agent.com
 +.ngrok-free.pizza
 +.ngrok.com
 +.ngrok.pizza
@@ -14680,6 +14681,7 @@
 +.optica.org
 +.opticore.com
 +.opticsforthecloud.net
++.optifine.net
 +.optimumssl.com
 +.opus-gaming.com
 +.oracle
@@ -17886,7 +17888,6 @@
 +.spankwire.com
 +.sparknotes.com
 +.sparkpool.com
-+.sparkpool.comomputer.com
 +.spb.com
 +.spcc-sp.com
 +.speakerdeck.com
@@ -17918,6 +17919,7 @@
 +.spideroak.com
 +.spiderpool.com
 +.spiedigitallibrary.org
++.spigotmc.org
 +.spike.com
 +.spiritclubs.com
 +.spiritofecstasy.com
@@ -18596,6 +18598,8 @@
 +.tehrantimes.com
 +.telebay.com
 +.telecomspace.com
++.telega.info
++.telega.me
 +.telega.one
 +.telegram-cdn.org
 +.telegram-porn.com
@@ -19157,7 +19161,6 @@
 +.total
 +.totalmateria.com
 +.totalvpn.com
-+.totlisk-browser.org
 +.totoleak.com
 +.tou.tv
 +.touchid.tv
