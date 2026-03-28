@@ -9205,7 +9205,6 @@
 +.in.applicationinsights.azure.cn
 +.live.applicationinsights.azure.cn
 +.applicationinsights.azure.com
-+.azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 +.inference-app-gateway.eastus2.cloudapp.azure.com
 +.inference-app-gateway.koreacentral.cloudapp.azure.com
 +.inference-app-gateway.northeurope.cloudapp.azure.com
@@ -78816,6 +78815,7 @@
 +.location-v6-ttp2.tiktokv.eu
 +.locationv16-normal-useastred.tiktokv.eu
 +.log32-normal-no1a.tiktokv.eu
++.log32-normal-useastred.tiktokv.eu
 +.mon.tiktokv.eu
 +.rtc-logger-ie.tiktokv.eu
 +.rtc-logger16-normal-useastred.tiktokv.eu
@@ -84960,6 +84960,7 @@
 +.asia-vcode-or.vivoglobal.com
 +.asia-vpushonrt-stsdk.vivoglobal.com
 +.asia-vpushort-stsdk.vivoglobal.com
++.au-vcode-od.vivoglobal.com
 +.br-p.vivoglobal.com
 +.cl-vcode-od.vivoglobal.com
 +.cname-ali-asia-stsdk.vivoglobal.com
