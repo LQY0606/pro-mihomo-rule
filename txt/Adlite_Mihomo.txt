@@ -36484,7 +36484,6 @@
 +.img-c.heytapimage.com
 +.ums-rum-cn.heytapimage.com
 +.ums-rum-global.heytapimage.com
-+.obus-config-cn.heytapmob.com
 +.ads.heytapmobi.com
 +.adx.ads.heytapmobi.com
 +.album-cn01a.ocloud.heytapmobi.com
@@ -36510,6 +36509,7 @@
 +.logforward.browser.heytapmobi.com
 +.mdp-usertrace-cn.heytapmobi.com
 +.obus-cn.dc.heytapmobi.com
++.obus-config-cn.heytapmobi.com
 +.obus-dc10-cn.heytapmobi.com
 +.obus-dc136101-cn.heytapmobi.com
 +.obus-dc2-cn.heytapmobi.com
@@ -46336,7 +46336,6 @@
 +.kyxonasaiwycf.site
 +.kyxvadysubfeu.online
 +.technical.kyzen.com
-+.kz.lgsmartad
 +.jtqg.kz8tr2.cn
 +.kzagvdulumvgl.site
 +.kzampgfftpiao.online
@@ -47625,6 +47624,7 @@
 +.kr.lgsmartad.com
 +.kw.lgsmartad.com
 +.ky.lgsmartad.com
++.kz.lgsmartad.com
 +.lb.lgsmartad.com
 +.lc.lgsmartad.com
 +.lgsmartad.com
