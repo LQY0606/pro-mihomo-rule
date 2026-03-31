@@ -38709,6 +38709,7 @@
 +.sdn.hzxma.com
 +.hzyrtyxsarscw.online
 +.hzyuw.com
++.i
 +.smetrics.i-law.com
 +.a8.i-netservice.net
 +.cnebis.i-no-science.com
@@ -48194,8 +48195,8 @@
 +.template.liusha.info
 +.fan.liuxiaoer.com
 +.xi.liuxiaoer.com
++.cdn.img.liuxingyul.c
 +.cdn.app.liuxingyul.cn
-+.cdn.img.liuxingyul.cn
 +.adbd.liuxue86.com
 +.liuxuedang.org
 +.live-desire.pro
@@ -63084,7 +63085,6 @@
 +.ponk.pro
 +.aa-metrics.ponparemall.com
 +.ponteehealed.shop
-+.a8track.www.pontely.com
 +.pontxukybocim.icu
 +.ponxhbrsrkiah.online
 +.ponyzvyvglssw.online
@@ -67879,7 +67879,6 @@
 +.conduit.redfast.com
 +.redfastlabs.com
 +.pxmzlk.redfin.com
-+.insight.redflashgroup.com
 +.go.redgifs.com
 +.pixel.redgifs.com
 +.elq.redhat.com
@@ -70389,6 +70388,7 @@
 +.rzyrbqbmhhnrm.online
 +.rzzgcjfxnjbqzb.com
 +.rzzwgowiotgft.online
++.s
 +.s-adzone.com
 +.a8cv.s-darts.com
 +.aa-metrics.s-lms.net
@@ -72939,7 +72939,7 @@
 +.signaturepod.com
 +.signaturewoundedgraduation.com
 +.signcalamity.com
-+.signedquick.com
++.signedqui
 +.significanceoutmatch.com
 +.significantrapid.com
 +.acc.info.lumxpert.signify.com
