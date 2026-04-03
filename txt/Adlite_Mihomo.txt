@@ -36773,6 +36773,7 @@
 +.logforward.browser.heytapmobi.com
 +.mdp-usertrace-cn.heytapmobi.com
 +.obus-cn.dc.heytapmobi.com
++.obus-config-cn.heytapmobi.com
 +.obus-dc10-cn.heytapmobi.com
 +.obus-dc136101-cn.heytapmobi.com
 +.obus-dc2-cn.heytapmobi.com
@@ -36826,6 +36827,7 @@
 +.browser-sdk-ru.heytapmobile.com
 +.browserfiles.heytapmobile.com
 +.bsf.sc.heytapmobile.com
++.bsp-di-in.heytapmobile.com
 +.cldata-ads-fr.heytapmobile.com
 +.cldata-ads-ru.heytapmobile.com
 +.cloudi-in.browser.heytapmobile.com
@@ -58385,7 +58387,6 @@
 +.obtzvqjbymccv.space
 +.obuiurpkd.xyz
 +.obumlnwrmmewj.site
-+.obus-config-cn.heytapmob
 +.ad.obuy.tw
 +.obv3epx22d.com
 +.obvdcylwtpaaa.tech
@@ -86329,6 +86330,7 @@
 +.sslmetrics.vivint.com
 +.vivistats.com
 +.vivmxawi.xyz
++.adlog.vivo.com
 +.ads-api.vivo.com
 +.bhwkju.vivo.com
 +.vivocha.com
