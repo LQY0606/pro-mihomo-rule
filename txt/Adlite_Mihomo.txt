@@ -4108,7 +4108,7 @@
 +.adhub.digital
 +.adhub.media
 +.display.adhudong.com
-+.adhunt.net
++.adhun
 +.adi
 +.grzhwl.adiamor.com
 +.sa.adidas.cn
@@ -41205,9 +41205,9 @@
 +.secure.instinct-52.com
 +.instinctiveicilywan.com
 +.instinctradiatorrook.com
++.instit
 +.institutehopelessbeck.com
 +.institution2.com
-+.institutionnounreverend.com
 +.link.instnt.com
 +.instore.biz
 +.instreamatic.com
