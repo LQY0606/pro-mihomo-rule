@@ -4108,7 +4108,7 @@
 +.adhub.digital
 +.adhub.media
 +.display.adhudong.com
-+.adhun
++.adhunt.net
 +.adi
 +.grzhwl.adiamor.com
 +.sa.adidas.cn
@@ -8068,6 +8068,7 @@
 +.arwdcrdpiwinc.site
 +.arwzkwivqjrhk.online
 +.m.arxnfj14120.cn
++.as
 +.metrics.as.com
 +.smetrics.as.com
 +.as3.io
@@ -8273,7 +8274,6 @@
 +.astarsbuilding.com
 +.asteandstilll.org
 +.marketing.astecsolutions.com
-+.astelicbanes.com
 +.astelyytter.shop
 +.marketing.asteracu.com
 +.asterbiscusys.com
@@ -17487,7 +17487,6 @@
 +.dw55pg05c2rl5.cloudfront.net
 +.dw7vmlojkx16k.cloudfront.net
 +.dw85st0ijc8if.cloudfront.net
-+.dw9uc6c6b8nwx.cloudfront.net
 +.dwd11wtouhmea.cloudfront.net
 +.dwebwj8qthne8.cloudfront.net
 +.dwene4pgj0r33.cloudfront.net
@@ -24636,6 +24635,7 @@
 +.dvywlnnovzffq.site
 +.dvzycytrxbxav.space
 +.partner.dw.com
++.dw9uc6c6b
 +.dwaahxilojujo.website
 +.dwalhkbrywnaw.site
 +.dwamhdnllmhwu.site
@@ -41205,9 +41205,9 @@
 +.secure.instinct-52.com
 +.instinctiveicilywan.com
 +.instinctradiatorrook.com
-+.instit
 +.institutehopelessbeck.com
 +.institution2.com
++.institutionnounreverend.com
 +.link.instnt.com
 +.instore.biz
 +.instreamatic.com
@@ -61381,7 +61381,6 @@
 +.marketing.palettesoftware.com
 +.palibs.tech
 +.ahngxh.palladiumhotelgroup.com
-+.data.clientes.palladiumhotelgroup.com
 +.data.cx.palladiumhotelgroup.com
 +.data.grandpalladium.palladiumhotelgroup.com
 +.data.hardrock.palladiumhotelgroup.com
