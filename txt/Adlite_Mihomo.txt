@@ -76,6 +76,7 @@
 +.e.0531mnk.net
 +.m.0531mnk.net
 +.05420795.xyz
++.e.0544yh.cn
 +.m.0544yh.cn
 +.05454674.xyz
 +.054ii.com
@@ -3725,7 +3726,6 @@
 +.acquisitioncarefully.com
 +.acquisitionhonestlybough.com
 +.acqwyqfecrlsh.online
-+.acr-eu
 +.acrdfrcfapzvn.site
 +.acredo.space
 +.acreinterstatethe.com
@@ -21378,6 +21378,7 @@
 +.tr.dec-connect.decsuite.com
 +.ad.dedecms.com
 +.stat.dedecms.com
++.marketing.dedicated-db.com
 +.dedicatedmedia.com
 +.dedicatednetworks.com
 +.dedicateimaginesoil.com
@@ -41492,6 +41493,7 @@
 +.jsecoin.com
 +.api.jsfc8.cn
 +.jsfeedadsget.com
++.jsffbqcv.com
 +.jsfuz.com
 +.jsgdrxwawuzvs.online
 +.jsgo979.com
@@ -48476,7 +48478,6 @@
 +.marketgid.com
 +.markethealth.com
 +.tracking.markethero.io
-+.marketing.dedica
 +.marketingcloudfx.com
 +.marketing.marketinggeneral.com
 +.marketizator.com
@@ -57863,8 +57864,8 @@
 +.osiaffiliate.com
 +.osibqbwajdoqj.site
 +.stats.osiemsiedem.com
-+.osignam
 +.osignaments.org
++.osignamentsw.org
 +.osigquwnvunsj.top
 +.osiseouvxbgzj.online
 +.ositracker.com
