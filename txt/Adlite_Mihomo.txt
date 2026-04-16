@@ -12410,7 +12410,6 @@
 +.bossybeach.pro
 +.bossyhearing.com
 +.plausible.bostad.shop
-+.boste
 +.smetrics.boston.com
 +.zmetrics.boston.com
 +.stats.bostonedtech.org
@@ -34672,7 +34671,6 @@
 +.cloudconf-app-ae.heytapmobile.com
 +.cloudconf-app-af.heytapmobile.com
 +.cloudconf-app-al.heytapmobile.com
-+.cloudconf-app-apc.heytapmobile.com
 +.cloudconf-app-ar.heytapmobile.com
 +.cloudconf-app-at.heytapmobile.com
 +.cloudconf-app-au.heytapmobile.com
@@ -34688,7 +34686,6 @@
 +.cloudconf-app-by.heytapmobile.com
 +.cloudconf-app-ca.heytapmobile.com
 +.cloudconf-app-ch.heytapmobile.com
-+.cloudconf-app-chl.heytapmobile.com
 +.cloudconf-app-cl.heytapmobile.com
 +.cloudconf-app-co.heytapmobile.com
 +.cloudconf-app-cr.heytapmobile.com
@@ -34701,7 +34698,6 @@
 +.cloudconf-app-eg.heytapmobile.com
 +.cloudconf-app-es.heytapmobile.com
 +.cloudconf-app-eu.heytapmobile.com
-+.cloudconf-app-euex.heytapmobile.com
 +.cloudconf-app-fi.heytapmobile.com
 +.cloudconf-app-fr.heytapmobile.com
 +.cloudconf-app-gb.heytapmobile.com
@@ -34726,7 +34722,6 @@
 +.cloudconf-app-kw.heytapmobile.com
 +.cloudconf-app-kz.heytapmobile.com
 +.cloudconf-app-la.heytapmobile.com
-+.cloudconf-app-latam.heytapmobile.com
 +.cloudconf-app-lb.heytapmobile.com
 +.cloudconf-app-lk.heytapmobile.com
 +.cloudconf-app-ly.heytapmobile.com
@@ -34741,12 +34736,8 @@
 +.cloudconf-app-no.heytapmobile.com
 +.cloudconf-app-np.heytapmobile.com
 +.cloudconf-app-nz.heytapmobile.com
-+.cloudconf-app-oc.heytapmobile.com
-+.cloudconf-app-oca.heytapmobile.com
 +.cloudconf-app-om.heytapmobile.com
-+.cloudconf-app-other.heytapmobile.com
 +.cloudconf-app-pe.heytapmobile.com
-+.cloudconf-app-per.heytapmobile.com
 +.cloudconf-app-ph.heytapmobile.com
 +.cloudconf-app-pk.heytapmobile.com
 +.cloudconf-app-pl.heytapmobile.com
@@ -34754,7 +34745,6 @@
 +.cloudconf-app-pt.heytapmobile.com
 +.cloudconf-app-qa.heytapmobile.com
 +.cloudconf-app-ro.heytapmobile.com
-+.cloudconf-app-row.heytapmobile.com
 +.cloudconf-app-rs.heytapmobile.com
 +.cloudconf-app-ru.heytapmobile.com
 +.cloudconf-app-sa.heytapmobile.com
@@ -48544,7 +48534,6 @@
 +.lzzjrwiozkscv.site
 +.03.lzzncm.com
 +.04.lzzncm.com
-+.m
 +.marketing.m-m.net
 +.m-pathy.com
 +.m-rtb.com
@@ -83842,6 +83831,7 @@
 +.uypseejbouqn.com
 +.uypxstulrm.xyz
 +.uyqvcgisq.com
++.uyqwpnspgadkq.site
 +.uyqx.cn
 +.uyriroadwtdwu.space
 +.uyrolbvqcbrot.site
@@ -84529,6 +84519,7 @@
 +.emails.verishop.com
 +.request.verisign.com
 +.smetrics.verisign.com
++.forms.verisigninc.com
 +.campaigns.verisk.com
 +.mws.verisk.com
 +.my.verisk.com
@@ -85498,6 +85489,7 @@
 +.ex-romsp-unifyconfig.vivoglobal.com
 +.id-analyzer-appstore.vivoglobal.com
 +.id-third-appstore.vivoglobal.com
++.il-vcode-od.vivoglobal.com
 +.in-ad-mkt-vivofs.vivoglobal.com
 +.in-adlog.vivoglobal.com
 +.in-adreq.vivoglobal.com
@@ -90613,6 +90605,7 @@
 +.bgp.fe01.c3.xiaomi.com
 +.bgp.tv.pandora.xiaomi.com
 +.bigdata-lbs-pri-c3.alb.xiaomi.com
++.bossadmin.pandora.xiaomi.com
 +.box.pandora.xiaomi.com
 +.bsp.sasdc.pandora.xiaomi.com
 +.bss.pandora.xiaomi.com
@@ -90648,7 +90641,6 @@
 +.extranet.eu-east-1.miui-l7-feedback.c7qiwffdmn.elb.xiaomi.com
 +.extranet.eu-east-1.miui-l7-feedback.fvlyh0lisv.elb.xiaomi.com
 +.file.cdn.mvideo.xiaomi.com
-+.forms.versadmin.pandora.xiaomi.com
 +.fr-api.xmpush.global.xiaomi.com
 +.fr-register.xmpush.global.xiaomi.com
 +.fr.feedback.xmpush.global.xiaomi.com
