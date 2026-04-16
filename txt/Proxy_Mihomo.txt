@@ -5053,6 +5053,7 @@
 +.daftsex.com
 +.dagfs.com
 +.dahlmessenger.com
++.dailegsjapan.com
 +.dailidaili.com
 +.dailybasis.com
 +.dailymail.com
@@ -12425,7 +12426,6 @@
 +.metartnetwork.com
 +.metcams.com
 +.meteorshowersonline.com
-+.metro.ngtonpost.com
 +.metrohk.com.hk
 +.metroradio.com.hk
 +.metrotoons.com
@@ -13431,7 +13431,7 @@
 +.nakedmodelsxxx.com
 +.nakednews.com
 +.nakido.com
-+.nakuztaipei
++.nakuz.com
 +.nalandabodhi.org
 +.nalandawest.org
 +.name.com
@@ -13442,7 +13442,6 @@
 +.namgyal.org
 +.namgyalmonastery.org
 +.namu.wiki
-+.nan-n.com
 +.nan-net.com
 +.nanopool.org
 +.nanyang.com
@@ -14153,6 +14152,7 @@
 +.nvidiagrid.net
 +.nvquan.org
 +.nvtongzhisheng.org
++.nvymotion.com
 +.nwtca.org
 +.nwxs8.com
 +.nxta.org
@@ -14288,7 +14288,6 @@
 +.oldhornymilfs.com
 +.oldje.com
 +.olehd.com
-+.olehdtv.cet.com
 +.olehdtv.com
 +.olelive.com
 +.olemovienews.com
@@ -16767,7 +16766,6 @@
 +.sego8.co
 +.sego8.xyz
 +.sehuatang.net
-+.sehuatang.netv.roucdn
 +.sehuatang.org
 +.seiroganmania.com
 +.seiron-sankei.com
@@ -17218,6 +17216,7 @@
 +.silicagame.com
 +.silicon-mobility.com
 +.siliconmobility.com
++.siliconmobility.comngtonpost.com
 +.silkbook.com
 +.silkengirl.com
 +.silverchair-cdn.com
@@ -17946,6 +17945,7 @@
 +.sulian.me
 +.sulwerphoto.com
 +.summify.com
++.sumo.com
 +.sumomo-ch.com
 +.sumrando.com
 +.sun.com
@@ -19502,6 +19502,7 @@
 +.uz
 +.v-av.com
 +.v-has.com
++.v.roucdn
 +.v2.help
 +.v2.hysteria.network
 +.v2ex.co
