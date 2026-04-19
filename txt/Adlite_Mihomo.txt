@@ -15453,7 +15453,6 @@
 +.bnc.chewchunks.com
 +.m.chexiw.com
 +.marketing.cheyenne.org
-+.z1.chezhuzhinan.com
 +.tr.news.chezmonveto.com
 +.chezoams.com
 +.chfpgcbe.com
@@ -16401,7 +16400,6 @@
 +.7xi9g1.com1.z0.glb.clouddn.com
 +.7xsf3h.com1.z0.glb.clouddn.com
 +.p2sdmkj6t.bkt.clouddn.com
-+.smetrics.cloudera.com
 +.cloudflane.com
 +.csp-reporting.cloudflare.com
 +.data.em2.cloudflare.com
@@ -26235,7 +26233,7 @@
 +.spread.epoolers.com
 +.photo.epowuxiao.cn
 +.epqcgcxkfymlj.site
-+.epqitbarjxwic.site
++.epqitb
 +.epqpwmkldycwt.website
 +.tracking.epredia.com
 +.eprgsfzkoakpj.site
@@ -60672,7 +60670,6 @@
 +.peanutsoutage.shop
 +.pearcryptic.com
 +.tag.pearldiver.io
-+.smetrics.pearlevision.com
 +.eo.pearlinsurance.com
 +.pla.pearlinsurance.com
 +.ple.pearlinsurance.com
@@ -72135,7 +72132,7 @@
 +.shauladubhe.top
 +.shaumtol.com
 +.shaunsockip.net
-+.shaursar.net
++.shaursar.n
 +.shaveeps.net
 +.shavingwitchcraft.com
 +.shaxiq.com
@@ -73615,6 +73612,7 @@
 +.smemsbyitdrri.website
 +.smenqskfmpfxnb.bid
 +.smethekylin.com
++.smetrics.pearlevisi
 +.smglvclyfsfbt.website
 +.smgru.net
 +.smheyshqkrwms.online
@@ -86135,6 +86133,7 @@
 +.tr-vcode-or.vivoglobal.com
 +.tr-weather.vivoglobal.com
 +.uk-timesync.vivoglobal.com
++.xn--ex-adreq-asa-c5b.vivoglobal.com
 +.xn-ex-adreq-asa-c5b.vivoglobal.com
 +.za-p.vivoglobal.com
 +.zasc-cota.vivoglobal.com
@@ -94475,6 +94474,7 @@
 +.z0rto0758.com
 +.z0u6tmmudb.com
 +.z0vogb8ns.com
++.z1.c
 +.z198vxfuy3.com
 +.z1e2vp1gw.com
 +.z1el6lgol.com
