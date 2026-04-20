@@ -564,7 +564,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -995,6 +994,7 @@
 +.akamai-access.com
 +.akamai-access.net
 +.akamai-cdn.com
++.akamai-platf+.aaa
 +.akamai-platform-internal.net
 +.akamai-platform-staging.com
 +.akamai-platform.net
@@ -14493,6 +14493,7 @@
 +.orithegame.com
 +.orkut.com
 +.orlandohurricane.com
++.orm-internal.net
 +.orsm.net
 +.orthopaedic-cadcam.com
 +.orthotics-cadcam.com
