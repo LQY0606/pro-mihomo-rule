@@ -6789,6 +6789,7 @@
 +.rcm-na.amazon-adsystem.com
 +.s-fe.amazon-adsystem.com
 +.s.amazon-adsystem.com
++.sponsored-ads-fe.amazon-adsystem.com
 +.sq-tungsten-ts-eu.amazon-adsystem.com
 +.sq-tungsten-ts-fe.amazon-adsystem.com
 +.sq-tungsten-ts.amazon-adsystem.com
@@ -11928,6 +11929,7 @@
 +.blocksfeathers.com
 +.blocksly.org
 +.blocwhite7.com
++.blog
 +.js.blog-daka.com
 +.blog-stat.com
 +.blog104.com
@@ -13582,10 +13584,10 @@
 +.bwgbqdhuyvkqu.site
 +.bwghuhtlt.com
 +.bwhhcuikrgvhs.online
++.bwi
 +.img.bwin.com
 +.img.simply.bwin.com
 +.simg.bwin.com
-+.bwin2808.com
 +.bwinpartypartners.com
 +.bwkfevvdrwevl.website
 +.bwknpebhbfyvv.online
@@ -15481,6 +15483,7 @@
 +.cheqzone.com
 +.cherriescare.com
 +.cherriesprospectsfaith.com
++.analytics.cherry-ai.com
 +.cherrya04.top
 +.cherrytv.media
 +.dxrkvm.cheryls.com
@@ -47352,6 +47355,7 @@
 +.marketgid.com
 +.markethealth.com
 +.tracking.markethero.io
++.marketing.adept-
 +.marketingcloudfx.com
 +.marketing.marketinggeneral.com
 +.marketizator.com
