@@ -11929,7 +11929,6 @@
 +.blocksfeathers.com
 +.blocksly.org
 +.blocwhite7.com
-+.blog
 +.js.blog-daka.com
 +.blog-stat.com
 +.blog104.com
@@ -13584,10 +13583,10 @@
 +.bwgbqdhuyvkqu.site
 +.bwghuhtlt.com
 +.bwhhcuikrgvhs.online
-+.bwi
 +.img.bwin.com
 +.img.simply.bwin.com
 +.simg.bwin.com
++.bwin2808.com
 +.bwinpartypartners.com
 +.bwkfevvdrwevl.website
 +.bwknpebhbfyvv.online
@@ -13805,7 +13804,6 @@
 +.c212.net
 +.c21x8nmdak.com
 +.c2b92903fa.com
-+.metrics.c2fo.com
 +.smetrics.c2fo.com
 +.c33fd93ed8.com
 +.c3j7rk-rtbix.top
@@ -44140,6 +44138,7 @@
 +.lcyt.info
 +.lczcvvcxgmqdl.website
 +.lczk.cn
++.lcztnn.asics-trad
 +.ldbwxo.cn
 +.ldfr-cloud.net
 +.unhold.ldgjhd.net
@@ -47355,7 +47354,6 @@
 +.marketgid.com
 +.markethealth.com
 +.tracking.markethero.io
-+.marketing.adept-
 +.marketingcloudfx.com
 +.marketing.marketinggeneral.com
 +.marketizator.com
@@ -48422,6 +48420,7 @@
 +.metredesculic.com
 +.metrefluke.com
 +.metreoutlet.com
++.metri
 +.metriayetts.com
 +.metrica-yandex.com
 +.metricode.com
