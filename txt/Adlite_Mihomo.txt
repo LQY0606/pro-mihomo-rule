@@ -11774,6 +11774,7 @@
 +.bkzctvajpyoxk.space
 +.bkzmxjqfnpmnz.site
 +.bkzojuncitbqa.space
++.bl
 +.bl230126pb.com
 +.ddome-tag.blablacar.com
 +.t.blablacar.com
@@ -12108,7 +12109,6 @@
 +.acton.bluetreesystems.com
 +.apply.bluetrustloans.com
 +.bestinfo.bluetrustloans.com
-+.bluevinebooks.com
 +.beyond.bluewolf.com
 +.image.success.bluewolf.com
 +.bluffappend.com
@@ -13380,8 +13380,6 @@
 +.bcjxf.bugsevent.com
 +.bugsnag.com
 +.bugtags.com
-+.exo.nel.measure.office.net.sw.buhl-data.com
-+.teams.nel.measure.office.net.sw.buhl-data.com
 +.buhvjv.icu
 +.pdmsmrt.buick.com
 +.buiimifrliflc.website
@@ -15628,7 +15626,6 @@
 +.hvdt8.chimeratool.com
 +.china-caa.org
 +.china-oxygen.cn
-+.t6.china-xian.com
 +.c1.china.cn
 +.log.china.cn
 +.dvs.china.com
@@ -39256,10 +39253,6 @@
 +.intimidatingsideway.com
 +.blziha.intimissimi.com
 +.intimlife.net
-+.measure.office.net.cn.intinfra.com
-+.measure.office.net.cz.intinfra.com
-+.measure.office.net.in.intinfra.com
-+.measure.office.net.us.intinfra.com
 +.track.into-giving.com
 +.track.intoglobal.com
 +.intopicmedia.com
@@ -73908,6 +73901,7 @@
 +.dtlog.szy.cn
 +.szyr474.com
 +.rsas.szzek.com
++.t
 +.t-analytics.com
 +.collector.t-idr.com
 +.data.accounts.t-mobile.com
@@ -83019,6 +83013,7 @@
 +.tr-onrt-stsdk.vivoglobal.com
 +.tr-ort-stsdk.vivoglobal.com
 +.tr-p.vivoglobal.com
++.tr-pnrt-stsdk.vivoglobal.com
 +.tr-romsp-unifyconfig.vivoglobal.com
 +.tr-st-sl.vivoglobal.com
 +.tr-st-sysupgrade.vivoglobal.com
