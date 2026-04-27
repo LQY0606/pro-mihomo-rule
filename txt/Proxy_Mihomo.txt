@@ -564,7 +564,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -5236,6 +5235,7 @@
 +.dell.com
 +.dell.com.co
 +.dell.com.hk
++.dell.com.s.com
 +.dell.net
 +.dell.tv
 +.dellcdn.com
@@ -5282,6 +5282,7 @@
 +.desertbmw.com
 +.design-ledrev.com
 +.design-ledrevolution.com
++.designeriphonescase+.aaa
 +.designeriphonescases.com
 +.designledrevolution.com
 +.designsformovement.com
@@ -9792,6 +9793,7 @@
 +.hungryclit.com
 +.huobi.co
 +.huobi.com
++.huobi.lcy
 +.huobi.me
 +.huobi.pro
 +.huobiasia.vip
@@ -11889,6 +11891,7 @@
 +.lrip.org
 +.lrysgee.xyz
 +.ls
++.lsatrip.com
 +.lsawards.com
 +.lsd.org.hk
 +.lsforum.net
@@ -13166,6 +13169,7 @@
 +.musicbay.net
 +.musicbrainz.org
 +.musickit.net
++.musin.com
 +.musixmatch.com
 +.muslimvideo.com
 +.muthead.com
@@ -17205,6 +17209,7 @@
 +.siddharthasintent.org
 +.sidelinesnews.com
 +.sidelinessportseatery.com
++.siege-amazoethalhardcore.com
 +.siege-amazon.com
 +.sierrafriendsoftibet.org
 +.sifangclub.com
@@ -17508,6 +17513,7 @@
 +.sonicbbs.cc
 +.sonidodelaesperanza.org
 +.sonorousporn.com
++.sons.com
 +.sony
 +.sony-africa.com
 +.sony-asia.com
@@ -20005,6 +20011,7 @@
 +.vpnbook.com
 +.vpncomparison.org
 +.vpncoupons.com
++.vpncoupxmatch.com
 +.vpncup.com
 +.vpndada.com
 +.vpnfan.com
