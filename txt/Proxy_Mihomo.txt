@@ -564,6 +564,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1810,6 +1811,7 @@
 +.asmhentai.com
 +.asminternational.org
 +.asmrbuluo.com
++.asn-online.oet
 +.asn-online.org
 +.asobostudio.com
 +.asp-cc.com
@@ -5235,7 +5237,6 @@
 +.dell.com
 +.dell.com.co
 +.dell.com.hk
-+.dell.com.s.com
 +.dell.net
 +.dell.tv
 +.dellcdn.com
@@ -5282,7 +5283,6 @@
 +.desertbmw.com
 +.design-ledrev.com
 +.design-ledrevolution.com
-+.designeriphonescase+.aaa
 +.designeriphonescases.com
 +.designledrevolution.com
 +.designsformovement.com
@@ -6077,6 +6077,7 @@
 +.ebayinc.com
 +.ebayinc.net
 +.ebayinc.org
++.ebayincconne000webhost.com
 +.ebayincconnectedcommerce.net
 +.ebayinkblog.com
 +.ebayinternetsalestax.com
@@ -6969,6 +6970,7 @@
 +.fapello.com
 +.faperoni.com
 +.fapforfun.net
++.faphao.com
 +.faphdporn.com
 +.faphouse.com
 +.fapmovz.com
@@ -7120,6 +7122,7 @@
 +.feipang.link
 +.feitian-california.org
 +.feitianacademy.org
++.feixiaoctedcommerce.net
 +.feixiaohao.com
 +.femalefounderscomp.com
 +.femalestars.com
@@ -8862,6 +8865,7 @@
 +.happy-vpn.com
 +.happymeal.com
 +.happymealdigital.com
++.happysrv.# NAME: Proxy
 +.haproxy.org
 +.hardcore-sex-filme.com
 +.hardcoregayblog.com
@@ -9793,7 +9797,6 @@
 +.hungryclit.com
 +.huobi.co
 +.huobi.com
-+.huobi.lcy
 +.huobi.me
 +.huobi.pro
 +.huobiasia.vip
@@ -11891,7 +11894,6 @@
 +.lrip.org
 +.lrysgee.xyz
 +.ls
-+.lsatrip.com
 +.lsawards.com
 +.lsd.org.hk
 +.lsforum.net
@@ -13169,7 +13171,6 @@
 +.musicbay.net
 +.musicbrainz.org
 +.musickit.net
-+.musin.com
 +.musixmatch.com
 +.muslimvideo.com
 +.muthead.com
@@ -14881,6 +14882,7 @@
 +.pccw.com
 +.pccwglobal.com
 +.pccwsolutions.com
++.pcelebs.com
 +.pcgamestorrents.com
 +.pcij.org
 +.pcloud.com
@@ -17209,7 +17211,6 @@
 +.siddharthasintent.org
 +.sidelinesnews.com
 +.sidelinessportseatery.com
-+.siege-amazoethalhardcore.com
 +.siege-amazon.com
 +.sierrafriendsoftibet.org
 +.sifangclub.com
@@ -17513,7 +17514,6 @@
 +.sonicbbs.cc
 +.sonidodelaesperanza.org
 +.sonorousporn.com
-+.sons.com
 +.sony
 +.sony-africa.com
 +.sony-asia.com
@@ -19843,6 +19843,7 @@
 +.visualstudio.co
 +.visualstudio.com
 +.visualstudio.net
++.vit.com
 +.vital247.org
 +.vitukali.com
 +.viu.com
@@ -20011,7 +20012,6 @@
 +.vpnbook.com
 +.vpncomparison.org
 +.vpncoupons.com
-+.vpncoupxmatch.com
 +.vpncup.com
 +.vpndada.com
 +.vpnfan.com
@@ -20138,6 +20138,7 @@
 +.wandan-dh.buzz
 +.wanderinghorse.net
 +.wanduww.buzz
++.wangafu.n000webhost.com
 +.wangafu.net
 +.wangjinbo.org
 +.wanglixiong.com
@@ -21364,6 +21365,7 @@
 +.yaoliuno.fun
 +.yaoyaomumu.com
 +.yaptube.com
++.yarg
 +.yarininsuyu.com
 +.yarnpkg.com
 +.yasarang.net
