@@ -1811,7 +1811,6 @@
 +.asmhentai.com
 +.asminternational.org
 +.asmrbuluo.com
-+.asn-online.oet
 +.asn-online.org
 +.asobostudio.com
 +.asp-cc.com
@@ -6077,7 +6076,6 @@
 +.ebayinc.com
 +.ebayinc.net
 +.ebayinc.org
-+.ebayincconne000webhost.com
 +.ebayincconnectedcommerce.net
 +.ebayinkblog.com
 +.ebayinternetsalestax.com
@@ -6970,7 +6968,6 @@
 +.fapello.com
 +.faperoni.com
 +.fapforfun.net
-+.faphao.com
 +.faphdporn.com
 +.faphouse.com
 +.fapmovz.com
@@ -7122,7 +7119,6 @@
 +.feipang.link
 +.feitian-california.org
 +.feitianacademy.org
-+.feixiaoctedcommerce.net
 +.feixiaohao.com
 +.femalefounderscomp.com
 +.femalestars.com
@@ -8865,7 +8861,6 @@
 +.happy-vpn.com
 +.happymeal.com
 +.happymealdigital.com
-+.happysrv.# NAME: Proxy
 +.haproxy.org
 +.hardcore-sex-filme.com
 +.hardcoregayblog.com
@@ -14882,7 +14877,6 @@
 +.pccw.com
 +.pccwglobal.com
 +.pccwsolutions.com
-+.pcelebs.com
 +.pcgamestorrents.com
 +.pcij.org
 +.pcloud.com
@@ -19446,6 +19440,7 @@
 +.uplynk.com
 +.upornia.com
 +.uproxy.org
++.upsangel.com
 +.uptodown.com
 +.upwill.org
 +.upwork.com
@@ -19843,7 +19838,6 @@
 +.visualstudio.co
 +.visualstudio.com
 +.visualstudio.net
-+.vit.com
 +.vital247.org
 +.vitukali.com
 +.viu.com
@@ -20138,7 +20132,6 @@
 +.wandan-dh.buzz
 +.wanderinghorse.net
 +.wanduww.buzz
-+.wangafu.n000webhost.com
 +.wangafu.net
 +.wangjinbo.org
 +.wanglixiong.com
@@ -21365,7 +21358,6 @@
 +.yaoliuno.fun
 +.yaoyaomumu.com
 +.yaptube.com
-+.yarg
 +.yarininsuyu.com
 +.yarnpkg.com
 +.yasarang.net
