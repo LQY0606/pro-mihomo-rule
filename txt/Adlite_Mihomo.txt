@@ -1518,7 +1518,6 @@
 +.434fc6fff7.com
 +.436df5b953.com
 +.43982bf480.com
-+.4399stat.505439
 +.439f4b8c75.com
 +.43eksc8w59.com
 +.43gw.cn
@@ -1704,6 +1703,7 @@
 +.5008677d85.com
 +.502ac4420f.com
 +.504pk.com
++.4399stat.5054399.com
 +.506.io
 +.5066.net
 +.js.5068.com
@@ -8055,7 +8055,6 @@
 +.aqyad.com
 +.aqyjxxdpmllqs.online
 +.aqylkpualqlgr.website
-+.ar
 +.ar-x.site
 +.wt.ara.ad
 +.wt.ara.cat
@@ -8169,6 +8168,7 @@
 +.arithpouted.com
 +.app.arizonawildcats.com
 +.t.arizonawildcats.com
++.arjkyishfnbms.site
 +.connect.arkadin.com
 +.log.arkansasonline.com
 +.app.arkansasrazorbacks.com
@@ -20952,10 +20952,10 @@
 +.smetrics.customersvc.com
 +.customslongest.com
 +.cutbpmobdpitn.website
-+.cute
 +.cute-shot.pro
 +.cuteab.com
 +.cutecalculator.com
++.cutechin.com
 +.detnmz.cuteness.com
 +.cuterbond.com
 +.cutescale.online
@@ -68522,6 +68522,7 @@
 +.metric.schooloutfitters.com
 +.metrics.schooloutfitters.com
 +.info.schoolspecialtynews.com
++.science.schoolspecialtynews.com
 +.schouwloto.com
 +.marketing.schuff.com
 +.schuhpinkify.com
@@ -68534,7 +68535,6 @@
 +.l.science-et-vie.com
 +.utiq.science-et-vie.com
 +.smetrics.science.org
-+.science.schoolspecialtynew
 +.scienceaaas.org
 +.jobs.sciencecareers.org
 +.smetrics.sciencecareers.org
@@ -92001,7 +92001,7 @@
 +.yqmczwseuyjck.site
 +.yqmhjrjb.com
 +.yqmlfthhrzvuk.site
-+.yqmxfz.com
++.yqmxfz.
 +.yqmyzkialhdoi.vip
 +.yqndzrpujdskq.space
 +.yqnlbkzpiazzs.space
@@ -92768,7 +92768,7 @@
 +.zcxdhoyoncjbv.space
 +.zcymvyglyjyxu.online
 +.ko3aql2d.zczcjx.com
-+.zczcpssobnzcp.spa
++.zczcpssobnzcp.space
 +.zczkricdzmhow.website
 +.zdaptrksg.com
 +.zdauagtg.com
