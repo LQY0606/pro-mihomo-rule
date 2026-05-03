@@ -3864,7 +3864,6 @@
 +.acquisitioncarefully.com
 +.acquisitionhonestlybough.com
 +.acqwyqfecrlsh.online
-+.acr-eu
 +.acrdfrcfapzvn.site
 +.acrebackcharacter.com
 +.acredo.space
@@ -7027,6 +7026,7 @@
 +.rum.us-east-1.amazonaws.com
 +.rum.us-east-2.amazonaws.com
 +.rum.us-west-1.amazonaws.com
++.rum.us-west-2.amazonaws.com
 +.strikeadcdn.s3.amazonaws.com
 +.trafficfuelpixel.s3-us-west-2.amazonaws.com
 +.web-ivcbrasil-tag.s3.us-west-2.amazonaws.com
@@ -13436,7 +13436,6 @@
 +.btttag.com
 +.bttzjdxxmazye.site
 +.btuebtacnueoy.website
-+.btv-du-prod-event
 +.btvhdscr.com
 +.btvnamzxzbjce.online
 +.events.btw.so
@@ -84324,6 +84323,7 @@
 +.zasc-ort-stsdk.vivoglobal.com
 +.zasc-pnrt-stsdk.vivoglobal.com
 +.zasc-romsp-unifyconfig.vivoglobal.com
++.zasc-st-sl.vivoglobal.com
 +.zasc-stsdk.vivoglobal.com
 +.zasc-timesync.vivoglobal.com
 +.zasc-vcode-api.vivoglobal.com
@@ -87320,6 +87320,7 @@
 +.analyticsiot-prod-simpad-ehn.servicebus.windows.net
 +.best10cdn.blob.core.windows.net
 +.btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
++.btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 +.ceuswatcab01.blob.core.windows.net
 +.ceuswatcab02.blob.core.windows.net
 +.citrixanalyticseh-alias.servicebus.windows.net
@@ -87353,7 +87354,6 @@
 +.production-jobactivity-analytics.servicebus.windows.net
 +.rawtelemetry-east.servicebus.windows.net
 +.rawtelemetry-west.servicebus.windows.net
-+.rum.us-west-2.ahub-streamanalytics.servicebus.windows.net
 +.ss-telemetry.servicebus.windows.net
 +.swiftanalyticsprod.servicebus.windows.net
 +.targetemsecure.blob.core.windows.net
