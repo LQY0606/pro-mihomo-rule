@@ -6963,6 +6963,9 @@
 +.aax-us-west-2-ott.amazon-adsystem.amazon.com
 +.aax-us.amazon-adsystem.amazon.com
 +.ads-setu-proxy-eu.amazon.com
++.ads-setu-proxy-fe.amazon.com
++.ads-setu-proxy.amazon.com
++.ads.amazon.com
 +.advertising-api-eu.amazon.com
 +.advertising-api-fe.amazon.com
 +.advertising-api.amazon.com
@@ -18719,6 +18722,7 @@
 +.adh5.vivo.com.cn
 +.adlog.vivo.com.cn
 +.adm.sina.com.cn
++.adn-plus.com.cn
 +.adnet.vivo.com.cn
 +.adnetstatic.vivo.com.cn
 +.adnewnc.app.autohome.com.cn
@@ -46443,6 +46447,7 @@
 +.sgtus1-powerpoint-telemetry-vip.officeapps.live.com
 +.sgtus1-word-telemetry-vip.officeapps.live.com
 +.ssw.live.com
++.telemetry.officeapps.live.com
 +.tgtus1-excel-telemetry-vip.officeapps.live.com
 +.tgtus1-powerpoint-telemetry-vip.officeapps.live.com
 +.tgtus1-word-telemetry-vip.officeapps.live.com
