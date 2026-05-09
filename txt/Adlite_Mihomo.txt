@@ -919,7 +919,6 @@
 +.evt.24.com
 +.mm.2436.cn
 +.2443march2024.com
-+.2449march2024.com
 +.245a48ff80.com
 +.2463april2024.com
 +.2465april2024.com
@@ -1484,7 +1483,6 @@
 +.3xeo00tqz.com
 +.3xx.vip
 +.eo.3y4n.cn
-+.3yq51wjim.com
 +.3yx95kv3at.com
 +.jc.4006825178.com
 +.4009997658.com
@@ -3923,6 +3921,7 @@
 +.pubstr.acspubs.org
 +.acstat.com
 +.www2.acsvalves.com
++.act
 +.marketing.act-on.com
 +.mktg.act-on.com
 +.success.act-on.com
@@ -3949,7 +3948,6 @@
 +.smetrics.activase.com
 +.t-s.activase.com
 +.resources.activatems.com
-+.activatesparrow.com
 +.activatormanorplausible.com
 +.active-bat.com
 +.active-trk7.com
@@ -5890,7 +5888,6 @@
 +.get.airecontact.com
 +.marketing.airefco.com
 +.airestsemihot.shop
-+.aajmmd.aireuropa.com
 +.sstats.airfarewatchdog.com
 +.stats.airfarewatchdog.com
 +.link.airfarm.io
@@ -12768,6 +12765,7 @@
 +.borsendental.com
 +.borvens.com
 +.borzoishyp.com
++.bos
 +.tr-ms.bosch-home.com
 +.metrics.boscovs.com
 +.smetrics.boscovs.com
@@ -13657,7 +13655,6 @@
 +.bujerdaz.com
 +.bujxyzsfiolnp.online
 +.hbaazk.bukalapak.com
-+.t.bukalapak.com
 +.bukdlimayqwfv.website
 +.bukusukses.com
 +.bulandagothics.com
@@ -16834,7 +16831,6 @@
 +.cloudcdn.gdn
 +.cloudchickens.com
 +.cloudcinemaheavily.com
-+.cloudconf-app-iq.h
 +.7mnpeh.com1.z0.glb.clouddn.com
 +.7xi9g1.com1.z0.glb.clouddn.com
 +.7xsf3h.com1.z0.glb.clouddn.com
@@ -19349,7 +19345,6 @@
 +.innovation.communica.world
 +.communicatedroopcomer.com
 +.communicatedsuitcompartment.com
-+.communicatefriction.com
 +.communication3x.fun
 +.marketing.communityassociationmanagement.com
 +.links.communitycarehelp.com
@@ -21150,7 +21145,7 @@
 +.detnmz.cuteness.com
 +.cuterbond.com
 +.cutescale.online
-+.cutiplpknfpbn.online
++.cutiplpknfpbn.onli
 +.cutosebowyang.shop
 +.gcoiys.cutsclothing.com
 +.experts.cutter.com
@@ -22878,7 +22873,6 @@
 +.pcminitj.dftoutiao.com
 +.pcsoftwords.dftoutiao.com
 +.position.dftoutiao.com
-+.reportlog.dftoutiao.com
 +.sh996.dftoutiao.com
 +.shzzzz.dftoutiao.com
 +.unionstatis.dftoutiao.com
@@ -26391,7 +26385,7 @@
 +.emjcd.com
 +.emkarto.fun
 +.emkfl.com
-+.emkmvkigfexgt.online
++.emkmvkigfexgt.onli
 +.omjtca.emlakjet.com
 +.emlifok.info
 +.emltrk.com
@@ -34549,6 +34543,7 @@
 +.h2sry.site
 +.ee.h2tywo.cn
 +.m.h2tywo.cn
++.h4g3z1-n
 +.api.h4game.net
 +.h4htfgrei0.com
 +.h51.com
@@ -35923,6 +35918,7 @@
 +.cloudconf-app-ie.heytapmobile.com
 +.cloudconf-app-il.heytapmobile.com
 +.cloudconf-app-in.heytapmobile.com
++.cloudconf-app-iq.heytapmobile.com
 +.cloudconf-app-ir.heytapmobile.com
 +.cloudconf-app-it.heytapmobile.com
 +.cloudconf-app-jo.heytapmobile.com
@@ -64853,6 +64849,7 @@
 +.report1.biz
 +.reportallege.com
 +.reportic.app
++.reportlog.d
 +.repourssnowie.shop
 +.tw.reppublika.com
 +.stats.reprage.com
@@ -73855,6 +73852,7 @@
 +.smetrics.t-mobile.com
 +.metrics.t-mobilemoney.com
 +.smetrics.t-mobilemoney.com
++.t.bu
 +.t0cv7pmo2y.com
 +.t13.io
 +.t157.com
@@ -76036,6 +76034,7 @@
 +.ads-api.tiktok.com
 +.ads-frontier.tiktok.com
 +.ads-jp.tiktok.com
++.ads-ru.tiktok.com
 +.ads-service.tiktok.com
 +.ads-sg.tiktok.com
 +.ads-ttp2.us.tiktok.com
@@ -76275,6 +76274,7 @@
 +.ads-ttp2.tiktokw.eu
 +.ads16-normal-useastred.tiktokw.eu
 +.analytics-exp-ttp2.tiktokw.eu
++.analytics-exp16-normal-useastred.tiktokw.eu
 +.analytics-ie.tiktokw.eu
 +.analytics-ttp2.tiktokw.eu
 +.analytics16-normal-no1a.tiktokw.eu
@@ -83181,6 +83181,7 @@
 +.zasc-ort-stsdk.vivoglobal.com
 +.zasc-pnrt-stsdk.vivoglobal.com
 +.zasc-romsp-unifyconfig.vivoglobal.com
++.zasc-st-sl.vivoglobal.com
 +.zasc-stsdk.vivoglobal.com
 +.zasc-timesync.vivoglobal.com
 +.zasc-vcode-api.vivoglobal.com
@@ -85082,13 +85083,13 @@
 +.web-security.cloud
 +.web-stat.
 +.web-visor.com
++.ative.tiktok.web.app
 +.h4g3z1-native.amazon.web.app
 +.h4g3z1-native.apple.web.app
 +.h4g3z1-native.lgwebos.web.app
 +.h4g3z1-native.oppo-realme.web.app
 +.h4g3z1-native.roku.web.app
 +.h4g3z1-native.samsung.web.app
-+.h4g3z1-native.tiktok.web.app
 +.h4g3z1-native.vivo.web.app
 +.h4g3z1-native.winoffice.web.app
 +.h4g3z1-native.xiaomi.web.app
@@ -88355,6 +88356,7 @@
 +.xiaomengquan.cn
 +.11-c3.bigdata.ctc.neo.xiaomi.com
 +.3rdupgrade.pandora.xiaomi.com
++.3yq51wjsadmin.pandora.xiaomi.com
 +.5-c3.bigdata.ctc.neo.xiaomi.com
 +.a.market.xiaomi.com
 +.a.union.xiaomi.com
@@ -88381,7 +88383,6 @@
 +.bgp.fe01.c3.xiaomi.com
 +.bgp.tv.pandora.xiaomi.com
 +.bigdata-lbs-pri-c3.alb.xiaomi.com
-+.bossadmin.pandora.xiaomi.com
 +.box.pandora.xiaomi.com
 +.bsp.sasdc.pandora.xiaomi.com
 +.bss.pandora.xiaomi.com
@@ -91990,7 +91991,6 @@
 +.zarget.com
 +.zarosnap.com
 +.zarpop.com
-+.zasc-steytapmobile.com
 +.zasestoshe.com
 +.zasvxdxadipze.website
 +.zathrilgiw.com
