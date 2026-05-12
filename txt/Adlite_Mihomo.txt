@@ -35913,6 +35913,7 @@
 +.ums-rum-cn.heytapimage.com
 +.ums-rum-global.heytapimage.com
 +.ads.heytapmobi.com
++.adsbdfsiad-704007db1.heytapmobi.com
 +.adx.ads.heytapmobi.com
 +.album-cn01a.ocloud.heytapmobi.com
 +.album-sg01a.ocloud.heytapmobi.com
