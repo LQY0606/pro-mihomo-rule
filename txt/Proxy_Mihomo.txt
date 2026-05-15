@@ -564,7 +564,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -5261,6 +5260,7 @@
 +.dellpowersolutions.com
 +.dellprecision.com
 +.dellprinter.com
++.dellsupportcente+.aaa
 +.dellsupportcenter.com
 +.delltechcenter.com
 +.delltechnologies.com
@@ -8726,7 +8726,6 @@
 +.grokipedia.com
 +.grooby.com
 +.groq.com
-+.grotty-monday.com
 +.ground.news
 +.group-ib.com
 +.groupfun.com
@@ -10684,6 +10683,7 @@
 +.iyf.tv
 +.iyouport.com
 +.iyouport.org
++.izer.com
 +.izihost.org
 +.izles.net
 +.izlesem.org
@@ -12393,6 +12393,7 @@
 +.megacamz.com
 +.megafilmporno.com
 +.megafon.com
++.megaloxvpn.com
 +.megamarket.tech
 +.megapornfreehd.com
 +.megapornpics.com
@@ -14259,6 +14260,7 @@
 +.ocsp-certum.com
 +.ocsp-responder.com
 +.october-review.org
++.octobologyandsociety.org
 +.octocaptcha.com
 +.oculus-china.com
 +.oculus.com
@@ -16023,6 +16025,7 @@
 +.qzav.tv
 +.r-pool.net
 +.r-project.org
++.r.com
 +.r10s.com
 +.r18.clickme.net
 +.r18.com
@@ -17379,6 +17382,7 @@
 +.skypeassets.net
 +.skyperfectjsat.space
 +.skyporn.online
++.skyrotty-monday.com
 +.skysports.com
 +.skysportsonline.com
 +.skysportsracing.com
@@ -20195,6 +20199,7 @@
 +.wango.org
 +.wangruoshui.net
 +.wangruowang.org
++.wanker-review.org
 +.wankgames.com
 +.wankizer.com
 +.wankoz.com
