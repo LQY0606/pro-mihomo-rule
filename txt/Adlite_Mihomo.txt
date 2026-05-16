@@ -6956,6 +6956,7 @@
 +.s-fe.amazon-adsystem.com
 +.s.amazon-adsystem.com
 +.sponsored-ads-eu-south-2.amazon-adsystem.com
++.sponsored-ads-eu.amazon-adsystem.com
 +.sponsored-ads-fe.amazon-adsystem.com
 +.sponsored-ads-na.amazon-adsystem.com
 +.sq-tungsten-ts-eu.amazon-adsystem.com
@@ -26423,7 +26424,7 @@
 +.lthzhy.elv.com
 +.elviraawa.com
 +.elwfmbqrgrlse.website
-+.elxavddglxdvl.website
++.elxavddglx
 +.elxfxkrslholc.online
 +.elyandbegantoti.com
 +.stats.elysenewland.com
