@@ -9148,6 +9148,7 @@
 +.hentaistube.com
 +.hentaisub.info
 +.hentaitalk.com
++.hentaitk.c000webhost.com
 +.hentaitk.com
 +.hentaitokyo.com
 +.hentaitube.online
@@ -21697,6 +21698,7 @@
 +.zhangboli.net
 +.zhangboz1.xyz
 +.zhangtianliang.com
++.zhangzhehan.net
 +.zhanlve.org
 +.zhenghui.org
 +.zhengjian.org
