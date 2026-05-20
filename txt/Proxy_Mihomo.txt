@@ -1061,6 +1061,7 @@
 +.alexa.com
 +.alexanderstreet.com
 +.alexlur.org
++.alfa.me
 +.alfabank.oavdo.amc
 +.alfera.com.hk
 +.alforattv.net
@@ -16758,6 +16759,7 @@
 +.scival.com
 +.scmp.com
 +.scmpchinese.com
++.scn.com
 +.scnshop.cc
 +.scnsrc.me
 +.scolle.net
@@ -18180,6 +18182,7 @@
 +.t.co
 +.t.finance
 +.t.me
++.t.org
 +.t.orzdream.com
 +.t35.com
 +.t66y.com
@@ -18311,6 +18314,8 @@
 +.teamamericany.com
 +.teamneedforspeed.com
 +.teamskeet.com
++.teamspeak-services.com
++.teamspeak.com
 +.teamviewer.com
 +.tearapeak.com
 +.teatroporno.com
