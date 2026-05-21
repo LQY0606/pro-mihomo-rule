@@ -9321,7 +9321,6 @@
 +.mroprospector.aviationweek.com
 +.pgs.aviationweek.com
 +.smetrics.aviationweek.com
-+.trk.aviationweek.com
 +.app.info.avid.com
 +.data.avid.com
 +.sdata.avid.com
@@ -30127,6 +30126,7 @@
 +.flheijhn.com
 +.flhqfdjmltoue.site
 +.flhtfxbakyelu.space
++.fli
 +.share.flickasa.com
 +.flickerbridge.com
 +.flickerfailing.com
@@ -30178,7 +30178,6 @@
 +.flippantassistance.pro
 +.flippantdamnderived.com
 +.flippantpoetry.com
-+.flippanttale.com
 +.flippedfunnel.com
 +.images.flippengroup.com
 +.fbo-statistics-collector-tc.is.flippingbook.com
@@ -48734,6 +48733,7 @@
 +.sk-topgal.m-shop.me
 +.m-t.io
 +.analyze-82dfgsi2.m-w.com
++.m.zk
 +.m0mentum.net
 +.m0rsq075u.com
 +.m11bkuusyb.com
@@ -92267,7 +92267,6 @@
 +.zkmnpnt4xg.com
 +.zknqll.icu
 +.zkoutcrnsylxf.website
-+.m.zkp53.cn
 +.zkraktak.com
 +.zksgjpokbsfle.online
 +.zktpzpvozjuim.site
