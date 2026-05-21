@@ -564,7 +564,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -13089,6 +13088,7 @@
 +.mozilla.community
 +.mozilla.net
 +.mozilla.org
++.mozillafoundation.org
 +.moztw.org
 +.mp
 +.mp.world
@@ -16759,7 +16759,6 @@
 +.scival.com
 +.scmp.com
 +.scmpchinese.com
-+.scn.com
 +.scnshop.cc
 +.scnsrc.me
 +.scolle.net
@@ -17608,6 +17607,7 @@
 +.soso7778.com
 +.sosreader.com
 +.sostibet.org
++.sotwe.com
 +.sou-tong.org
 +.soubory.com
 +.souka.xyz
@@ -18182,7 +18182,6 @@
 +.t.co
 +.t.finance
 +.t.me
-+.t.org
 +.t.orzdream.com
 +.t35.com
 +.t66y.com
