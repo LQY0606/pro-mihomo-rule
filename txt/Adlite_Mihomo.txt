@@ -82749,6 +82749,7 @@
 +.cname-in-bom01-nginxpool03.vivoglobal.com
 +.cname-in-ctdbonrt-stsdk.vivoglobal.com
 +.cname-sin01-stsdk09.vivoglobal.com
++.co-domaincfg.vivoglobal.com
 +.co-pnrt-stsdk.vivoglobal.com
 +.co-romsp-unifyconfig.vivoglobal.com
 +.co-st-sl.vivoglobal.com
@@ -85817,6 +85818,7 @@
 +.citrixanalyticseh.servicebus.windows.net
 +.citrixanalyticseh2-alias.servicebus.windows.net
 +.citrixanalyticseh3-alias.servicebus.windows.net
++.citrixanalyticseh3.servicebus.windows.net
 +.citrixanalyticsehaps-alias.servicebus.windows.net
 +.citrixanalyticsehaps.servicebus.windows.net
 +.citrixanalyticseheu-alias.servicebus.windows.net
