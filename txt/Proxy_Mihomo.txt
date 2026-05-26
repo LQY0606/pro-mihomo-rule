@@ -6559,7 +6559,6 @@
 +.evolver3d.com
 +.evolverpro.com
 +.evozi.com
-+.evrd.com
 +.evropaelire.org
 +.evschool.net
 +.eworld.com
@@ -9741,6 +9740,7 @@
 +.htx.com
 +.htyj-bj.com
 +.hu
++.hu1+.aaa
 +.hu1u.com
 +.hua-yue.net
 +.huabansp.com
@@ -12593,6 +12593,7 @@
 +.midatlanticbmwmotorcycles.com
 +.middle-way.net
 +.midentsolutions.com
++.midjourney.com
 +.midoushe.com
 +.miexnoviadesnuda.com
 +.mihk.hk
@@ -16359,6 +16360,7 @@
 +.revver.com
 +.rewrite-anime.tv
 +.rexcha.com
++.rexroth
 +.rexxx.org
 +.rfa.org
 +.rfachina.com
@@ -16871,7 +16873,6 @@
 +.sensueel.net
 +.sentry-cdn.com
 +.senzuritv.net
-+.seo-dash.n+.aaa
 +.seo-dash.net
 +.seqing.one
 +.seqingwangzhan.pro
@@ -17749,7 +17750,6 @@
 +.ss-inf.net
 +.ss-link.com
 +.ss.levyhsu.com
-+.ssd.rexroth
 +.ssdevrd.com
 +.ssglobal.co
 +.ssglobal.me
@@ -19351,6 +19351,7 @@
 +.tytng189.com
 +.tytporno.online
 +.tz
++.u.com
 +.u15.info
 +.u3c3.com
 +.u9a9.cc
