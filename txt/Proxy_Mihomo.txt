@@ -565,6 +565,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -9740,7 +9741,6 @@
 +.htx.com
 +.htyj-bj.com
 +.hu
-+.hu1+.aaa
 +.hu1u.com
 +.hua-yue.net
 +.huabansp.com
@@ -19351,7 +19351,6 @@
 +.tytng189.com
 +.tytporno.online
 +.tz
-+.u.com
 +.u15.info
 +.u3c3.com
 +.u9a9.cc
