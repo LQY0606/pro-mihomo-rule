@@ -28611,6 +28611,7 @@
 +.f30fpad7.xyz
 +.f34aabcc0e.com
 +.f351966262.com
++.f3531.top
 +.f3k194f9i7.com
 +.f418509b38.com
 +.f435ee855c.com
@@ -76838,6 +76839,7 @@
 +.xlog16-tmp-normal-useast1a.tiktokv.com
 +.ad-instantpage-ttp2.tiktokv.eu
 +.adinstantpage16-normal-useastred.tiktokv.eu
++.location-ttp2.tiktokv.eu
 +.location-v6-ttp2.tiktokv.eu
 +.location16-normal-useastred.tiktokv.eu
 +.locationv16-normal-useastred.tiktokv.eu
@@ -77955,6 +77957,7 @@
 +.analytics.trafficmanager.net
 +.azwancan.trafficmanager.net
 +.beacons.trafficmanager.net
++.bingads.trafficmanager.net
 +.blobcollector.events.data.trafficmanager.net
 +.bn2-ris-ap-prod-atm.trafficmanager.net
 +.bn2-ris-prod-atm.trafficmanager.net
@@ -82856,6 +82859,7 @@
 +.asia-vpushort-stsdk.vivoglobal.com
 +.au-vcode-od.vivoglobal.com
 +.br-p.vivoglobal.com
++.cl-vcode-od.vivoglobal.com
 +.cname-ali-asia-stsdk.vivoglobal.com
 +.cname-asia-comonrt-stsdk.vivoglobal.com
 +.cname-asia-st-exappupgrade.vivoglobal.com
