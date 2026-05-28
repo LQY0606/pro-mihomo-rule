@@ -13045,7 +13045,6 @@
 +.delivery.marketing.boutiqaat.com
 +.dl.boutiqaat.com
 +.dl-test.boutiqat.com
-+.go.bouygues-construction.com
 +.tr.newsletter.bouygues-construction.com
 +.images.com.bouygues-es.com
 +.info.bouygues-es.com
@@ -17095,6 +17094,7 @@
 +.cloudflareinsights.com
 +.cloudflrcdn.com
 +.cloudfrale.com
++.dbujksp6lhljo.cloudfront.n
 +.d10ce3z4vbhcdd.cloudfront.net
 +.d10lumateci472.cloudfront.net
 +.d10lv7w3g0jvk9.cloudfront.net
@@ -18122,7 +18122,6 @@
 +.dbfu2bd09j3ln.cloudfront.net
 +.dbfv8ylr8ykfg.cloudfront.net
 +.dbrpevozgux5y.cloudfront.net
-+.dbujksp6lhljo.cloudfront.net
 +.dbw7j2q14is6l.cloudfront.net
 +.dby7kx9z9yzse.cloudfront.net
 +.dbyxtcim1rhba.cloudfront.net
@@ -33536,6 +33535,7 @@
 +.go-mpulse.net
 +.go-srv.com
 +.go-static.info
++.go.bouygues-co
 +.ad.go.com
 +.adimages.go.com
 +.adsatt.espn.go.com
@@ -46688,6 +46688,7 @@
 +.lgdstolfuinmi.world
 +.lgdsvuwxjbhwz.site
 +.eic-ngfts.lge.com
++.eic-qt2-ngfts.lge.com
 +.kic-ngfts.lge.com
 +.qt2-ngfts.lge.com
 +.ruc-ngfts.lge.com
@@ -57502,7 +57503,7 @@
 +.moreinfo.onnowdigital.com
 +.onpetropica.com
 +.onpluslean.com
-+.onqapnliefiys.space
++.onqapnliefiy
 +.onrbmrwalqttw.website
 +.onrvyrdwqpiwn.online
 +.onsandindeedth.com
@@ -61288,7 +61289,6 @@
 +.popmonetizer.net
 +.popmyads.com
 +.popplantation.com
-+.poppysol.com
 +.poppyta.com
 +.utiq.poprosa.com
 +.poprtb.com
@@ -67055,7 +67055,6 @@
 +.map.rockwellautomation.com
 +.resources.rockwellautomation.com
 +.smetrics.rockwellautomation.com
-+.whitepapers.rockwellautomation.com
 +.omn.rockwool.com
 +.rockyappliance.com
 +.managedaccounts.rockymountainpower.net
@@ -72018,7 +72017,7 @@
 +.soua.com
 +.souacode.com
 +.souchystrands.shop
-+.soucvnbylfpxu.online
++.soucvnbylfpxu.onli
 +.click1n.soufun.com
 +.countubn.light.soufun.com
 +.tongji.home.soufun.com
@@ -77961,6 +77960,7 @@
 +.blobcollector.events.data.trafficmanager.net
 +.bn2-ris-ap-prod-atm.trafficmanager.net
 +.bn2-ris-prod-atm.trafficmanager.net
++.ch-asimov-leafs-events-data.trafficmanager.net
 +.cnzz.trafficmanager.net
 +.collector-main.trafficmanager.net
 +.compatexchange1.trafficmanager.net
@@ -78103,8 +78103,8 @@
 +.app.response.transplace.com
 +.t-s.transplantaccessservices.com
 +.t.transplantaccessservices.com
++.transpor
 +.transportationpenitencesierra.com
-+.transportationthou.com
 +.jambwe.transsibinfo.com
 +.marketing.transtar1.com
 +.go.transtector.com
@@ -85542,6 +85542,7 @@
 +.whiteinflammablejaws.com
 +.whitenoisenews.com
 +.whitensfest.com
++.whitepapers.
 +.whitepark9.com
 +.whitepinaforesho.org
 +.whitepixel.com
