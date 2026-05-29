@@ -4413,6 +4413,7 @@
 +.cisco.com
 +.cisco.evergage.com
 +.cisco.mobi
++.cisco000webhost.com
 +.ciscoccservice.com
 +.ciscoconnectcloud.com
 +.ciscoconnectcloud.net
@@ -13681,6 +13682,7 @@
 +.netsarang.com
 +.netsneak.com
 +.netsolssl.com
++.netspace.net
 +.netsurf-browser.org
 +.nettyinternet.com
 +.netvideogirls.com
