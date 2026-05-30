@@ -4413,7 +4413,6 @@
 +.cisco.com
 +.cisco.evergage.com
 +.cisco.mobi
-+.cisco000webhost.com
 +.ciscoccservice.com
 +.ciscoconnectcloud.com
 +.ciscoconnectcloud.net
@@ -8191,6 +8190,7 @@
 +.gemfire.net
 +.gemfury.com
 +.gemini.com
++.gencraft.com
 +.gendai.net
 +.generated.photos
 +.geneticconstructor.com
@@ -13682,7 +13682,6 @@
 +.netsarang.com
 +.netsneak.com
 +.netsolssl.com
-+.netspace.net
 +.netsurf-browser.org
 +.nettyinternet.com
 +.netvideogirls.com
