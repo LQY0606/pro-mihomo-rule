@@ -1933,7 +1933,7 @@
 +.ie.5500w.com
 +.a8cv.550909.com
 +.yxzfdl.550909.com
-+.550sky.com
++.550sky.
 +.m.551144.com
 +.wwww.551144.com
 +.5551556.com
@@ -14967,6 +14967,12 @@
 +.to.card.com
 +.6nwp0r33a71m.app.dev.cardahealth.com
 +.tzgurwizule3.app.cardahealth.com
++.exo.nel.measure.office.net.cardano.com
++.identity.nel.measure.office.net.cardano.com
++.m365cdn.nel.measure.office.net.cardano.com
++.spo.nel.measure.office.net.cardano.com
++.teams.nel.measure.office.net.cardano.com
++.upload.fp.measure.office.com.corp.mmco.int.cardano.com
 +.app.cardbaazi.com
 +.baidu1.cardbaobao.com
 +.baidua1.cardbaobao.com
@@ -15571,7 +15577,7 @@
 +.ceakvbhesrlgd.site
 +.ceandtheremade.com
 +.ceasecompromisetwine.com
-+.ceasedaggravation.com
++.ceasedaggravati
 +.ceasepancreas.com
 +.ceaskedasensibl.org
 +.ceaslessivorygoats.com
@@ -17406,7 +17412,6 @@
 +.d1lo4oi08ke2ex.cloudfront.net
 +.d1lxhc4jvstzrp.cloudfront.net
 +.d1m6l9dfulcyw7.cloudfront.net
-+.d1mahxde95gw5l.cloudfront.net
 +.d1mar6i7bkj1lr.cloudfront.net
 +.d1mbgf0ge24riu.cloudfront.net
 +.d1mbihpm2gncx7.cloudfront.net
@@ -21812,6 +21817,7 @@
 +.d194f6c2fc.com
 +.d1ad.com
 +.d1mahjlm.xyz
++.d1mahxde95
 +.d1pc1a0g34.com
 +.d2-apps.net
 +.d24ak3f2b.top
@@ -22985,7 +22991,6 @@
 +.dependent-boy.com
 +.dependentadequatemyth.com
 +.dependenttrip.com
-+.stats.depends-on-the-definition.com
 +.depleteheadphoneshoe.com
 +.depleterefutation.com
 +.get.deplike.com
@@ -31773,7 +31778,6 @@
 +.fuozidrjmtitj.space
 +.fup5qxstgi.com
 +.tracking.fupa.net
-+.wqfflc.fupa.net
 +.fupqitrviyhbf.space
 +.fuq3sve1gj.com
 +.fuqemedzceklr.online
@@ -37662,9 +37666,9 @@
 +.pages.info.hondacenter.com
 +.smetrics.www.hondros.edu
 +.honeeaafcmjyp.online
++.honest
 +.honestbroadcasting.com
 +.honestchaptersconducted.com
-+.honestharbor.com
 +.honestinfuriatemedia.com
 +.honestlyquick.com
 +.honestlyremarks.com
@@ -69574,6 +69578,7 @@
 +.secureclouddt-cd.com
 +.public.demo.securecloudsandbox.com
 +.secured-ad.com
++.securedata.d
 +.securedt-sm.com
 +.securedvisit.com
 +.securefun420.com
@@ -87452,6 +87457,7 @@
 +.wqejmqwtao.com
 +.wqevrlujgnilz.site
 +.wqfbpdnqrdycx.space
++.wqfflc
 +.wqfpwwrofubfl.online
 +.wqgkqkjxrhike.site
 +.wqgpzmpwuchvi.one
