@@ -247,6 +247,7 @@
 +.360nexus.net
 +.360plm.com
 +.360trailers.com
++.365.cc
 +.365buymy.com
 +.36717.info
 +.36rain.com
@@ -565,6 +566,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -961,7 +963,6 @@
 +.airwick.net
 +.airwick.tv
 +.airwickarabia.com
-+.ais+.aaa
 +.aisejushi.com
 +.aisex.com
 +.aishegw.com
@@ -5269,6 +5270,7 @@
 +.delltechnologiescapital.com
 +.delltechnologiesworld.com
 +.deloitte
++.delphone-zh.com
 +.delta
 +.deluxe.com.hk
 +.delvenetworks.com
@@ -6229,7 +6231,6 @@
 +.eireinikotaerukai.com
 +.eisbb.com
 +.eiu.com
-+.ejushi.com
 +.ekhindi.com
 +.ekhokavkaza.com
 +.ekolojik.org
@@ -7866,7 +7867,6 @@
 +.full:imperial.insendi.com
 +.full:ingest.apple-studies.com
 +.full:licdn.cn.cdn20.com
-+.full:link.theplatform.com
 +.full:location.microsoft.com
 +.full:mdn.mozillademos.org
 +.full:medone-education.thieme.com
@@ -10011,6 +10011,7 @@
 +.ie8.co
 +.ie9.com
 +.ieasy5.com
++.ieauofficial.com
 +.iebay.com
 +.ied2k.net
 +.ieee
@@ -11480,6 +11481,7 @@
 +.l-msedge.net
 +.la
 +.la-forum.org
++.lab.cam.com
 +.labiennale.org
 +.lacaixa
 +.lacomics.org
@@ -18361,6 +18363,7 @@
 +.tedcdn.com
 +.teddysun.com
 +.teen-girl.net
++.teen-lover.m.com
 +.teen-lover.net
 +.teen-sexy.com
 +.teen3x.mobi
@@ -20890,11 +20893,15 @@
 +.xhamster18.com
 +.xhamster18.desi
 +.xhamster19.com
++.xhamster2.com
 +.xhamster3.com
 +.xhamsterlive.com
 +.xhcdn.com
++.xhnews.live
 +.xhot.pro
++.xhpingcdn.com
 +.xhpjc6-cdn-settings.appsflyersdk.com
++.xhreal5.com
 +.xhub.tv
 +.xianba.net
 +.xianchawang.net
