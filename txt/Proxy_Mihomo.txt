@@ -247,7 +247,6 @@
 +.360nexus.net
 +.360plm.com
 +.360trailers.com
-+.365.cc
 +.365buymy.com
 +.36717.info
 +.36rain.com
@@ -5270,7 +5269,6 @@
 +.delltechnologiescapital.com
 +.delltechnologiesworld.com
 +.deloitte
-+.delphone-zh.com
 +.delta
 +.deluxe.com.hk
 +.delvenetworks.com
@@ -7867,6 +7865,7 @@
 +.full:imperial.insendi.com
 +.full:ingest.apple-studies.com
 +.full:licdn.cn.cdn20.com
++.full:link.theplatform.com
 +.full:location.microsoft.com
 +.full:mdn.mozillademos.org
 +.full:medone-education.thieme.com
@@ -8246,6 +8245,7 @@
 +.getlantern.org
 +.getmalus.com
 +.getoutline.org
++.getpaint.net
 +.getpocket.com
 +.getporn.tv
 +.getpricetag.com
@@ -10011,7 +10011,6 @@
 +.ie8.co
 +.ie9.com
 +.ieasy5.com
-+.ieauofficial.com
 +.iebay.com
 +.ied2k.net
 +.ieee
@@ -11481,7 +11480,6 @@
 +.l-msedge.net
 +.la
 +.la-forum.org
-+.lab.cam.com
 +.labiennale.org
 +.lacaixa
 +.lacomics.org
@@ -14706,6 +14704,7 @@
 +.paily.org
 +.painfulpussytortures.com
 +.painnovel.com
++.paint.net
 +.paipal.com
 +.paipancon.com
 +.paisapay.cc
@@ -18363,7 +18362,6 @@
 +.tedcdn.com
 +.teddysun.com
 +.teen-girl.net
-+.teen-lover.m.com
 +.teen-lover.net
 +.teen-sexy.com
 +.teen3x.mobi
