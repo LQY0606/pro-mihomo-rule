@@ -13707,7 +13707,7 @@
 +.broworkers5s.com
 +.browse-boost.com
 +.browsecoherentunrefined.com
-+.browsekeeper.com
++.browsekeep
 +.browser-intake-datadoghq.com
 +.browser-intake-datadoghq.eu
 +.browser-update.org
@@ -15575,7 +15575,6 @@
 +.cdhzzqqmnmpqf.website
 +.hm.cdiah.com
 +.cdioflltl.com
-+.tr.em.cdiscount-pro.com
 +.cdtm.cdiscount.com
 +.gyvcwd.cdiscount.com
 +.metrics.cdiscount.com
@@ -27000,6 +26999,7 @@
 +.stats.elysenewland.com
 +.elzqoggbkyeoo.online
 +.info.em-ametek.com
++.tr.em.c
 +.em7ky342lo.com
 +.images.marketing.emaarinfo.com
 +.metrix.emagister.com
@@ -89305,7 +89305,6 @@
 +.5-c3.bigdata.ctc.neo.xiaomi.com
 +.a.market.xiaomi.com
 +.a.union.xiaomi.com
-+.a0.app.xiaomi.com
 +.activity.hybrid.xiaomi.com
 +.ad.cdn.pandora.xiaomi.com
 +.ad.eu.xiaomi.com
@@ -89321,6 +89320,9 @@
 +.api.installer.xiaomi.com
 +.api.miui.security.xiaomi.com
 +.api.xmpush.global.xiaomi.com
++.api.xmpush.xiaomi.com
++.app.migc.xiaomi.com
++.app.xiaomi.com
 +.appstore.cdn.pandora.xiaomi.com
 +.appstore.pandora.xiaomi.com
 +.awssgp0-files.fds.api.xiaomi.com
@@ -89334,7 +89336,6 @@
 +.bss.pandora.xiaomi.com
 +.bugreport.pt.xiaomi.com
 +.c3-bgp.pandora.xiaomi.com
-+.c3.api.xmpush.xiaomi.com
 +.c3mini.pandora.xiaomi.com
 +.callback.xmpush.xiaomi.com
 +.cdn-exp-sg-recommend.pt.xiaomi.com
@@ -89346,7 +89347,6 @@
 +.controller.india.xiaomi.com
 +.d.xiaomi.com
 +.data.game.xiaomi.com
-+.data.mistat.xiaomi.com
 +.de.pandora.xiaomi.com
 +.dev.staging.api.developer.n.xiaomi.com
 +.drm.market.xiaomi.com
@@ -89379,7 +89379,6 @@
 +.heyue.xiaomi.com
 +.hook.gitv.pandora.xiaomi.com
 +.huosai.xiaomi.com
-+.i.api.xmpush.xiaomi.com
 +.i.xiaomi.com
 +.idmb-api.xmpush.global.xiaomi.com
 +.idmb.feedback.xmpush.global.xiaomi.com
@@ -89390,7 +89389,6 @@
 +.intranet.c3.bigdata-l7-trackservice.eup4xvxeqr.elb.xiaomi.com
 +.jellyfish.pandora.xiaomi.com
 +.lg-bgp-misc.pandora.xiaomi.com
-+.lg.api.xmpush.xiaomi.com
 +.live.miphone.pandora.xiaomi.com
 +.log.pt.xiaomi.com
 +.logs.n.xiaomi.com
@@ -89407,7 +89405,7 @@
 +.mistat.india.xiaomi.com
 +.mistat.intl.xiaomi.com
 +.mistat.rus.xiaomi.com
-+.mob.api.xmpush.xiaomi.com
++.mistat.xiaomi.com
 +.mob.pandora.xiaomi.com
 +.mon.be.xiaomi.com
 +.mon.n.xiaomi.com
@@ -89456,10 +89454,8 @@
 +.stat.xiaomi.com
 +.static.game.xiaomi.com
 +.stats.music.xiaomi.com
-+.storeconfig.mistat.xiaomi.com
 +.sys.intl.xiaomi.com
 +.sys.tv.india.xiaomi.com
-+.t.app.xiaomi.com
 +.t1.market.xiaomi.com
 +.t15.market.xiaomi.com
 +.t17.market.xiaomi.com
@@ -89482,7 +89478,6 @@
 +.tj1.test.pay.xiaomi.com
 +.tracker-preview.ai.xiaomi.com
 +.tracker.ai.xiaomi.com
-+.tv.app.migc.xiaomi.com
 +.tvboss.pandora.xiaomi.com
 +.tvepg.pandora.xiaomi.com
 +.tz.sec.xiaomi.com
@@ -89491,7 +89486,6 @@
 +.video.market.xiaomi.com
 +.vip-api.xmpush.global.xiaomi.com
 +.vip-api.xmpush.xiaomi.com
-+.vip.api.xmpush.xiaomi.com
 +.w.pandora.xiaomi.com
 +.wap.game.xiaomi.com
 +.wl.voip.game.xiaomi.com
@@ -89504,11 +89498,11 @@
 +.api.micloud.xiaomi.net
 +.bugreport.xiaomi.net
 +.findapi.micloud.xiaomi.net
-+.fr.resolver.msg.global.xiaomi.net
 +.idmb.app.chat.global.xiaomi.net
 +.invoice.netroam.mihome.xiaomi.net
 +.lxcdn.dl.files.xiaomi.net
 +.mlog.search.xiaomi.net
++.resolver.msg.global.xiaomi.net
 +.sec-cdn.static.intl.xiaomi.net
 +.sec-cdn.static.xiaomi.net
 +.sec.resource.xiaomi.net
