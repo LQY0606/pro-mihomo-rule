@@ -13707,7 +13707,7 @@
 +.broworkers5s.com
 +.browse-boost.com
 +.browsecoherentunrefined.com
-+.browsekeep
++.browsekeeper.com
 +.browser-intake-datadoghq.com
 +.browser-intake-datadoghq.eu
 +.browser-update.org
@@ -15575,6 +15575,7 @@
 +.cdhzzqqmnmpqf.website
 +.hm.cdiah.com
 +.cdioflltl.com
++.tr.em.cdiscount-pro.com
 +.cdtm.cdiscount.com
 +.gyvcwd.cdiscount.com
 +.metrics.cdiscount.com
@@ -26999,7 +27000,6 @@
 +.stats.elysenewland.com
 +.elzqoggbkyeoo.online
 +.info.em-ametek.com
-+.tr.em.c
 +.em7ky342lo.com
 +.images.marketing.emaarinfo.com
 +.metrix.emagister.com
