@@ -15054,6 +15054,7 @@
 +.ccscserver.com
 +.ccshymxkbepsl.online
 +.ads.ccstock.cn
++.kz.lgsmartad.cctor.pro
 +.cctpyneuuiuwn.site
 +.btrace.ysp.cctv.cn
 +.mtrace.ysp.cctv.cn
@@ -18587,7 +18588,7 @@
 +.repdata.coloradoan.com
 +.srepdata.coloradoan.com
 +.coloradoserves.com
-+.colorful-director.pro
++.colorful-dire
 +.colorfullouderremnant.com
 +.colorfulpet.com
 +.smetrics.marketing.colorkinetics.com
@@ -19213,7 +19214,7 @@
 +.smetrics.comenity.net
 +.marketing.comeovertoplover.com
 +.comerhurlentertain.com
-+.comertmtcyglq.website
++.comertom
 +.t.cometlytrack.com
 +.cometquote.com
 +.comfortablecheese.com
@@ -34549,7 +34550,6 @@
 +.kksuce.hankoya.com
 +.hankynecessarily.com
 +.hanlanad.com
-+.s1.hanlinzhijia.com
 +.hanlinzhijia.net
 +.stats.hanmaker.com
 +.hanmiyong.com
@@ -45631,7 +45631,6 @@
 +.kr.lgsmartad.com
 +.kw.lgsmartad.com
 +.ky.lgsmartad.com
-+.kz.lgsmartad.com
 +.lb.lgsmartad.com
 +.lc.lgsmartad.com
 +.lgsmartad.com
@@ -62641,7 +62640,6 @@
 +.qqshow2-item.qq.com
 +.qzpb.qq.com
 +.rcgi.video.qq.com
-+.rdelivery.qq.com
 +.reader.sh.vip.qq.com
 +.recmd.html5.qq.com
 +.report.cms.qq.com
@@ -66707,6 +66705,7 @@
 +.e.s0o5g.cn
 +.m.s0o5g.cn
 +.s0p6s02x28.com
++.s1.hanlinz
 +.d.s11.cn
 +.j.s11.cn
 +.s16a.biz
@@ -81803,6 +81802,7 @@
 +.ads-api.vivo.com
 +.bhwkju.vivo.com
 +.vivocha.com
++.alliance-adreq-asia.vivoglobal.com
 +.asia-abeacdataonrt-stsdk.vivoglobal.com
 +.asia-abeacdataort-stsdk.vivoglobal.com
 +.asia-ad-mkt-vivofs.vivoglobal.com
@@ -81838,9 +81838,7 @@
 +.asia-vcode-or.vivoglobal.com
 +.asia-vpushonrt-stsdk.vivoglobal.com
 +.asia-vpushort-stsdk.vivoglobal.com
-+.au-vcode-od.vivoglobal.com
 +.br-p.vivoglobal.com
-+.cl-vcode-od.vivoglobal.com
 +.cn-zh-ort-stsdk.vivoglobal.com
 +.cn-zh-prt-stsdk.vivoglobal.com
 +.cn-zh-stsdk.vivoglobal.com
@@ -81853,7 +81851,6 @@
 +.cname-in-bom01-nginxpool03.vivoglobal.com
 +.cname-in-ctdbonrt-stsdk.vivoglobal.com
 +.cname-sin01-stsdk09.vivoglobal.com
-+.co-domaincfg.vivoglobal.com
 +.co-pnrt-stsdk.vivoglobal.com
 +.co-romsp-unifyconfig.vivoglobal.com
 +.co-st-sl.vivoglobal.com
@@ -81884,7 +81881,6 @@
 +.ex-romsp-unifyconfig.vivoglobal.com
 +.id-analyzer-appstore.vivoglobal.com
 +.id-third-appstore.vivoglobal.com
-+.il-vcode-od.vivoglobal.com
 +.in-ad-mkt-vivofs.vivoglobal.com
 +.in-adlog.vivoglobal.com
 +.in-adreq.vivoglobal.com
@@ -81924,12 +81920,10 @@
 +.kz-ort-stsdk.vivoglobal.com
 +.kz-pnrt-stsdk.vivoglobal.com
 +.kz-prt-stsdk.vivoglobal.com
-+.kz-romsp-unifyconfig.vivoglobal.com
 +.kz-st-exappupgrade.vivoglobal.com
 +.kz-st-sl.vivoglobal.com
 +.kz-st-sysupgrade.vivoglobal.com
 +.kz-stsdk.vivoglobal.com
-+.kz-vcode-api.vivoglobal.com
 +.kz-vcode-od.vivoglobal.com
 +.kz-vcode-or.vivoglobal.com
 +.monitor-stsdk.vivoglobal.com
@@ -81976,13 +81970,11 @@
 +.ru-vcode-api.vivoglobal.com
 +.ru-vcode-od.vivoglobal.com
 +.ru-vcode-or.vivoglobal.com
-+.sca-cota.vivoglobal.com
 +.sca-domaincfg.vivoglobal.com
 +.sca-err-up.vivoglobal.com
 +.sca-onrt-stsdk.vivoglobal.com
 +.sca-ort-stsdk.vivoglobal.com
 +.sca-p.vivoglobal.com
-+.sca-pnrt-stsdk.vivoglobal.com
 +.sca-romsp-unifyconfig.vivoglobal.com
 +.sca-st-sl.vivoglobal.com
 +.sca-stsdk.vivoglobal.com
@@ -84994,6 +84986,7 @@
 +.citrixanalyticseh.servicebus.windows.net
 +.citrixanalyticseh2-alias.servicebus.windows.net
 +.citrixanalyticseh3-alias.servicebus.windows.net
++.citrixanalyticseh3.servicebus.windows.net
 +.citrixanalyticsehaps-alias.servicebus.windows.net
 +.citrixanalyticsehaps.servicebus.windows.net
 +.citrixanalyticseheu-alias.servicebus.windows.net
@@ -85007,7 +85000,6 @@
 +.eaus2watcab02.blob.core.windows.net
 +.ehtelemetrystaging-alias.servicebus.windows.net
 +.ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
-+.hme-live-loganalytics-namespace.servicebus.windows.net
 +.hme-uat-loganalytics-namespace.servicebus.windows.net
 +.hotelembuguacu.blob.core.windows.net
 +.insitez.blob.core.windows.net
