@@ -7204,7 +7204,6 @@
 +.rum.eu-west-1.amazonaws.com
 +.rum.eu-west-2.amazonaws.com
 +.rum.us-east-1.amazonaws.com
-+.rum.us-east-2.amazonaws.com
 +.rum.us-west-1.amazonaws.com
 +.rum.us-west-2.amazonaws.com
 +.strikeadcdn.s3.amazonaws.com
@@ -10376,7 +10375,6 @@
 +.automotive.balluff.com
 +.distributors.balluff.com
 +.mexico.balluff.com
-+.networks.balluff.com
 +.pkg.balluff.com
 +.pt.balluff.com
 +.techsupport.balluff.com
@@ -43677,6 +43675,7 @@
 +.app-dat.kingofthecurve.org
 +.app.kingofthecurve.org
 +.kings-email.com
++.kingsandqueens.splowse
 +.marketing.kingsiii.com
 +.abroad-ad.kingsoft-office-service.com
 +.bannera.kingsoft-office-service.com
@@ -65487,7 +65486,6 @@
 +.rf10b9mq8.com
 +.rf23ecvf4.com
 +.a8clk.rf28.com
-+.ssc.rfa.org
 +.marketing.rfactr.com
 +.rfajdkrqvqjam.site
 +.rfapkfkftokev.website
@@ -71677,7 +71675,6 @@
 +.link.splittr.io
 +.spllfsxyoquda.click
 +.splmgstlkhchp.space
-+.kingsandqueens.splowser.com
 +.splyt.com
 +.spmqfymfgbfha.space
 +.spmqkfodtwzit.site
@@ -72019,6 +72016,7 @@
 +.sryfmerwefrwj.icu
 +.srytiqervsgbi.space
 +.srzwbetxwdkpt.online
++.ss
 +.ss-01.com
 +.ss0uu1lpirig.com
 +.ss229.com
