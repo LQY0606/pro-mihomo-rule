@@ -3970,7 +3970,7 @@
 +.acrebackcharacter.com
 +.acredo.space
 +.acreinterstatethe.com
-+.acridtwi
++.acridtwist.com
 +.acrkanmof.com
 +.acrobatic-carry.pro
 +.acrobatic-chest.pro
@@ -19134,7 +19134,6 @@
 +.wooboo.com.cn
 +.www9.enet.com.cn
 +.wxaintpcos.wxqcloud.qq.com.cn
-+.xyoss.g.com.cn
 +.ydjs.zol.com.cn
 +.yeeok.com.cn
 +.yimingxiang.com.cn
@@ -25617,6 +25616,7 @@
 +.p1-play.edge4k.com
 +.p2-play.edge4k.com
 +.edgeadx.net
++.ad-instantpage-sg.tiktokv.com.edgekey.net
 +.analytics-attribution-va.tiktok.com.edgekey.net
 +.analytics-exp-i18n.tiktok.com.edgekey.net
 +.analytics-exp-sg.tiktok.com.edgekey.net
@@ -25637,7 +25637,11 @@
 +.www2.edgenuity.com
 +.metrics.edgepark.com
 +.somniture.edgestar.com
++.ad-instantpage-ttp2.tiktokv.eu.edgesuite.net
++.ad-instantpage-ttp2.tiktokv.us.edgesuite.net
++.ad-instantpage.tiktokv.us.edgesuite.net
 +.ad.intl.xiaomi.com.edgesuite.net
++.adinstantpage16-normal-useastred.tiktokv.eu.edgesuite.net
 +.analytics-exp-ru.tiktok.com.edgesuite.net
 +.analytics-exp-ttp2.tiktokw.eu.edgesuite.net
 +.analytics-exp.us.tiktok.com.edgesuite.net
@@ -35715,7 +35719,6 @@
 +.herpetunwelde.com
 +.herringbucket.com
 +.herryimmixed.com
-+.smetrics.herschel.
 +.hertouchingthew.com
 +.teijgy.herveleger.com
 +.herynore.com
@@ -36747,6 +36750,7 @@
 +.hncsdayu.com
 +.hndiyikj.com
 +.js7004.hnfpgm.com
++.js883.hnfpgm.com
 +.hnfuvjqpmzzey.website
 +.kn.hnfxty.cn
 +.hngnmcggjoyhp.space
@@ -44674,7 +44678,7 @@
 +.update.mobile.kugou.com
 +.youxi.kugou.com
 +.kuguopush.com
-+.kuhcjgvmcsu
++.kuhcjgvmcsuun.space
 +.owqbsl.kuhl.com
 +.tr.news.kuhn.com
 +.kuhou.com
@@ -46711,6 +46715,7 @@
 +.excel-telemetry.officeapps.live.com
 +.ffc-excel-telemetry.officeapps.live.com
 +.ffc-word-telemetry.officeapps.live.com
++.fgteu1-word-telemetry-vip.officeapps.live.com
 +.frc-visio-telemetry.officeapps.live.com
 +.inc-visio-telemetry.officeapps.live.com
 +.nexus.officeapps.live.com
@@ -50255,7 +50260,6 @@
 +.win1710.ipv6.microsoft.com
 +.win8.ipv6.microsoft.com
 +.ztd.dds.microsoft.com
-+.collector.azure.microsoft.scloud
 +.microsoftads.com
 +.gateway.bingviz.microsoftapp.net
 +.images.info.microstrategy.com
@@ -76769,26 +76773,28 @@
 +.trafficmagnates.com
 +.trafficman.io
 +.51tongji.trafficmanager.net
++.ads-msn-com-profile.trafficmanager.net
 +.adsdk.trafficmanager.net
 +.adstore.response.gcp.eastus.trafficmanager.net
 +.agps-location-livenet.trafficmanager.net
 +.analytics-listener.trafficmanager.net
 +.analytics.trafficmanager.net
-+.azure.bcp.bingads.trafficmanager.net
-+.azure.tip.bingads.trafficmanager.net
 +.azwancan.trafficmanager.net
 +.beacons.trafficmanager.net
++.bingads.trafficmanager.net
 +.blobcollector.events.data.trafficmanager.net
 +.bn2-ris-ap-prod-atm.trafficmanager.net
 +.bn2-ris-prod-atm.trafficmanager.net
 +.ch-asimov-leafs-events-data.trafficmanager.net
 +.cnzz.trafficmanager.net
++.collection-location-livenet.trafficmanager.net
 +.collector-main.trafficmanager.net
 +.compatexchange1.trafficmanager.net
 +.dsp-ad-cache-tm.trafficmanager.net
 +.euc-excel-telemetry.wac.trafficmanager.net
 +.euc-powerpoint-telemetry.wac.trafficmanager.net
 +.euc-word-telemetry.wac.trafficmanager.net
++.eurffc-word-telemetry.wac.trafficmanager.net
 +.events.data.trafficmanager.net
 +.eventservice.trafficmanager.net
 +.excel-telemetry.wac.trafficmanager.net
@@ -77517,8 +77523,10 @@
 +.analytics-ru.tiktok.com.ttdns2.com
 +.analytics-v6.tiktok.com.ttdns2.com
 +.analytics.tiktok.com.ttdns2.com
++.ad-instantpage-ttp2.tiktokv.eu.ttdns3.com
 +.analytics-ie.tiktokw.eu.ttdns3.com
 +.analytics-ttp2.tiktokw.eu.ttdns3.com
++.ad-instantpage.tiktokv.us.ttdns4.com
 +.ttedwm.com
 +.ttfoetfeswjwn.space
 +.ttfxjbmdhrh.com
@@ -84436,6 +84444,7 @@
 +.1oavsblobprodcus350.blob.core.windows.net
 +.37bvsblobprodcus311.blob.core.windows.net
 +.analytics-dev-lleap-events.servicebus.windows.net
++.analytics-dev-simpad-events.servicebus.windows.net
 +.analyticsehnwe.servicebus.windows.net
 +.best10cdn.blob.core.windows.net
 +.ceuswatcab01.blob.core.windows.net
@@ -84462,7 +84471,6 @@
 +.hme-uat-loganalytics-namespace.servicebus.windows.net
 +.hotelembuguacu.blob.core.windows.net
 +.insitez.blob.core.windows.net
-+.js883.hnfpgm.coalytics-dev-simpad-events.servicebus.windows.net
 +.licensingtelemetry-prod.servicebus.windows.net
 +.msoftdatastore.z22.web.core.windows.net
 +.nexxtv-events.servicebus.windows.net
