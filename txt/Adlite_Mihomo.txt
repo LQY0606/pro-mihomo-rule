@@ -6883,6 +6883,7 @@
 +.aax-ott-c2s.amazon-adsystem.com
 +.aax-ott-sdk.amazon-adsystem.com
 +.aax-ott.amazon-adsystem.com
++.aax-us-east-dtb-mobile-events.amazon-adsystem.com
 +.aax-us-east-dtb-mobile.amazon-adsystem.com
 +.aax-us-east-dtb.amazon-adsystem.com
 +.aax-us-east-ott.amazon-adsystem.com
@@ -7041,7 +7042,6 @@
 +.aax-us-east-1-ott.amazon-adsystem.amazon.com
 +.aax-us-iad.amazon.com
 +.aax-us-ott.amazon-adsystem.amazon.com
-+.aax-us-west-2-ott.amazon-adsystem.amazon.com
 +.aax-us.amazon-adsystem.amazon.com
 +.ads-setu-proxy-eu.amazon.com
 +.ads-setu-proxy-fe.amazon.com
@@ -7858,6 +7858,7 @@
 +.repdata.app.com
 +.srepdata.app.com
 +.sxjfhh.app.com
++.app.hornetti
 +.appadhoc.com
 +.appadhoc.net
 +.appads.com
@@ -7903,6 +7904,7 @@
 +.applausetint.com
 +.feedbackws.fe.apple-dns.cn
 +.books-analytics-events.news.apple-dns.net
++.feedbackws.fe.apple-dns.net
 +.feedbackws.fe2.apple-dns.net
 +.me.apple-dns.net
 +.notes-analytics-events.news.apple-dns.net
@@ -10107,7 +10109,6 @@
 +.dl2.bav.baidu.com
 +.dlsw.baidu.com
 +.dlsw.br.baidu.com
-+.dlswbr.baidu.com
 +.download.bav.baidu.com
 +.download.sd.baidu.com
 +.dxp.baidu.com
@@ -14670,7 +14671,6 @@
 +.m365cdn.nel.measure.office.net.cardano.com
 +.spo.nel.measure.office.net.cardano.com
 +.teams.nel.measure.office.net.cardano.com
-+.upload.fp.measure.office.com.corp.mmco.int.cardano.com
 +.app.cardbaazi.com
 +.baidu1.cardbaobao.com
 +.baidua1.cardbaobao.com
@@ -17306,7 +17306,6 @@
 +.d2db10c4rkv9vb.cloudfront.net
 +.d2dkurdav21mkk.cloudfront.net
 +.d2dxy39sqorbhv.cloudfront.net
-+.d2dyjetg3tc2wn.cloudfront.net
 +.d2e30rravz97d4.cloudfront.net
 +.d2e5x3k1s6dpd4.cloudfront.net
 +.d2e7rsjh22yn3g.cloudfront.net
@@ -20829,7 +20828,6 @@
 +.csuhgqcwubodd.online
 +.app.csurams.com
 +.t.csurams.com
-+.app.hornettickets.csus.edu
 +.csvucdavhmsm.com
 +.cswjpyurbaiap.online
 +.csxbezadpeazu.site
@@ -21386,6 +21384,7 @@
 +.d24ak3f2b.top
 +.d24fx92qb.com
 +.d2c1htpgj.com
++.d2dyjetg3tc2wn.c
 +.d2ship.com
 +.d334591460.com
 +.d3s9in1sg.com
@@ -25625,6 +25624,7 @@
 +.analytics.edgekey.net
 +.analytics.tiktok.com.edgekey.net
 +.eic-ngfts.lge.com.edgekey.net
++.eic-qt2-ngfts.lge.com.edgekey.net
 +.experiments.apple.com.edgekey.net
 +.iadsdk.apple.com.edgekey.net
 +.kic-ngfts.lge.com.edgekey.net
@@ -66122,7 +66122,9 @@
 +.ad-eng.prod.rpay.int.roku.com
 +.ad-eng.staging.rpay.int.roku.com
 +.ad.prod.rpay.int.roku.com
++.ad.qa.ap.int.roku.com
 +.ad.staging.rpay.int.roku.com
++.ad.usw2.qa.ap.int.roku.com
 +.adeng-identity-prod3.bdp.roku.com
 +.adeng-looker-bi-oneview-prod-1001.bdp.roku.com
 +.adeng-looker-dev-1001.bdp.roku.com
@@ -67320,6 +67322,7 @@
 +.diagmon-policy.samsungdm.com
 +.diagmon-serviceapi.samsungdm.com
 +.report.gras.samsungdm.com
++.us-report.gras.samsungdm.com
 +.dev-apigw.samsungdmroute.com
 +.stg-apigw.samsungdmroute.com
 +.analytics.samsungedo.com
@@ -75472,7 +75475,6 @@
 +.ads-api.tiktok.com
 +.ads-frontier.tiktok.com
 +.ads-jp.tiktok.com
-+.ads-ru.tiktok.com
 +.ads-sg.tiktok.com
 +.ads-ttp2.us.tiktok.com
 +.ads.tiktok.com
@@ -75502,7 +75504,6 @@
 +.mcs.us.tiktok.com
 +.mssdk-i18n.tiktok.com
 +.mssdk.us.tiktok.com
-+.url4077.ads-service.tiktok.com
 +.sf16-telemetry-proxy-oci.tiktokcdn-us.com
 +.stats.tiktoker.win
 +.log-snssdk.tiktokv-us.com
@@ -76834,7 +76835,6 @@
 +.us-mesh-events-data-leafs.trafficmanager.net
 +.vortex.data.trafficmanager.net
 +.vstelemetry.trafficmanager.net
-+.we-events-prod-1.trafficmanager.net
 +.win-global-asimov-leafs-events-data.trafficmanager.net
 +.word-telemetry.wac.trafficmanager.net
 +.trafficmediaserver.com
@@ -81609,6 +81609,7 @@
 +.cname-asia-st-exappupgrade.vivoglobal.com
 +.cname-asia-stsdk09.vivoglobal.com
 +.cname-asia02-stsdk.vivoglobal.com
++.cname-de-stsdk.vivoglobal.com
 +.cname-in-apport-stsdk.vivoglobal.com
 +.cname-in-bom01-nginxpool03.vivoglobal.com
 +.cname-in-ctdbonrt-stsdk.vivoglobal.com
@@ -81624,7 +81625,6 @@
 +.de-gdpr-err-up.vivoglobal.com
 +.err-up.vivoglobal.com
 +.err.up.vivoglobal.com
-+.eu-album-api.vivoglobal.com
 +.eu-cota.vivoglobal.com
 +.eu-domaincfg.vivoglobal.com
 +.eu-errup.vivoglobal.com
@@ -81653,7 +81653,6 @@
 +.in-apport-stsdk.vivoglobal.com
 +.in-apppnrt-stsdk.vivoglobal.com
 +.in-appprt-stsdk.vivoglobal.com
-+.in-cfg-stsdk.vivoglobal.com
 +.in-cota.vivoglobal.com
 +.in-ctdbonrt-stsdk.vivoglobal.com
 +.in-ctdbort-stsdk.vivoglobal.com
@@ -81733,25 +81732,11 @@
 +.ru-vcode-api.vivoglobal.com
 +.ru-vcode-od.vivoglobal.com
 +.ru-vcode-or.vivoglobal.com
-+.sca-domaincfg.vivoglobal.com
-+.sca-err-up.vivoglobal.com
-+.sca-onrt-stsdk.vivoglobal.com
-+.sca-ort-stsdk.vivoglobal.com
-+.sca-p.vivoglobal.com
-+.sca-pnrt-stsdk.vivoglobal.com
-+.sca-romsp-unifyconfig.vivoglobal.com
-+.sca-st-sl.vivoglobal.com
-+.sca-stsdk.vivoglobal.com
-+.sca-timesync.vivoglobal.com
-+.sca-vcode-api.vivoglobal.com
-+.sca-vcode-od.vivoglobal.com
-+.sca-vcode-or.vivoglobal.com
 +.sg-cfg-stsdk.vivoglobal.com
 +.stsdk.vivoglobal.com
 +.tr-album-api.vivoglobal.com
 +.tr-cota.vivoglobal.com
 +.tr-domaincfg.vivoglobal.com
-+.tr-err-up.vivoglobal.com
 +.tr-gdpr-vgc-datacenter.vivoglobal.com
 +.tr-onrt-stsdk.vivoglobal.com
 +.tr-ort-stsdk.vivoglobal.com
@@ -81768,7 +81753,6 @@
 +.tr-vcode-or.vivoglobal.com
 +.tr-weather.vivoglobal.com
 +.uk-timesync.vivoglobal.com
-+.xn--ex-adreq-asa-c5b.vivoglobal.com
 +.xn-ex-adreq-asa-c5b.vivoglobal.com
 +.za-p.vivoglobal.com
 +.zasc-cota.vivoglobal.com
