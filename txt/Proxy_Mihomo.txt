@@ -1,3 +1,4 @@
++..watch
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -1686,7 +1687,6 @@
 +.appmediagroup.com
 +.approvedusedbmw.com
 +.apps5.oingo.com
-+.appsflayer.com
 +.appshopper.com
 +.appsocks.net
 +.appsonebay.net
@@ -2386,6 +2386,7 @@
 +.barrons.com
 +.barss1207.pro
 +.bartvpn.com
++.base.org
 +.baselinestudy.com
 +.baselinestudy.org
 +.basilisk-browser.org
@@ -3078,6 +3079,7 @@
 +.bitflyer.com
 +.bitget.com
 +.bithumb.com
++.bitlayer.org
 +.bitly.com
 +.bitmex.com
 +.bitnami.com
@@ -3389,12 +3391,15 @@
 +.bmwusfactory.com
 +.bmwusrideracademy.com
 +.bmwvalueservice.com
++.bmwweb.solutions
 +.bmwwholesaleconnect.com
 +.bmwworld.com
 +.bmwworld.net
 +.bmwworld.tv
 +.bmwzentrum.com
 +.bn
++.bnappweb.black
++.bnbchain.org
 +.bnbstatic.com
 +.bnef.com
 +.bnews.co
@@ -3641,7 +3646,9 @@
 +.brutaltgp.com
 +.bs
 +.bs-adreview.com
++.bsappapi.cc
 +.bsappapi.com
++.bscdnweb.com
 +.bsky.network
 +.bsky.social
 +.bstatic.com
@@ -4174,6 +4181,7 @@
 +.cgdepot.org
 +.ch
 +.ch.shvoong.com
++.chainid.network
 +.championshipseriesleague.com
 +.chanel
 +.change.org
@@ -4814,6 +4822,7 @@
 +.coqnu.com
 +.corbinfisher.com
 +.cordcloud.org
++.coredao.org
 +.coreduo.com
 +.coreextreme.com
 +.corel.com
@@ -5851,6 +5860,7 @@
 +.dropboxstatic.com
 +.dropboxusercontent.com
 +.droplr.com
++.drpc.org
 +.drsunacademy.com
 +.drtuber.com
 +.drunk6.com
@@ -6048,6 +6058,7 @@
 +.easypic.com
 +.easysexporn.com
 +.eater.com
++.eatsblackfriday.com
 +.ebahy.com
 +.ebalovo.com
 +.ebatescanada.com
@@ -7029,6 +7040,8 @@
 +.fanswong.com
 +.fantasiasguatemala.com
 +.fantasti.cc
++.fantom.foundation
++.fantom.network
 +.fantv.hk
 +.fanyue.info
 +.fap-xxx.com
@@ -7113,6 +7126,7 @@
 +.fb.com
 +.fb.me
 +.fb.watch
++.fb7i.com
 +.fbacebook.com
 +.fbaddins.com
 +.fbbmarket.com
@@ -7240,6 +7254,7 @@
 +.fi11.com
 +.fi11av1.com
 +.fi11tv1.com
++.fiat24.com
 +.fic.fan
 +.ficador.com
 +.ficbook.net
@@ -7351,6 +7366,7 @@
 +.fl310.com
 +.flagrasamadores.net
 +.flameunleashed.com
++.flare.network
 +.flaru.com
 +.flashtranny.com
 +.flatandfuckedmilfs.com
@@ -7983,6 +7999,8 @@
 +.full:vsmarketplacebadge.apphb.com
 +.full:widgets.stripst.com
 +.full:ws.audioscrobbler.com
++.full:zftksc.cdn-settings.appsflyersdk.com
++.full:zftksc.launches.appsflyersdk.com
 +.fulldesisex.com
 +.fullerconsideration.com
 +.fullfuli.com
@@ -10660,6 +10678,7 @@
 +.is
 +.is-a-hunter.com
 +.isaacmao.com
++.isafepal.com
 +.isasecret.com
 +.isbgpsafeyet.com
 +.isca-speech.org
@@ -12516,6 +12535,7 @@
 +.meforum.org
 +.mefound.com
 +.megacamz.com
++.megaeth.com
 +.megafilmporno.com
 +.megafon.com
 +.megamarket.tech
@@ -12571,6 +12591,7 @@
 +.meridian.net
 +.meripet.biz
 +.meripet.com
++.merkl.xyz
 +.merlinblog.xyz
 +.meshmixer.com
 +.meshmixerforum.com
@@ -12601,6 +12622,7 @@
 +.metrotoons.com
 +.meuhentai.com
 +.mewe.com
++.mexc.co
 +.mexc.com
 +.mexcsensors.com
 +.meyul.com
@@ -16440,6 +16462,8 @@
 +.ree007.xyz
 +.reflectivecode.com
 +.reform-apple.com
++.reg.cloud
++.reg.com
 +.regex101.com
 +.regiongold.com
 +.registerhulu.com
@@ -16644,6 +16668,7 @@
 +.rsf-chinese.org
 +.rsf.org
 +.rsgamen.org
++.rsk.co
 +.rspao.com
 +.rss.4040940.xyz
 +.rss.littlebaby.life
@@ -16794,6 +16819,7 @@
 +.saasexch.cc
 +.saasexch.co
 +.saasexch.com
++.saasexch.info
 +.saboom.com
 +.sabuibo.net
 +.sacduc.com
@@ -16807,6 +16833,7 @@
 +.safechat.com
 +.safeguarddefenders.com
 +.safeliner.tech
++.safepal.com
 +.safervpn.com
 +.saffrontech.com
 +.sage-observability.tech
@@ -18092,6 +18119,7 @@
 +.steam.ru.qtlglb.com
 +.steam.tv
 +.steamcommunity.com
++.steamconnecttest.com
 +.steamcontent.com
 +.steamdb.info
 +.steamdeck.com
@@ -18420,6 +18448,7 @@
 +.tafm.org
 +.tagwalk.com
 +.taiav.com
++.taiko.xyz
 +.tail-f.com
 +.tailf.com
 +.tails.net
@@ -18841,6 +18870,7 @@
 +.thinkquarterly.com
 +.thinkwithgoogle.com
 +.thirdmill.org
++.thirdweb.com
 +.thisav.com
 +.thisisgame.com
 +.thisispolaris.com
@@ -21163,6 +21193,7 @@
 +.xkontakt18.com
 +.xkorean.cam
 +.xl-gaytube.com
++.xlayer.tech
 +.xlecx.org
 +.xlfmtalk.com
 +.xlfmwz.info
@@ -21182,6 +21213,7 @@
 +.xn----7sbaba0dc6cdn7cxcj.com
 +.xn----7sbabae2a0bnvtsfr4loc.com
 +.xn----7sbbab6bregnh7b8if5b.com
++.xn----7sbbamm1bv2bh000webhost.com
 +.xn----7sbbamm1bv2bh7i.com
 +.xn----8sbaroledu6bi7j.com
 +.xn----8sbeoy5bze.com
@@ -21972,6 +22004,8 @@
 +.zettai-ero.com
 +.zeutch.com
 +.zfreet.com
++.zftksc.cdn-settings.appsflyersdk.com
++.zftksc.launches.appsflyersdk.com
 +.zgsddh.com
 +.zgzcjj.net
 +.zh99.net
