@@ -12640,7 +12640,6 @@
 +.boatcodeapp.com
 +.boatcontinuing.com
 +.boatjadeinconsistency.com
-+.wgpepw.boatoutfitters.com
 +.boatpaper.com
 +.metrics.boats.com
 +.boatsbuilding.com
@@ -16973,6 +16972,7 @@
 +.cloudcdn.gdn
 +.cloudchickens.com
 +.cloudcinemaheavily.com
++.cloudconwwyaqxc.com
 +.7mnpeh.com1.z0.glb.clouddn.com
 +.7xi9g1.com1.z0.glb.clouddn.com
 +.7xsf3h.com1.z0.glb.clouddn.com
@@ -17467,7 +17467,6 @@
 +.d2elslrg1qbcem.cloudfront.net
 +.d2enprlhqqv4jf.cloudfront.net
 +.d2eq4x4u2q3fwc.cloudfront.net
-+.d2er1uyk6qcknh.cloudfront.net
 +.d2ers4gi7coxau.cloudfront.net
 +.d2eucw4fxv7nil.cloudfront.net
 +.d2eyuq8th0eqll.cloudfront.net
@@ -18773,6 +18772,7 @@
 +.collection-day.com
 +.link.collectivebenefits.com
 +.collectivequestioningcompartment.com
++.collector.dgn
 +.collectorcommander.com
 +.collectortack.com
 +.collectout4000.net
@@ -21553,6 +21553,7 @@
 +.d24ak3f2b.top
 +.d24fx92qb.com
 +.d2c1htpgj.com
++.d2er1uyk6qcknh
 +.d2ship.com
 +.d334591460.com
 +.d3s9in1sg.com
@@ -36323,7 +36324,6 @@
 +.cloudconf-app-gh.heytapmobile.com
 +.cloudconf-app-gr.heytapmobile.com
 +.cloudconf-app-gt.heytapmobile.com
-+.cloudconf-app-hk.heytapmobile.com
 +.cloudconf-app-hn.heytapmobile.com
 +.cloudconf-app-hr.heytapmobile.com
 +.cloudconf-app-hu.heytapmobile.com
@@ -36389,6 +36389,7 @@
 +.dc-stat-in.heytapmobile.com
 +.dc.heytapmobile.com
 +.dragate-in-dc.heytapmobile.com
++.e.w2xj4.cnf-app-hk.heytapmobile.com
 +.i-in.browser.heytapmobile.com
 +.i-sg.browser.heytapmobile.com
 +.i-th.browser.heytapmobile.com
@@ -43290,7 +43291,6 @@
 +.jwfdheuw.com
 +.jwg365.cn
 +.img.jwgro.com
-+.kzni.jwhfn.cn
 +.jwhfxnravgzft.space
 +.jwiyr.com
 +.jwjcpzdprksgg.online
@@ -47643,7 +47643,7 @@
 +.logicsfort.com
 +.content.logile.com
 +.buzz.logility.com
-+.loginbreton.com
++.loginbr
 +.logingenerosity.com
 +.loginrubbishobey.com
 +.webanalytics.logitech.com
@@ -49200,6 +49200,7 @@
 +.marketgid.com
 +.markethealth.com
 +.tracking.markethero.io
++.marketing.reli
 +.marketingcloudfx.com
 +.marketing.marketinggeneral.com
 +.marketizator.com
@@ -65407,7 +65408,6 @@
 +.reliablecounter.com
 +.reliableguardianindifference.com
 +.reliablemore.com
-+.marketing.reliablepaper.com
 +.njs.reliancevalve.com
 +.analytics.reliant.com
 +.metrics.reliant.com
@@ -82607,6 +82607,7 @@
 +.vnyqemhir.com
 +.vnzuedcokblpx.site
 +.vnzwvnevgfemyz.com
++.vo
 +.tr.mail.vo3000.com
 +.tr.news.vo3000.com
 +.ssc.voaafaanoromoo.com
@@ -82798,7 +82799,6 @@
 +.vowellm4.com
 +.vowsavageskim.com
 +.vowthreehilarious.com
-+.vowwyaqxc.com
 +.voxar.xyz
 +.info.voxbone.com
 +.riluwt.voxcinemas.com
@@ -83303,7 +83303,6 @@
 +.w2528.com
 +.w2j4kdjma.com
 +.w2q5p09n8.com
-+.e.w2xj4.cn
 +.m.w2xj4.cn
 +.w3019cdt.top
 +.w3cfba6ufr.com
@@ -84481,6 +84480,7 @@
 +.axp.wfxrtv.com
 +.triggers.wfxtriggers.com
 +.wfziejxpcywxy.online
++.wg
 +.wg-aff.com
 +.wgaesioplofoq.site
 +.wgamaokmdqwfij.com
