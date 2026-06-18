@@ -6960,10 +6960,12 @@
 +.devotionalclicks.amazingfacts.org
 +.amazingmeaning.com
 +.amazingsite.pro
++.3px.axp.amazon-adsystem.com
 +.aax-apse-dtb-mobile-events.amazon-adsystem.com
 +.aax-apse-dtb-mobile.amazon-adsystem.com
 +.aax-apse-dtb-web.amazon-adsystem.com
 +.aax-audio.amazon-adsystem.com
++.aax-beta-us-east.axp.amazon-adsystem.com
 +.aax-cpm.amazon-adsystem.com
 +.aax-dtb-cf.amazon-adsystem.com
 +.aax-dtb-legacy.amazon-adsystem.com
@@ -6987,6 +6989,7 @@
 +.aax-fe-sin-rtb.amazon-adsystem.com
 +.aax-fe-sin.amazon-adsystem.com
 +.aax-fe.amazon-adsystem.com
++.aax-gamma-us-east.axp.amazon-adsystem.com
 +.aax-ott-c2s.amazon-adsystem.com
 +.aax-ott-sdk.amazon-adsystem.com
 +.aax-ott.amazon-adsystem.com
@@ -7020,9 +7023,13 @@
 +.aax-vx-us-us-east-1.amazon-adsystem.com
 +.aax-vx-us-us-west-2.amazon-adsystem.com
 +.aax.amazon-adsystem.com
++.aes-beta.axp.amazon-adsystem.com
++.aes.eu-south.ono.axp.amazon-adsystem.com
++.aes.eu-west.ono.axp.amazon-adsystem.com
 +.alt1-3ps.amazon-adsystem.com
 +.amazon-adsystem.com
 +.aps.amazon-adsystem.com
++.aps.axp.amazon-adsystem.com
 +.assoc-msdk-cn.amazon-adsystem.com
 +.assoc-msdk-eu.amazon-adsystem.com
 +.assoc-msdk-us.amazon-adsystem.com
@@ -7031,13 +7038,14 @@
 +.at-us-east.amazon-adsystem.com
 +.atfe.amazon-adsystem.com
 +.atue.amazon-adsystem.com
-+.axp.amazon-adsystem.com
 +.c.amazon-adsystem.com
 +.cdn-a.amazon-adsystem.com
 +.cdn-d.amazon-adsystem.com
 +.cdn-t.amazon-adsystem.com
 +.da-cdn.amazon-adsystem.com
 +.dra.amazon-adsystem.com
++.fe.ono.axp.amazon-adsystem.com
++.fe.us-west.ono.axp.amazon-adsystem.com
 +.fls-cn.amazon-adsystem.com
 +.fls-eu.amazon-adsystem.com
 +.fls-fe.amazon-adsystem.com
@@ -7056,6 +7064,7 @@
 +.ir-na.amazon-adsystem.com
 +.ir-nl.amazon-adsystem.com
 +.ir-uk.amazon-adsystem.com
++.live-events.ono.axp.amazon-adsystem.com
 +.mads.amazon-adsystem.com
 +.mas-sdk-cn.amazon-adsystem.com
 +.mas-sdk-eu.amazon-adsystem.com
@@ -7084,6 +7093,7 @@
 +.rcm-eu.amazon-adsystem.com
 +.rcm-fe.amazon-adsystem.com
 +.rcm-na.amazon-adsystem.com
++.rtb.axp.amazon-adsystem.com
 +.s-fe.amazon-adsystem.com
 +.s.amazon-adsystem.com
 +.sponsored-ads-eu-south-2.amazon-adsystem.com
@@ -7100,6 +7110,7 @@
 +.tk.amazon-adsystem.com
 +.ts-gamma.amazon-adsystem.com
 +.ts.amazon-adsystem.com
++.us-east.ono.axp.amazon-adsystem.com
 +.vaes-eu-preprod.amazon-adsystem.com
 +.vaes-eu.amazon-adsystem.com
 +.vaes-fe-preprod.amazon-adsystem.com
@@ -48264,7 +48275,6 @@
 +.stats.makingknown.xyz
 +.makingnude.com
 +.makingpsyches.shop
-+.sanalytics.makro.n
 +.go.makwajy.com
 +.adx.mala.cn
 +.sadbmetrics.malagaenlamesa.com
@@ -49263,6 +49273,7 @@
 +.launch.meetsaturn.com
 +.meetsgardeny.shop
 +.a8cv.meetsmore.com
++.wirjoi.meetsmore.com
 +.meetstorages.com
 +.analytics-tracking.meetup.com
 +.meetvideogoogle.com
@@ -57057,6 +57068,7 @@
 +.fl5dpe.oui.sncf
 +.inv3te.oui.sncf
 +.kwsjy9.oui.sncf
++.r1ztni.oui.sncf
 +.sstats.oui.sncf
 +.stats.oui.sncf
 +.v.oui.sncf
@@ -83852,7 +83864,6 @@
 +.email.wirexapp.com
 +.wirgefemtie.net
 +.wiringdisciplinarysmooth.com
-+.wirjoi.m
 +.wirulcxbvifym.site
 +.wirytrip.com
 +.link.wisaw.com
