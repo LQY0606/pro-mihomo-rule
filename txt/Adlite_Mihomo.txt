@@ -39962,12 +39962,12 @@
 +.inspectorstrongerpill.com
 +.learn.insperity.com
 +.tracking.insperity.com
-+.inspi
 +.track.inspirage.com
 +.inspirationfellowship.com
 +.inspirebees.com
 +.inspiredalarmslower.com
 +.inspiredamy.com
++.inspiredcataloguehometown.com
 +.gcxiyx.inspireuplift.com
 +.inspoloji.com
 +.eventlog.inspsearchapi.com
@@ -51936,6 +51936,7 @@
 +.t-ring-trafficshield.msedge.net
 +.t-ring.msedge.net
 +.t-s1-ring.msedge.net
++.t-s2-ring.msedge.net
 +.win10-trt.msedge.net
 +.msfunction.online
 +.smetrics.msg.com
@@ -54531,7 +54532,7 @@
 +.nmasyykbucqj.com
 +.nmbtedu.com
 +.nmdsxbxarvpuh.online
-+.nmea
++.nmeaqssdoabls.website
 +.nmfhgdfsbfl.com
 +.metrics.nmfn.com
 +.metricssecure.nmfn.com
@@ -66104,6 +66105,7 @@
 +.customer-feedbacks.web.roku.com
 +.item-tracking.dev.sr.roku.com
 +.logs.dev.sr.roku.com
++.logs.qa.ap.int.roku.com
 +.logs.roku.com
 +.logs.sr.roku.com
 +.pixel.staging.web.roku.com
@@ -81497,6 +81499,7 @@
 +.de-gdpr-err-up.vivoglobal.com
 +.err-up.vivoglobal.com
 +.err.up.vivoglobal.com
++.eu-album-api.vivoglobal.com
 +.eu-cota.vivoglobal.com
 +.eu-domaincfg.vivoglobal.com
 +.eu-errup.vivoglobal.com
@@ -81609,6 +81612,7 @@
 +.tr-album-api.vivoglobal.com
 +.tr-cota.vivoglobal.com
 +.tr-domaincfg.vivoglobal.com
++.tr-err-up.vivoglobal.com
 +.tr-gdpr-vgc-datacenter.vivoglobal.com
 +.tr-onrt-stsdk.vivoglobal.com
 +.tr-ort-stsdk.vivoglobal.com
