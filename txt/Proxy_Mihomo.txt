@@ -567,6 +567,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1876,7 +1877,6 @@
 +.atomyze.tech
 +.atos.net
 +.atscaleconference.com
-+.atspromotions.com
 +.att-bundles.com
 +.att-idns.net
 +.att-japan.com
@@ -2490,7 +2490,6 @@
 +.bdsmtv.cc
 +.bdsmvideos.net
 +.be
-+.be+.aaa
 +.beaconevents.com
 +.bearteach.com
 +.beascoremodel.com
@@ -8011,6 +8010,7 @@
 +.full:vsmarketplacebadge.apphb.com
 +.full:widgets.stripst.com
 +.full:ws.audioscrobbler.com
++.full:www.microsoft.com
 +.full:zftksc.cdn-settings.appsflyersdk.com
 +.full:zftksc.launches.appsflyersdk.com
 +.fulldesisex.com
@@ -8618,8 +8618,10 @@
 +.gofuckmenow.com
 +.gofundme.com
 +.gog-cdn-lumen.secure2.footprint.net
++.gog-services.com
 +.gog-statics.com
 +.gog.com
++.gogalaxy.com
 +.gogettaxi.org
 +.gogle.com
 +.gogo-load.com
