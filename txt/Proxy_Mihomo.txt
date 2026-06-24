@@ -343,7 +343,6 @@
 +.4tube.com
 +.4tubefree.net
 +.4u4c.com
-+.5+.aaa
 +.5-d.com
 +.500caocao.com
 +.500px.com
@@ -568,6 +567,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1145,6 +1145,7 @@
 +.allstate
 +.allswingersclubs.org
 +.ally
++.almalinux.org
 +.almasdarnews.com
 +.almostmy.com
 +.alohatube.com
@@ -3747,6 +3748,7 @@
 +.bustyoldsluts.com
 +.bustysammieblack.com
 +.busu.org
++.busybox.net
 +.busytrade.com
 +.buugaa.com
 +.buy-from-shanghai.com
@@ -5271,7 +5273,6 @@
 +.deepl.com
 +.deepmind.com
 +.deezer.com
-+.default.exp-tas.com
 +.definebabe.com
 +.definefetish.com
 +.degruyter.com
@@ -5295,7 +5296,6 @@
 +.dell.com
 +.dell.com.co
 +.dell.com.hk
-+.dell.com.pk000webhost.com
 +.dell.net
 +.dell.tv
 +.dellcdn.com
@@ -6650,6 +6650,7 @@
 +.exoav.com
 +.exotic-ghana.com
 +.exoticuganda.com
++.exp-tas.com
 +.expatshield.com
 +.expecthim.com
 +.expekt.com
@@ -7933,7 +7934,6 @@
 +.full:crl.versign.net
 +.full:databank.worldbank.org
 +.full:datarouter.apps.netherrealm.com
-+.full:default.exp-tas.com
 +.full:deutschewelle.h-cdn.com
 +.full:developer.microsoft.com
 +.full:developers.facebook.com
@@ -8484,6 +8484,7 @@
 +.githack.com
 +.github-api.arkoselabs.com
 +.github.blog
++.github.career
 +.github.com
 +.github.community
 +.github1s.com
@@ -9692,7 +9693,6 @@
 +.hoyo.link
 +.hoyolab.com
 +.hoyoverse.com
-+.hp
 +.hp-imagine.com
 +.hp-infolab.com
 +.hp-invent.com
@@ -10387,7 +10387,6 @@
 +.indienudes.com
 +.indonesiaporn.name
 +.industrialtoys.com
-+.ine.com
 +.inf.news
 +.infinitetoons.com
 +.infinitetube.com
@@ -11832,6 +11831,7 @@
 +.lidecheng.com
 +.lidl
 +.life-global.org
++.lifeatspotify.com
 +.lifemiles.com
 +.lifeselector.com
 +.lifewire.com
@@ -12332,6 +12332,7 @@
 +.manhwahentai.me
 +.maniakey.homes
 +.maniash.com
++.manjaro.org
 +.manorama.com
 +.manoramanews.com
 +.manoramaonline.com
@@ -13036,7 +13037,6 @@
 +.mnewstv.com
 +.mo
 +.mo.co
-+.mo.com
 +.mobatek.net
 +.mobile-icq.com
 +.mobile01.com
@@ -14341,7 +14341,6 @@
 +.nubiles-porn.com
 +.nubiles.net
 +.nubileset.com
-+.nubilesettelnervana.com
 +.nubilesunscripted.com
 +.nuddess.com
 +.nude-pics.org
@@ -16650,6 +16649,7 @@
 +.rocksextube.com
 +.rockstargames.com
 +.rockstarnorth.com
++.rockylinux.org
 +.rogers
 +.rojo.com
 +.roku.com
@@ -16805,7 +16805,6 @@
 +.ruptly.tv
 +.ruptly.video
 +.rurtnews.com
-+.ruser.com
 +.rushbee.com
 +.rushporn.online
 +.russiabeyond.com
@@ -17991,6 +17990,7 @@
 +.spotifycharts.com
 +.spotifycodes.com
 +.spotifyforbrands.com
++.spotifyforvendors.com
 +.spotifyjobs.com
 +.spraynwash.com
 +.spreadprivacy.com
@@ -18320,7 +18320,6 @@
 +.suoluo.org
 +.supanimegames.com
 +.supchina.com
-+.supeme
 +.superadultgames.com
 +.supercell.com
 +.supercell.net
@@ -20454,6 +20453,8 @@
 +.vsco.co
 +.vscode-cdn.net
 +.vscode-unpkg.net
++.vscode-webview.net
++.vscodeedu.com
 +.vsezoo.com
 +.vsmarketplacebadge.apphb.com
 +.vsphere.com
