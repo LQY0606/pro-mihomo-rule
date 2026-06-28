@@ -5209,6 +5209,7 @@
 +.p4-ad.adukwai.com
 +.p5-ad.adukwai.com
 +.v1-lm.adukwai.com
++.v2-lm.adukwai.com
 +.v4-lm.adukwai.com
 +.analytic-client.adult-chess.com
 +.adult.xyz
@@ -7133,7 +7134,6 @@
 +.fls-eu.amazon-adsystem.com
 +.fls-fe.amazon-adsystem.com
 +.fls-na.amazon-adsystem.com
-+.hotwfe.amazon-adsystem.com
 +.imdb.amazon-adsystem.com
 +.ir-br.amazon-adsystem.com
 +.ir-ca.amazon-adsystem.com
@@ -7175,6 +7175,7 @@
 +.ps-jp.amazon-adsystem.com
 +.ps-us.amazon-adsystem.com
 +.rcm-eu.amazon-adsystem.com
++.rcm-fe.amazon-adsystem.com
 +.rcm-na.amazon-adsystem.com
 +.rtb.axp.amazon-adsystem.com
 +.s-fe.amazon-adsystem.com
@@ -13710,7 +13711,7 @@
 +.tr.btob-cwf.com
 +.tr.btobquotes.com
 +.btoetwervetat.space
-+.btofoa
++.btofoayyqedfg.site
 +.btowerexkphfu.site
 +.btpopoogrnqvj.site
 +.btprmnav.com
@@ -25049,7 +25050,7 @@
 +.a.cn.duoyi.com
 +.swappdl.duoyi.com
 +.js205.dupinpu.com
-+.dupjgqxfwhan.
++.dupjgqxfwhan.com
 +.dupperknolly.shop
 +.dupqiccmjruhb.online
 +.info.duprelogistics.com
@@ -37467,6 +37468,7 @@
 +.ocular.hotukdeals.com
 +.om.hotwire.com
 +.som.hotwire.com
++.hotwords.com
 +.a8cv.hotyoga-loive.com
 +.houcedqscszcu.space
 +.sanalytics.houghtonstatebank.com
@@ -48778,7 +48780,6 @@
 +.sanalytics.mail-corp.com
 +.images.mail-fellowesbrands.com
 +.mail-spinner.com
-+.mail.centr
 +.tr.mailatia.com
 +.mailboxboynutrition.com
 +.sats.mailbrew.com
@@ -50485,6 +50486,7 @@
 +.miayarus.com
 +.mibamebrnupqk.vip
 +.b.mibank.com
++.c.mibank.com
 +.mibsyoxjdxilxqj.com
 +.micfagmbbtwda.website
 +.info.michaelfoods.com
@@ -64633,7 +64635,6 @@
 +.rcjzipeazsuly.website
 +.rckvklcpibmdz.online
 +.rclubuygfswdn.site
-+.rcm-
 +.rcmutcalqloehw.com
 +.metrics.rcn.com
 +.rcnhgfebinhck.space
@@ -64807,7 +64808,6 @@
 +.metrics.realsimple.com
 +.olhqou.realsimple.com
 +.smetrics.realsimple.com
-+.realso
 +.realsrv.com
 +.realsrvcdn.com
 +.marketing.realstorygroup.com
@@ -80580,7 +80580,6 @@
 +.cs1.wpc.v0cdn.net
 +.v0su9ogte.com
 +.v12group.com
-+.v2
 +.v2006.com
 +.v2cigs.com
 +.fd.v2downf.shop
