@@ -371,7 +371,6 @@
 +.53world.com
 +.53worldsweeps.com
 +.54647.global
-+.54647.onli+.aaa
 +.54647.online
 +.54647.org
 +.55dndn.com
@@ -568,6 +567,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -4829,6 +4829,7 @@
 +.coova.com
 +.coova.net
 +.coova.org
++.copilot.com
 +.copilot.microsoft.com
 +.copro.pw
 +.copy-manga.com
