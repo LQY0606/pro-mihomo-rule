@@ -6073,7 +6073,6 @@
 +.analytics.us.tiktok.com.bytedance.akadns.net
 +.analytics.us.tiktok.com.bytewlb.akadns.net
 +.asimov-win.settings.data.microsoft.com.akadns.net
-+.cstat-lb.apple.com.akadns.net
 +.cy2.vortex.data.microsoft.com.akadns.net
 +.db5.settings.data.microsoft.com.akadns.net
 +.db5.vortex.data.microsoft.com.akadns.net
@@ -6095,8 +6094,6 @@
 +.searchads.lb-apple.com.akadns.net
 +.spyneteurope.microsoft.akadns.net
 +.v10-win.vortex.data.microsoft.com.akadns.net
-+.xp-cdn-lb.itunes-apple.com.akadns.net
-+.xp.itunes-apple.com.akadns.net
 +.marketing.akaes.com
 +.akahpvdbdmwdu.website
 +.3j0pw4ed7uac-a.akamaihd.net
@@ -7817,6 +7814,7 @@
 +.weather-analytics-events.news.apple-dns.net
 +.advertising.apple.com
 +.advp.apple.com
++.analytics-events.apple.com
 +.api-adservices.apple.com
 +.autolinkmaker.itunes.apple.com
 +.banners.itunes.apple.com
@@ -7845,6 +7843,7 @@
 +.launch.apple.com
 +.metrics.apple.com
 +.msc-dct-prod.msc.apple.com
++.news-analytics-events.apple.com
 +.news-app-events.apple.com
 +.news-events.apple.com
 +.news-notification-events.apple.com
@@ -7854,6 +7853,7 @@
 +.partiality.itunes.apple.com
 +.performance-partners.apple.com
 +.phonesubmissions.apple.com
++.podcasts-analytics-events.apple.com
 +.prd-usw2-requestattribution-iad.apple.com
 +.proxy-skadnetwork.apple.com
 +.proxy.advp.apple.com
@@ -7863,6 +7863,7 @@
 +.securemvt.apple.com
 +.stocks-analytics-events.apple.com
 +.supportmetrics.apple.com
++.tv-analytics-events.apple.com
 +.weather-analytics-events.apple.com
 +.widgets.itunes.apple.com
 +.xp-cdn.apple.com
@@ -57755,6 +57756,7 @@
 +.prcsybiihhrrv.site
 +.prdredir.com
 +.a8cv.pre-sana.com
++.media.pre.pandom
 +.smetrics.preautorizacionfs.com
 +.prebid.org
 +.prebidmanager.com
@@ -68358,7 +68360,6 @@
 +.staysafeonlinetoday.com
 +.watch.stctv.com
 +.stdirection.com
-+.info.stdom.com
 +.ste000u5mk.com
 +.steadfastseat.com
 +.steadfastsound.com
@@ -79907,6 +79908,7 @@
 +.hme-uat-loganalytics-namespace.servicebus.windows.net
 +.hotelembuguacu.blob.core.windows.net
 +.insitez.blob.core.windows.net
++.kg-legacy-analytics.servicebus.windows.net
 +.licensingtelemetry-prod.servicebus.windows.net
 +.msoftdatastore.z22.web.core.windows.net
 +.nexxtv-events.servicebus.windows.net
@@ -81645,7 +81647,6 @@
 +.log.pt.xiaomi.com
 +.logs.n.xiaomi.com
 +.mantual.pandora.xiaomi.com
-+.media.pre.pandora.xiaomi.com
 +.mi4crawler.pandora.xiaomi.com
 +.mibi.api.xiaomi.com
 +.mibi.xiaomi.com
@@ -81706,6 +81707,7 @@
 +.stat.xiaomi.com
 +.static.game.xiaomi.com
 +.stats.music.xiaomi.com
++.sujmazbura.xiaomi.com
 +.sys.intl.xiaomi.com
 +.sys.tv.india.xiaomi.com
 +.t1.market.xiaomi.com
