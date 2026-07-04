@@ -1531,6 +1531,7 @@
 +.appget.com
 +.appl-e.com
 +.appl.com
++.appl000webhost.com
 +.appl4e.com
 +.appla.com
 +.apple
@@ -5103,6 +5104,7 @@
 +.d4dj-pj.com
 +.da-files.com
 +.daboja18.com
++.dabox.com
 +.dabr.me
 +.dabr.mobi
 +.dabur
@@ -6457,6 +6459,7 @@
 +.epson
 +.equinenow.com
 +.er
++.er.co
 +.erabaru.net
 +.eraofconnection.com
 +.erepublik.com
@@ -6965,6 +6968,7 @@
 +.faebookc.com
 +.faeboook.com
 +.faecebok.com
++.faelherald.com
 +.faesebook.com
 +.fafacebook.com
 +.fage
@@ -8257,6 +8261,7 @@
 +.gaystream.pw
 +.gaythebest.com
 +.gaytopcams.com
++.gaytube.cau
 +.gaytube.com
 +.gayvl.net
 +.gaywatch.com
@@ -8785,6 +8790,7 @@
 +.gosexpod.com
 +.goshemalecams.com
 +.gospelherald.com
++.gospznfeeds.com
 +.gosq.co
 +.gosq.com
 +.gossipfuli4511.xyz
@@ -9037,6 +9043,7 @@
 +.haplorrhini.com
 +.happy-vpn.com
 +.happymeal.com
++.happymeal.com.p18.net
 +.happymealdigital.com
 +.haproxy.org
 +.hardcore-sex-filme.com
@@ -10506,6 +10513,7 @@
 +.instapaper.com
 +.instaplayer.net
 +.instastyle.tv
++.instatore.com
 +.instawank.com
 +.instgram.com
 +.institut-tibetain.org
@@ -11478,6 +11486,7 @@
 +.kindleoasisnews.com
 +.kindleproject.com
 +.kindleren.com
++.kindlgramcn.com
 +.kindnudist.com
 +.kindteenporn.com
 +.kingcomix.com
@@ -14339,6 +14348,7 @@
 +.ntdtvla.com
 +.ntdvn.com
 +.ntl.fyi
++.ntnzi.com
 +.ntp.ripe.net
 +.ntp0.ntp-servers.net
 +.ntp1.ntp-servers.net
@@ -19471,6 +19481,7 @@
 +.tumbex.com
 +.tumblr.co
 +.tumblr.com
++.tumutafootballgloves.com
 +.tumutanzi.com
 +.tumview.com
 +.tuncommercialbank.com
@@ -20097,6 +20108,7 @@
 +.viber.co
 +.viber.com
 +.viber.me
++.vibrotica-forum.com
 +.vica.info
 +.victimsofcommunism.org
 +.vid.me
