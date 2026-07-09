@@ -1706,6 +1706,7 @@
 +.4c484cefc8.com
 +.4c81b78eca.com
 +.4cinsights.com
++.4co7mbs
 +.4cxup4kp3c.com
 +.4cz7ypl3.xyz
 +.4d45i6p0g.com
@@ -3976,7 +3977,6 @@
 +.achieveweakness.com
 +.m.achig.com
 +.achophranb.com
-+.m.achuc.com
 +.acibgrucxulrh.space
 +.acictsjxqbsob.website
 +.acidcostunnatural.com
@@ -15679,7 +15679,7 @@
 +.bd3.chuiyue.com
 +.bd4.chuiyue.com
 +.sbpb1.chuiyue.com
-+.chujstkfubpix.space
++.chujstkfu
 +.a8clk.chuko-truck.com
 +.chunfuxie.cn
 +.chunkdestructiveenforce.com
@@ -17945,7 +17945,6 @@
 +.data.accountslatam.coca-cola.com
 +.data.americas.coca-cola.com
 +.data.apac.coca-cola.com
-+.data.asp.coca-cola.com
 +.data.comms.coca-cola.com
 +.data.emea.coca-cola.com
 +.data.europe.coca-cola.com
@@ -25648,7 +25647,7 @@
 +.eloqua.emdmillipore.com
 +.emdnriustcngd.website
 +.marketing.emds.com
-+.emduboiem.com
++.emdub
 +.emediatrack.com
 +.ssl.o.emedicinehealth.com
 +.ementrandings.org
@@ -44737,6 +44736,7 @@
 +.brc-visio-telemetry.officeapps.live.com
 +.c.live.com
 +.cac-visio-telemetry.officeapps.live.com
++.chc-visio-telemetry.officeapps.live.com
 +.dec-visio-telemetry.officeapps.live.com
 +.euc-excel-telemetry.officeapps.live.com
 +.euc-onenote-telemetry.officeapps.live.com
@@ -64204,12 +64204,13 @@
 +.bldr.mkt.samsung.com
 +.channelusa.samsung.com
 +.dc.di.atlas.samsung.com
++.dc.di.runestone.samsung.com
 +.dc.dqa.samsung.com
 +.ddf.di.atlas.samsung.com
-+.di.runestone.samsung.com
 +.dls-account.di.atlas.samsung.com
 +.dls-ddc.dqa.samsung.com
 +.dls-udc.dqa.samsung.com
++.dls.di.runestone.samsung.com
 +.dqa-auth.di.atlas.samsung.com
 +.eu.business.samsung.com
 +.event-tracking.samsung.com
@@ -64225,6 +64226,8 @@
 +.lp.europe.business.samsung.com
 +.lp.smartbusiness.samsung.com
 +.nmetrics.samsung.com
++.orsdls.di.runestone.samsung.com
++.orsfs.di.runestone.samsung.com
 +.plbusiness.samsung.com
 +.regi.di.atlas.samsung.com
 +.sca.samsung.com
@@ -71978,6 +71981,7 @@
 +.ads-api.tiktok.com
 +.ads-frontier.tiktok.com
 +.ads-jp.tiktok.com
++.ads-ru.tiktok.com
 +.ads-sg.tiktok.com
 +.ads-ttp2.us.tiktok.com
 +.ads.tiktok.com
