@@ -1706,7 +1706,6 @@
 +.4c484cefc8.com
 +.4c81b78eca.com
 +.4cinsights.com
-+.4co7mbs
 +.4cxup4kp3c.com
 +.4cz7ypl3.xyz
 +.4d45i6p0g.com
@@ -3977,6 +3976,7 @@
 +.achieveweakness.com
 +.m.achig.com
 +.achophranb.com
++.m.achuc.com
 +.acibgrucxulrh.space
 +.acictsjxqbsob.website
 +.acidcostunnatural.com
@@ -7017,6 +7017,7 @@
 +.vfw-us-west.amazon-adsystem.com
 +.vfw-us.amazon-adsystem.com
 +.vfw.amazon-adsystem.com
++.vfwm-eu.amazon-adsystem.com
 +.vfwm-us-west.amazon-adsystem.com
 +.vfwm-us.amazon-adsystem.com
 +.vfwm.amazon-adsystem.com
@@ -7080,6 +7081,7 @@
 +.unagi-na.amazon.com
 +.unagi.amazon.com
 +.vaes.amazon-adsystem.amazon.com
++.adserver.pubtech.amazon.dev
 +.advertising.amazon.dev
 +.bugs.firebat.prime-video.amazon.dev
 +.bugsnag.shopbop.amazon.dev
@@ -17945,6 +17947,7 @@
 +.data.accountslatam.coca-cola.com
 +.data.americas.coca-cola.com
 +.data.apac.coca-cola.com
++.data.asp.coca-cola.com
 +.data.comms.coca-cola.com
 +.data.emea.coca-cola.com
 +.data.europe.coca-cola.com
@@ -25647,7 +25650,7 @@
 +.eloqua.emdmillipore.com
 +.emdnriustcngd.website
 +.marketing.emds.com
-+.emdub
++.emduboiem.com
 +.emediatrack.com
 +.ssl.o.emedicinehealth.com
 +.ementrandings.org
@@ -73285,7 +73288,6 @@
 +.tele.trafficmanager.net
 +.telemetry-lcp.trafficmanager.net
 +.telemetry.eastus.trafficmanager.net
-+.tenmax-ads.trafficmanager.net
 +.tm-analytics-pr.trafficmanager.net
 +.tm-enrollment-telemetry-datacore.trafficmanager.net
 +.tracker.flightview.com.trafficmanager.net
