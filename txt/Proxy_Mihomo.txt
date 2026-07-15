@@ -884,6 +884,7 @@
 +.ag
 +.aga-expo.com
 +.agakhan
++.agb9r0ad.qllfkl.com
 +.agdbank.com
 +.age.tv
 +.agedm.org
@@ -3418,6 +3419,7 @@
 +.bnpparibas
 +.bnrmetal.com
 +.bntrace.com
++.bnxz.net
 +.bo
 +.boardreader.com
 +.boboporn.com
@@ -3828,6 +3830,7 @@
 +.bypasscensorship.org
 +.byrut.org
 +.byspotify.com
++.bystys.tech
 +.bytedapm.com
 +.byteoversea.com
 +.bytick.com
@@ -7936,6 +7939,7 @@
 +.full:1password.drift.click
 +.full:a4e8s8k3.map2.ssl.hwcdn.net
 +.full:adobeereg.com
++.full:agb9r0ad.qllfkl.com
 +.full:api.viu.now.com
 +.full:apple-tv-plus-press.apple.com
 +.full:azure.microsoft.com
@@ -7962,6 +7966,7 @@
 +.full:github-api.arkoselabs.com
 +.full:gitlab-assets.oss-cn-hongkong.aliyuncs.com
 +.full:gog-cdn-lumen.secure2.footprint.net
++.full:hb4bbbbb.pmhcjk.com
 +.full:hls-amt.itunes.apple.com
 +.full:hls.itunes.apple.com
 +.full:hpstore.corpmerchandise.com
@@ -7973,6 +7978,7 @@
 +.full:location.microsoft.com
 +.full:medone-education.thieme.com
 +.full:mscrl.microsoft.com
++.full:nbbb1bb7.pmhcjk.com
 +.full:np-edge.itunes.apple.com
 +.full:ntp0.ntp-servers.net
 +.full:ntp1.ntp-servers.net
@@ -7988,6 +7994,7 @@
 +.full:packages.microsoft.com
 +.full:play-edge.itunes.apple.com
 +.full:public-us-pingsx.api.clonoth.com
++.full:q676790b.pmhcjk.com
 +.full:roovza-launches.appsflyersdk.com
 +.full:roovza.inapps.appsflyersdk.com
 +.full:roovza.launches.appsflyersdk.com
@@ -9071,6 +9078,7 @@
 +.hayabusa.media
 +.hayday.com
 +.haydaygame.com
++.hb4bbbbb.pmhcjk.com
 +.hbabit.com
 +.hbfile.net
 +.hbg.com
@@ -11864,7 +11872,12 @@
 +.lightyearvpn.com
 +.lihkg.com
 +.lihksnap.com
++.like-video.com
 +.like.com
++.like.video
++.likee.com
++.likee.video
++.likeevideo.com
 +.likeseiyu.com
 +.liketruyen.net
 +.liketwice.com
@@ -13773,6 +13786,7 @@
 +.naydex.net
 +.nba
 +.nbabot.net
++.nbbb1bb7.pmhcjk.com
 +.nbc.co
 +.nbc.com
 +.nbcnews.com
@@ -14844,6 +14858,7 @@
 +.ovpn.com
 +.owind.com
 +.owltail.com
++.owxd.xyz
 +.oxfordaasc.com
 +.oxfordartonline.com
 +.oxfordbibliographies.com
@@ -16167,6 +16182,7 @@
 +.pzhanfor.today
 +.q13.com
 +.q13fox.com
++.q676790b.pmhcjk.com
 +.qa
 +.qanote.com
 +.qatarescortsvip.com
@@ -19926,6 +19942,7 @@
 +.uwants.net
 +.uwpcommunitytoolkit.com
 +.uxthemes.com
++.uxzw.club
 +.uy
 +.uyghur-j.org
 +.uyghuraa.org
@@ -22006,6 +22023,7 @@
 +.ytimg.com
 +.yuanming.net
 +.yuanzhengtang.org
++.yucf.top
 +.yuenuge113.xyz
 +.yuenuge18.cc
 +.yugioh-card.com
