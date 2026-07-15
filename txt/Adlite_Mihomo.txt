@@ -20337,7 +20337,7 @@
 +.stereos2.crutchfield.com
 +.stereos2s.crutchfield.com
 +.crutchstubbornultimatum.com
-+.cruxgpnyrvvu
++.cruxgpnyrvvur.website
 +.cruzietv.com
 +.crwdcntrl.net
 +.crwlmdpzabosr.online
@@ -27338,7 +27338,7 @@
 +.exlrwgrhfqakc.site
 +.exlzgmwsnvdpf.space
 +.exmainclcknew.com
-+.exmarketplace.
++.exmarketplace.com
 +.exmwfltxyxwmr.website
 +.vs1.exo01.xyz
 +.exoclick.com
@@ -35065,6 +35065,9 @@
 +.ums-telemetry-cn.heytapmobi.com
 +.userprofile.push.heytapmobi.com
 +.virusinfo-cloudscan-cn.heytapmobi.com
++.ad-growth-in.heytapmobile.com
++.ad-growth-ru.heytapmobile.com
++.ad-growth-sg.heytapmobile.com
 +.ads-bdapi-my.heytapmobile.com
 +.ads-bdapi-ph.heytapmobile.com
 +.ads-bdapi-th.heytapmobile.com
@@ -43283,6 +43286,7 @@
 +.axp.ktalnews.com
 +.cdn.ktbch.cloud
 +.kteawsjm.com
++.ktetxsziozrhq.site
 +.ktexiofxqjcugoi.com
 +.ktfmk4utug.com
 +.ktgsordlflvpi.com
@@ -43297,7 +43301,6 @@
 +.ktmvzffnawzug.space
 +.ktnwsfisfbvjl.space
 +.ktocmwvtlivyq.site
-+.ktokv.eu
 +.api.ktplay.com
 +.track.ktplay.com
 +.ktrajsivwyqym.com
@@ -73201,6 +73204,7 @@
 +.rtlog16-normal-useastred.tiktokv.eu
 +.tnc16-normal-ie.tiktokv.eu
 +.tnc16-normal-no1a.tiktokv.eu
++.tnc16-normal-useastred.tiktokv.eu
 +.tnc19-normal-ie.tiktokv.eu
 +.tnc19-normal-no1a.tiktokv.eu
 +.tnc19-normal-useastred.tiktokv.eu
@@ -73559,7 +73563,6 @@
 +.smetrics.tmz.com
 +.tmztsogzhbbwg.com
 +.dyn.tnaflix.com
-+.tnc16-normal-useastred.ti
 +.tncid.app
 +.tnctrx.com
 +.tncycnhulwray.website
@@ -75529,7 +75532,6 @@
 +.tztbijfdycgdd.space
 +.tzvpn.site
 +.njd.tzxianghao.cn
-+.u
 +.u-mob.cn
 +.u-on.eu
 +.marketing.u-pic.com
@@ -83433,6 +83435,7 @@
 +.xinkuaiyu.com
 +.xinleka.com
 +.ret.xinlongrubber.com
++.upaicdn.xinmei365.com
 +.tongji.xinmin.cn
 +.www2.xinmin.cn
 +.demo.xinqcr.com
