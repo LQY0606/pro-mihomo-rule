@@ -12527,6 +12527,7 @@
 +.api-m.com
 +.api-vod-qcloud.com
 +.api.anythinktech.com
++.api.blipsandchitz.me
 +.api.so
 +.apiairasia.com
 +.apiandroid.com
@@ -47006,6 +47007,7 @@
 +.hrs100.com
 +.hrsalon.org
 +.hrsay.com
++.hrsecn.com
 +.hrsee.com
 +.hrsel.com
 +.hrsoft-china.com
