@@ -7069,6 +7069,7 @@
 +.maws-aax-us-east-test4.amazon-adsystem.com
 +.maws-aax-us-east.amazon-adsystem.com
 +.maws-aax-us-pdx-rtb.amazon-adsystem.com
++.origin-sq-tungsten-ts-fe.amazon-adsystem.com
 +.origin-sq-tungsten-ts.amazon-adsystem.com
 +.pri1-3ps.amazon-adsystem.com
 +.pri1-id-eu.amazon-adsystem.com
@@ -7144,7 +7145,6 @@
 +.aax-dtb-cf.amazon-adsystem.amazon.com
 +.aax-dtb-mobile-geo.amazon-adsystem.amazon.com
 +.aax-eu-dub.amazon.com
-+.aax-ott-sdk.amazon-adsystem.amazon.com
 +.aax-ott.amazon-adsystem.amazon.com
 +.aax-us-east-1-ott.amazon-adsystem.amazon.com
 +.aax-us-iad.amazon.com
@@ -45650,12 +45650,8 @@
 +.pgteu5-excel-telemetry-vip.officeapps.live.com
 +.pgteu5-powerpoint-telemetry-vip.officeapps.live.com
 +.pgteu5-word-telemetry-vip.officeapps.live.com
-+.pgtmx1-excel-telemetry-vip.officeapps.live.com
 +.pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
 +.pgtmx1-word-telemetry-vip.officeapps.live.com
-+.pgtsg1-excel-telemetry-vip.officeapps.live.com
-+.pgtsg1-powerpoint-telemetry-vip.officeapps.live.com
-+.pgtsg1-word-telemetry-vip.officeapps.live.com
 +.pgtus1-excel-telemetry-vip.officeapps.live.com
 +.pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 +.pgtus1-word-telemetry-vip.officeapps.live.com
@@ -69607,7 +69603,7 @@
 +.join.spur.io
 +.join.staging.spur.io
 +.connect.spurcorp.com
-+.spuri
++.spuriousair.com
 +.spurioussquirrel.com
 +.spuriousstranger.com
 +.spurrerklamath.shop
@@ -71475,7 +71471,7 @@
 +.gold.szonline.net
 +.v.szpaopao.com
 +.szpyqrgh.xyz
-+.szpz
++.szpzwvdcpedjl.site
 +.e.szqifu.com
 +.m.szqifu.com
 +.szqvbkwohszkr.space
@@ -72130,10 +72126,10 @@
 +.tctask.com
 +.tctepwisejwvc.site
 +.tctrbtdxbscuw.site
-+.tctv
 +.c.tctyb.cn
 +.tcufahfu.com
 +.mdws.tcufinancialgroup.com
++.tcwgmjsjgtsrm.space
 +.tcwouq1gmw.com
 +.tcx0wyp0nn.com
 +.tcxjkoekoqvkj.website
@@ -82986,7 +82982,6 @@
 +.improving.wuzhuiso.com
 +.ee.wv26d.cn
 +.m.wv26d.cn
-+.acr-eu-prd.samsungcloud.wvdcpedjl.site
 +.wvdkbuoimnxyu.site
 +.wvepppysvo.com
 +.wvhapsvllumwx.space
@@ -86508,7 +86503,6 @@
 +.yzyjxqzvupndq.site
 +.yzyzkatyeco.com
 +.yktj.yzz.cn
-+.z
 +.cdnjs.z-face.cn
 +.z0ha6abmi.com
 +.m.z0mh0u.cn
@@ -87196,6 +87190,7 @@
 +.trk.zinsser-analytic.com
 +.zinzlixtaacfg.website
 +.app.zmail.zionsbank.com
++.zipcrypticbroadsheet.com
 +.zipdealtdomestic.com
 +.events-ocu.zipify.com
 +.smetrics.ziplyfiber.com
