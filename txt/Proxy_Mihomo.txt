@@ -1,3 +1,4 @@
++..com
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -157,7 +158,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -387,6 +387,7 @@
 +.5i01.com
 +.5isotoi5.org
 +.5lml.com
++.5m
 +.5maodang.com
 +.5mb48g.com
 +.5mo.fun
@@ -567,7 +568,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1502,6 +1502,7 @@
 +.aple.com
 +.aplestore.com
 +.aplleipods.com
++.apllw.net
 +.aplusvpn.com
 +.apnews.com
 +.apole.com
@@ -5219,6 +5220,7 @@
 +.daumcdn.net
 +.daumpcbang.com
 +.david-kilgour.com
++.david-laserscanner+.aaa
 +.david-laserscanner.com
 +.dawangidc.com
 +.dawngate.com
@@ -6466,7 +6468,6 @@
 +.eprc.com.hk
 +.eprintsw.com
 +.epson
-+.eqiang.com
 +.equinenow.com
 +.er
 +.erabaru.net
@@ -7052,7 +7053,6 @@
 +.fangong.org
 +.fangongheike.com
 +.fangsung.com
-+.fangvpnpronet.com
 +.fanhaodang.com
 +.fanhaodian.com
 +.fanhaolou.com
@@ -15468,6 +15468,7 @@
 +.pleasurebabe.com
 +.pleasuregirl.net
 +.pleasuremore.com
++.plestoreonline.com
 +.plex.com
 +.plex.services
 +.plex.tv
@@ -20105,6 +20106,7 @@
 +.verygoodnike.com
 +.veryladyboy.com
 +.veryshortintroductions.com
++.vevo.co1password.drift.click
 +.vevo.com
 +.vewas.net
 +.vfabric.net
@@ -20828,6 +20830,7 @@
 +.whynotbi.com
 +.whyx.org
 +.wi-fi.org
++.wi68xe.com
 +.wibes.com
 +.widevine.com
 +.widgets.stripst.com
