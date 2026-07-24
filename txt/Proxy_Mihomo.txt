@@ -1469,7 +1469,6 @@
 +.aoxvpn.com
 +.aoxx69.net
 +.ap.org
-+.ap000webhost.com
 +.ap0le.com
 +.apa.org
 +.apache.org
@@ -5222,7 +5221,6 @@
 +.daumcdn.net
 +.daumpcbang.com
 +.david-kilgour.com
-+.david-kilgplestoreonline.com
 +.david-laserscanner.com
 +.dawangidc.com
 +.dawngate.com
@@ -5356,7 +5354,6 @@
 +.deno.com
 +.deno.land
 +.dentalhypotheses.com
-+.deour.com
 +.dependabot.com
 +.depositphotos.com
 +.deps.info
@@ -6058,7 +6055,6 @@
 +.eamythic.net
 +.eanordic.com
 +.eaplay.com
-+.eaptechka.an.com
 +.eaptechka.online
 +.earlytibet.com
 +.earngeek.com
@@ -6554,7 +6550,6 @@
 +.eroticsaloon.net
 +.erotictube.me
 +.eroxia.com
-+.erservices.com
 +.ertk.net
 +.es
 +.es-rt.com
@@ -9761,7 +9756,6 @@
 +.hpcodewarsbcn.com
 +.hpcomputers.com
 +.hpcomputerservices.com
-+.hpcomputgratis
 +.hpconnected.com
 +.hpconnected.net
 +.hpconnected.org
@@ -20110,7 +20104,6 @@
 +.vermonttibet.org
 +.vern.cc
 +.verpeliculasporno.gratis
-+.verpeliculasporno.online
 +.versavpn.com
 +.versly.com
 +.vervesex.com
