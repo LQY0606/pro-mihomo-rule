@@ -10424,7 +10424,7 @@
 +.balkersestian.com
 +.balkliving.com
 +.balloonbelieve.com
-+.ballroomprudentaud
++.ballroomprudentauditorium.com
 +.ballsbanana.com
 +.sp.ballsdigroup.com
 +.as.balluff.com
@@ -15192,6 +15192,7 @@
 +.ccuoqedyqvttq.tech
 +.5.ccutu.com
 +.ccwqjgycmojrg.site
++.ccztgy.elgiga
 +.cd2ef10dae.com
 +.cd828.com
 +.cda5e3eeec.com
@@ -32960,7 +32961,6 @@
 +.gmzdaily.com
 +.gmzuespkejwyz.website
 +.gmzybyparfece.space
-+.gn-flagpolestv
 +.gn01.top
 +.gn4yz5v9z.com
 +.gn6u494hn.com
@@ -40620,7 +40620,6 @@
 +.itmhqk.icu
 +.itnnzkipjcxxt.space
 +.itnwcttnwedtk.site
-+.acr-eu-prd.samsungcloud.itorium.com
 +.itponytaa.com
 +.trk.itprotoday.com
 +.itpsfqhnjlkwl.space
@@ -60260,7 +60259,6 @@
 +.prcsybiihhrrv.site
 +.prdredir.com
 +.a8cv.pre-sana.com
-+.media.pre.pando
 +.smetrics.preautorizacionfs.com
 +.prebid.org
 +.prebidmanager.com
@@ -67176,6 +67174,7 @@
 +.cis.schibsted.com
 +.collector.schibsted.io
 +.smetrics.schindler.com
++.smetrics.schindler.lu
 +.schjmp.com
 +.mktg.schlage.com
 +.trail-001.schleich-s.com
@@ -69584,7 +69583,6 @@
 +.smedwajlfhamd.com
 +.smellyla.com
 +.smenqskfmpfxnb.bid
-+.smetrics.schindler
 +.smglvclyfsfbt.website
 +.smgru.net
 +.smi.today
@@ -85303,6 +85301,7 @@
 +.log.pt.xiaomi.com
 +.logs.n.xiaomi.com
 +.mantual.pandora.xiaomi.com
++.media.pre.pandora.xiaomi.com
 +.mi4crawler.pandora.xiaomi.com
 +.mibi.api.xiaomi.com
 +.mibi.xiaomi.com
