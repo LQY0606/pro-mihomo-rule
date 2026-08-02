@@ -677,6 +677,7 @@
 +.acs.org
 +.actalis.com
 +.actfortibet.org
++.actifio.com
 +.activematter.game
 +.activeteachonline.com
 +.activpn.com
@@ -4700,7 +4701,6 @@
 +.cochina.org
 +.cochranelibrary.com
 +.cock4stepmom.com
-+.cockheafan.livedoor.blog
 +.cockofhorse.com
 +.cocksuckersguide.com
 +.cocktailsandcocktalk.com
@@ -5397,7 +5397,6 @@
 +.detentiongirls.com
 +.detodosparatodos.org
 +.dettol-prize.com
-+.dettol..com
 +.dettol.com
 +.dettol.com.hk
 +.dettol.net
@@ -6054,7 +6053,6 @@
 +.eacashcard.com
 +.eachpay.com
 +.eachpay.net
-+.eachpay4stepmom.com
 +.eacodigos.com
 +.eadultgames.com
 +.eafootballworld.com
@@ -11109,6 +11107,7 @@
 +.jetbrains.cloud
 +.jetbrains.com
 +.jetbrains.net
++.jetbrains.org
 +.jetbrains.space
 +.jetbrains.team
 +.jetfuelapp.com
@@ -11597,6 +11596,7 @@
 +.korewaeroi.com
 +.korona.com
 +.kostenlosepornoclips.com
++.kotlinconf.com
 +.kotlinlang.org
 +.kouwobb.com
 +.kp
@@ -13618,6 +13618,7 @@
 +.myiphide.com
 +.myiphider.com
 +.myipod.net
++.myjetbrains.com
 +.myjkwd.com
 +.mykomica.org
 +.mylcloud.net
@@ -14377,6 +14378,7 @@
 +.ntdtv.org
 +.ntdtvla.com
 +.ntdvn.com
++.nthlink.com
 +.ntl.fyi
 +.ntp.ripe.net
 +.ntp0.ntp-servers.net
@@ -14776,6 +14778,7 @@
 +.openweathermap.org
 +.openwebster.com
 +.openwrt.org
++.openxla.org
 +.opera.com
 +.opinionjournal.com
 +.oppai-doga.info
@@ -17109,7 +17112,6 @@
 +.scnshop.cc
 +.scnsrc.me
 +.scolle.net
-+.scom
 +.scopus.com
 +.scorecardresearch.com
 +.scoreclassics.com
@@ -17546,7 +17548,6 @@
 +.shodanhq.com
 +.shoers.com
 +.shoestop2.com
-+.shonai.coasian.com
 +.shooshtime.com
 +.shop-headphones.net
 +.shop-rt.com
@@ -18602,6 +18603,7 @@
 +.talkatone.com
 +.talkboxapp.com
 +.talkcc.com
++.talkingkotlin.com
 +.talkonly.net
 +.talksport.com
 +.tamilsexvideos.cc
@@ -19223,7 +19225,6 @@
 +.tokyomotion.net
 +.tokyonightstyle.com
 +.tokyoporns.com
-+.tokyotosho.ase.com
 +.tokyotosho.info
 +.tomatespodres.com
 +.tomonews.net
