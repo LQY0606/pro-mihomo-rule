@@ -1924,7 +1924,6 @@
 +.m.51t4d.cn
 +.51taifu.com
 +.ad.video.51togic.com
-+.customstat.video.51togic.com
 +.51vipedu.com
 +.ad.51wnl-cq.com
 +.ad.51wnl.com
@@ -4295,6 +4294,7 @@
 +.acyruuezhtdkk.space
 +.acystiasodaic.shop
 +.acyxssqjdvfaj.space
++.ad
 +.ad-
 +.ad-adapex.io
 +.ad-block.shop
@@ -4704,7 +4704,6 @@
 +.admirecallpalpate.com
 +.admireddepressedsarcastic.com
 +.admiredeterioratesinner.com
-+.admiredjumper.com
 +.admiregarrisonnetwork.com
 +.admiringnearestthread.com
 +.admissibleblinkbesiege.com
@@ -6691,10 +6690,6 @@
 +.allabc.com
 +.metrics.allaboutyou.com
 +.info.allango.net
-+.calculator-api-fr.allawnos.com
-+.calculator-api-in.allawnos.com
-+.calculator-api-sg.allawnos.com
-+.calculator-api-us.allawnos.com
 +.classify-app-eu.allawnos.com
 +.classify-app-in.allawnos.com
 +.classify-app-sg.allawnos.com
@@ -6765,7 +6760,6 @@
 +.smartcard-apps-sg.allawnos.com
 +.smartcard-apps-us.allawnos.com
 +.sticker-service-in.allawnos.com
-+.wallpaper-service-sg.allawnos.com
 +.zen-core-fr.allawnos.com
 +.zen-core-in.allawnos.com
 +.zen-core-sg.allawnos.com
@@ -7254,10 +7248,12 @@
 +.aax-dtb-cf.amazon-adsystem.amazon.com
 +.aax-dtb-mobile-geo.amazon-adsystem.amazon.com
 +.aax-eu-dub.amazon.com
++.aax-ott-sdk.amazon-adsystem.amazon.com
 +.aax-ott.amazon-adsystem.amazon.com
 +.aax-us-east-1-ott.amazon-adsystem.amazon.com
 +.aax-us-iad.amazon.com
 +.aax-us-ott.amazon-adsystem.amazon.com
++.aax-us.amazon-adsystem.amazon.com
 +.ads-setu-proxy-eu.amazon.com
 +.ads-setu-proxy-fe.amazon.com
 +.ads-setu-proxy.amazon.com
@@ -53218,6 +53214,7 @@
 +.nbkpigxextkjn.website
 +.nbmzifqviafbn.site
 +.nbnbewlhy.com
++.securemetrics.nbnco.com
 +.nboclympics.com
 +.nbojiajiao.bid
 +.metrics.adobe.nbprivatewealth.com
@@ -80646,6 +80643,7 @@
 +.video-adblocker.com
 +.video-serve.com
 +.hw-p2p-pull.video-voip.com
++.customstat.video.5
 +.videoadstech.org
 +.videoamp.com
 +.qnlbs2m0uoto.www.videoath.com
@@ -81234,6 +81232,7 @@
 +.kz-st-sl.vivoglobal.com
 +.kz-st-sysupgrade.vivoglobal.com
 +.kz-stsdk.vivoglobal.com
++.kz-vcode-api.vivoglobal.com
 +.kz-vcode-od.vivoglobal.com
 +.kz-vcode-or.vivoglobal.com
 +.monitor-stsdk.vivoglobal.com
