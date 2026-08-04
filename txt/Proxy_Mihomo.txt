@@ -16333,7 +16333,6 @@
 +.radio.garden
 +.radiofarda.com
 +.radiohilight.net
-+.radiojar.com
 +.radioline.co
 +.radiomarsho.com
 +.radiosvoboda.org
