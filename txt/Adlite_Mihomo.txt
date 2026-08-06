@@ -7620,7 +7620,6 @@
 +.analytics-cdiscount.com
 +.analytics-data.io
 +.amp.analytics-debugger.com
-+.analytics-dev-sim
 +.analytics.analytics-egain.com
 +.analytics-helper.com
 +.analytics.blue
@@ -84331,8 +84330,8 @@
 +.test.activity.windows.com
 +.1oavsblobprodcus350.blob.core.windows.net
 +.37bvsblobprodcus311.blob.core.windows.net
-+.acr-eu-prd.samsungcloud.pad-events.servicebus.windows.net
 +.analytics-dev-lleap-events.servicebus.windows.net
++.analytics-dev-simpad-events.servicebus.windows.net
 +.analyticsehnwe.servicebus.windows.net
 +.best10cdn.blob.core.windows.net
 +.ceuswatcab01.blob.core.windows.net
