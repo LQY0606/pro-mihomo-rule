@@ -7201,7 +7201,6 @@
 +.maws-aax-eu-rtb-adx.amazon-adsystem.com
 +.maws-aax-eu-rtb.amazon-adsystem.com
 +.maws-aax-eu.amazon-adsystem.com
-+.maws-aax-fe-sin.amazon-adsystem.com
 +.maws-aax-fe.amazon-adsystem.com
 +.maws-aax-us-east-rtb-adx.amazon-adsystem.com
 +.maws-aax-us-east-rtb.amazon-adsystem.com
@@ -84364,7 +84363,6 @@
 +.nexxtv-events.servicebus.windows.net
 +.optanon.blob.core.windows.net
 +.ppm-licensingtelemetry.servicebus.windows.net
-+.prd-qlik-telemetry.servicebus.windows.net
 +.prod-eh-v1-analytics.servicebus.windows.net
 +.prod-eventhub-analytics.servicebus.windows.net
 +.production-jobactivity-analytics.servicebus.windows.net
