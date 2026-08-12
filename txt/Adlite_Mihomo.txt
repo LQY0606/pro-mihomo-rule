@@ -1923,7 +1923,7 @@
 +.e.51xmgys.com
 +.m.51xmgys.com
 +.51y5.net
-+.51yes.com
++.51yes.404
 +.51yhzp.com
 +.51ympuu7y.com
 +.game.51yund.com
@@ -11418,7 +11418,7 @@
 +.file.blackint3.com
 +.blacklinknow.com
 +.blacklivesmatter1.org
-+.connect.blackmesh.com
++.connect.blackmesh.404
 +.blacknesscalculatorboxing.com
 +.blackpics.net
 +.aladdinupdate.blackrock.com
@@ -52970,6 +52970,7 @@
 +.images.identity.okta.com
 +.4b.oktium.com
 +.oktmwddlpisrn.site
++.okto1.spsglob404
 +.oktopost.com
 +.oktqqjqltnkiv.site
 +.oktranhfyfa.com
@@ -67424,7 +67425,6 @@
 +.sprysummit.com
 +.spot.spsfactory.com
 +.spsfjtvdgbfmo.website
-+.okto1.spsglobal.com
 +.trk.spsglobal.com
 +.spswjytxnvunp.online
 +.sptag.com
