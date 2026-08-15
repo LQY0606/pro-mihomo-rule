@@ -8269,9 +8269,9 @@
 +.arabalative.shop
 +.wt.arabalears.cat
 +.arabcontroversycrisis.com
-+.analytics-dev-simisitor.arabiancentres.com
 +.pages.arabiancentres.com
 +.tracking.arabiancentres.com
++.visitor.arabiancentres.com
 +.arabisdrench.shop
 +.arableillnesspersonnel.com
 +.views.arabnews.com
@@ -8871,6 +8871,7 @@
 +.atpm.cn
 +.atpsjprnuspug.site
 +.atqjthrqgcjkf.website
++.atqxowwznoqkm.site
 +.asia.atradius.com
 +.nordics.atradius.com
 +.trck.e.atradius.com
@@ -10248,6 +10249,7 @@
 +.qapm.baidu.com
 +.qianclick.baidu.com
 +.release.baidu.com
++.res.mi.baidu.com
 +.river.zhidao.baidu.com
 +.rj.baidu.com
 +.rp.baidu.com
@@ -22039,7 +22041,6 @@
 +.deisflair.shop
 +.deizyzaxeogkc.space
 +.vlogs.deja.media
-+.dejavu.merca
 +.dejebitmmmzpb.online
 +.dejectedineptvary.com
 +.smetrics.dekalbasgrowdeltapine.com
@@ -28405,7 +28406,7 @@
 +.a8clk.fc-mado.com
 +.js.fc090.com
 +.fc2-ppv.xyz
-+.analyzer.fc2.c
++.analyzer.fc2.com
 +.analyzer2.fc2.com
 +.counter1.fc2.com
 +.fc2plus.site
@@ -49099,7 +49100,6 @@
 +.info.mhzdesign.com
 +.mi-de-ner-nis3.info
 +.resolver.gslb.mi-idc.com
-+.res.mi.baid
 +.a.hl.mi.com
 +.a.union.mi.com
 +.ad.mi.com
@@ -78101,7 +78101,6 @@
 +.uzxksecxqrchr.online
 +.dee.uzyid.cn
 +.uzzxkatxegdzh.website
-+.v
 +.c.v-meng.org
 +.sjanff.v-moda.com
 +.v-pack.net
@@ -82153,8 +82152,8 @@
 +.1oavsblobprodcus350.blob.core.windows.net
 +.37bvsblobprodcus311.blob.core.windows.net
 +.analytics-dev-lleap-events.servicebus.windows.net
++.analytics-dev-simpad-events.servicebus.windows.net
 +.analyticsehnwe.servicebus.windows.net
-+.atqxowpad-events.servicebus.windows.net
 +.best10cdn.blob.core.windows.net
 +.ceuswatcab01.blob.core.windows.net
 +.ceuswatcab02.blob.core.windows.net
