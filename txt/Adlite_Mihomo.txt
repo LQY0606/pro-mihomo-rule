@@ -49676,7 +49676,6 @@
 +.jupiter.intl.sys.miui.com
 +.jupiter.rus.sys.miui.com
 +.jupiter.sys.miui.com
-+.log-abroad.avlyun.sec.miui.com
 +.logupdate.avlyun.sec.miui.com
 +.m.beehive.in.intl.miui.com
 +.mazu.sec.miui.com
@@ -73685,6 +73684,8 @@
 +.location-va.tiktokv.com
 +.location.tiktokv.com
 +.location.us.tiktokv.com
++.log-dr.tiktokv.com
++.log-dr16-normal-useast1a.tiktokv.com
 +.log-i18n.tiktokv.com
 +.log-phx.tiktokv.com
 +.log-ru.tiktokv.com
@@ -73855,6 +73856,8 @@
 +.location-v6-ttp2.tiktokv.eu
 +.location16-normal-useastred.tiktokv.eu
 +.locationv16-normal-useastred.tiktokv.eu
++.log-dr16-normal-no1a.tiktokv.eu
++.log-dr16-normal-useastred.tiktokv.eu
 +.log31-normal-no1a.tiktokv.eu
 +.log31-normal-useastred.tiktokv.eu
 +.log32-normal-no1a.tiktokv.eu
@@ -74946,7 +74949,6 @@
 +.irreverselookuptm.trafficmanager.net
 +.ism-telemetry.trafficmanager.net
 +.legacywatson.trafficmanager.net
-+.o365diagtelemetry.trafficmanager.net
 +.office-events-data.trafficmanager.net
 +.oms-analytics.trafficmanager.net
 +.pixel-sync.trafficmanager.net
@@ -79552,6 +79554,8 @@
 +.pnrt-stsdk.vivoglobal.com
 +.prt-stsdk.vivoglobal.com
 +.ro-up.vivoglobal.com
++.ru-album-api.vivoglobal.com
++.ru-analyzer-appstore.vivoglobal.com
 +.ru-commonitor-stsdk.vivoglobal.com
 +.ru-comonrt-stsdk.vivoglobal.com
 +.ru-comort-stsdk.vivoglobal.com
