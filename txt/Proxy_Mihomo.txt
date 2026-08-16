@@ -571,7 +571,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -12588,6 +12587,7 @@
 +.mayaonlinux.com
 +.mayaonmac.com
 +.mayaonosx.com
++.mayapressbooks.c+.aaa
 +.mayapressbooks.com
 +.mayasucks.com
 +.mayaunlimited.com
@@ -13079,6 +13079,7 @@
 +.misskey.stream
 +.misskey.yukineko.me
 +.mist.vip
++.mistral.aichardli
 +.mistresskym.com
 +.mit
 +.mit.net
@@ -16713,7 +16714,6 @@
 +.rhyw.me
 +.rhyw31.life
 +.ricefever.com
-+.richardli
 +.ricoh
 +.ridepenguin.com
 +.rightbtc.com
@@ -16724,6 +16724,7 @@
 +.rileyguide.com
 +.rinvdh7.xyz
 +.rio
++.riom
 +.riot-games.com
 +.riot.com
 +.riot.net
@@ -16953,6 +16954,7 @@
 +.rutracker.me
 +.rutracker.net
 +.rutracker.org
++.rutracker.wiki
 +.rutrk.org
 +.rutube.sport
 +.ruvideos.net
