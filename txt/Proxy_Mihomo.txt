@@ -571,7 +571,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1162,6 +1161,7 @@
 +.alphabet.asia
 +.alphabet.biz
 +.alphabet.com
++.alphabet.com.+.aaa
 +.alphabet.info
 +.alphabetfinance.net
 +.alphaporno.com
@@ -14359,6 +14359,7 @@
 +.noodlemagazine.com
 +.noodlevpn.com
 +.norbulingka.org
++.nordcdn.com
 +.nordstrom.com
 +.nordstromimage.com
 +.nordstrommedia.com
