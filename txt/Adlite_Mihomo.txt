@@ -66203,6 +66203,7 @@
 +.samsungads.com
 +.samsungallstore.com
 +.ureca.samsungapps.com
++.acr-eu-prd.samsungcloud.
 +.acr0.samsungcloudsolution.com
 +.prderrordumphsm.samsungcloudsolution.com
 +.devicelog.samsungcloudsolution.net
