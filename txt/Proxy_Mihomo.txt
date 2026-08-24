@@ -1496,6 +1496,7 @@
 +.api.moomoobull.com
 +.api.news
 +.api.proxlet.com
++.api.shuaiapi.com
 +.api.waqi.info
 +.apibay.org
 +.apigee.com
@@ -3174,7 +3175,6 @@
 +.blocktempo.com
 +.blog.com
 +.blog.descargasgay.com
-+.blog.fuckgfw233.org
 +.blog.kangye.org
 +.blog.qooza.hk
 +.blogblog.com
@@ -3719,7 +3719,6 @@
 +.budatt.com
 +.buddhistchannel.tv
 +.buddymedia.com
-+.buddysmile.net
 +.buffered.com
 +.bugsnag.com
 +.bugzilla.org
@@ -3861,7 +3860,6 @@
 +.c-msedge.net
 +.c-span.org
 +.c-spanvideo.org
-+.c.fuckgfw233.org
 +.c.mi.com
 +.c0930.com
 +.c100tibet.org
@@ -4391,7 +4389,7 @@
 +.chinamz.org
 +.chinanewscenter.com
 +.chinarightsia.org
-+.chinasingapore.com
++.chinasmile.net
 +.chinasocialdemocraticparty.com
 +.chinasoul.org
 +.chinasucks.net
@@ -5400,7 +5398,6 @@
 +.dert.site
 +.dert.tech
 +.desertbmw.com
-+.design-.com
 +.design-ledrev.com
 +.design-ledrevolution.com
 +.designeriphonescases.com
@@ -7969,6 +7966,7 @@
 +.fuckcnnic.net
 +.fuckcuck.com
 +.fuckgfw.org
++.fuckgfw233.org
 +.fuckingawesome.com
 +.fuckingfreemovies.com
 +.fuckingmatures.com
@@ -9461,7 +9459,6 @@
 +.hidemyass.com
 +.hidemycomp.com
 +.hidive.com
-+.hidra-sre.org
 +.hifacebook.info
 +.hifiporn.fun
 +.hifixxx.fun
@@ -11629,7 +11626,6 @@
 +.konachan.com
 +.konachan.net
 +.konachan.wjcodes.com
-+.konachannbeta.com
 +.konami-igaming.online
 +.konami.com
 +.konami.net
@@ -13431,7 +13427,6 @@
 +.ms365surfaceoffer.com
 +.ms4dre.com
 +.msa-it.org
-+.msa-it.orledrevolution.com
 +.msauth.net
 +.mschallenge2018.com
 +.msd
