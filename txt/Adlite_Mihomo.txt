@@ -18913,7 +18913,6 @@
 +.prom.gome.com.cn
 +.public.app.autohome.com.cn
 +.push.app.autohome.com.cn
-+.push.samsungosp.com.cn
 +.pv.enet.com.cn
 +.pv.xcar.com.cn
 +.pv.zdnet.com.cn
