@@ -571,7 +571,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -715,6 +714,7 @@
 +.adguard.info
 +.adguard.org
 +.adguardaccount.com
++.adguardaccount.net
 +.adguardcdn.com
 +.adguardvpn.com
 +.adhelpnews.com
@@ -1674,6 +1674,7 @@
 +.applestore.cc
 +.applestore.com
 +.applestore.com.hk
++.applestore.com.p+.aaa
 +.applestore.hk
 +.applestore.me
 +.applestore.net
@@ -14927,6 +14928,7 @@
 +.oursogo.com
 +.oursweb.net
 +.ourtv.hk
++.ouryahoo.com
 +.out-app-purchase.com
 +.outdoorpublicsex.com
 +.outingsapp.com
@@ -21922,6 +21924,7 @@
 +.yahoodns.net
 +.yahoofinance.com
 +.yahoohealth.com
++.yahooinc.com
 +.yahoomusic.com
 +.yahoosandbox.com
 +.yahoosportsbook.com
