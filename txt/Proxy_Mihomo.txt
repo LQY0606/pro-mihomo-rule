@@ -157,6 +157,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -570,6 +571,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -640,7 +642,6 @@
 +.accountpaypal.net
 +.accountpaypal.org
 +.accuweather.com
-+.accuweather.csii.net
 +.acdocs.com
 +.acebooik.com
 +.acebook.com
@@ -909,7 +910,6 @@
 +.agu.org
 +.agzy1.com
 +.ah-me.com
-+.ahart.com
 +.ahcathyxxx.com
 +.ahcdn.com
 +.ahegao.online
@@ -6907,7 +6907,6 @@
 +.facebooklogin.com
 +.facebooklogin.info
 +.facebookloginhelp.net
-+.facebookloginhelp.net000webhost.com
 +.facebooklogs.com
 +.facebookmail.com
 +.facebookmail.tv
@@ -7832,7 +7831,6 @@
 +.freehentaistream.com
 +.freehongkong.org
 +.freehqtube.com
-+.freehulu.allenark.com
 +.freehulu.com
 +.freeilhamtohti.org
 +.freejavbt.com
@@ -8445,6 +8443,7 @@
 +.getjetso.com
 +.getlantern.org
 +.getmalus.com
++.getmonero.org
 +.getoutline.org
 +.getpaint.net
 +.getpersonas.com
@@ -8762,7 +8761,6 @@
 +.goodyear
 +.goofind.com
 +.goog
-+.goog.news
 +.googel.com
 +.googil.com
 +.googl.com
@@ -9738,7 +9736,6 @@
 +.hotindianxxxsex.com
 +.hotjav.tv
 +.hotladsworld.com
-+.hotladyhere.c-us.com
 +.hotladyhere.com
 +.hotmail
 +.hotmail.co
@@ -11460,7 +11457,6 @@
 +.karayou.com
 +.kards.com
 +.karger.com
-+.karin1password.drift.click
 +.karinahart.com
 +.karkhung.com
 +.karlajames.com
@@ -17683,7 +17679,6 @@
 +.showtimeanytime.com
 +.showup.tv
 +.showybeauty.com
-+.shp.com
 +.shrkurl.com
 +.shsh201.com
 +.shuangmawei.xyz
@@ -20123,7 +20118,6 @@
 +.vana
 +.vanguard
 +.vanilla-jp.com
-+.vanis+.aaa
 +.vanish.com.co
 +.vanisharabia.com
 +.vanishcentroamerica.com
