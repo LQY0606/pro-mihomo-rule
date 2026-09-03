@@ -4834,6 +4834,7 @@
 +.lp.owarnersbdev.journeyusshared.adobe.com
 +.lptest.email-mobiledx.cjm.adobe.com
 +.newtest.wunderman-email.cjm.adobe.com
++.practivate.adobe.com
 +.secureflashplayerfeedback.adobe.com
 +.sms.email-disney.cjm.adobe.com
 +.sms.email-mobiledx.cjm.adobe.com
@@ -5941,7 +5942,6 @@
 +.ahyjsrlslitla.online
 +.ahymmqagnewae.online
 +.ahzrdogdenuok.site
-+.ai.thermofisher
 +.metrics.aia.com
 +.smetrics.aia.com
 +.aiahosyhl.com
@@ -6109,6 +6109,7 @@
 +.marketing.airefco.com
 +.aajmmd.aireuropa.com
 +.sstats.airfarewatchdog.com
++.stats.airfarewatchdog.com
 +.link.airfarm.io
 +.airfind.com
 +.tk.airfrance.cm
@@ -34603,6 +34604,7 @@
 +.mp3.haogeba.com
 +.haoghost.com
 +.cpc.haohaowan8.com
++.ps.haohaowan8.com
 +.rs.haohaowan8.com
 +.dm.haojuzi.net
 +.haokoubei.top
@@ -49472,7 +49474,6 @@
 +.spynetalt.microsoft.com
 +.statsfe1.ws.microsoft.com
 +.statsfe2.ws.microsoft.com
-+.tar.microsoft.com
 +.telecommandsvc.microsoft.com
 +.telem-edge.smartscreen.microsoft.com
 +.telemetry.microsoft.com
@@ -59673,7 +59674,6 @@
 +.pr0gram.org
 +.praairfo.com
 +.prabblenutrify.com
-+.prac
 +.practicablepancakevisual.com
 +.practical-associate.pro
 +.practical-interest.com
@@ -60426,7 +60426,6 @@
 +.pryckdnodwfsb.online
 +.delivery.pryzmads.com
 +.prztkbkycbtgc.online
-+.ps.haohaowa
 +.tr1.psa-surveys.com
 +.psa1xoeve.com
 +.psaltauw.net
@@ -70697,7 +70696,6 @@
 +.smetrics.statnews.com
 +.statorkumyk.com
 +.statowl.com
-+.stats.airfa
 +.stats2.com
 +.stats21.com
 +.stats4all.com
@@ -73651,6 +73649,7 @@
 +.dx.thermo.com
 +.info.thermo.com
 +.phadia.thermo.com
++.ai.thermofisher.com
 +.allergy.thermofisher.com
 +.app.response.thermofisher.com
 +.autoimmunity.thermofisher.com
@@ -82717,6 +82716,7 @@
 +.nexxtv-events.servicebus.windows.net
 +.optanon.blob.core.windows.net
 +.ppm-licensingtelemetry.servicebus.windows.net
++.prd-qlik-telemetry.servicebus.windows.net
 +.prod-eh-v1-analytics.servicebus.windows.net
 +.prod-eventhub-analytics.servicebus.windows.net
 +.production-jobactivity-analytics.servicebus.windows.net
