@@ -157,7 +157,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -1884,6 +1883,7 @@
 +.atl-paas.net
 +.atlanta168.com
 +.atlantaminidealers.com
++.atlasdm.com
 +.atlasdmt.com
 +.atlasonepoint.com
 +.atlaspost.com
@@ -5211,6 +5211,7 @@
 +.daozhongxing.org
 +.daretoku-eromanga.info
 +.darivoa.com
++.darivoa1password.drift.click
 +.darkageofcamelot.com
 +.darkcategories.com
 +.darknaija.com
@@ -14313,6 +14314,7 @@
 +.nintendostore.com
 +.nintendoswitch.com
 +.nintendoswitch.net
++.nintendoswitch.nett.com
 +.nintendoswitchtogether.com
 +.nintendowii.com
 +.ninth.biz
