@@ -157,7 +157,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -565,13 +564,13 @@
 +.a-msedge.net
 +.a-normal-day.com
 +.a-teenz.com
++.a.com
 +.a0pple.net
 +.a1av.xyz
 +.a2z.com
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1675,6 +1674,7 @@
 +.applestore.cc
 +.applestore.com
 +.applestore.com.hk
++.applestore.com.prayou.com
 +.applestore.hk
 +.applestore.me
 +.applestore.net
@@ -5211,6 +5211,7 @@
 +.daozhongxing.org
 +.daretoku-eromanga.info
 +.darivoa.com
++.darivoa1password.drift.click
 +.darkageofcamelot.com
 +.darkcategories.com
 +.darknaija.com
@@ -8779,6 +8780,7 @@
 +.google.hk
 +.google.me
 +.google.net
++.google.or+.aaa
 +.google.org
 +.google.ventures
 +.googleacquisitionmigration.com
