@@ -1269,7 +1269,7 @@
 +.ee.32z8d.cn
 +.33-trk-srv.com
 +.dm1.3328.cn
-+.332hike.com
++.332hik
 +.3333withfox.net
 +.3337723.com
 +.3337738.com
@@ -1705,7 +1705,6 @@
 +.459b6951ca.com
 +.45b58980d0.com
 +.c.45io.com
-+.ee.45le.cn
 +.m.45le.cn
 +.ee.45xa.cn
 +.m.45xa.cn
@@ -13760,7 +13759,6 @@
 +.smetrics.builddirect.com
 +.plausible.buildfirst.tech
 +.contractor-app.buildforce.com
-+.worker-app-dev.buildforce.com
 +.worker-app-staging.buildforce.com
 +.worker-app.buildforce.com
 +.buildingknife.com
@@ -25839,6 +25837,7 @@
 +.edxwcxnfpukze.site
 +.m.edysn.cn
 +.edzvubkgsokfg.online
++.ee.45l
 +.ee035.cn
 +.ee2b93a3a4.com
 +.eeaeghdfwnjnz.site
@@ -83750,6 +83749,7 @@
 +.analytics.woozooo.com
 +.statics.woozooo.com
 +.woozy-save.pro
++.wor
 +.worbledeess.com
 +.loader.word-grabber.com
 +.wordamazinglylamb.com
