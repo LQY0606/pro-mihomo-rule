@@ -640,7 +640,6 @@
 +.account-paypal.org
 +.accountboy.com
 +.accountkit.com
-+.accountpay000webhost.com
 +.accountpaypal.com
 +.accountpaypal.net
 +.accountpaypal.org
@@ -1296,7 +1295,6 @@
 +.amd.com.cn
 +.amdfanstore.com
 +.amdgaming.com
-+.ameatsheadphonesusamall.com
 +.amebame.com
 +.amebaownd.com
 +.amebaowndme.com
@@ -2076,7 +2074,6 @@
 +.autodeskrevitsucks.com
 +.autodeskrevitsucks.net
 +.autodeskseek.com
-+.autodesksketchbg
 +.autodesksketchbook.com
 +.autodesksketchbookdesigner.com
 +.autodeskstylebook.com
@@ -2912,7 +2909,6 @@
 +.bethsoft.com
 +.betterbim.com
 +.betterexplained.com
-+.bettergle.com
 +.bettergpt.chat
 +.betterhash.net
 +.betterhdporn.com
@@ -3565,7 +3561,6 @@
 +.boyspornpics.com
 +.boyvid.com
 +.boyztube.com
-+.bpal.org
 +.br
 +.bradesco
 +.braeburncapital.com
@@ -4430,7 +4425,6 @@
 +.chinman.net
 +.chintai
 +.chintaidx.com
-+.chinwitch.com
 +.chipcore.com
 +.chipmong13g.buzz
 +.chips.com
@@ -5338,7 +5332,6 @@
 +.deepwiki.org
 +.deezer.com
 +.definebabe.com
-+.definebablive
 +.definefetish.com
 +.degruyter.com
 +.deja.com
@@ -5405,7 +5398,6 @@
 +.derekhsu.homeip.net
 +.deribit.com
 +.derpibooru.org
-+.derpibooru.orpproject.net
 +.dert.online
 +.dert.site
 +.dert.tech
@@ -6042,7 +6034,6 @@
 +.dvdstudiopro.net
 +.dvdstudiopro.org
 +.dvdtrailertube.com
-+.dvorak.
 +.dvorak.org
 +.dw-world.com
 +.dw.com
@@ -8507,7 +8498,6 @@
 +.ggee
 +.ggjav.com
 +.ggoogle.com
-+.ggooookdesigner.com
 +.ggpds.com
 +.ggpht.com
 +.ggsel.com
@@ -8893,7 +8883,6 @@
 +.gp
 +.gpstatic.com
 +.gpstheseries.com
-+.gpt.chat
 +.gputechconf.com
 +.gqzmnav.cc
 +.gr
@@ -14327,7 +14316,6 @@
 +.nintendoswitch.com
 +.nintendoswitch.net
 +.nintendoswitchtogether.com
-+.nintendosyments.com
 +.nintendowii.com
 +.ninth.biz
 +.niosii.com
@@ -17330,7 +17318,6 @@
 +.serlucap.lol
 +.serlutv258.xyz
 +.servehttp.com
-+.servercore.aworker.info
 +.servercore.com
 +.servercore.live
 +.serverfault.com
@@ -20142,7 +20129,6 @@
 +.vanguard
 +.vanilla-jp.com
 +.vanish.com.co
-+.vanish.com.hre.com
 +.vanisharabia.com
 +.vanishcentroamerica.com
 +.vanishstains.com
