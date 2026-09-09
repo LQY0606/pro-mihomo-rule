@@ -54381,7 +54381,6 @@
 +.opoxv.com
 +.solutions.oppd.com
 +.tracking.oppd.com
-+.h4g3z1-native.oppo-realme.w
 +.ads.oppomobile.com
 +.adsfs-in.oppomobile.com
 +.adsfs.oppomobile.com
@@ -55480,7 +55479,6 @@
 +.pxsg.pandora.com
 +.smetrics.pandora.com
 +.smetrics.pandora.net
-+.bsp.sasdc.pandoraeb.app
 +.statystyki.panelek.com
 +.panelsave.com
 +.metrics.panerabread.com
@@ -79247,6 +79245,7 @@
 +.h4g3z1-native.amazon.web.app
 +.h4g3z1-native.apple.web.app
 +.h4g3z1-native.lgwebos.web.app
++.h4g3z1-native.oppo-realme.web.app
 +.h4g3z1-native.roku.web.app
 +.h4g3z1-native.samsung.web.app
 +.h4g3z1-native.tiktok.web.app
@@ -81980,6 +81979,7 @@
 +.bigdata-lbs-pri-c3.alb.xiaomi.com
 +.bossadmin.pandora.xiaomi.com
 +.box.pandora.xiaomi.com
++.bsp.sasdc.pandora.xiaomi.com
 +.bss.pandora.xiaomi.com
 +.bugreport.pt.xiaomi.com
 +.c3-bgp.pandora.xiaomi.com
