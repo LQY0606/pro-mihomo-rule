@@ -6766,7 +6766,6 @@
 +.f-droid.com
 +.f-droid.org
 +.f-secure.com
-+.f.com
 +.f1.com
 +.f1tv.com
 +.f2pool.com
@@ -12409,7 +12408,6 @@
 +.malvastudios.com
 +.mamacitaz.com
 +.mamingzhe.com
-+.mamxshm.site
 +.man
 +.managedmeetingrooms.com
 +.managedpki.com
@@ -12589,7 +12587,6 @@
 +.maxgo.com
 +.maxillofacial-cadcam.com
 +.maximumerotica.com
-+.maximumerotica.rg
 +.maxis.com
 +.maya5.net
 +.mayacomplete.com
@@ -13842,7 +13839,6 @@
 +.natura
 +.naturalvoices.com
 +.nature.com
-+.naturemag.onjaro.org
 +.naturemag.org
 +.naughty.com
 +.naughtyamerica.com
@@ -16339,6 +16335,7 @@
 +.qstatus.com
 +.qt-project.org
 +.qtweeter.com
++.quakemachinex.com
 +.qualcomm-email.com
 +.qualcomm-inc.com
 +.qualcomm.com
