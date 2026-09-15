@@ -7119,6 +7119,7 @@
 +.z-eu.amazon-adsystem.com
 +.z-fe.amazon-adsystem.com
 +.z-in.amazon-adsystem.com
++.z-na.amazon-adsystem.com
 +.fls-cn.amazon.cn
 +.unagi.amazon.cn
 +.aan.amazon.com
@@ -9482,6 +9483,7 @@
 +.eg-ad-lgsmartad-com.aws-prd.net
 +.eg-info-lgsmartad-com.aws-prd.net
 +.es-ad-lgsmartad-com.aws-prd.net
++.es-info-lgsmartad-com.aws-prd.net
 +.et-ad-lgsmartad-com.aws-prd.net
 +.eu7-info-lgsmartad-com.aws-prd.net
 +.fi-ad-lgsmartad-com.aws-prd.net
@@ -52286,8 +52288,6 @@
 +.my.nextgem.com
 +.tim.nextinpact.com
 +.link.nextlevelsports.com
-+.ibs.nextlgsdp.com
-+.ibsstat.nextlgsdp.com
 +.rdx2.nextlgsdp.com
 +.nextlnk9.com
 +.dev-imp.nextmedia.com
@@ -73154,6 +73154,7 @@
 +.rtlog31-normal.tiktokv.com
 +.rtlog32-normal-alisg.tiktokv.com
 +.rtlog32-normal-zr.tiktokv.com
++.rtlog58-normal-alisg.tiktokv.com
 +.rtlog58-normal-useast1a.tiktokv.com
 +.rtlog58-normal-useast2a.tiktokv.com
 +.rtlog58-normal-ycru.tiktokv.com
@@ -73216,7 +73217,6 @@
 +.tnc19-normal-ie.tiktokv.eu
 +.tnc19-normal-no1a.tiktokv.eu
 +.tnc19-normal-useastred.tiktokv.eu
-+.rtlog58-normal-alisg.tiktokvstem.com
 +.ads-ie.tiktokw.eu
 +.ads-ttp2.tiktokw.eu
 +.ads16-normal-useastred.tiktokw.eu
@@ -86024,7 +86024,6 @@
 +.yzzenrdszkhes.website
 +.yzzksnfxepiiy.site
 +.cdnjs.z-face.cn
-+.z-na.amazon-adsy
 +.m.z0mh0u.cn
 +.z0rto0758.com
 +.z0u6tmmudb.com
