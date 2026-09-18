@@ -7121,6 +7121,7 @@
 +.z-eu.amazon-adsystem.com
 +.z-fe.amazon-adsystem.com
 +.z-in.amazon-adsystem.com
++.z-na.amazon-adsystem.com
 +.fls-cn.amazon.cn
 +.unagi.amazon.cn
 +.aan.amazon.com
@@ -39030,7 +39031,6 @@
 +.sstats.instawares.com
 +.stats.instawares.com
 +.insteadmodification.com
-+.instem.com
 +.insticator.com
 +.event.instiengage.com
 +.geoip.instiengage.com
@@ -79114,6 +79114,7 @@
 +.in-adreq.vivoglobal.com
 +.in-adsjssdk.vivoglobal.com
 +.in-analyzer-appstore.vivoglobal.com
++.in-apponrt-stsdk.vivoglobal.com
 +.in-apport-stsdk.vivoglobal.com
 +.in-apppnrt-stsdk.vivoglobal.com
 +.in-appprt-stsdk.vivoglobal.com
@@ -86382,7 +86383,6 @@
 +.yzzenrdszkhes.website
 +.yzzksnfxepiiy.site
 +.cdnjs.z-face.cn
-+.z-na.amazon-adsy
 +.m.z0mh0u.cn
 +.z0rto0758.com
 +.z0u6tmmudb.com
