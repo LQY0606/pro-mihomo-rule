@@ -3990,7 +3990,7 @@
 +.accusedbeatnormandy.com
 +.accuserutility.com
 +.accustomedinaccessible.com
-+.accustomjumper.com
++.accustomju
 +.info.accutrain.com
 +.metrics.accuweather.com
 +.acdcdn.com
@@ -30529,6 +30529,7 @@
 +.fuclctdrjcvhs.online
 +.fucouselfship.shop
 +.fucwufaprni.com
++.fude
 +.fudgegenie.com
 +.get.fudigo.com
 +.fudyepnjxwmlm.online
@@ -35152,6 +35153,7 @@
 +.img-c.heytapimage.com
 +.ums-rum-cn.heytapimage.com
 +.ums-rum-global.heytapimage.com
++.adm-smc-cn.heytapmobi.com
 +.ads.heytapmobi.com
 +.adx.ads.heytapmobi.com
 +.album-cn01a.ocloud.heytapmobi.com
@@ -35209,10 +35211,12 @@
 +.ads.heytapmobile.com
 +.adx-ads-fr.heytapmobile.com
 +.adx-ads-ru.heytapmobile.com
++.adx-op-fr-heytapmobilea-a7bbf.fr-w01.cngw.heytapmobile.com
 +.adx-op-fr.heytapmobile.com
 +.adx-op-in.heytapmobile.com
 +.adx-op-ru.heytapmobile.com
 +.adx-op-sg.heytapmobile.com
++.adx-u-ru.heytapmobile.com
 +.adx-u-sg.heytapmobile.com
 +.adxu-bigo-sg.heytapmobile.com
 +.api-gl.cdo.heytapmobile.com
@@ -43903,7 +43907,6 @@
 +.a8cv.l-meal.com
 +.l0cpto94.xyz
 +.l0npl51iwv.com
-+.l0nrjph1.xyz
 +.l1bj5pxqzk.com
 +.resources.l1id.com
 +.l1native.com
@@ -79114,7 +79117,6 @@
 +.in-adreq.vivoglobal.com
 +.in-adsjssdk.vivoglobal.com
 +.in-analyzer-appstore.vivoglobal.com
-+.in-apponrt-stsdk.vivoglobal.com
 +.in-apport-stsdk.vivoglobal.com
 +.in-apppnrt-stsdk.vivoglobal.com
 +.in-appprt-stsdk.vivoglobal.com
@@ -79156,6 +79158,7 @@
 +.kz-timesync.vivoglobal.com
 +.kz-vcode-od.vivoglobal.com
 +.kz-vcode-or.vivoglobal.com
++.l0nrj-apponrt-stsdk.vivoglobal.com
 +.monitor-stsdk.vivoglobal.com
 +.mx-album-api.vivoglobal.com
 +.mx-cota.vivoglobal.com
