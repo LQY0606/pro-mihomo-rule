@@ -159,7 +159,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -372,6 +371,7 @@
 +.52av.one
 +.52fuliji.cc
 +.52hyse.com
++.52kmz.cebs.com
 +.52kmz.com
 +.531tr.com
 +.53world.com
@@ -639,6 +639,7 @@
 +.account-paypal.net
 +.account-paypal.org
 +.accountboy.com
++.accountcom
 +.accountkit.com
 +.accountpaypal.com
 +.accountpaypal.net
@@ -1164,6 +1165,7 @@
 +.alotporn.com
 +.alphabet.asia
 +.alphabet.biz
++.alphabet.bizx.com
 +.alphabet.com
 +.alphabet.info
 +.alphabetfinance.net
@@ -1674,6 +1676,7 @@
 +.applescript.info
 +.appleshare.info
 +.applestor.com
++.applestore
 +.applestore.cc
 +.applestore.com
 +.applestore.com.hk
@@ -4737,6 +4740,7 @@
 +.code.org
 +.code1984.com
 +.codeberg.org
++.codebuff.com
 +.codecademy.com
 +.codeforces.com
 +.codeish.co
@@ -5208,6 +5212,7 @@
 +.danskpornofilm.com
 +.dansmovies.com
 +.danwei.org
++.daoc.ne000webhost.com
 +.daoc.net
 +.daolan.net
 +.daozhongxing.org
@@ -7410,6 +7415,7 @@
 +.firebaseapp.com
 +.firebaseio.com
 +.fireemblemawakening.com
++.firefox-portal-detection.com
 +.firefox.com
 +.firefoxtweetmachine.com
 +.firefoxusercontent.com
@@ -7798,6 +7804,7 @@
 +.freebrowser.org
 +.freebs.com
 +.freebsd.org
++.freebuff.com
 +.freecamsfan.com
 +.freecartoons.biz
 +.freechal.com
@@ -8238,6 +8245,7 @@
 +.gameover.com.hk
 +.gamepass.com
 +.gamepedia.com
++.gamer.newood.me
 +.gameroom.com
 +.gamerotic.com
 +.gamesathletes.com
@@ -11157,6 +11165,7 @@
 +.jerkmate.com
 +.jerkmate.tv
 +.jerkmatelive.org
++.jerkofftocel1password.drift.click
 +.jerkofftocelebs.com
 +.jessicaturner.com
 +.jetbrains.cloud
@@ -14086,6 +14095,7 @@
 +.nextgenerationcenter.com
 +.nextjs.org
 +.nextmedia.com
++.nextmedia.paypal.com
 +.nextmgz.com
 +.nextplus.com.hk
 +.nextstop.com
@@ -18912,6 +18922,7 @@
 +.texttobuy.org
 +.texture.com
 +.tf
++.tfbnw.net
 +.tferwq.com
 +.tfiflve.com
 +.tfsallin.net
