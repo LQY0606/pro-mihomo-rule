@@ -1927,7 +1927,7 @@
 +.51zrtx.com
 +.r.5207470.com
 +.tracker.520call.me
-+.520outresource.ne
++.520outresource.net
 +.521c61e9f6.com
 +.5221.net
 +.5249857ceb.com
@@ -7130,7 +7130,6 @@
 +.ws-in.amazon-adsystem.com
 +.ws-na.amazon-adsystem.com
 +.z-eu.amazon-adsystem.com
-+.z-fe.amazon-adsystem.com
 +.z-in.amazon-adsystem.com
 +.z-na.amazon-adsystem.com
 +.fls-cn.amazon.cn
@@ -10467,6 +10466,7 @@
 +.dc.banggood.com
 +.lntvby.banggood.com
 +.rec.banggood.com
++.bangrongjinfu.com
 +.bangtyranclank.com
 +.bangyuandianzi.top
 +.banhq.com
@@ -15652,9 +15652,9 @@
 +.channeladvisor.com
 +.channelcamp.com
 +.e.channelexco.com
-+.trk.channelfutures.
 +.metrics.channelfutures.com
 +.smetrics.channelfutures.com
++.trk.channelfutures.com
 +.trk.channelleadershipsummit.com
 +.trk.channelpartnersconference.com
 +.pjh7.us.chantelle.com
@@ -26475,7 +26475,6 @@
 +.s1782711468.sc.origins.en25.com
 +.s1885709864.sc.origins.en25.com
 +.s2013560044.sc.origins.en25.com
-+.s2448.sc.origins.en25.com
 +.s2564.sc.origins.en25.com
 +.s46849916.sc.origins.en25.com
 +.s615419487.sc.origins.en25.com
@@ -41004,12 +41003,12 @@
 +.jeycmzwemqzfr.com
 +.jeyvhaskvbtbh.website
 +.jezer.site
-+.jf
 +.jf71qh5v14.com
 +.jfacflmbkvxez.online
 +.info.jfahern.com
 +.cp.jfcdns.com
 +.unjs.jfcdns.com
++.jfdokxkiarufi.website
 +.jfebsbgifmdfu.space
 +.jfetzejqujact.space
 +.jfezwogpa.com
@@ -43119,7 +43118,7 @@
 +.kindleunfocusedunpaired.com
 +.kindly-equivalent.com
 +.kindlyoutsellunderling.com
-+.kindnessmarshalping.com
++.kindn
 +.kindsgauzy.shop
 +.kineckekyu.com
 +.marketing.kinectsolar.com
@@ -45314,7 +45313,7 @@
 +.lgtdkpfnor.com
 +.jc.lgtianma.cn
 +.lgtvcommon.com
-+.rdx2.lgtvsdp.com
++.z-fe.amazon-adsrdx2.lgtvsdp.com
 +.lgu7in90o.com
 +.lguhcerbqufqc.website
 +.e.lguir.com
@@ -46663,7 +46662,6 @@
 +.lr-in.com
 +.lr-ingest.com
 +.lr-ingest.io
-+.lr-intake.com
 +.tr1.lr001.net
 +.tr1.lr002.net
 +.tr1.lr003.net
@@ -63247,8 +63245,8 @@
 +.events.redditmedia.com
 +.6677648.reddoorz.com
 +.redeamazoniaazul.org
++.redeem
 +.redeemcontagiontransmitted.com
-+.redeemspaciousdevice.com
 +.redexecs.com
 +.conduit.redfast.com
 +.redfastlabs.com
@@ -66184,6 +66182,7 @@
 +.globalcommunications.sc.com
 +.jeedmact.sc.com
 +.svc2.sc.com
++.s2448.sc.ori
 +.sc126.com
 +.sc1369.com
 +.wpan.sc2yun.com
@@ -68789,7 +68788,7 @@
 +.smoppleuncase.com
 +.smopy.com
 +.smorecomdr.com
-+.smotheroxidesafety.com
++.smotheroxidesafe
 +.smoulderallowingcommonplace.com
 +.smoykkiasmybo.space
 +.smqetvondaamt.online
@@ -75244,7 +75243,7 @@
 +.hnibej.transat.com
 +.tck.fr.transavia.com
 +.tk.transavia.com
-+.transcend.io
++.telemetry.transcend.io
 +.info.transcontinental-printing.com
 +.marketing.transcore.com
 +.transferfaciliate.com
