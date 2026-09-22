@@ -1,3 +1,4 @@
++.+.aaa
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -159,6 +160,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -371,7 +373,6 @@
 +.52av.one
 +.52fuliji.cc
 +.52hyse.com
-+.52kmz.cebs.com
 +.52kmz.com
 +.531tr.com
 +.53world.com
@@ -573,7 +574,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -639,7 +639,6 @@
 +.account-paypal.net
 +.account-paypal.org
 +.accountboy.com
-+.accountcom
 +.accountkit.com
 +.accountpaypal.com
 +.accountpaypal.net
@@ -1165,7 +1164,6 @@
 +.alotporn.com
 +.alphabet.asia
 +.alphabet.biz
-+.alphabet.bizx.com
 +.alphabet.com
 +.alphabet.info
 +.alphabetfinance.net
@@ -1676,7 +1674,6 @@
 +.applescript.info
 +.appleshare.info
 +.applestor.com
-+.applestore
 +.applestore.cc
 +.applestore.com
 +.applestore.com.hk
@@ -4419,6 +4416,7 @@
 +.chinesedemocracy.com
 +.chinesegay.org
 +.chinesepen.org
++.chineseposters.net
 +.chineseradioseattle.com
 +.chinesespanking.com
 +.chinesetalks.net
@@ -5212,7 +5210,6 @@
 +.danskpornofilm.com
 +.dansmovies.com
 +.danwei.org
-+.daoc.ne000webhost.com
 +.daoc.net
 +.daolan.net
 +.daozhongxing.org
@@ -8245,7 +8242,6 @@
 +.gameover.com.hk
 +.gamepass.com
 +.gamepedia.com
-+.gamer.newood.me
 +.gameroom.com
 +.gamerotic.com
 +.gamesathletes.com
@@ -11165,7 +11161,6 @@
 +.jerkmate.com
 +.jerkmate.tv
 +.jerkmatelive.org
-+.jerkofftocel1password.drift.click
 +.jerkofftocelebs.com
 +.jessicaturner.com
 +.jetbrains.cloud
@@ -14095,7 +14090,6 @@
 +.nextgenerationcenter.com
 +.nextjs.org
 +.nextmedia.com
-+.nextmedia.paypal.com
 +.nextmgz.com
 +.nextplus.com.hk
 +.nextstop.com
@@ -14396,6 +14390,7 @@
 +.norsk.mobi
 +.norton
 +.norton.com
++.note.com
 +.notepad-plus-plus.org
 +.noticias-rt.com
 +.notimundo.press
