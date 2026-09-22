@@ -7130,6 +7130,7 @@
 +.ws-in.amazon-adsystem.com
 +.ws-na.amazon-adsystem.com
 +.z-eu.amazon-adsystem.com
++.z-fe.amazon-adsystem.com
 +.z-in.amazon-adsystem.com
 +.z-na.amazon-adsystem.com
 +.fls-cn.amazon.cn
@@ -7994,6 +7995,7 @@
 +.ads.apple.com
 +.advertising.apple.com
 +.advp.apple.com
++.aios-otel-collector.g.apple.com
 +.analytics-events.apple.com
 +.api-adservices.apple.com
 +.autolinkmaker.itunes.apple.com
@@ -26475,6 +26477,7 @@
 +.s1782711468.sc.origins.en25.com
 +.s1885709864.sc.origins.en25.com
 +.s2013560044.sc.origins.en25.com
++.s2448.sc.origins.en25.com
 +.s2564.sc.origins.en25.com
 +.s46849916.sc.origins.en25.com
 +.s615419487.sc.origins.en25.com
@@ -43118,7 +43121,7 @@
 +.kindleunfocusedunpaired.com
 +.kindly-equivalent.com
 +.kindlyoutsellunderling.com
-+.kindn
++.kindnessmarshalping.com
 +.kindsgauzy.shop
 +.kineckekyu.com
 +.marketing.kinectsolar.com
@@ -45313,7 +45316,7 @@
 +.lgtdkpfnor.com
 +.jc.lgtianma.cn
 +.lgtvcommon.com
-+.z-fe.amazon-adsrdx2.lgtvsdp.com
++.rdx2.lgtvsdp.com
 +.lgu7in90o.com
 +.lguhcerbqufqc.website
 +.e.lguir.com
@@ -46662,6 +46665,7 @@
 +.lr-in.com
 +.lr-ingest.com
 +.lr-ingest.io
++.lr-intake.com
 +.tr1.lr001.net
 +.tr1.lr002.net
 +.tr1.lr003.net
@@ -63245,8 +63249,8 @@
 +.events.redditmedia.com
 +.6677648.reddoorz.com
 +.redeamazoniaazul.org
-+.redeem
 +.redeemcontagiontransmitted.com
++.redeemspaciousdevice.com
 +.redexecs.com
 +.conduit.redfast.com
 +.redfastlabs.com
@@ -66182,7 +66186,6 @@
 +.globalcommunications.sc.com
 +.jeedmact.sc.com
 +.svc2.sc.com
-+.s2448.sc.ori
 +.sc126.com
 +.sc1369.com
 +.wpan.sc2yun.com
@@ -68788,7 +68791,7 @@
 +.smoppleuncase.com
 +.smopy.com
 +.smorecomdr.com
-+.smotheroxidesafe
++.smotheroxidesafety.com
 +.smoulderallowingcommonplace.com
 +.smoykkiasmybo.space
 +.smqetvondaamt.online
