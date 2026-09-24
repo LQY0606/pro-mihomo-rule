@@ -45634,7 +45634,15 @@
 +.lgsqxwfwwcqkc.website
 +.lgtdkpfnor.com
 +.jc.lgtianma.cn
-+.lgtvcommon.com
++.ads.lgtvcommon.com
++.adts.lgtvcommon.com
++.cdpbeacon.lgtvcommon.com
++.cdpbeacon2.lgtvcommon.com
++.rdl.lgtvcommon.com
++.recommend.lgtvcommon.com
++.thinqrecommend.lgtvcommon.com
++.videoads.lgtvcommon.com
++.wiseconfig.lgtvcommon.com
 +.rdx2.lgtvsdp.com
 +.lgu7in90o.com
 +.lguhcerbqufqc.website
