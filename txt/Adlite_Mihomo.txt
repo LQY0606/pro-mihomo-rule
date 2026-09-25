@@ -65252,6 +65252,7 @@
 +.userdata.sr.roku.com
 +.wwwimg.roku.com
 +.wwwimg.staging.roku.com
++.ads.rokuapi.net
 +.cv.www.rokuzan.net
 +.rokymedia.com
 +.rolabdesdwqla.website
