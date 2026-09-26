@@ -16521,7 +16521,6 @@
 +.rds-yes.buzz
 +.rdtcdn.com
 +.re
-+.re-cadcam.com
 +.re25.vip
 +.rea-asia.com
 +.rea-group.com
@@ -19833,7 +19832,6 @@
 +.txvlog.com
 +.txxx.com
 +.txxx1.com
-+.ty000webhost.com
 +.tycool.com
 +.tyler-brown.com
 +.tyms2022.com
