@@ -3864,6 +3864,7 @@
 +.c-msedge.net
 +.c-span.org
 +.c-spanvideo.org
++.c.go-mpulse.net
 +.c.mi.com
 +.c0930.com
 +.c100tibet.org
@@ -20153,6 +20154,7 @@
 +.vaultify.com
 +.vaultify.info
 +.vaultify.net
++.vava8.com
 +.vbcdn.com
 +.vbcdn.net
 +.vbejeyv.shop
