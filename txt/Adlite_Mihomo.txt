@@ -1927,6 +1927,7 @@
 +.e.51t4d.cn
 +.m.51t4d.cn
 +.51taifu.com
++.ad.video.51togic.com
 +.customstat.video.51togic.com
 +.51vipedu.com
 +.ad.51wnl-cq.com
@@ -9947,7 +9948,6 @@
 +.info.azuga.com
 +.h1.azuimeh.top
 +.connect.azulseven.com
-+.api.applicationinsights.azure.cn
 +.collector.azure.cn
 +.dc.applicationinsights.azure.cn
 +.in.applicationinsights.azure.cn
@@ -35894,6 +35894,7 @@
 +.ads-bdapi-ph.heytapmobile.com
 +.ads-bdapi-th.heytapmobile.com
 +.ads-bdapi-vn.heytapmobile.com
++.ads-cps-in.heytapmobile.com
 +.ads.heytapmobile.com
 +.adx-ads-fr.heytapmobile.com
 +.adx-ads-ru.heytapmobile.com
@@ -51618,7 +51619,6 @@
 +.arc1.msn.com
 +.arc2.msn.com
 +.arc3.msn.com
-+.arc5.msn.com
 +.arc9.msn.com
 +.bat.r.msn.com
 +.browser.events.data.msn.com
@@ -80877,7 +80877,10 @@
 +.cname-in-bom01-nginxpool03.vivoglobal.com
 +.cname-in-ctdbonrt-stsdk.vivoglobal.com
 +.cname-sin01-stsdk09.vivoglobal.com
++.co-cota.vivoglobal.com
 +.co-domaincfg.vivoglobal.com
++.co-onrt-stsdk.vivoglobal.com
++.co-ort-stsdk.vivoglobal.com
 +.co-pnrt-stsdk.vivoglobal.com
 +.co-romsp-unifyconfig.vivoglobal.com
 +.co-st-sl.vivoglobal.com
@@ -80885,7 +80888,9 @@
 +.co-timesync.vivoglobal.com
 +.co-vcode-api.vivoglobal.com
 +.co-vcode-od.vivoglobal.com
++.co-vcode-or.vivoglobal.com
 +.de-gdpr-err-up.vivoglobal.com
++.de-gdpr-vcode-api.vivoglobal.com
 +.err-up.vivoglobal.com
 +.err.up.vivoglobal.com
 +.eu-album-api.vivoglobal.com
@@ -80918,6 +80923,7 @@
 +.in-apport-stsdk.vivoglobal.com
 +.in-apppnrt-stsdk.vivoglobal.com
 +.in-appprt-stsdk.vivoglobal.com
++.in-cfg-stsdk.vivoglobal.com
 +.in-cota.vivoglobal.com
 +.in-ctdbonrt-stsdk.vivoglobal.com
 +.in-ctdbort-stsdk.vivoglobal.com
