@@ -8421,7 +8421,7 @@
 +.artcat.net
 +.16134024.artcollection.io
 +.url259.artcollection.io
-+.marketing.artemiscm.c
++.marketing.artemiscm.com
 +.plau.artemsyzonenko.com
 +.arterybasin.com
 +.my.artfiles.online
