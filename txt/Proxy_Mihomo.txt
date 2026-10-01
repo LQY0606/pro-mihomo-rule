@@ -2296,6 +2296,7 @@
 +.azurestackvalidation.com
 +.azurestaticapps.net
 +.azurewebsites.net
++.b# NAME: Proxy
 +.b-cdn.net
 +.b-eroland.net
 +.b-ok.asia
@@ -3564,6 +3565,7 @@
 +.br
 +.bradesco
 +.braeburncapital.com
++.braintreegateatical.com
 +.braintreegateway.com
 +.braintreegateway.tv
 +.braintreepayments.com
@@ -4329,6 +4331,7 @@
 +.chenpokong.com
 +.chenpokong.net
 +.chenpokongvip.com
++.cher.com
 +.cherry-tale.com
 +.cherryasia.com
 +.cherrybrady.com
@@ -7056,7 +7059,6 @@
 +.falun-ny.net
 +.falunart.org
 +.falunasia.info
-+.falunau.o000webhost.com
 +.falunau.org
 +.falunaz.net
 +.falundafa-dc.org
@@ -7099,6 +7101,7 @@
 +.fanbox.cc
 +.fandango.com
 +.fandom.com
++.fanetterbim.com
 +.fanfictionero.com
 +.fanfox.net
 +.fangbinxing.com
@@ -8184,6 +8187,7 @@
 +.fux.com
 +.fuxporn.com
 +.fuyin.net
++.fuyin116.com
 +.fuyindiantai.org
 +.fuzokudx.com
 +.fxcm-chinese.com
@@ -10714,7 +10718,7 @@
 +.ipadaustralia.com
 +.ipaddress.com
 +.ipadpro.buzz
-+.ipalter.com
++.ipaltway.com
 +.ipdefenseforum.com
 +.ipfire.org
 +.ipfs-gateway.cloud
@@ -10820,7 +10824,6 @@
 +.isfocus.net
 +.isgame365.cc
 +.isgreat.org
-+.ishegw.com
 +.isheppc.com
 +.ishowsapp.com
 +.isiknowledge.com
@@ -14907,7 +14910,6 @@
 +.orithegame.com
 +.orkut.com
 +.orlandohurricane.com
-+.ornofilm.com
 +.orsm.net
 +.orthopaedic-cadcam.com
 +.orthotics-cadcam.com
@@ -19250,7 +19252,6 @@
 +.tildacdn.com
 +.tildacdn.net
 +.tiltbrush.com
-+.timdir.cnet
 +.timdir.com
 +.time.com
 +.timefxapp.com
