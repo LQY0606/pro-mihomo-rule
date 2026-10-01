@@ -34951,6 +34951,7 @@
 +.api-gl.cdo.heytapmobi.com
 +.api-id.game.heytapmobi.com
 +.api-id.theme.heytapmobi.com
++.apisnd.heytapmobi.com
 +.b1-data.ads.heytapmobi.com
 +.b2-data.ads.heytapmobi.com
 +.dc-dragate-cn.heytapmobi.com
