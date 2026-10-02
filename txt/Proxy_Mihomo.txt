@@ -2296,7 +2296,6 @@
 +.azurestackvalidation.com
 +.azurestaticapps.net
 +.azurewebsites.net
-+.b# NAME: Proxy
 +.b-cdn.net
 +.b-eroland.net
 +.b-ok.asia
@@ -3565,7 +3564,6 @@
 +.br
 +.bradesco
 +.braeburncapital.com
-+.braintreegateatical.com
 +.braintreegateway.com
 +.braintreegateway.tv
 +.braintreepayments.com
@@ -4331,7 +4329,6 @@
 +.chenpokong.com
 +.chenpokong.net
 +.chenpokongvip.com
-+.cher.com
 +.cherry-tale.com
 +.cherryasia.com
 +.cherrybrady.com
@@ -7101,7 +7098,6 @@
 +.fanbox.cc
 +.fandango.com
 +.fandom.com
-+.fanetterbim.com
 +.fanfictionero.com
 +.fanfox.net
 +.fangbinxing.com
@@ -10718,7 +10714,7 @@
 +.ipadaustralia.com
 +.ipaddress.com
 +.ipadpro.buzz
-+.ipaltway.com
++.ipalter.com
 +.ipdefenseforum.com
 +.ipfire.org
 +.ipfs-gateway.cloud
