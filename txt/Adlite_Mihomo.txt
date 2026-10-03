@@ -4003,9 +4003,9 @@
 +.accoybrava.com
 +.go.accredible.com
 +.trck.accredible.com
-+.smetrics.accredo.
 +.dl.mail.accredo.com
 +.dl.orders.accredo.com
++.smetrics.accredo.com
 +.elq.accuity.com
 +.events.accuity.com
 +.secureforms.accuity.com
