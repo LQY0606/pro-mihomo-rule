@@ -6195,7 +6195,6 @@
 +.ak-tracker.com
 +.ak0gsh40.com
 +.ak7ko01zs.com
-+.ab.apple.com.akadns.net
 +.analytics.tiktok.com.bytewlb.akadns.net
 +.analytics.us.tiktok.com-row.bytewlb.akadns.net
 +.analytics.us.tiktok.com.bytedance.akadns.net
@@ -6204,7 +6203,6 @@
 +.cy2.vortex.data.microsoft.com.akadns.net
 +.db5.settings.data.microsoft.com.akadns.net
 +.db5.vortex.data.microsoft.com.akadns.net
-+.diagassets-lb.apple.com.akadns.net
 +.diagnostics.apple.com.akadns.net
 +.geo.settings.data.microsoft.com.akadns.net
 +.geo.vortex.data.microsoft.com.akadns.net
@@ -7023,8 +7021,6 @@
 +.assoc-msdk-cn.amazon-adsystem.com
 +.assoc-msdk-eu.amazon-adsystem.com
 +.assoc-msdk-us.amazon-adsystem.com
-+.at-beta.amazon-adsystem.com
-+.at-gamma-us-east.amazon-adsystem.com
 +.at-us-east.amazon-adsystem.com
 +.atfe.amazon-adsystem.com
 +.atue.amazon-adsystem.com
@@ -7146,7 +7142,6 @@
 +.aax-dtb-cf.amazon-adsystem.amazon.com
 +.aax-dtb-mobile-geo.amazon-adsystem.amazon.com
 +.aax-eu-dub.amazon.com
-+.aax-ott-sdk.amazon-adsystem.amazon.com
 +.aax-ott.amazon-adsystem.amazon.com
 +.aax-us-east-1-ott.amazon-adsystem.amazon.com
 +.aax-us-iad.amazon.com
@@ -7191,7 +7186,6 @@
 +.metrics.eu-south-2.iris.apx.amazon.dev
 +.metrics.eu-west-1.iris.apx.amazon.dev
 +.metrics.us-east-1.iris.apx.amazon.dev
-+.mshopbugsnag.irm.amazon.dev
 +.sonar.prime-video.amazon.dev
 +.trace.app-performance.music.amazon.dev
 +.7ng6v3lu3c.execute-api.us-east-1.amazonaws.com
@@ -9511,7 +9505,6 @@
 +.eg-ad-lgsmartad-com.aws-prd.net
 +.eg-info-lgsmartad-com.aws-prd.net
 +.es-ad-lgsmartad-com.aws-prd.net
-+.es-info-lgsmartad-com.aws-prd.net
 +.et-ad-lgsmartad-com.aws-prd.net
 +.eu7-info-lgsmartad-com.aws-prd.net
 +.fi-ad-lgsmartad-com.aws-prd.net
@@ -16690,7 +16683,6 @@
 +.cloud-miner.eu
 +.cloud-suites.xyz
 +.cloud-trail.com
-+.insights.cloud.microsoft
 +.cloudad.asia
 +.cloudbitshift.com
 +.cloudcdn.gdn
@@ -78995,7 +78987,6 @@
 +.asia-vcode-or.vivoglobal.com
 +.asia-vpushonrt-stsdk.vivoglobal.com
 +.asia-vpushort-stsdk.vivoglobal.com
-+.br-cota.vivoglobal.com
 +.br-p.vivoglobal.com
 +.cn-zh-ort-stsdk.vivoglobal.com
 +.cn-zh-prt-stsdk.vivoglobal.com
@@ -81721,6 +81712,7 @@
 +.nexxtv-events.servicebus.windows.net
 +.optanon.blob.core.windows.net
 +.ppm-licensingtelemetry.servicebus.windows.net
++.prd-qlik-telemetry.servicebus.windows.net
 +.prod-eh-v1-analytics.servicebus.windows.net
 +.prod-eventhub-analytics.servicebus.windows.net
 +.production-jobactivity-analytics.servicebus.windows.net
