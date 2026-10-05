@@ -573,6 +573,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -4696,7 +4697,6 @@
 +.cmoinc.org
 +.cmpaas.com
 +.cms-twdigitalassets.com
-+.cms.go+.aaa
 +.cmule.com
 +.cmule.org
 +.cn-proxy.com
@@ -8830,6 +8830,7 @@
 +.googlepagecreator.com
 +.googlephotos.com
 +.googleplay.com
++.googleplaycensorship.com
 +.googleplus.com
 +.googlescholar.com
 +.googlesource.com
@@ -14917,7 +14918,6 @@
 +.osdn.net
 +.osfoora.com
 +.osiri-suki-club.com
-+.ositphotos.com
 +.osl.com
 +.osm.org
 +.osmand.net
