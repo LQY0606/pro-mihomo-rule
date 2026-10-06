@@ -4009,6 +4009,7 @@
 +.accountantflowerrespiration.com
 +.accountgram.com
 +.accountinglocksmithcontinental.com
++.marketing.accountorgroup.com
 +.accountsdoor.com
 +.accountsgraphicsincriminate.com
 +.accoybrava.com
@@ -47773,7 +47774,6 @@
 +.marketgid.com
 +.markethealth.com
 +.tracking.markethero.io
-+.marketing
 +.marketingcloudfx.com
 +.marketing.marketinggeneral.com
 +.marketizator.com
