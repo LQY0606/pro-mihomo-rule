@@ -573,6 +573,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1190,7 +1191,6 @@
 +.alwaysdata.net
 +.alwaysvpn.com
 +.am
-+.am+.aaa
 +.am730.com.hk
 +.amaaozn.com
 +.amabitch.com
@@ -8039,6 +8039,7 @@
 +.full:hub.slarker.me
 +.full:i.jeded.com
 +.full:imperial.insendi.com
++.full:incoming.telemetry.mozilla.org
 +.full:licdn.cn.cdn20.com
 +.full:link.theplatform.com
 +.full:location.microsoft.com
@@ -15592,7 +15593,6 @@
 +.plex.tv
 +.plexapp.com
 +.plexvpn.pro
-+.plifyapp.com
 +.plm.org.hk
 +.plos.org
 +.plug-into.com
