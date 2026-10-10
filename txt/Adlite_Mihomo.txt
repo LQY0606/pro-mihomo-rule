@@ -75423,6 +75423,7 @@
 +.legacywatson.trafficmanager.net
 +.office-events-data.trafficmanager.net
 +.oms-analytics.trafficmanager.net
++.partnerfraudevents.trafficmanager.net
 +.pixel-sync.trafficmanager.net
 +.powerpoint-telemetry.wac.trafficmanager.net
 +.ppc-excel-telemetry.wac.trafficmanager.net
@@ -80003,6 +80004,7 @@
 +.cname-in-bom01-nginxpool03.vivoglobal.com
 +.cname-in-ctdbonrt-stsdk.vivoglobal.com
 +.cname-sin01-stsdk09.vivoglobal.com
++.co-album-api.vivoglobal.com
 +.co-cota.vivoglobal.com
 +.co-domaincfg.vivoglobal.com
 +.co-onrt-stsdk.vivoglobal.com
@@ -82759,6 +82761,7 @@
 +.nexxtv-events.servicebus.windows.net
 +.optanon.blob.core.windows.net
 +.ppm-licensingtelemetry.servicebus.windows.net
++.prd-qlik-telemetry.servicebus.windows.net
 +.prod-eh-v1-analytics.servicebus.windows.net
 +.prod-eventhub-analytics.servicebus.windows.net
 +.production-jobactivity-analytics.servicebus.windows.net
