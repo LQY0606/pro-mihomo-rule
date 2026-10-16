@@ -3264,6 +3264,7 @@
 +.blylq.buzz
 +.blz-contentstack.com
 +.bm
++.bm000webhost.com
 +.bmdru.com
 +.bmfinn.com
 +.bmia.org
@@ -6512,6 +6513,7 @@
 +.epochtimes-bg.com
 +.epochtimes-romania.com
 +.epochtimes.com
++.epochtimes.iline.com
 +.epochtimeshk.org
 +.epochtimestr.com
 +.epochweek.com
@@ -17179,6 +17181,7 @@
 +.scatville.com
 +.scb
 +.scdn.co
++.scea.com
 +.scene7.com
 +.scenesource.me
 +.schaeffler
@@ -18055,7 +18058,9 @@
 +.sonydesign.com
 +.sonydna.com
 +.sonyentertainmentnetwork.com
++.sonyinteractive.com
 +.sonylatvija.com
++.sonymusic.com.hk
 +.sonypictures.com
 +.sonypicturesanimation.com
 +.sonypicturesmuseum.com
