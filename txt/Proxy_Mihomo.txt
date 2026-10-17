@@ -461,6 +461,7 @@
 +.7mm.tv
 +.7mmtv.tv
 +.7tb.cc
++.7x24hrs.com
 +.8-d.com
 +.8008206616.com
 +.8111y.top
@@ -3264,7 +3265,6 @@
 +.blylq.buzz
 +.blz-contentstack.com
 +.bm
-+.bm000webhost.com
 +.bmdru.com
 +.bmfinn.com
 +.bmia.org
@@ -6513,7 +6513,6 @@
 +.epochtimes-bg.com
 +.epochtimes-romania.com
 +.epochtimes.com
-+.epochtimes.iline.com
 +.epochtimeshk.org
 +.epochtimestr.com
 +.epochweek.com
