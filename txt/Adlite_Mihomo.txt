@@ -3611,12 +3611,14 @@
 +.cstat.g.aaplimg.com
 +.diagassets.g.aaplimg.com
 +.iphonesubmissions.v.aaplimg.com
++.prod-app-analytics-event-gateway.v.aaplimg.com
 +.prod-event-relay-api.v.aaplimg.com
 +.prod-event-relay-books-api.v.aaplimg.com
 +.prod-event-relay-notes-api.v.aaplimg.com
 +.prod-event-relay-sports-api.v.aaplimg.com
 +.prod-event-relay-stocks-api.v.aaplimg.com
 +.prod-event-relay-weather-api.v.aaplimg.com
++.prod-iwork-events.v.aaplimg.com
 +.prod-news-notification-events.v.aaplimg.com
 +.securemetrics-cn.v.aaplimg.com
 +.securemetrics-z.v.aaplimg.com
@@ -8074,6 +8076,7 @@
 +.aios-otel-collector.g.apple.com
 +.analytics-events.apple.com
 +.api-adservices.apple.com
++.app-events.infoapps.apple.com
 +.autolinkmaker.itunes.apple.com
 +.banners.itunes.apple.com
 +.books-analytics-events.apple.com
@@ -8087,6 +8090,7 @@
 +.experiments.apple.com
 +.fbs.smoot.apple.com
 +.flirfvysba2opz0zmzqs5iuiad.apple.com
++.freeform-events.apple.com
 +.graffiti-tags.apple.com
 +.iad.apple.com
 +.iadcontent.apple.com
@@ -38832,7 +38836,7 @@
 +.ifvox.com
 +.ifvrcwxxbmvoo.website
 +.ifxijbhztrtvp.site
-+.ifyltudcapmti.online
++.ifyltudcap
 +.ig.ig.com
 +.sig.ig.com
 +.ig65.vip
@@ -39162,7 +39166,6 @@
 +.ilvumysnmlrvr.space
 +.ilvuqx9vlt.com
 +.ilvxwuddmmeaq.online
-+.ilvzxlpvprsff.online
 +.ilwcrvkhuyi.com
 +.ilxfndokexkxi.online
 +.ilxilmadwxfah.space
@@ -81466,7 +81469,6 @@
 +.zasc-err-up.vivoglobal.com
 +.zasc-onrt-stsdk.vivoglobal.com
 +.zasc-ort-stsdk.vivoglobal.com
-+.zasc-pnrt-stsdk.vivoglobal.com
 +.zasc-romsp-unifyconfig.vivoglobal.com
 +.zasc-st-sl.vivoglobal.com
 +.zasc-stsdk.vivoglobal.com
@@ -81474,6 +81476,7 @@
 +.zasc-vcode-api.vivoglobal.com
 +.zasc-vcode-od.vivoglobal.com
 +.zasc-vcode-or.vivoglobal.com
++.zasc-pnrt-stsdk.vivoglobamti.online
 +.viwjmqbtib.com
 +.vixtfpxoqqibk.space
 +.viyouhui.com
