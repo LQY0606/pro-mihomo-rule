@@ -9644,6 +9644,7 @@
 +.awrwwedcoeeyq.site
 +.awryau.com
 +.aws-itcloud.net
++.acr-ca-prd.samsungclgsmartad-com.aws-prd.net
 +.ae-ad-lgsmartad-com.aws-prd.net
 +.ae-rdx2-lgtvsdp-com.aws-prd.net
 +.af-ad-lgsmartad-com.aws-prd.net
@@ -9857,7 +9858,6 @@
 +.vu-ad-lgsmartad-com.aws-prd.net
 +.ye-ad-lgsmartad-com.aws-prd.net
 +.za-ad-lgsmartad-com.aws-prd.net
-+.zm-ad-lgsmartad-com.aws-prd.net
 +.zw-ad-lgsmartad-com.aws-prd.net
 +.ressource.gdpr-banner.awsmpsa.com
 +.images.demand.awspls.com
@@ -91433,6 +91433,7 @@
 +.zlyyboiullypt.online
 +.zlzhwpoqancln.online
 +.zlzwhrhkavos.xyz
++.zm-ad-l
 +.zm232.com
 +.zmaehtvocezof.space
 +.creator.zmags.com
