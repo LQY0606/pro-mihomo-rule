@@ -7310,11 +7310,11 @@
 +.vaes.amazon-adsystem.amazon.com
 +.adserver.pubtech.amazon.dev
 +.advertising.amazon.dev
-+.api.metrics.eu-central-1.iris.apx.amazon.dev
 +.api.metrics.us-west-2.iris.apx.amazon.dev
 +.bugs.firebat.prime-video.amazon.dev
 +.bugsnag.shopbop.amazon.dev
 +.events.app-performance.music.amazon.dev
++.metrics.eu-central-1.iris.apx.amazon.dev
 +.metrics.eu-south-2.iris.apx.amazon.dev
 +.metrics.eu-west-1.iris.apx.amazon.dev
 +.metrics.us-east-1.iris.apx.amazon.dev
@@ -9644,7 +9644,6 @@
 +.awrwwedcoeeyq.site
 +.awryau.com
 +.aws-itcloud.net
-+.acr-ca-prd.samsungclgsmartad-com.aws-prd.net
 +.ae-ad-lgsmartad-com.aws-prd.net
 +.ae-rdx2-lgtvsdp-com.aws-prd.net
 +.af-ad-lgsmartad-com.aws-prd.net
@@ -9858,6 +9857,7 @@
 +.vu-ad-lgsmartad-com.aws-prd.net
 +.ye-ad-lgsmartad-com.aws-prd.net
 +.za-ad-lgsmartad-com.aws-prd.net
++.zm-ad-lgsmartad-com.aws-prd.net
 +.zw-ad-lgsmartad-com.aws-prd.net
 +.ressource.gdpr-banner.awsmpsa.com
 +.images.demand.awspls.com
@@ -41771,7 +41771,6 @@
 +.t.iz55.com
 +.e.izaos.com
 +.m.izaos.com
-+.izatcloud.net
 +.izavjtqqznucm.site
 +.izaybwqvajljf.space
 +.izccryctmxtwb.website
@@ -91433,7 +91432,6 @@
 +.zlyyboiullypt.online
 +.zlzhwpoqancln.online
 +.zlzwhrhkavos.xyz
-+.zm-ad-l
 +.zm232.com
 +.zmaehtvocezof.space
 +.creator.zmags.com
