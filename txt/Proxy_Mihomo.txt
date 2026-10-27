@@ -576,6 +576,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1194,7 +1195,6 @@
 +.alwaysdata.net
 +.alwaysvpn.com
 +.am
-+.am+.aaa
 +.am730.com.hk
 +.amaaozn.com
 +.amabitch.com
@@ -14162,7 +14162,6 @@
 +.nexus
 +.nexus-cdn.com
 +.nexusmods.com
-+.nezia.org
 +.nf
 +.nfjtyd.com
 +.nfl
@@ -18977,16 +18976,6 @@
 +.teslaenergy.services
 +.teslamotors.com
 +.teslazta.net
-+.test-ipv6.belwue.net
-+.test-ipv6.com
-+.test-ipv6.epic.network
-+.test-ipv6.fratec.net
-+.test-ipv6.freerangecloud.com
-+.test-ipv6.iu13.net
-+.test-ipv6.ke.liquidtelecom.net
-+.test-ipv6.noroutetohost.net
-+.test-ipv6.roedu.net
-+.test-ipv6.sin.vr.org
 +.testflight.apple.com
 +.testonfox.com
 +.teva
