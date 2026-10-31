@@ -7431,6 +7431,7 @@
 +.acquitsurfspeeding.com
 +.acqvzaqhsdmap.online
 +.acqxgk1an3.com
++.acr-br-prd.samsungcloue
 +.acrasiatickles.com
 +.acrbulletin.org
 +.acrdfrcfapzvn.site
@@ -15020,6 +15021,7 @@
 +.metrics.eu-south-2.iris.apx.amazon.dev
 +.metrics.eu-west-1.iris.apx.amazon.dev
 +.metrics.us-east-1.iris.apx.amazon.dev
++.metrics.us-west-2.iris.apx.amazon.dev
 +.prod.abi-metrics.alexa.amazon.dev
 +.prod.us-east-1.cxm-bcn.publisher-services.amazon.dev
 +.session.bugsnag-fatals.shopbop.amazon.dev
@@ -17865,7 +17867,6 @@
 +.cdn.appround.biz
 +.response.approva.net
 +.approvalnor.com
-+.approvelongestrepel.com
 +.approximatedriver.com
 +.apprupt.com
 +.branch.appryse.com
@@ -21546,6 +21547,7 @@
 +.zw-ad-lgsmartad-com.aws-prd.net
 +.ide-telemetry.cloudformation.aws.dev
 +.prod.telemetry.suds.wwro.aws.dev
++.report.diagnostic.networking.aws.dev
 +.us-east-1.prod.telemetry.toolbox.builder-tools.aws.dev
 +.gtm.awsales.io
 +.44y4wzxubg.ap-south-1.awsapprunner.com
@@ -48038,6 +48040,7 @@
 +.data-px.services
 +.marketing.data-source.com
 +.data-vocabulary.org
++.data.
 +.data159.click
 +.marketing.data180.com
 +.data284.click
@@ -55506,6 +55509,7 @@
 +.ss.e2.agency
 +.e224c6cedf.com
 +.1106ca2ad4.e230ae5c2b.com
++.e2483707f
 +.e2483707fc.com
 +.e26fr9qb4m.com
 +.29b0156692.e2d8db7931.com
@@ -59322,6 +59326,7 @@
 +.data.ajo-sandbox.ensemble.com
 +.enseq50a.xyz
 +.ensighten.com
++.nexus.ensighten.com
 +.data.ensightendemo.com
 +.ect.ensmann.com
 +.ensmwonhtzpdh.space
@@ -61294,6 +61299,7 @@
 +.server.eventosjac.com
 +.dta.eventoslatorre.com
 +.g.eventrill.com
++.events-collector-dataplatform.a
 +.tr.events-europa-organisation.com
 +.marketing.eventsforce.com
 +.eventsmall.com
@@ -101824,7 +101830,6 @@
 +.ini.litingxin.cn
 +.litiodata.net
 +.litiosur.net
-+.litix.io
 +.jlcbm.litjoycrate.com
 +.litlyx.com
 +.ss.litmethod.com
@@ -113015,6 +113020,7 @@
 +.motionspots.com
 +.otel.motionstim.com
 +.motiontherapeutics.com
++.sst.motionwalls.d
 +.marketing.motista.com
 +.images.response.motivatedigital.com
 +.sst.motivatemd.com
@@ -113114,7 +113120,6 @@
 +.ads.motosiklet.net
 +.hjbsg.motosport.com
 +.sstats.motosport.com
-+.load.k7p.motoutfit.com
 +.capi.motoxces.com
 +.motricity.com
 +.motrixi.com
@@ -129087,7 +129092,6 @@
 +.app.pendo.io
 +.cdn.eu.pendo.io
 +.cdn.pendo.io
-+.data.eu.pendo.io
 +.data.pendo.io
 +.frdoki.pendrawing.work
 +.pendreckfinance.com
@@ -149965,6 +149969,8 @@
 +.xml-eu-v4.segment-art.online
 +.xml-eu.segment-art.online
 +.xml-v4.segment-art.online
++.cdn-settings.segment.com
++.mobile-service.segment.com
 +.segment.com
 +.segment.io
 +.segment53.help
@@ -154728,6 +154734,7 @@
 +.smenqskfmpfxnb.bid
 +.smetn.com
 +.smetrics.abbott
++.smetrics.minunsyopani
 +.sentry.smf.ai
 +.smfunerbhfgpi.site
 +.adserver.smgfiles.com
