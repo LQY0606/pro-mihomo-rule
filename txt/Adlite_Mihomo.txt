@@ -7185,7 +7185,6 @@
 +.vaes.amazon-adsystem.amazon.com
 +.adserver.pubtech.amazon.dev
 +.advertising.amazon.dev
-+.api.metrics.us-west-2.iris.apx.amazon.dev
 +.bugs.firebat.prime-video.amazon.dev
 +.bugsnag.shopbop.amazon.dev
 +.events.app-performance.music.amazon.dev
@@ -7193,6 +7192,7 @@
 +.metrics.eu-south-2.iris.apx.amazon.dev
 +.metrics.eu-west-1.iris.apx.amazon.dev
 +.metrics.us-east-1.iris.apx.amazon.dev
++.metrics.us-west-2.iris.apx.amazon.dev
 +.sonar.prime-video.amazon.dev
 +.trace.app-performance.music.amazon.dev
 +.7ng6v3lu3c.execute-api.us-east-1.amazonaws.com
@@ -9646,6 +9646,7 @@
 +.za-ad-lgsmartad-com.aws-prd.net
 +.zm-ad-lgsmartad-com.aws-prd.net
 +.zw-ad-lgsmartad-com.aws-prd.net
++.report.diagnostic.networking.aws.dev
 +.ressource.gdpr-banner.awsmpsa.com
 +.images.demand.awspls.com
 +.awstats.cloud
@@ -26623,7 +26624,7 @@
 +.enrtx.com
 +.ensealplaners.com
 +.enseq50a.xyz
-+.ensighten.com
++.nexus.ensighten.com
 +.ensmwonhtzpdh.space
 +.ensosignal.com
 +.metrics.enspryng-hcp.com
@@ -45686,7 +45687,6 @@
 +.literallyflickercomplaints.com
 +.stats.literaturkreis.online
 +.ini.litingxin.cn
-+.litix.io
 +.link.litnet.com
 +.litpzshqdkjvn.online
 +.litrujsxxymfn.website
@@ -55172,7 +55172,6 @@
 +.videos.oms.eu
 +.omshedinjaor.com
 +.omswwmgtqwekb.space
-+.omtrdc.net
 +.samsung.com.ssl.sc.omtrdc.net
 +.samsungafrica.tt.omtrdc.net
 +.samsungbenelux.tt.omtrdc.net
@@ -66580,7 +66579,8 @@
 +.sefsdvc.com
 +.a8clk.segatoys.com
 +.nossl.segfault.net
-+.segment.com
++.cdn-settings.segment.com
++.mobile-service.segment.com
 +.segment.io
 +.segmenthub.com
 +.segmentify.com
