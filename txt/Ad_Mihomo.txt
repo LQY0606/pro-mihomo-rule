@@ -14922,7 +14922,6 @@
 +.pri1-id-eu.amazon-adsystem.com
 +.pri1-id-fe.amazon-adsystem.com
 +.pri1-id-us.amazon-adsystem.com
-+.ps-eu.amazon-adsystem.com
 +.ps-fe.amazon-adsystem.com
 +.ps-jp.amazon-adsystem.com
 +.ps-us.amazon-adsystem.com
@@ -61531,6 +61530,7 @@
 +.server.eventosjac.com
 +.dta.eventoslatorre.com
 +.g.eventrill.com
++.events
 +.tr.events-europa-organisation.com
 +.marketing.eventsforce.com
 +.eventsmall.com
@@ -84285,7 +84285,6 @@
 +.hy-cn.cn
 +.hy-partners.com
 +.hy-tec.com
-+.load.sgtm.hy.digital
 +.3y1r1wu8qqguznl.hy1jf5i4nkymqfnm3tqqg7u.cyou
 +.hyaccgrjkbsoz.online
 +.analytics.hyacinthbloom.com
@@ -103180,6 +103179,7 @@
 +.plovcq.loacker.com
 +.load-res-static.lol
 +.load-static-res.xyz
++.load.s
 +.loaddisplay.com
 +.loadedbummer.com
 +.loadedhearts.com
@@ -104557,6 +104557,7 @@
 +.ltlldtoyvvbkz.store
 +.ltlonelyandbe.org
 +.applytics.ltlxvxjjmvhn.me
++.sst.ltmaskinudlejning.d
 +.ltnavwfpsffpi.space
 +.ltnaxdqunknb.com
 +.ltnkpzlinptlde.com
@@ -126921,6 +126922,7 @@
 +.google-analytics.bi.owox.com
 +.owqbirykia.com
 +.owrkwilxbw.com
++.ows.net
 +.owsemormyre.qpon
 +.owslnuzidiugg.store
 +.owssalylvzcox.site
@@ -151466,6 +151468,7 @@
 +.service-updater.com
 +.service4refresh.info
 +.matomo.servicebund.com
++.citrixanalyticseh.servicebus.wind
 +.metrics.servicechampions.net
 +.smetrics.servicechampions.net
 +.stats.servicedesignjobs.com
@@ -155558,6 +155561,7 @@
 +.smenqskfmpfxnb.bid
 +.smetn.com
 +.smetrics.abbott
++.smetrics.modusfinans
 +.sentry.smf.ai
 +.smfunerbhfgpi.site
 +.adserver.smgfiles.com

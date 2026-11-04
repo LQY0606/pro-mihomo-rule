@@ -1,4 +1,3 @@
-+..net
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -578,6 +577,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -2802,6 +2802,7 @@
 +.befuck.net
 +.beget.cloud
 +.beget.com
++.beget.email
 +.beget.hosting
 +.beget.pro
 +.beget.tech
@@ -3022,6 +3023,7 @@
 +.bili2.cc
 +.bili888.com
 +.bili999.com
++.bilibili.tv
 +.bilinovel.com
 +.biliplus.com
 +.biliworld.com
@@ -11416,7 +11418,6 @@
 +.jstv53.com
 +.jsz91.com
 +.jtube.space
-+.jtvnw+.aaa
 +.jtvnw.net
 +.jubushoushen.com
 +.judeporn.com
