@@ -3871,7 +3871,7 @@
 +.557ma7bd9.com
 +.558158.xyz
 +.559gp.com
-+.55a
++.55ace.com
 +.55eebe8585.com
 +.win.down.55kantu.com
 +.55labs.com
@@ -7150,6 +7150,7 @@
 +.accomplicetedious.com
 +.accomplicetextgenetically.com
 +.accomplish89.com
++.accomplishedpersuadedprint
 +.accomplishedpersuadedprinter.com
 +.accomplishedsimilarly.com
 +.accomplishedstrain.com
@@ -16337,7 +16338,6 @@
 +.analytics-sm.com
 +.analytics.blue
 +.analytics.com
-+.analytics.oginnovati
 +.analytics.vg
 +.analyticsb2c.com
 +.analyticsgateway.com
@@ -43135,7 +43135,6 @@
 +.load.api.comohabla.com
 +.hbfpvm.comolib.com
 +.serversidegtm.comotocarukulele.com
-+.package.cdn.pandora.xiaomi.comoudfront.net
 +.sst.comounamarmota.com
 +.comoutlook.com
 +.matomo.comovoy.eu
@@ -46388,7 +46387,6 @@
 +.gtm.cspsandbox.work
 +.csqojhzrapobd.online
 +.csqwtwzbioiuq.space
-+.csr21-ids
 +.csrf-whatsapp.com
 +.csrsmzmnkofij.site
 +.csrtvckpwnfby.site
@@ -47505,7 +47503,6 @@
 +.gtm.d1milano.com
 +.d2-apps.net
 +.sst.d20.bet
-+.d23
 +.d24ak3f2b.top
 +.d24fx92qb.com
 +.d285ff9533.com
@@ -48910,7 +48907,6 @@
 +.dbzy5.com
 +.dwga.dc-academy.training
 +.dc-storm.com
-+.dragate-br.dc.com
 +.dc036be5b9.com
 +.dc121677.com
 +.dc16888888.com
@@ -77113,7 +77109,6 @@
 +.gtlinfrastructurelimited.com
 +.gtlmblpvpirgj.site
 +.gtg.gtm-sandbox.org
-+.gtm.h
 +.gtmajs.click
 +.sst.gtmetrix.com
 +.gtmjs.com
@@ -79448,7 +79443,6 @@
 +.head3high.com
 +.headacheaim.com
 +.ebryiw.headamp.com
-+.headbandeau.
 +.headbandeau.com
 +.rguki.headbangersports.com
 +.headbidder.net
@@ -102656,7 +102650,6 @@
 +.literallycircumscribetome.com
 +.literallyflickercomplaints.com
 +.literaturearchipelagosanity.com
-+.stats.literaturkreis.online
 +.literock.digital
 +.ad7.literotica.com
 +.err.literotica.com
@@ -102999,6 +102992,7 @@
 +.bmbjpv.liverpooljeans.com
 +.link.liverpoolphil.com
 +.liversely.com
++.uamhf.livesans.com
 +.livesearchnow.com
 +.livesegmentservice.com
 +.livesession.io
@@ -123767,6 +123761,7 @@
 +.oghub.io
 +.ogicatius.com
 +.ogigzpqottuyl.website
++.analytics.oginnovation.com
 +.udqkf.ogio.com
 +.ogitbkjirtzdi.site
 +.ogjwbfgwwfbir.site
@@ -125745,11 +125740,11 @@
 +.dhfs-th.oppomobile.com
 +.dhfs-vn.oppomobile.com
 +.dhfsf.oppomobile.com
++.dragate-br.dc.oppomobile.com
 +.dragate-sg.dc.oppomobile.com
 +.dragate.dc.oppomobile.com
 +.httpdns.ocloud.oppomobile.com
 +.httpdns.push.oppomobile.com
-+.oppomobile.com
 +.predragate.dc.oppomobile.com
 +.u.oppomobile.com
 +.opponentharriet.com
@@ -159226,7 +159221,6 @@
 +.srzwbetxwdkpt.online
 +.ss-01.com
 +.hits.ss.com
-+.load.ss.theatremoga
 +.ss229.com
 +.ss494hpnq.com
 +.campaign.ssab.com
@@ -160003,6 +159997,7 @@
 +.statowl.com
 +.p.statp.com
 +.sentry.stats.fm
++.stats.liter
 +.www.stats.net
 +.stats.rip
 +.stats.st
@@ -166673,6 +166668,7 @@
 +.link.theatlantic.com
 +.metrics.theatlantic.com
 +.cv.theatreacademy.info
++.load.ss.theatremogador.com
 +.theatrshow.online
 +.go.theautoconnectiononline.com
 +.gtm.theautomationtools.com
@@ -183472,6 +183468,7 @@
 +.m.w7xj7.cn
 +.ee.w82ph.cn
 +.m.w82ph.cn
++.w88.disneyn
 +.w8n97pkzn6.com
 +.matomo.w8s.cc
 +.ijxptjzn.w8solucoes.host
@@ -190439,6 +190436,7 @@
 +.ottl7-l2.pandora.xiaomi.com
 +.p.www.xiaomi.com
 +.package.box.xiaomi.com
++.package.cdn.pandora.xiaomi.com
 +.pi.ias.xiaomi.com
 +.ppurifier.game.xiaomi.com
 +.preload.xiaomi.com
