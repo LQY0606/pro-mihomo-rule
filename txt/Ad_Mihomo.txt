@@ -846,7 +846,6 @@
 +.yt-adp.ws.126.net
 +.126ps.com
 +.172.240.127.234
-+.acr-br-prd.samsungclou.127.net
 +.haitaoad.nosdn.127.net
 +.iadmat.nosdn.127.net
 +.iadmatapk.nosdn.127.net
@@ -20418,7 +20417,7 @@
 +.sass.audiobooksreview.com
 +.auth.audiocityusa.com
 +.an.audiocube.app
-+.analytics.audioeye-services.com
++.analytics.audioeye-services.
 +.analytics.audioeye.com
 +.ws.audioeye.com
 +.wsmcdn.audioeye.com
@@ -85248,7 +85247,6 @@
 +.iaczomkixcfat.website
 +.iadbsntna.com
 +.serve.iadescomplicada.site
-+.iadmatvideo.nosdn
 +.iadnet.com
 +.iadnsamqheemb.space
 +.iadpush.com
