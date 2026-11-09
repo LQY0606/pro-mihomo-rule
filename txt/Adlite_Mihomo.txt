@@ -3341,7 +3341,7 @@
 +.x.9dagui.com
 +.9db168b3bd.com
 +.9dca841dfa.com
-+.9dd7d8
++.9dd7d84e00.com
 +.9dehzr5d2i.com
 +.9dl3w12u5.com
 +.9dmnv9z0gtoh.com
@@ -4026,8 +4026,8 @@
 +.acclaimincessantporridge.com
 +.acclalmeddate.net
 +.accmgr.com
++.accommoda
 +.accommodate53.top
-+.accommodateirritatinglongitude.com
 +.accommodateyours.com
 +.accommodationsoakunderstanding.com
 +.accompanimentcouldsurprisingly.com
