@@ -577,6 +577,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -2724,7 +2725,6 @@
 +.beatsep.com
 +.beatsep.net
 +.beatsfacstore.com
-+.beatsfact+.aaa
 +.beatsfactoroutlets.com
 +.beatsfactorycollection.com
 +.beatsfactoryoutles.com
@@ -14993,7 +14993,6 @@
 +.orsm.net
 +.orthopaedic-cadcam.com
 +.orthotics-cadcam.com
-+.oryoutles.com
 +.orzistic.org
 +.osaka
 +.osakamotion.net
@@ -16457,6 +16456,7 @@
 +.quantumbooter.net
 +.quatrowireless.com
 +.quebec
++.questionablequesting.com
 +.questvisual.com
 +.quicinc.com
 +.quickbooks.com
@@ -18203,6 +18203,7 @@
 +.soylent.com
 +.soylentnews.org
 +.sp.cool
++.spacebattles.com
 +.spaceexplored.com
 +.spacemail.com
 +.spaceship.com
