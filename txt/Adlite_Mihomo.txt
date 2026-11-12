@@ -9737,6 +9737,7 @@
 +.no-info-lgsmartad-com.aws-prd.net
 +.no-rdx2-lgtvsdp-com.aws-prd.net
 +.nz-ad-lgsmartad-com.aws-prd.net
++.nz-info-lgsmartad-com.aws-prd.net
 +.om-ad-lgsmartad-com.aws-prd.net
 +.pa-ad-lgsmartad-com.aws-prd.net
 +.pa-info-lgsmartad-com.aws-prd.net
@@ -54908,7 +54909,6 @@
 +.nyzda.top
 +.nyzmvpwdxkxdk.online
 +.nyzrbx.icu
-+.nz-info-lgsmartad-com
 +.nz04com.com
 +.hxfu.nz53h.cn
 +.nzavmqooblmpl.site
