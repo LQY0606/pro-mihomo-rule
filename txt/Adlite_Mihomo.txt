@@ -36248,6 +36248,8 @@
 +.dragate-in.dc.heytapmobi.com
 +.dragate-sg.dc.heytapmobi.com
 +.epoch-id.cdo.heytapmobi.com
++.httpdns.ocloud.heytapmobi.com
++.httpdns.push.heytapmobi.com
 +.i-cn01a.ocloud.heytapmobi.com
 +.i-sg01a.ocloud.heytapmobi.com
 +.id.push.heytapmobi.com
@@ -36433,6 +36435,10 @@
 +.dc-stat-in.heytapmobile.com
 +.dc.heytapmobile.com
 +.dragate-in-dc.heytapmobile.com
++.htms.heytapmobile.com
++.httpdns-euex-push.heytapmobile.com
++.httpdns-ocloud.heytapmobile.com
++.httpdns-push.heytapmobile.com
 +.i-in.browser.heytapmobile.com
 +.i-sg.browser.heytapmobile.com
 +.i-th.browser.heytapmobile.com
@@ -36477,6 +36483,7 @@
 +.obus-jssdk-sg.heytapmobile.com
 +.obus-jssdk-us.heytapmobile.com
 +.omes-sec.heytapmobile.com
++.oop-installer-gl.heytapmobile.com
 +.opay.heytapmobile.com
 +.push-dc-us.heytapmobile.com
 +.push.heytapmobile.com
@@ -36493,6 +36500,7 @@
 +.video-api-gl.heytapmobile.com
 +.video-api-in.heytapmobile.com
 +.video-api-ru.heytapmobile.com
++.virusinfo-cloudscan-in.heytapmobile.com
 +.heyzap.com
 +.e.hf355.cn
 +.m.hf355.cn
