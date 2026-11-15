@@ -63089,7 +63089,6 @@
 +.plausible.exploreandcreate.com
 +.plausible.help.exploreandcreate.com
 +.marketing.exploreasheville.com
-+.ru-miuilog.sms.intl.xiaomi.coeting.exploreasheville.com
 +.marketing.explorebrysoncity.com
 +.marketing.explorecharleston.com
 +.marketing.exploreedmonton.com
@@ -81449,6 +81448,7 @@
 +.dragate-sg.dc.heytapmobi.com
 +.epoch-id.cdo.heytapmobi.com
 +.httpdns.ocloud.heytapmobi.com
++.httpdns.push.heytapmobi.com
 +.i-cn01a.ocloud.heytapmobi.com
 +.i-sg01a.ocloud.heytapmobi.com
 +.id.push.heytapmobi.com
@@ -81646,6 +81646,10 @@
 +.dc-stat-in.heytapmobile.com
 +.dc.heytapmobile.com
 +.dragate-in-dc.heytapmobile.com
++.htms.heytapmobile.com
++.httpdns-euex-push.heytapmobile.com
++.httpdns-ocloud.heytapmobile.com
++.httpdns-push.heytapmobile.com
 +.i-in.browser.heytapmobile.com
 +.i-sg.browser.heytapmobile.com
 +.i-th.browser.heytapmobile.com
@@ -81690,6 +81694,7 @@
 +.obus-jssdk-sg.heytapmobile.com
 +.obus-jssdk-us.heytapmobile.com
 +.omes-sec.heytapmobile.com
++.oop-installer-gl.heytapmobile.com
 +.opay.heytapmobile.com
 +.push-dc-us.heytapmobile.com
 +.push.heytapmobile.com
@@ -81708,6 +81713,7 @@
 +.video-api-gl.heytapmobile.com
 +.video-api-in.heytapmobile.com
 +.video-api-ru.heytapmobile.com
++.virusinfo-cloudscan-in.heytapmobile.com
 +.heywire.com
 +.lphszexo.heyy.io
 +.sentry.heyyobuy.com
@@ -108451,7 +108457,6 @@
 +.stapeio.marivabo.com
 +.gtm.marizeterodrigues.com
 +.growth.polly.marjiakajol.com
-+.mark
 +.gtm.mark-taylor.com
 +.rpoqf.mark-taylor.com
 +.link.mark.app
@@ -148650,7 +148655,6 @@
 +.rtyznd.com
 +.rtznhfqlsdmnf.site
 +.rtztthwgifaal.site
-+.ru-ctdbonns.com
 +.yybrtm.ru-mi.com
 +.app.dreambox.ru.com
 +.filosvybfimpsv.ru.gg
@@ -160624,7 +160628,6 @@
 +.srtrupwxwmqax.space
 +.ad.srv-monitoring.com
 +.ad.srv-track.com
-+.srv.tunefindforfa
 +.srv00infra.com
 +.www.srv00infra.com
 +.srv1010elan.com
@@ -183342,6 +183345,7 @@
 +.ru-compnrt-stsdk.vivoglobal.com
 +.ru-comprt-stsdk.vivoglobal.com
 +.ru-cota.vivoglobal.com
++.ru-ctdbonrt-stsdk.vivoglobal.com
 +.ru-ctdbort-stsdk.vivoglobal.com
 +.ru-ctdbpnrt-stsdk.vivoglobal.com
 +.ru-ctdbprt-stsdk.vivoglobal.com
@@ -183389,7 +183393,6 @@
 +.tr-vcode-od.vivoglobal.com
 +.tr-vcode-or.vivoglobal.com
 +.tr-weather.vivoglobal.com
-+.udwhjufhukjbda.rt-stsdk.vivoglobal.com
 +.uk-monitor-stsdk.vivoglobal.com
 +.uk-nrt-stsdk.vivoglobal.com
 +.uk-prt-stsdk.vivoglobal.com
@@ -192198,6 +192201,7 @@
 +.rtmpott.pandora.xiaomi.com
 +.ru-api.xmpush.global.xiaomi.com
 +.ru-feedback.xmpush.global.xiaomi.com
++.ru-miuilog.sms.intl.xiaomi.com
 +.ru-register.xmpush.global.xiaomi.com
 +.ru.feedback.xmpush.global.xiaomi.com
 +.ru.video.intl.xiaomi.com
