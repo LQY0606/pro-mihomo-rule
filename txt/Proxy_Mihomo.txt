@@ -8060,6 +8060,7 @@
 +.full:azure.microsoft.com
 +.full:azuremarketplace.microsoft.com
 +.full:bbs.boingboing.net
++.full:builds.dotnet.microsoft.com
 +.full:bybit.ada.support
 +.full:cbsi.live.ott.irdeto.com
 +.full:cbsplaylistserver.aws.syncbak.com
