@@ -483,7 +483,6 @@
 +.1-creative-1.com
 +.1-pregnant-sex.com
 +.1-rx-shop.com
-+.1-up.fun
 +.1-ws.com
 +.1-yo.com
 +.1.vg
@@ -1319,7 +1318,6 @@
 +.gjgdm.1aauto.com
 +.1adda2699c.com
 +.1adi9wenq.com
-+.1adr.com
 +.1adult.com
 +.1and1affiliate.com
 +.1annuaire.com
@@ -1916,7 +1914,7 @@
 +.247playz.com
 +.oasc04012.247realmedia.com
 +.aa.247sports.com
-+.analytics.247sports.com
++.bunkcs.247sports.com
 +.saa.247sports.com
 +.sst.247teach.org
 +.2480studio.com
@@ -3846,7 +3844,7 @@
 +.557ma7bd9.com
 +.558158.xyz
 +.559gp.com
-+.55ace.com
++.55asniff.com
 +.55eebe8585.com
 +.win.down.55kantu.com
 +.55labs.com
@@ -5977,6 +5975,7 @@
 +.analytics.console.aws.a2z.com
 +.clientlogger.marketplace.aws.a2z.com
 +.collection.telemetry.csos.a2z.com
++.emhmrerinebox.console.aws.a2z.com
 +.forester.a2z.com
 +.insights.video.a2z.com
 +.metrics.harmony.a2z.com
@@ -5989,7 +5988,6 @@
 +.telemetry.cell-0.ap-southeast-1.prod.tangerinebox.console.aws.a2z.com
 +.telemetry.cell-0.ap-southeast-2.prod.tangerinebox.console.aws.a2z.com
 +.telemetry.cell-0.eu-central-1.prod.tangerinebox.console.aws.a2z.com
-+.telemetry.cell-0.eu-north-1.prod.tangerinebox.console.aws.a2z.com
 +.telemetry.cell-0.eu-south-1.prod.tangerinebox.console.aws.a2z.com
 +.telemetry.cell-0.eu-west-1.prod.tangerinebox.console.aws.a2z.com
 +.telemetry.cell-0.eu-west-3.prod.tangerinebox.console.aws.a2z.com
@@ -6074,6 +6072,7 @@
 +.a9d4750f56.com
 +.a9td5xslu.com
 +.a9v8.cn
++.aa-metrics.airn
 +.images.cargomarketing.email.aa.com
 +.metrics.aa.com
 +.smetrics.aa.com
@@ -7654,7 +7653,6 @@
 +.actuallysheep.com
 +.actuallysnake.com
 +.a.actualno.com
-+.actualtrade.eu
 +.actualys.com
 +.actuanius.com
 +.app.info.actuate.com
@@ -9979,7 +9977,6 @@
 +.ww2.ads-on-line.com
 +.ads-optima.com
 +.ads-pixiv.net
-+.ads-prd.net
 +.ads-smoot.com
 +.ads-stats.com
 +.ads-tm-glb.click
@@ -11790,6 +11787,7 @@
 +.agitazio.com
 +.server.agitorna.com
 +.onxjax.agjeans.com
++.agjrfocatite
 +.agjrfocatndh.com
 +.agjrfynvhlupc.online
 +.agjtgdwqnokwo.space
@@ -12257,7 +12255,6 @@
 +.ailtuvhxtaxbc.com
 +.tracking.ailuma.net
 +.ailunapro.com
-+.opentelemetry.aim.security
 +.aim4media.com
 +.king-enes.aima-systems.com
 +.event.aimailhome.io
@@ -12691,6 +12688,7 @@
 +.ajfnee.com
 +.ajfqftuacgmkq.site
 +.track.msadcenter.ajfy.com
++.ajgg
 +.ajggnilcptlgz.site
 +.ajhdf.com
 +.ajhdleafwepkj.online
@@ -12734,6 +12732,7 @@
 +.ajscdn.com
 +.ajskgbnmafymf.space
 +.ajtcqmlorjesx.site
++.ajtxoo.acad
 +.ajuhjaeaztfor.site
 +.ajujqdualdsao.space
 +.ajump1.com
@@ -13196,7 +13195,6 @@
 +.alcogelsild.cfd
 +.alcoholcheckoccur.com
 +.alcoholic56.top
-+.sst.alconost.com
 +.alconv.com
 +.marketing.alcopro.com
 +.ads.alcorconhoy.com
@@ -14968,6 +14966,7 @@
 +.vfwm.amazon-adsystem.com
 +.vfws.amazon-adsystem.com
 +.vq-ap-southeast-1.amazon-adsystem.com
++.vq-eu-west-1.amazon-adsystem.com
 +.vq-fe-us-west-2.amazon-adsystem.com
 +.vq-test-us-east-1.amazon-adsystem.com
 +.vq-us-east-1.amazon-adsystem.com
@@ -15055,6 +15054,7 @@
 +.vaes.amazon-adsystem.amazon.com
 +.ads.eu.prod.channels.firetv.amazon.dev
 +.ads.na.prod.channels.firetv.amazon.dev
++.adserver.pubtech.amazon.dev
 +.adskit.juno.alexa.amazon.dev
 +.advertising.amazon.dev
 +.api.imdb.us-east-1.prod.mario.imdbtv.amazon.dev
@@ -15083,7 +15083,6 @@
 +.trace.app-performance.music.amazon.dev
 +.trace.bugsnag-fatals.shopbop.amazon.dev
 +.trace.prod.bugsnag.bunny.last-mile.amazon.dev
-+.zm-info-lgsmartad-com.erver.pubtech.amazon.dev
 +.client-telemetry.amazonalexa.com
 +.wp-stat.s3.amazonasw.com
 +.3site-rss.s3-ap-northeast-1.amazonaws.com
@@ -17481,7 +17480,7 @@
 +.ads.aplegal.com
 +.aplentymykiss.com
 +.aplexbode.com
-+.aplexheritage.org
++.aplexheritage.oronline
 +.sst.aplicadoraba.com
 +.iavsl.aplicativoseguro.shop
 +.aplikacii.com
@@ -18329,7 +18328,7 @@
 +.data.aquilis.tech
 +.fast.aquinta.pet
 +.m.aquns.com
-+.collect-metrics.aquro.com
++.mjpauus.aquro.com
 +.aquwqzuahdxjm.site
 +.aqvuro.shop
 +.aqyad.com
@@ -18459,6 +18458,7 @@
 +.telemetry.uksouth.arcdataservices.com
 +.telemetry.westeurope.arcdataservices.com
 +.telemetry.westus2.arcdataservices.com
++.telemetry.westeurope.ame.arcdp21.com
 +.sst.arceimmigration.com
 +.arceliksisliservisi.com
 +.matomo.arcgames.com
@@ -18471,6 +18471,7 @@
 +.c.archden.org
 +.archdserrana.com
 +.m.archera.ai
++.analytio.archerdx.com
 +.info.archerdx.com
 +.archerseizure.com
 +.matomo.archery-point.eu
@@ -18953,7 +18954,7 @@
 +.arsonistinstantnesoos.info
 +.arsonojuncoes.com
 +.stag.arspharmae.com
-+.load.data.arstar.store
++.securedata.okayata.arstar.store
 +.c.arstechnica.com
 +.fpa-api.arstechnica.com
 +.fpa-cdn.arstechnica.com
@@ -19307,7 +19308,6 @@
 +.rqpoi.ashergolf.com
 +.info.ashergroup.com
 +.asp.ashesashes.org
-+.gmuccv.ashesmemorialjewellery.com
 +.edcmktg.ashevillechamber.org
 +.ashfans.com
 +.campaigns.ashfieldengage.com
@@ -19595,7 +19595,6 @@
 +.assoc-amazon.
 +.assoc-amazon.com
 +.gtm.associarconsultoria.com
-+.ads.associatedcontent.com
 +.associationfoam.com
 +.adimages.associationheadquarters.com
 +.adserver.associationheadquarters.com
@@ -19606,6 +19605,7 @@
 +.assortamplitudeoctober.com
 +.assortativtte.info
 +.analytics.assortedscans.com
++.ads.assr.website
 +.adst.asstylish.com
 +.neves.assucenanaves.com
 +.smetrics.assuma-o-controle-de-sua-saude.com
@@ -19720,7 +19720,6 @@
 +.sentry.astroline.today
 +.sub.astroline.today
 +.astrologiaexistencial.com
-+.te.astrology.com
 +.astrologybacklightsinless.com
 +.astrologyflyabletruth.com
 +.astronautlividlyreformer.com
@@ -19936,6 +19935,7 @@
 +.atkxzasfrpgqq.online
 +.atl-6-ga.com
 +.atl0g02nj.com
++.bfycxv.atlajoy.com
 +.123p.atlallday.com
 +.metric.atlanta.net
 +.banners.atlantamagazine.com
@@ -20379,7 +20379,6 @@
 +.sass.audiobooksreview.com
 +.auth.audiocityusa.com
 +.an.audiocube.app
-+.analytics.audioeye-services.com
 +.analytics.audioeye.com
 +.ws.audioeye.com
 +.wsmcdn.audioeye.com
@@ -20484,6 +20483,7 @@
 +.auntiesurfeatable.com
 +.auntymazax51.watch
 +.aunzblkzwgpgy.online
++.auorqohlcxy.online
 +.auovksdjuotdb.space
 +.aup.mobi
 +.data.aupaathletic.com
@@ -20501,6 +20501,7 @@
 +.auqiggoxbmdpa.online
 +.auqot.com
 +.www.auqp.com
++.auqqdlrzvzelutt.com
 +.auqqdlrzvzelx.site
 +.ignhl.aura.com
 +.load.gtm.auraaesthetica.com
@@ -20789,7 +20790,7 @@
 +.www2.autopartsworld.com
 +.bnc.autopass.xyz
 +.dl.autopay.eu
-+.sentry.autopay.eu
++.qucxwvy.autopay.eu
 +.marketing.autopayplus.com
 +.posthog.autopilot.group
 +.capture-api.autopilotapp.com
@@ -21002,6 +21003,7 @@
 +.metrics.avaya.com
 +.onecloud.avaya.com
 +.partners.avaya.com
++.qzdfeuspwetle.avaya.com
 +.simple.avaya.com
 +.swebmetrics.avaya.com
 +.ucaas.avaya.com
@@ -21454,6 +21456,7 @@
 +.al-rdx2-lgtvsdp-com.aws-prd.net
 +.am-ad-lgsmartad-com.aws-prd.net
 +.am-rdx2-lgtvsdp-com.aws-prd.net
++.anaco-ad-lgsmartad-com.aws-prd.net
 +.ao-ad-lgsmartad-com.aws-prd.net
 +.ao-info-lgsmartad-com.aws-prd.net
 +.ao-rdx2-lgtvsdp-com.aws-prd.net
@@ -21765,6 +21768,7 @@
 +.pg-ad-lgsmartad-com.aws-prd.net
 +.ph-ad-lgsmartad-com.aws-prd.net
 +.ph-info-lgsmartad-com.aws-prd.net
++.ph-rdx2-lgtvsdp-com.aws-prd.net
 +.pk-ad-lgsmartad-com.aws-prd.net
 +.pk-info-lgsmartad-com.aws-prd.net
 +.pk-rdx2-lgtvsdp-com.aws-prd.net
@@ -22216,8 +22220,8 @@
 +.ss.azimutextremo.com
 +.analytics.azimuthotels.com
 +.tracking.azimutyachts.com
-+.sentry-qa.azintelecom.az
 +.sentry.azintelecom.az
++.smetrics.ssentry-qa.azintelecom.az
 +.rum.azion.com
 +.rum.azioncdn.net
 +.aziqhpijhudvv.online
@@ -24528,6 +24532,7 @@
 +.bcnonwgwntvpv.website
 +.bcnproduction.com
 +.bcobdykvrlfhe.website
++.bcom
 +.bcopkduemfsfx.site
 +.bcoqzptkuouqw.online
 +.cbzrh.bcouturelondon.com
@@ -25366,7 +25371,6 @@
 +.beneathk.com
 +.stape.benebarbosa.com
 +.benecharm.com
-+.sgtm.benedettabruzziches.com
 +.beneficial-shape.com
 +.benefit-ads.com
 +.benefitanna.com
@@ -25700,7 +25704,6 @@
 +.smetrics.bestegg.com
 +.link-staging.bestest.io
 +.link.bestest.io
-+.bestexpertz.com
 +.bestfastlink.com
 +.bestfreecounterstat.com
 +.bestfuckapps.com
@@ -26009,6 +26012,7 @@
 +.diy.beviswoodclub.com
 +.arthurbrent.bevo.com
 +.orfy.bevopizza.com
++.sst.bevrijdingsdagenschedetreaktrivia.com
 +.bevwcymvettup.space
 +.analytics.bevylabs.com
 +.bewailindigestionunhappy.com
@@ -26432,7 +26436,7 @@
 +.bid.run
 +.filter-eu.bid4advertising.com
 +.filter.bid4advertising.com
-+.rtb-eu-v4.bid4advertising.com
++.link.syfy-chatb-eu-v4.bid4advertising.com
 +.rtb-useast-v4.bid4advertising.com
 +.xml-eu-v4.bid4advertising.com
 +.xml-eu.bid4advertising.com
@@ -26818,6 +26822,7 @@
 +.analytics.billionverify.com
 +.metric.billmelater.com
 +.metrics.billmelater.com
++.metric.billmelaternnel.com
 +.sst.billo.life
 +.billowybead.com
 +.billowybelief.com
@@ -26958,7 +26963,6 @@
 +.bio.now
 +.bio39rx7p0.com
 +.ss.bio4you.eu
-+.m.bioandchic.com
 +.dlo.biobiene.com
 +.load.sst.bioboostlabsllc.com
 +.sst.biobuildbd.com
@@ -27478,8 +27482,8 @@
 +.bizspring.net
 +.biztoolsbrief.com
 +.bizua.com
-+.bizuurabats.top
 +.bizuuretailpl.top
++.bizuureurhit.com
 +.ads.bizwd.net
 +.bizx.info
 +.bizzclick.com
@@ -27688,8 +27692,8 @@
 +.target.blackandmild.com
 +.123p.blackandteal.com
 +.blackandwhite-temporary.com
++.analytics1.blackanvi.cn
 +.analytics.blackanvilstudio.com
-+.analytics1.blackanvilstudio.com
 +.analytics2.blackanvilstudio.com
 +.app.response.blackbaud.com
 +.experience.blackbaud.com
@@ -28278,7 +28282,7 @@
 +.eventrecorder.cm.bloomberg.com
 +.logs.bloomberg.com
 +.metrics.bloomberg.com
-+.personalization.bloomberg.com
++.o.webmd.comalization.bloomberg.com
 +.tracking.bloomberg.com
 +.ads-bloomberg-com.shared.bloomberga.com
 +.tracking.bloomberg.com.shared.bloomberga.com
@@ -29075,6 +29079,7 @@
 +.metrics.pro.boehringer-ingelheim.com
 +.smetrics.boehringer-ingelheim.com
 +.smetrics.boehringer-ingelheim.tw
++.smetrics.boehringer-ingelheiml.net
 +.smetrics.boehringerone.com
 +.espy.boehs.org
 +.metrics.boels.com
@@ -29422,7 +29427,6 @@
 +.bookersclar.com
 +.share.bookey.app
 +.sstats.bookhostels.com
-+.stats.bookhostels.com
 +.analytics.bookimed.com
 +.asanalytics.booking.com
 +.counters.booking.com
@@ -29784,7 +29788,6 @@
 +.bothstill.com
 +.botifiles.com
 +.ss.botinmuebles.com
-+.umami.botipedia.org
 +.botize.com
 +.botkano.info
 +.botkdllphxivv.space
@@ -29906,7 +29909,7 @@
 +.bovldsneaps.com
 +.bovmkbuiaddbb.website
 +.bovqari.shop
-+.bovvaivwmnjxa.site
++.bovvaivwm
 +.photo.boweineng.cn
 +.bowelslipperypraised.com
 +.bowermisrule.com
@@ -30060,7 +30063,7 @@
 +.bpifosgceukau.space
 +.bpigydbzlrszz.online
 +.bpirawd.com
-+.bpj9qt97jk87c6.cyou
++.bpj9qt97jk87c6.e
 +.bpkeydnjfxnlr.site
 +.bplay-argentina.com
 +.bpleaaekrdvnj.site
@@ -30596,7 +30599,7 @@
 +.target.breadfinancial.com
 +.api.pp-prod-ads.ue2.breadgateway.net
 +.api.redirect.pp-prod-ads.breadgateway.net
-+.checkout.pp-prod-ads.ue2.breadgateway.net
++.xopldz.ic-prod-ads.ue2.breadgateway.net
 +.breadmljlfdwx.site
 +.metrics.breadpayments.com
 +.breahub.shop
@@ -30689,7 +30692,6 @@
 +.servergtm.brettmonk.com
 +.analytics.brettterpstra.com
 +.sentry.breuk.dev
-+.gtm.brevamullorabogados.com
 +.brevandolius.com
 +.brevanequotenure.net
 +.connected.brevant.com
@@ -30961,6 +30963,7 @@
 +.brinvora.pro
 +.sgtm.brio4life.com
 +.brioletredeyes.com
++.briolett2d.cn
 +.brionyamanist.com
 +.cpqfaw.briovitamin.com
 +.brirriek.com
@@ -31791,7 +31794,6 @@
 +.fvfcf.bugmd.com
 +.qgdgj.bugmd.com
 +.rerjk.bugmd.com
-+.rutkz.bugmd.com
 +.svmpj.bugmd.com
 +.bugmenot.site
 +.bugpizza.com
@@ -42113,6 +42115,7 @@
 +.cohkdtcnyipwt.space
 +.waffles.cohnacrylics.com
 +.cohostsguilfat.com
++.analytics.amig.coifetimemovieclub.com
 +.coifsketiminheroin.cyou
 +.coilaetian.com
 +.coilapprobationbyword.com
@@ -42271,6 +42274,7 @@
 +.collationuppermodel.com
 +.airalo.collavento.com
 +.tss.collavie.com
++.collect-metric.com
 +.collectaction.com
 +.log.collectaction.com
 +.collectbladders.com
@@ -42525,7 +42529,6 @@
 +.add.sina.com.cn
 +.adeq.hiidc.com.cn
 +.adfancy.com.cn
-+.adh5.vivo.com.cn
 +.adlog.vivo.com.cn
 +.adm.10jqka.com.cn
 +.adm.sina.com.cn
@@ -43388,6 +43391,7 @@
 +.comihon.com
 +.comilar-efferiff.icu
 +.comimpactgender.net
++.gtreus.aliexpress.cominforma.com
 +.ads.comitium.io
 +.comitiumanalytics.com
 +.comlquina.com
@@ -44943,6 +44947,7 @@
 +.load.source.corporatestreams.com
 +.matomo.corporatetools.com
 +.pgs.corporatetravelcommunity.com
++.corporm
 +.corpowid.com
 +.corpsenoodleflakes.com
 +.tracking.corptraveller.com
@@ -46755,6 +46760,7 @@
 +.tracking.cspire.com
 +.gtm.cspsandbox.work
 +.csqojhzrapobd.online
++.csr21-idse.com
 +.csrf-whatsapp.com
 +.csrsmzmnkofij.site
 +.csrtvckpwnfby.site
@@ -47293,6 +47299,7 @@
 +.custodencia.net
 +.custodevaccinamop.cyou
 +.custodywinner.com
++.data.custolnwi.net
 +.tr.email.custom-campaign.com
 +.data.custom-wetsuits.com
 +.customadrequest.com
@@ -47414,7 +47421,6 @@
 +.cvivxd.com
 +.cvjqrgyifkets.online
 +.cvlb.dev
-+.cvlwtqlpbezho.website
 +.marketing.cvma.com
 +.cvmnq9cre.com
 +.cvmrmpaepcmpa.site
@@ -48475,6 +48481,7 @@
 +.danyrex.net
 +.danzonbeacher.com
 +.daobaalzioctx.online
++.daom
 +.tracksurf.daooda.com
 +.daoxwweomcsvt.site
 +.daoyoudao.com
@@ -49495,6 +49502,7 @@
 +.de-nis-ner-mi-5.info
 +.de-noroki.com
 +.de.cm
++.load.de.com
 +.research.de.com
 +.kechfes.de.cool
 +.de.im
@@ -59173,6 +59181,7 @@
 +.marketing.elrig.org
 +.elrkcjuroiisy.space
 +.elroja.shop
++.a8cv.world-goods.els.com
 +.ssc.elsaha.com
 +.gtm.elsalimma.com
 +.ads.elsalvador.com
@@ -61550,6 +61559,7 @@
 +.app.etsumartincenter.org
 +.ablink.email.etsy.com
 +.ablink.seller.etsy.com
++.metrics.staplesadvantage.ettabruzziches.com
 +.ettalhap.com
 +.ad.ettoday.net
 +.ad1.ettoday.net
@@ -64605,6 +64615,7 @@
 +.lqxjrk.fbs.com
 +.update.fbsbx.com
 +.fbscontenttest.com
++.actualtrade.fbsfpnb.space
 +.fbstzectxnbag.space
 +.fbtacriikh.com
 +.fbthirdpartypixel.com
@@ -69795,6 +69806,7 @@
 +.spoor-api.ft.com
 +.stats.ft.com
 +.track.ft.com
++.ft.space
 +.x.ft6i5tfnllq3xuvgm9.cyou
 +.ft8e.top
 +.ft8kmgi9u1qlym718rih.cyou
@@ -71853,6 +71865,7 @@
 +.gdtqq.cn
 +.gdugytcwkepvymewrmus.com
 +.gdxxb.com
++.gdxxfncujmrjm.seu
 +.gdxxfncujmrjm.site
 +.gdyfoedcfpusk.online
 +.gdyjs.com
@@ -77669,6 +77682,7 @@
 +.gtlinfrastructurelimited.com
 +.gtlmblpvpirgj.site
 +.gtg.gtm-sandbox.org
++.gtm.brevamulloru
 +.gtmajs.click
 +.sst.gtmetrix.com
 +.gtmjs.com
@@ -87309,6 +87323,7 @@
 +.ilyvo.com
 +.ilzdhlbybbztu.online
 +.ilzualntjfjjd.online
++.im
 +.forms.im-aesthetics.com
 +.im-apps.net
 +.logs.im-gb.com
@@ -88061,6 +88076,7 @@
 +.jas.indeednps.com
 +.indeedpeculiaritybeams.com
 +.xml.indeedtheriverw.org
++.indefcom
 +.indefinitefunction.com
 +.indefinitelytonsil.com
 +.indefinitemantle.com
@@ -88285,6 +88301,7 @@
 +.infantiletransition.com
 +.infatica-sdk.io
 +.infatica.io
++.infcom
 +.infectiontuition.com
 +.somni.infectiousdiseaseadvisor.com
 +.track.info.infectiousdiseaseadvisor.com
@@ -88715,6 +88732,7 @@
 +.sst.inianordisksverige.com
 +.analytics.inibuilds.com
 +.info.inigral.com
++.marketing.inilcptlgz.site
 +.ininmacerad.pro
 +.gtm.inioficial.com
 +.inishvorn.net
@@ -91142,6 +91160,7 @@
 +.metrics.itravel2000.com
 +.tracking.itravelsupport.com
 +.itrex.site
++.analytics.audioeye-services.itrsmslrq.website
 +.itrtxppdamlez.space
 +.itruni.com
 +.itrustzone.site
@@ -99743,7 +99762,6 @@
 +.ggl.la-maison-du-jardinier.com
 +.tr.news.la-meilleure-voyance.com
 +.nl.la-resilience.com
-+.tagging.la-toulousaine.com
 +.events.la-z-boy.com
 +.images.info.la-z-boy.com
 +.news.la-z-boy.com
@@ -101855,6 +101873,7 @@
 +.leopardeggsses.info
 +.leopardfavorite.com
 +.leopardmoss.com
++.leopon.luckycas
 +.load.gtm.leopose.digital
 +.woke.leordre.com
 +.leorina.shop
@@ -104078,7 +104097,6 @@
 +.eojhs.llmedico.com
 +.llmhhmukjykpk.site
 +.llnw.net
-+.beacon.s.llnwi.net
 +.plausible.llo.ai
 +.lloogg.com
 +.lloveonline.com
@@ -105311,7 +105329,7 @@
 +.lnsass.lovenspice.com
 +.loveonpurpose.com
 +.49453k0l.vr.loveota.com
-+.49453k0l.vs.loveota.com
++.a53k0l.vs.loveota.com
 +.game.loveota.com
 +.sdk.loveota.net
 +.stape.lovepedagogia.com
@@ -105805,7 +105823,6 @@
 +.mnaom.luckybrand.com
 +.sedge.luckybrand.com
 +.gtm.luckycasinoace.com
-+.leopon.luckycasts.com
 +.clover.luckycharmgold.com
 +.luckycrush.live
 +.perch.luckydiff.com
@@ -106092,6 +106109,7 @@
 +.lynx.lumy.network
 +.sgtm.lumyraenergy.com
 +.forever.luna-malina.com
++.jthsxe.luna.com
 +.metrics.luna.com
 +.metricssecure.luna.com
 +.aa.lunaawell.com
@@ -111097,6 +111115,7 @@
 +.metricsjs.link
 +.metricskey.com
 +.metricslinks.com
++.metricssecurnastasiasaffiliate.com
 +.metricswave.com
 +.metricswpsh.com
 +.gtm.metrificando.com
@@ -112674,7 +112693,7 @@
 +.misdoeraumaga.com
 +.dkiig.misen.com
 +.miserableart.pro
-+.miserableconcept.com
++.miserableconceptg
 +.miserablenobody.com
 +.miserly-wrap.com
 +.metrics.miserve.eu
@@ -112894,6 +112913,7 @@
 +.chong.sec.miui.com
 +.cms.sec.miui.com
 +.cse.avlyun.sec.miui.com
++.data.luminadeco.c.miui.com
 +.data.sec.intl.miui.com
 +.data.sec.miui.com
 +.etl.xlmc.sec.miui.com
@@ -112950,7 +112970,6 @@
 +.search.miui.com
 +.security.browser.miui.com
 +.sentry.sec.miui.com
-+.srv.greenguard.sec.miui.com
 +.srv.sec.miui.com
 +.staging-notify.sec.miui.com
 +.stat.miui.com
@@ -113090,7 +113109,6 @@
 +.mjmramjfgqmcr.online
 +.mjnfpqvynmrte.website
 +.mjolnex-ltd.com
-+.mjpauup21.com
 +.mjppwlfcyxubm.site
 +.mjpwanvakwyslm.com
 +.mjqzscwaifuaz.website
@@ -126279,6 +126297,7 @@
 +.oohkbadeeaaem.site
 +.oohmkcgloiupn.space
 +.oohnqrfepvexr.website
++.oohnqrfepvexry.com
 +.ooicwuzyogfqp.site
 +.oojnpzimufgpr.online
 +.oojujkszfgqxq.space
@@ -128116,6 +128135,7 @@
 +.load.gtm.overlandgcc.com
 +.sgtm.overlandirelandtours.com
 +.overlay.top
++.overloadengy.com
 +.overloadenjoy.com
 +.kctkctag.overnayt.com
 +.overnightabroadcraftsman.com
@@ -128870,7 +128890,6 @@
 +.aurixiontrust-pro.pages.dev
 +.aurora-capital-digital.pages.dev
 +.auto-deploy.pages.dev
-+.autodiscover-obrum-pl.pages.dev
 +.balticpipe-pro.pages.dev
 +.bayancapital-solution-com.pages.dev
 +.bitcoincodes-digital.pages.dev
@@ -129076,6 +129095,7 @@
 +.taurendiheim-digital.pages.dev
 +.temaseknexonsg-pro.pages.dev
 +.tierracapital-shop.pages.dev
++.todiscover-obrum-pl.pages.dev
 +.token360day-pro.pages.dev
 +.torkvulidplatform-com.pages.dev
 +.tradeluxpro-shop.pages.dev
@@ -129989,6 +130009,7 @@
 +.partishion.com
 +.partitiveretinstitution.com
 +.partlypalpate.com
++.partneinitefunction.com
 +.partner-ads.com
 +.partner-earning.com
 +.track.partner.io
@@ -130094,6 +130115,7 @@
 +.pass-1234.com
 +.xajpne.pass.com
 +.pass8heal.com
++.sst.alconost.passableoffend.com
 +.stape.passadorevelaofuturo.com
 +.g.grupos.passageirodeprimeira.com
 +.passagethruindia.com
@@ -131678,6 +131700,7 @@
 +.personnelsuperiority.com
 +.forms.personneltoday.com
 +.videos.personneltoday.com
++.personte
 +.personyze.com
 +.sentry.perspective-daily.com
 +.perspectivebriefing.com
@@ -132051,7 +132074,6 @@
 +.pgzjhqnndpyyt.site
 +.pgzmbkdavgilh.online
 +.a8clk.ph-10.com
-+.ph-rdx2-lgtvsdp-com.aws
 +.phacdnaeopmkr.com
 +.phacoidmirkest.com
 +.phafnldwduaji.space
@@ -134594,6 +134616,7 @@
 +.cops.policestresscourse.com
 +.policesubsisthunk.com
 +.smetrics.policies.kpmg
++.policy-jr
 +.policycounsel.org
 +.tr.policyexpert.info
 +.poliglu.com
@@ -135619,6 +135642,7 @@
 +.tj.g.pptv.com
 +.ppuanqpjviawn.site
 +.ppunion.com
++.checkout.ppuqcniuwth.website
 +.ppuqlcyadikqe.website
 +.ppuvyqbkphsqj.site
 +.ywg4empmfe4fpth.ppvifvpk3w1nkoin.cyou
@@ -136719,6 +136743,7 @@
 +.procuritage.pro
 +.procveth.com
 +.peafowl.prod.fyi
++.telemetry.cell-0.eu-north-1.prod.tangeebsite
 +.info.prodagio.com
 +.prodealscenter.com
 +.prodectivestors.top
@@ -137248,6 +137273,7 @@
 +.alt.proskillsbasketball.com
 +.prosleepy.com
 +.activate.prosoccerusa.com
++.tatu.prosocks.
 +.prosoft-industry.eu
 +.gtm.prosoma.com
 +.server.prosp.ai
@@ -137481,7 +137507,7 @@
 +.proxydata.net
 +.getadobeflashdownloader.proxydns.com
 +.analytic.proxyme.link
-+.analytics.proxynet.io
++.zm-info-lgsmartad-com.lytics.proxynet.io
 +.proxypartner.net
 +.proxyrack.com
 +.proxysrv-whatsapp.com
@@ -137609,7 +137635,6 @@
 +.psibhuhohmdzq.store
 +.psibkjdxecrte.online
 +.server.psicanalisedescolada.com
-+.load.stape.entrevistadorexpert.psicintialima.com
 +.srv.psicoalianza.com
 +.srvtag.psicologadanielamagalhaes.com
 +.ss.psicologale.com
@@ -140036,7 +140061,6 @@
 +.j.qiqiww.com
 +.kbae.qiqqh.cn
 +.s1.qiqutt.cn
-+.s1.qiqutt.com
 +.qiqybkbj.com
 +.qirbtkfgqdaug.website
 +.qirloith.com
@@ -140294,6 +140318,7 @@
 +.qnsr.com
 +.qntm.pro
 +.qnuqorqohlcxy.online
++.qnuqx.site
 +.qnvljz.info
 +.qnw0cru1i5.com
 +.qnwapxtpzorpn.site
@@ -140848,7 +140873,6 @@
 +.qruaioyiygwvo.online
 +.qruihxvuwbaiw.space
 +.qrumjhxsjryzl.space
-+.qrumphathu.com
 +.qrvtxlktyfxm.com
 +.qrvypmegddrdp.space
 +.qryaimzmkuhsy.site
@@ -141183,7 +141207,6 @@
 +.qubo.app
 +.quboqnokatcvu.space
 +.qucaigg.com
-+.qucxwvt.com
 +.qudajie.com
 +.qudbmtsluirkx.site
 +.qudentaro.com
@@ -143797,6 +143820,7 @@
 +.redexchange.net
 +.redexecs.com
 +.activate.redeyechicago.com
++.a8.yanoman.redeyes.com
 +.conduit.redfast.com
 +.redfast.com
 +.redfastlabs.com
@@ -145628,6 +145652,7 @@
 +.rfbnwszpxcfpb.site
 +.gtm.rfcfloors.com
 +.rfdjyoggizypp.space
++.rfe.pro
 +.rfejazeivqorb.online
 +.rfeqcdggqwuww.online
 +.ssc.rferl.org
@@ -149192,6 +149217,7 @@
 +.sgtm.ruthschris.com
 +.telemetry.ruthschris.com
 +.ruthsize.com
++.rutkz.bspace
 +.mccylg.rutlandcycling.com
 +.rutrk.org
 +.rutseasickmunch.com
@@ -149529,6 +149555,7 @@
 +.s-mania.com
 +.s-onetag.com
 +.gtm.s-trx.com
++.beacon.s.lm
 +.s.sh
 +.s0-greate.net
 +.s002o2hkg.com
@@ -149539,6 +149566,7 @@
 +.e.s0o5g.cn
 +.m.s0o5g.cn
 +.s0p6s02x28.com
++.s1.qiqcom
 +.d.s11.cn
 +.j.s11.cn
 +.s11henoe9i.com
@@ -151469,6 +151497,7 @@
 +.scnkklarfmvac.online
 +.scnkzannzapes.site
 +.piwik.scnsoft.com
++.sco
 +.scogruyyomglj.online
 +.scoldeclipseillusion.com
 +.scoldselfemployedlong.com
@@ -152842,6 +152871,7 @@
 +.load.s.sentisignal.com
 +.load.s.sentisignal.live
 +.sentoravix-prime.com
++.sentrqrumphathu.com
 +.sentry-cdn.com
 +.sentry-cdn.top
 +.o209266.ingest.us.sentry.io
@@ -153190,6 +153220,7 @@
 +.sessionstack.com
 +.sgtm.sessun.com
 +.data.sest.gmbh
++.app.sestexpertz.com
 +.ss.sesthegreat.com
 +.sestihjdtwokp.space
 +.sestonenures.com
@@ -153237,6 +153268,7 @@
 +.load.g.setrent.berlin
 +.setrowid.com
 +.setrun-whatsapp.com
++.srv.greenguard.sets.com
 +.analytics.setsu.gg
 +.settearraf.store
 +.settingjutes.com
@@ -153582,6 +153614,7 @@
 +.sgstats.com
 +.load.stp.sgtautotransport.com
 +.sgtbbgdkovkhz.site
++.sgtm.bened
 +.sgtm.org
 +.x680.sgvtribune.com
 +.sgwhvbiqjoglx.site
@@ -155621,6 +155654,7 @@
 +.swssp.simplywall.st
 +.ss.simplyzap.com
 +.piwik.simpsonspedia.net
++.simpt.com
 +.tm707.simptrack.com
 +.simsivwfaaf.com
 +.ads.simtel.com
@@ -155918,6 +155952,7 @@
 +.stats-001.sitiosimple.com
 +.dkclxi.sitkagear.com
 +.news.sitl.eu
++.xajyvcqiqpzmk.sitnjxa.site
 +.sitorew.com
 +.sitsneezerefreshing.com
 +.sitstandwalk.com
@@ -157854,6 +157889,7 @@
 +.server.socialway.app
 +.load.data.socialx.studio
 +.sociaplus.com
++.a8cv.orochoku.sociatedcontent.com
 +.gtm.sociedadedalanterna.com
 +.ads.societe.com
 +.ads1.societe.com
@@ -159155,6 +159191,7 @@
 +.a8cv.spacioshop.com
 +.people.spaciousskiescampgrounds.com
 +.spaciousuniversity.com
++.hypptujyuaxyz.spacndh.com
 +.rlmnts.spadacinirolamentos.com
 +.ss.spadeandco.com
 +.spadefiyyshes.info
@@ -160303,6 +160340,7 @@
 +.srebrnylokaris.store
 +.sregrohnmdwvu.site
 +.data.sreindiarealty.com
++.srelstudio.com
 +.load.ss.srf.nu
 +.events.srfestival.com
 +.srfqdoboesecb.site
@@ -161184,6 +161222,7 @@
 +.statorkumyk.com
 +.statowl.com
 +.p.statp.com
++.stats.bookhost
 +.sentry.stats.fm
 +.www.stats.net
 +.stats.rip
@@ -164641,6 +164680,7 @@
 +.t4trade.com
 +.m.t528zl.cn
 +.t56w3jk3hu3gvj27ee1eo9oy.cfd
++.t570.wiltonbu
 +.t57u6anx2.com
 +.t5a64j1v4.com
 +.dpd-onls.t5aqat.cfd
@@ -164841,6 +164881,7 @@
 +.tagfly.io
 +.api.tagging-control-adt.site
 +.load.api.tagging-server-wbt.site
++.tagging.la-t
 +.so.taggingwise.com
 +.taggrs.io
 +.analytics.us-east-2.taggstar.com
@@ -166094,6 +166135,7 @@
 +.tdyvrjisy.xyz
 +.tdyzwepdnaqvv.space
 +.tdzvvfdkcyhfv.online
++.te.astrolohop
 +.app.connections.te.com
 +.metrics.te.com
 +.smetrics.te.com
@@ -172780,6 +172822,7 @@
 +.analytics-listener.trafficmanager.net
 +.analytics.trafficmanager.net
 +.apac.events.data.trafficmanager.net
++.ataservices.trafficmanager.net
 +.azwancan.trafficmanager.net
 +.beacons.trafficmanager.net
 +.bingads.trafficmanager.net
@@ -172840,7 +172883,6 @@
 +.telemetry.eastus.ame.arcdataservices.trafficmanager.net
 +.telemetry.eastus.trafficmanager.net
 +.telemetry.eastus2.ame.arcdataservices.trafficmanager.net
-+.telemetry.westeurope.ame.arcdataservices.trafficmanager.net
 +.tm-analytics-pr.trafficmanager.net
 +.tm-enrollment-telemetry-datacore.trafficmanager.net
 +.tracker.flightview.com.trafficmanager.net
@@ -176959,6 +177001,7 @@
 +.load.secondbrainos.umairkamil.com
 +.analytics-1.umami-view.app
 +.analytics.umami-view.app
++.umami.botonline
 +.umami.dev
 +.cw2hc.umamicosmetics.com
 +.umaoyubtybuzq.site
@@ -181416,6 +181459,7 @@
 +.server.vibewearbd.com
 +.vibexdfh.shop
 +.sst.vibezgummies.com
++.adh5.vibioandchic.com
 +.viblanckupwuk.site
 +.analytics.viblo.asia
 +.vibnpoar.com
@@ -181555,7 +181599,6 @@
 +.policy-jrnl-ee.vidaahub.com
 +.policy-jrnl-eu.vidaahub.com
 +.policy-jrnl-la.vidaahub.com
-+.policy-jrnl-me.vidaahub.com
 +.policy-jrnl-na.vidaahub.com
 +.policy-jrnl-oc.vidaahub.com
 +.policy-jrnl-ru.vidaahub.com
@@ -182404,6 +182447,7 @@
 +.data-62e93c650b.visit-hannover.com
 +.tr.tourisme.visit-lanarbonnaise.com
 +.qrcode.visit-thassos.com
++.visit.com
 +.marketing.visitabq.org
 +.analytics.visitandorra.com
 +.target.visitandorra.com
@@ -182926,7 +182970,6 @@
 +.co-vcode-or.vivoglobal.com
 +.de-gdpr-err-up.vivoglobal.com
 +.de-gdpr-vcode-api.vivoglobal.com
-+.err-up.vivoglobal.com
 +.err.up.vivoglobal.com
 +.eu-album-api.vivoglobal.com
 +.eu-api-stsdk.vivoglobal.com
@@ -183935,6 +183978,7 @@
 +.mts.voxiplan.com
 +.voxtribune.com
 +.stape.voxxtelecom.com
++.voy
 +.bn.voyage-prive.com
 +.dzsevh.voyage-prive.com
 +.ek8.voyage-prive.com
@@ -183957,7 +184001,6 @@
 +.data.voybien.com
 +.adb.voyeur-house.org
 +.voyeurdisruly.com
-+.voyeurhit.com
 +.links.voyeurweb.com
 +.voyjmpyrweccq.website
 +.go.voypost.com
@@ -184018,7 +184061,6 @@
 +.ad.vpnrapid.net
 +.vpnrice.com
 +.top.vpnsakti.com
-+.click.vpntoggle.app
 +.click.vpntoggle.net
 +.vpon.com
 +.ads.vporn.com
@@ -184061,7 +184103,6 @@
 +.vpy105341.com
 +.vpyprkzguiqdj.online
 +.vpzdnfciapiux.online
-+.vq-eaws-prd.net
 +.p.vq6nsu.cn
 +.vqbmxyzda.icu
 +.vqbrvsizdcxzv.space
@@ -184543,7 +184584,7 @@
 +.vwfwdxariknxp.website
 +.vwfxuhjgwwent.online
 +.vwhhsovqtt.icu
-+.vwkhdi.cn
++.vwkhdiabats.top
 +.vwkrrwxbuvotg.space
 +.vwnjjfehgryri.space
 +.vwnoxazmsvirn.space
@@ -185551,6 +185592,7 @@
 +.waulzelnvh.com
 +.wauqlvilrunuc.site
 +.wauqomhjliawq.store
++.blockchain-cpdata.wausaudailyherald.com
 +.sp.wausaudailyherald.com
 +.srepdata.wausaudailyherald.com
 +.sst.wauva.com
@@ -185757,6 +185799,7 @@
 +.wccvvpt7c.com
 +.wcdmvjbbkdhzc.space
 +.wcdzw.com
++.cvlwtqlpbezho.wce.com
 +.wcedifmyfokol.online
 +.e.wcenr.com
 +.m.wcenr.com
@@ -187852,7 +187895,7 @@
 +.wibiya.com
 +.wibwlehgufuen.space
 +.wicdn.cloud
-+.wichoaltaisheel.net
++.wichoaltaishee
 +.wickedanimal.com
 +.server.wickedcleanlaundry.com
 +.wickedhorace.com
@@ -190626,7 +190669,6 @@
 +.wxfdmri.xyz
 +.xzc.wxgctz.com
 +.wxhbmaksealdf.online
-+.m.wxhh678.com
 +.wxhiojortldjyegtkx.bid
 +.wxhkdcxdhjv.biz
 +.v066.wxii12.com
@@ -190934,6 +190976,7 @@
 +.xaacmotxhjji.xyz
 +.xaaitpzcofwdm.site
 +.tracking.xaapbuildings.com
++.m.xabogados.com
 +.xacdghbkbelxi.website
 +.stats.xactcode.com
 +.info.xactflex.com
@@ -191273,6 +191316,7 @@
 +.xecdcjxhuefhg.space
 +.xecetvzlrqphx.site
 +.xedo.me
++.xedvcyou
 +.xedvuqcniuwth.website
 +.xeeoeaoxudhxh.online
 +.xefhktqktlwar.space
@@ -191847,7 +191891,6 @@
 +.rtmpott.pandora.xiaomi.com
 +.ru-api.xmpush.global.xiaomi.com
 +.ru-feedback.xmpush.global.xiaomi.com
-+.ru-miuilog.sms.intl.xiaomi.com
 +.ru-register.xmpush.global.xiaomi.com
 +.ru.feedback.xmpush.global.xiaomi.com
 +.ru.video.intl.xiaomi.com
@@ -191922,6 +191965,7 @@
 +.wtradv.market.xiaomi.com
 +.xadx.file.market.xiaomi.com
 +.xiazai.xiaomi.com
++.ru-miuilog.sms.intl.xiaomi.copl
 +.alisgp-sentry.d.xiaomi.net
 +.api.account.preview.n.xiaomi.net
 +.api.device.xiaomi.net
@@ -192935,7 +192979,6 @@
 +.xszqapp.com
 +.xszzabiyogfip.online
 +.xt1nx0rs7n.com
-+.m.xt2d.cn
 +.xt8esrr.com
 +.xt918.com
 +.xtaaggnznubjz.com
@@ -194722,6 +194765,7 @@
 +.ykkhybgrbzqta.online
 +.ykksslnwspjqt.online
 +.yklfg.cn
++.yklnrhkvnevxv.
 +.yklnrhkvnevxv.space
 +.ykmpjshybqlaf.space
 +.yknhfifccqozk.space
