@@ -1181,6 +1181,7 @@
 +.alphera.net
 +.alpherafinance.com.hk
 +.alpherafs.com.hk
++.alpindia.org
 +.alpinelinux.org
 +.alsace
 +.alstom
@@ -1800,6 +1801,7 @@
 +.asacp.org
 +.asagaku.com
 +.asahi.com
++.asakhrc.org.hk
 +.ascelibrary.org
 +.asda
 +.asebay.com
@@ -2291,6 +2293,7 @@
 +.azuredigitaltwins.net
 +.azuredns-prd.info
 +.azuredns-prd.org
++.azuredns-prd.t
 +.azureedge-test.net
 +.azureedge.net
 +.azurefd.net
@@ -3216,6 +3219,7 @@
 +.blogs.com
 +.blogs.tampabay.com
 +.blogsmithmedia.com
++.blogspot.co.com
 +.blogspot.com
 +.blogspot.com.co
 +.blogspot.hk
@@ -6527,6 +6531,7 @@
 +.entrust.net
 +.entrustdatacard.com
 +.envato-static.com
++.envato.c000webhost.com
 +.envato.com
 +.envatousercontent.com
 +.envybox.company
@@ -7109,6 +7114,7 @@
 +.falundafa-pa.net
 +.falundafa-sacramento.org
 +.falundafa.org
++.falundafa000webhost.com
 +.falundafaindia.org
 +.falundafamuseum.org
 +.falungong.club
@@ -9208,6 +9214,7 @@
 +.hath.network
 +.hautelook.com
 +.hautelookcdn.com
++.hav.com
 +.have8.com
 +.haveibeenpwned.com
 +.hawaiibmw.com
@@ -9638,7 +9645,6 @@
 +.hkgreenradio.org
 +.hkheadline.com
 +.hkhkhk.com
-+.hkhrc.org.hk
 +.hkhrm.org.hk
 +.hkjc.com
 +.hkjp.org
@@ -12357,6 +12363,7 @@
 +.lxqt-project.org
 +.lxxlxx.com
 +.ly
++.lyfhk.necp.org
 +.lyfhk.net
 +.lysol.com
 +.lysol.net
@@ -15111,7 +15118,7 @@
 +.pacopacomama.com
 +.paddle.com
 +.paddleapi.com
-+.padmanet.com
++.padmanet.info
 +.paerosnen.club
 +.page
 +.page.link
@@ -22178,6 +22185,7 @@
 +.yodobashi
 +.yogalayout.com
 +.yogichen.org
++.yogichen.orgorg
 +.yogify.com
 +.yokohama
 +.yolasite.com
