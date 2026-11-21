@@ -6055,7 +6055,6 @@
 +.1.a79ab95c1589a13f8a4cab612bc71f9f7.com
 +.analytics.a7k.io
 +.a7shun.com
-+.a8
 +.a8.net
 +.a85.info
 +.a85t9mxnj.com
@@ -6255,6 +6254,7 @@
 +.prod-event-relay-sports-api.v.aaplimg.com
 +.prod-event-relay-stocks-api.v.aaplimg.com
 +.prod-event-relay-weather-api.v.aaplimg.com
++.prod-event-relay-web-api.v.aaplimg.com
 +.prod-iwork-events.v.aaplimg.com
 +.prod-news-notification-events.v.aaplimg.com
 +.securemetrics-cn.v.aaplimg.com
@@ -7669,7 +7669,7 @@
 +.actuallysheep.com
 +.actuallysnake.com
 +.a.actualno.com
-+.actualtrade.eu
++.actualtrade.
 +.actualys.com
 +.actuanius.com
 +.app.info.actuate.com
@@ -7751,6 +7751,7 @@
 +.www.ad-groups.com
 +.ad-hatena.com
 +.ad-indicator.com
++.ad-instant
 +.ad-locus.com
 +.ad-loupe.com
 +.media.ad-lps.net
@@ -13835,6 +13836,7 @@
 +.lockcard-service-in.allawnos.com
 +.moa-upload-in.allawnos.com
 +.moa-upload-sg.allawnos.com
++.opex-service-eu-allawna-e3dde.fr-w01.cngw.allawnos.com
 +.opex-service-eu.allawnos.com
 +.opex-service-in.allawnos.com
 +.opex-service-sg.allawnos.com
@@ -14332,6 +14334,7 @@
 +.sst.alperia.eu
 +.alpha-affiliates.com
 +.dwga.alpha-bielefeld.com
++.alpha-collector-statistics.nhn-com
 +.bhs.alpha-peptides.com
 +.xml-v4.alpha-shark.pro
 +.xml.alpha-shark.pro
@@ -14916,9 +14919,6 @@
 +.fe.ono.axp.amazon-adsystem.com
 +.fe.us-west.ono.axp.amazon-adsystem.com
 +.fls-cn.amazon-adsystem.com
-+.fls-eu.amazon-adsystem.com
-+.fls-fe.amazon-adsystem.com
-+.fls-na.amazon-adsystem.com
 +.imdb.amazon-adsystem.com
 +.ir-br.amazon-adsystem.com
 +.ir-ca.amazon-adsystem.com
@@ -14963,6 +14963,7 @@
 +.s.amazon-adsystem.com
 +.sponsored-ads-eu-south-2.amazon-adsystem.com
 +.sponsored-ads-eu.amazon-adsystem.com
++.sponsored-ads-euc-1.amazon-adsystem.com
 +.sponsored-ads-fe.amazon-adsystem.com
 +.sponsored-ads-na.amazon-adsystem.com
 +.sq-tungsten-ts-eu.amazon-adsystem.com
@@ -21640,6 +21641,7 @@
 +.et-info-lgsmartad-com.aws-prd.net
 +.et-rdx2-lgtvsdp-com.aws-prd.net
 +.eu7-info-lgsmartad-com.aws-prd.net
++.eu7-rdx2-lgtvsdp-com.aws-prd.net
 +.fi-ad-lgsmartad-com.aws-prd.net
 +.fi-info-lgsmartad-com.aws-prd.net
 +.fi-rdx2-lgtvsdp-com.aws-prd.net
@@ -42521,7 +42523,6 @@
 +.conn5.coloros.com
 +.guif-eu.coloros.com
 +.guif.coloros.com
-+.hdopxenavimwu.onlinupload-online.coloros.com
 +.icota-eu.coloros.com
 +.ifrus-eu.coloros.com
 +.ifrus-in.coloros.com
@@ -44586,7 +44587,6 @@
 +.cooguo.com
 +.coohauwhob.net
 +.cooingcoal.com
-+.cook
 +.cookandcruise.com
 +.12.cookcai.com
 +.app.cookdtv.com
@@ -48028,7 +48028,6 @@
 +.d1e65c72ee.com
 +.64898181df.d1f6bb22dc.com
 +.gtm.d1milano.com
-+.d1w5452x8p71hs.cloudf
 +.d2-apps.net
 +.sst.d20.bet
 +.d24ak3f2b.top
@@ -61814,6 +61813,7 @@
 +.eu-3-id5-sync.com
 +.eu-4-id5-sync.com
 +.eu-adcenter.net
++.eu-album-
 +.eu-empik.shop
 +.api.eu-game-sdk.com
 +.eu-global.com
@@ -74729,7 +74729,6 @@
 +.glxacqtlhomgu.online
 +.glxgroup.com
 +.tracker.glxplay.io
-+.glxrik.site
 +.glxsos.site
 +.glxta.site
 +.glxtest.site
@@ -77971,6 +77970,7 @@
 +.gtlinfrastructurelimited.com
 +.gtlmblpvpirgj.site
 +.gtg.gtm-sandbox.org
++.gtm.n
 +.gtmajs.click
 +.sst.gtmetrix.com
 +.gtmjs.com
@@ -79294,7 +79294,6 @@
 +.hq.handiquilter.com
 +.app.handlemoa.com
 +.connect.handlesets.com
-+.moa-ure.handlesets.com
 +.somniture.handlesets.com
 +.tracking.handlesets.com
 +.han.handlestore.com
@@ -81689,6 +81688,7 @@
 +.api-id.theme.heytapmobile.com
 +.bdapi-ads-in.heytapmobile.com
 +.bdapi-ads-sg.heytapmobile.com
++.browser-api-au.heytapmobile.com
 +.browser-api-br.heytapmobile.com
 +.browser-api-fr.heytapmobile.com
 +.browser-api-gl-01.heytapmobile.com
@@ -81883,6 +81883,7 @@
 +.video-api-in.heytapmobile.com
 +.video-api-ru.heytapmobile.com
 +.virusinfo-cloudscan-in.heytapmobile.com
++.obus-dc20123-sg.heytineyard.world
 +.heywire.com
 +.lphszexo.heyy.io
 +.sentry.heyyobuy.com
@@ -104057,6 +104058,7 @@
 +.outlookads.live.com
 +.pgtbr1-excel-telemetry-vip.officeapps.live.com
 +.pgtbr2-excel-telemetry-vip.officeapps.live.com
++.pgtca1-powerpoint-telemetry-vip.officeapps.live.com
 +.pgteu1-excel-telemetry-vip.officeapps.live.com
 +.pgteu1-powerpoint-telemetry-vip.officeapps.live.com
 +.pgteu1-word-telemetry-vip.officeapps.live.com
@@ -104070,8 +104072,8 @@
 +.pgteu4-powerpoint-telemetry-vip.officeapps.live.com
 +.pgteu4-word-telemetry-vip.officeapps.live.com
 +.pgteu5-excel-telemetry-vip.officeapps.live.com
-+.pgteu5-powerpoint-telemetry-vip.officeapps.live.com
 +.pgteu5-word-telemetry-vip.officeapps.live.com
++.pgtmx1-excel-telemetry-vip.officeapps.live.com
 +.pgtus1-excel-telemetry-vip.officeapps.live.com
 +.pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 +.pgtus1-word-telemetry-vip.officeapps.live.com
@@ -111861,6 +111863,7 @@
 +.adserver.mgsex.com
 +.simg.mgsgamesonline.com
 +.ad.intl.xiaomi.com.mgslb.com
++.mistat.xiaomi.com.mgslb.com
 +.mgsnicqdeydae.space
 +.mgtckhufqjlad.store
 +.mgtmod01.com
@@ -116011,7 +116014,6 @@
 +.t-ring-s2.msedge.net
 +.t-ring-trafficshield.msedge.net
 +.t-ring.msedge.net
-+.t-s2-ring.msedge.net
 +.win10-trt.msedge.net
 +.msedge.vg
 +.analytic.mseep.ai
@@ -116054,6 +116056,7 @@
 +.msmmetallindustry.com
 +.m.msmuseumart.org
 +.browser.events.data.msn.cn
++.events-sandbox.data.msn.cn
 +.events.data.msn.cn
 +.srtb.msn.cn
 +.ac2.msn.com
@@ -121242,7 +121245,6 @@
 +.tk.nhlottery.com
 +.nhlrzf.icu
 +.info.nhlseattle.com
-+.alpha-collector-statistics.nhn-commerce.com
 +.collector-statistics.nhn-commerce.com
 +.nhnace.com
 +.nhnehvef.icu
@@ -121604,7 +121606,6 @@
 +.ninetyfitful.com
 +.ninetyninesec.com
 +.vitals.ninewest.com
-+.gtm.nineyard.world
 +.api.ning.com
 +.track.ning.com
 +.c.ningbojipiao.com
@@ -123221,7 +123222,6 @@
 +.data.adviser.nsandi.com
 +.data.savings.nsandi.com
 +.nsapm.com
-+.adsyndication.msn.com.nsatc.net
 +.choice.microsoft.com.nsatc.net
 +.i1.services.social.microsoft.com.nsatc.net
 +.oca.telemetry.microsoft.com.nsatc.net
@@ -127897,7 +127897,6 @@
 +.bhs.orosresearch.com
 +.k864.orovillemr.com
 +.orozipuetosat.website
-+.sst.orozovicnikola.rs
 +.orpcmlekqqujdx.com
 +.orphanrudimentary.com
 +.orphicallkkyidioplasma.info
@@ -145346,6 +145345,7 @@
 +.renowncooperatepat.com
 +.renownsteeringscholar.com
 +.app.renozee.com
++.jebe.renren.c
 +.ebp.renren.com
 +.jebe.renren.com
 +.renrenkanpian.com
@@ -145420,6 +145420,7 @@
 +.analytics.repath.studio
 +.tags.repatha.com
 +.tags.repathahcp.com
++.repdata.battlecr
 +.repeatsweater.com
 +.repelaffinityworlds.com
 +.repelbeachbeggarly.com
@@ -145695,6 +145696,7 @@
 +.respiunita.store
 +.bxayxdfey6.respona.com
 +.analytics.respondwell.health
++.adstore.response.
 +.responsedifferencegrate.com
 +.marketing.responsepoint.com
 +.responseremainrust.com
@@ -159171,7 +159173,6 @@
 +.sommetplacivo.com
 +.zgygvo.sommiercenter.com
 +.yuxxgx.somnifix.com
-+.somnit
 +.somoaudience.com
 +.abc.somogro.com
 +.somon.tj
@@ -161080,6 +161081,7 @@
 +.marketing.ssat.org
 +.ssbpnfksjic.com
 +.ssgtm.ssc-app-services.com
++.ssc.nickelodeo
 +.ssc.southpark
 +.ssc9v54oew.com
 +.sscefsol.com
@@ -161186,6 +161188,7 @@
 +.ssstuitui1999.com
 +.servicios.sssvida.com
 +.sssxwsry.com
++.sst
 +.sstachioe.cc
 +.ssteeraa.net
 +.marketing.sstid.com
@@ -170731,6 +170734,7 @@
 +.live-video-log16-normal-useast1a.tiktokv.com
 +.live-video-log16-normal-useast2a.tiktokv.com
 +.location-i18n.tiktokv.com
++.location-ru.tiktokv.com
 +.location-sg.tiktokv.com
 +.location-ttp2.us.tiktokv.com
 +.location-v6-i18n.tiktokv.com
@@ -170841,6 +170845,7 @@
 +.rtc-logger.tiktokv.com
 +.rtc-logger.us.tiktokv.com
 +.rtc-logger16-normal-alisg.tiktokv.com
++.rtc-logger16-normal.tiktokv.com
 +.rtlog-i18n.tiktokv.com
 +.rtlog-phx.tiktokv.com
 +.rtlog-ru.tiktokv.com
@@ -170917,7 +170922,6 @@
 +.tnc100-useast1a.tiktokv.com
 +.tnc100-useast2a.tiktokv.com
 +.tnc16-normal-useast8.us.tiktokv.com
-+.tnc16-normal-zr-alisg.tiktokv.com
 +.tnc16-normal-zr-useast1a.tiktokv.com
 +.tnc16-platform-alisg.tiktokv.com
 +.tnc16-platform-my.tiktokv.com
@@ -170951,6 +170955,7 @@
 +.live-video-log16-normal-useast2a.tiktokv.eu
 +.live-video-log16-normal-useastred.tiktokv.eu
 +.location-ie.tiktokv.eu
++.location-ttp2.tiktokv.eu
 +.location-v6-ttp2.tiktokv.eu
 +.location-v6.tiktokv.eu
 +.location.tiktokv.eu
@@ -170958,6 +170963,7 @@
 +.log-dr.tiktokv.eu
 +.log-dr16-normal-no1a.tiktokv.eu
 +.log-dr16-normal-useastred.tiktokv.eu
++.log-dr19-normal-no1a.tiktokv.eu
 +.log.tiktokv.eu
 +.log16-normal-ie.tiktokv.eu
 +.log19-normal-no1a.tiktokv.eu
@@ -170967,6 +170973,7 @@
 +.log32-normal-useastred.tiktokv.eu
 +.mon.tiktokv.eu
 +.mon16-normal-ie.tiktokv.eu
++.rtc-logger-ie.tiktokv.eu
 +.rtc-logger-ttp2.tiktokv.eu
 +.rtc-logger.tiktokv.eu
 +.rtc-logger16-normal-useastred.tiktokv.eu
@@ -170996,6 +171003,7 @@
 +.ads16-normal-useastred.tiktokw.eu
 +.analytics-exp-ie.tiktokw.eu
 +.analytics-exp-ttp2.tiktokw.eu
++.analytics-exp.tiktokw.eu
 +.analytics-exp16-normal-useastred.tiktokw.eu
 +.analytics-ie.tiktokw.eu
 +.analytics-ttp2.tiktokw.eu
@@ -171798,6 +171806,7 @@
 +.tnatisan.shop
 +.tnbqibghgkfsh.online
 +.tnbxtmaqpfbwf.website
++.tnc16-normauit.com
 +.tncid.app
 +.emily.tncrun.net
 +.tnctrx.com
@@ -173497,7 +173506,6 @@
 +.glance-analytics.trafficmanager.net
 +.hash.trafficmanager.net
 +.hk-tracker.trafficmanager.net
-+.icmskillevents.trafficmanager.net
 +.ieonlinews.trafficmanager.net
 +.inference-location-livenet.trafficmanager.net
 +.insideruser.trafficmanager.net
@@ -173537,7 +173545,6 @@
 +.tm-enrollment-telemetry-datacore.trafficmanager.net
 +.tracker.flightview.com.trafficmanager.net
 +.uks.b.prd.ags.trafficmanager.net
-+.us-mesh-events-data-leafs.trafficmanager.net
 +.vortex.data.trafficmanager.net
 +.vstelemetry.trafficmanager.net
 +.watsoncab.trafficmanager.net
@@ -183674,7 +183681,6 @@
 +.co-vcode-od.vivoglobal.com
 +.co-vcode-or.vivoglobal.com
 +.de-gdpr-err-up.vivoglobal.com
-+.de-gdpr-vcode-api.vivoglobal.com
 +.err-up.vivoglobal.com
 +.err.up.vivoglobal.com
 +.eu-album-api.vivoglobal.com
@@ -183684,7 +183690,6 @@
 +.eu-domaincfg.vivoglobal.com
 +.eu-errup.vivoglobal.com
 +.eu-monitor-stsdk.vivoglobal.com
-+.eu-nrt-stsdk.vivoglobal.com
 +.eu-onrt-stsdk.vivoglobal.com
 +.eu-ort-stsdk.vivoglobal.com
 +.eu-p.vivoglobal.com
@@ -183700,6 +183705,7 @@
 +.ex-adreq-asia.vivoglobal.com
 +.ex-adreq-in.vivoglobal.com
 +.ex-romsp-unifyconfig.vivoglobal.com
++.glxapi.vivoglobal.com
 +.id-analyzer-appstore.vivoglobal.com
 +.id-third-appstore.vivoglobal.com
 +.il-api-stsdk.vivoglobal.com
@@ -183735,6 +183741,7 @@
 +.in-os-config-appstore.vivoglobal.com
 +.in-pnrt-stsdk.vivoglobal.com
 +.in-prt-stsdk.vivoglobal.com
++.in-rt-stsdk.vivoglobal.com
 +.in-third-appstore.vivoglobal.com
 +.in-timesync.vivoglobal.com
 +.in-vcode-api.vivoglobal.com
@@ -189103,7 +189110,6 @@
 +.analytics-dev-lleap-events.servicebus.windows.net
 +.analytics-dev-simpad-events.servicebus.windows.net
 +.analyticsehnwe.servicebus.windows.net
-+.analyticsiot-prod-mobileapps-ehn.servicebus.windows.net
 +.best10cdn.blob.core.windows.net
 +.ceuswatcab01.blob.core.windows.net
 +.ceuswatcab02.blob.core.windows.net
