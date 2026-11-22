@@ -47066,6 +47066,7 @@
 +.pgtus2-powerpoint-telemetry-vip.officeapps.live.com
 +.pgtus2-word-telemetry-vip.officeapps.live.com
 +.pgtus3-excel-telemetry-vip.officeapps.live.com
++.pgtus3-powerpoint-telemetry-vip.officeapps.live.com
 +.pgtus3-word-telemetry-vip.officeapps.live.com
 +.pgtus4-excel-telemetry-vip.officeapps.live.com
 +.pgtus4-powerpoint-telemetry-vip.officeapps.live.com
@@ -56247,7 +56248,6 @@
 +.fp.measure.office.com
 +.measure.office.com
 +.measure.office.net
-+.pgtus3-powerpoint-telemetry-vip.officeapps.li
 +.vkkasm.officechairsusa.com
 +.officecornsoftware.com
 +.data.cs.officedepot.com
