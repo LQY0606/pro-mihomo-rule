@@ -3596,6 +3596,7 @@
 +.bravoteens.com
 +.bravotube.net
 +.bravotube.tv
++.bravotv.com
 +.brawlstars.com
 +.brawlstarsgame.com
 +.brazilpartneruniversity.com
@@ -4702,6 +4703,7 @@
 +.cn-proxy.com
 +.cnabc.com
 +.cnbc.com
++.cnbccouncils.com
 +.cnbcfm.com
 +.cnbeta.com
 +.cnbetacdn.com
@@ -7533,6 +7535,7 @@
 +.fo
 +.foampositeshoes.com
 +.fochk.org
++.focusfeatures.com
 +.focusvpn.com
 +.fofg-europe.net
 +.fofg.org
@@ -9168,6 +9171,7 @@
 +.hayabusa.media
 +.hayday.com
 +.haydaygame.com
++.hayu.com
 +.hb4bbbbb.pmhcjk.com
 +.hbabit.com
 +.hbfile.net
@@ -10372,6 +10376,7 @@
 +.ilbe.com
 +.ilhamtohtiinstitute.org
 +.ilife.wang
++.illumination.com
 +.illusion111.com
 +.illusionas.com
 +.illusionchn.com
@@ -13481,7 +13486,6 @@
 +.msk.kitazawa.me
 +.msn.com
 +.msn.net
-+.msnbc.com
 +.msnewskids.com
 +.msnewskids.net
 +.msnewskids.org
@@ -13896,8 +13900,11 @@
 +.nbcolympics.com
 +.nbcsports.com
 +.nbcudigitaladops.com
++.nbcumv.com
 +.nbcuni.com
++.nbcunicareers.com
 +.nbcuniversal.com
++.nbcuniversalprivacy.com
 +.nbdh15.buzz
 +.nbtvpn.com
 +.nbys.tv
@@ -16702,6 +16709,7 @@
 +.renyurenquan.org
 +.renzhe.cloud
 +.repe21.com
++.replit.com
 +.repotama.com
 +.resao.com
 +.researchandcare.org
@@ -18863,6 +18871,7 @@
 +.telegram.space
 +.telegramdownload.com
 +.telekom.com
++.telemundo.com
 +.telerik.com
 +.telesell.com
 +.telex.cc
@@ -19422,6 +19431,7 @@
 +.torrentprivacy.com
 +.torrenty.org
 +.torrindex.net
++.tortoisegit.org
 +.tortoisesvn.net
 +.torvpn.com
 +.toshiba
@@ -19904,6 +19914,7 @@
 +.udnfunlife.com
 +.udomain.hk
 +.udtrucksmeena.com
++.udxfpp.com
 +.uflash.tv
 +.ufreevpn.com
 +.ug
@@ -19967,9 +19978,14 @@
 +.unitedsocialpress.com
 +.unity.com
 +.unity3d.com
++.universalbeijingresort.com
++.universalhorrorunleashed.com
++.universalkidsresort.com
 +.universalorlando.com
 +.universalpictures.com
++.universalpicturesathome.com
 +.universalpicturesinternational.com
++.universalproductsexperiences.com
 +.universalscalablefirmware.org
 +.universalstudioshollywood.com
 +.universitypressscholarship.com
@@ -20002,6 +20018,7 @@
 +.upfrontcfd.com
 +.upfrontfea.com
 +.upghsbc.com
++.uphe.com
 +.upholdjustice.org
 +.upjav.cc
 +.uplay-istrip.com
