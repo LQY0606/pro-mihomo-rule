@@ -3650,7 +3650,6 @@
 +.bridgestonetire.com
 +.bridgestonevan.com
 +.bridgestonewx.com
-+.briefdream.com
 +.brightcove.com
 +.brightcove.net
 +.brightcove.services
@@ -4385,7 +4384,7 @@
 +.chinagreenparty.org
 +.chinahorizon.org
 +.chinahush.com
-+.chinainperspective.com
++.chinainpersthlink.com
 +.chinainterimgov.org
 +.chinalaborwatch.org
 +.chinalawandpolicy.com
@@ -6612,6 +6611,7 @@
 +.es
 +.es-rt.com
 +.es-visiontimes.com
++.es2u.com
 +.esbeatsbydrebuy.com
 +.escandinavia-arg.com
 +.escapefromtarkov.com
@@ -7072,6 +7072,7 @@
 +.falundafa.org
 +.falundafaindia.org
 +.falundafamuseum.org
++.falundafatw
 +.falungong.club
 +.falunhr.org
 +.faluninfo.net
@@ -9468,6 +9469,7 @@
 +.hf-iphone.com
 +.hf.co
 +.hf.space
++.hforum.com
 +.hg.cool
 +.hgamer.pro
 +.hgseav.com
@@ -9589,7 +9591,6 @@
 +.hkgreenradio.org
 +.hkheadline.com
 +.hkhkhk.com
-+.hkhrc.org.hk
 +.hkhrm.org.hk
 +.hkjc.com
 +.hkjp.org
@@ -11555,6 +11556,7 @@
 +.khangar.net
 +.khatrimaza.org
 +.khotruyentranhx.com
++.khrc.org.hk
 +.ki
 +.kia
 +.kichiku-doujinko.com
@@ -13906,6 +13908,7 @@
 +.nbcuniversal.com
 +.nbcuniversalprivacy.com
 +.nbdh15.buzz
++.nbriefdream.com
 +.nbtvpn.com
 +.nbys.tv
 +.nbys1.tv
@@ -15038,7 +15041,6 @@
 +.pacopacomama.com
 +.paddle.com
 +.paddleapi.com
-+.padmanet.com
 +.paerosnen.club
 +.page
 +.page.link
@@ -16235,6 +16237,7 @@
 +.publicsuffix.org
 +.publishproxy.com
 +.pubmatic.com
++.pubu.com.pective.com
 +.puffin.com
 +.puffinbrowser.com
 +.puffstore.com
@@ -19762,6 +19765,7 @@
 +.twiffo.com
 +.twifuli.com
 +.twiggit.org
++.twilcox.net
 +.twilightsex.com
 +.twilio.com
 +.twilog.org
@@ -20054,6 +20058,7 @@
 +.usatoday.com
 +.usatodaynetworkservice.com
 +.uscardforum.com
++.uscardindia.org
 +.uscnpm.org
 +.usefreevpn.com
 +.uselessjunk.com
