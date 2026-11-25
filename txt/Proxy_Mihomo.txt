@@ -1062,6 +1062,7 @@
 +.akastream.net
 +.akatns.net
 +.akdn
++.akhrc.org.hk
 +.akiba-online.com
 +.akiba-souken.com
 +.akiba-web.com
@@ -1071,6 +1072,7 @@
 +.al
 +.al-islam.com
 +.al-qimmah.net
++.al.com
 +.alabout.com
 +.alanhou.com
 +.alasbarricadas.org
@@ -1796,6 +1798,7 @@
 +.ascelibrary.org
 +.asda
 +.asebay.com
++.asexdoll.c# NAME: Proxy
 +.asexdoll.com
 +.asextube.net
 +.asha.org
@@ -2288,6 +2291,7 @@
 +.azureedge.net
 +.azurefd.net
 +.azureiotcentral.com
++.azureiotcentrut-tibetain.org
 +.azureiotsolutions.com
 +.azureiotsuite.com
 +.azureplanetscale.info
@@ -3691,6 +3695,7 @@
 +.bscdnweb.com
 +.bsky.chat
 +.bsky.network
++.bsky.socalition.com
 +.bsky.social
 +.bstatic.com
 +.bsxm1213.pro
@@ -3883,6 +3888,7 @@
 +.cachefly.com
 +.cachefly.net
 +.cachinese.com
++.cachix.org
 +.cacnw.com
 +.cactusvpn.com
 +.cad-mep.com
@@ -4927,6 +4933,7 @@
 +.coursera.community
 +.coursera.help
 +.coursera.org
++.courses.myecnu.org
 +.coverartarchive.org
 +.covid19-rx.org
 +.covid19rx.org
@@ -7192,9 +7199,11 @@
 +.fastindianporn.com
 +.fastlane.tools
 +.fastly-edge.com
++.fastly-insights.com
 +.fastly-terrarium.com
 +.fastly.com
 +.fastly.net
++.fastlydns.net
 +.fastlylabs.com
 +.fastlylb.net
 +.fastmail.com
@@ -8028,6 +8037,7 @@
 +.full:cdn-spotify-experiments.conductrics.com
 +.full:cdn.js7k.com
 +.full:cisco.evergage.com
++.full:courses.myecnu.org
 +.full:crl.microsoft.com
 +.full:crl.versign.net
 +.full:databank.worldbank.org
@@ -9589,7 +9599,6 @@
 +.hkgreenradio.org
 +.hkheadline.com
 +.hkhkhk.com
-+.hkhrc.org.hk
 +.hkhrm.org.hk
 +.hkjc.com
 +.hkjp.org
@@ -9646,6 +9655,7 @@
 +.hololens.com
 +.holymountaincn.com
 +.holyspiritspeaks.org
++.hom
 +.home-made-porn-movies.com
 +.home-made-videos.com
 +.home-sex-tapes.com
@@ -10616,6 +10626,7 @@
 +.instgram.com
 +.institut-tibetain.org
 +.instituteofwar.org
++.institutodeskegitimleri.com
 +.instructables.com
 +.insuyo.xyz
 +.intagram.com
@@ -14137,6 +14148,7 @@
 +.nftstatic.com
 +.nftstorage.link
 +.ng
++.ng.micom
 +.ngensis.com
 +.ngeo.com
 +.ngfiles.com
@@ -16182,7 +16194,6 @@
 +.protonstatus.com
 +.protonvpn.com
 +.protonweb.com
-+.provideocoalition.com
 +.provpnaccounts.com
 +.proxfree.com
 +.proxifier.com
@@ -16972,6 +16983,7 @@
 +.rukoebxx.com
 +.rukor.org
 +.rulaisc-tv.buzz
++.rule34.uial
 +.rule34h.com
 +.rule34pornvids.com
 +.rule34video.com
@@ -20444,6 +20456,7 @@
 +.vivatube.com
 +.vivaxnxx.com
 +.vivo
++.vivox.com
 +.vivthomas.com
 +.vixen.com
 +.vixengroup.com
