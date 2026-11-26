@@ -1062,7 +1062,6 @@
 +.akastream.net
 +.akatns.net
 +.akdn
-+.akhrc.org.hk
 +.akiba-online.com
 +.akiba-souken.com
 +.akiba-web.com
@@ -1072,7 +1071,6 @@
 +.al
 +.al-islam.com
 +.al-qimmah.net
-+.al.com
 +.alabout.com
 +.alanhou.com
 +.alasbarricadas.org
@@ -1798,7 +1796,6 @@
 +.ascelibrary.org
 +.asda
 +.asebay.com
-+.asexdoll.c# NAME: Proxy
 +.asexdoll.com
 +.asextube.net
 +.asha.org
@@ -2291,7 +2288,6 @@
 +.azureedge.net
 +.azurefd.net
 +.azureiotcentral.com
-+.azureiotcentrut-tibetain.org
 +.azureiotsolutions.com
 +.azureiotsuite.com
 +.azureplanetscale.info
@@ -3695,7 +3691,6 @@
 +.bscdnweb.com
 +.bsky.chat
 +.bsky.network
-+.bsky.socalition.com
 +.bsky.social
 +.bstatic.com
 +.bsxm1213.pro
@@ -9599,6 +9594,7 @@
 +.hkgreenradio.org
 +.hkheadline.com
 +.hkhkhk.com
++.hkhrc.org.hk
 +.hkhrm.org.hk
 +.hkjc.com
 +.hkjp.org
@@ -9655,7 +9651,6 @@
 +.hololens.com
 +.holymountaincn.com
 +.holyspiritspeaks.org
-+.hom
 +.home-made-porn-movies.com
 +.home-made-videos.com
 +.home-sex-tapes.com
@@ -10626,7 +10621,6 @@
 +.instgram.com
 +.institut-tibetain.org
 +.instituteofwar.org
-+.institutodeskegitimleri.com
 +.instructables.com
 +.insuyo.xyz
 +.intagram.com
@@ -12717,6 +12711,7 @@
 +.megacamz.com
 +.megaeth.com
 +.megafilmporno.com
++.megafon.cloud
 +.megafon.com
 +.megapornfreehd.com
 +.megapornpics.com
@@ -14148,7 +14143,6 @@
 +.nftstatic.com
 +.nftstorage.link
 +.ng
-+.ng.micom
 +.ngensis.com
 +.ngeo.com
 +.ngfiles.com
@@ -14617,6 +14611,7 @@
 +.o365weve-dev.com
 +.o365weve-ppe.com
 +.o365weve.com
++.o7.com
 +.oaistatic.com
 +.oaistatsig.com
 +.oaiusercontent.com
@@ -16194,6 +16189,7 @@
 +.protonstatus.com
 +.protonvpn.com
 +.protonweb.com
++.provideocoalition.com
 +.provpnaccounts.com
 +.proxfree.com
 +.proxifier.com
@@ -16983,7 +16979,6 @@
 +.rukoebxx.com
 +.rukor.org
 +.rulaisc-tv.buzz
-+.rule34.uial
 +.rule34h.com
 +.rule34pornvids.com
 +.rule34video.com
