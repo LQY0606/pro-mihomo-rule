@@ -4176,6 +4176,7 @@
 +.aczhuwlna.com
 +.ad-
 +.ad-adapex.io
++.ad-instantindows.net
 +.ad-m.asia
 +.ad-opt.site
 +.ad-plus.cn
@@ -4627,7 +4628,6 @@
 +.adnet.com
 +.adnetworkperformance.com
 +.adnetwrk.com
-+.adnewnc.app
 +.adnexus.net
 +.adngin.com
 +.adnigma.com
@@ -6202,11 +6202,11 @@
 +.supersonicads-a.akamaihd.net
 +.tillertag-a.akamaihd.net
 +.w4o7aea80ss3-a.akamaihd.net
-+.speee-ad.akamaized.ne
 +.analytics2-3-meride-tv.akamaized.net
 +.analytics2-meride-tv.akamaized.net
 +.measure.office.com.akamaized.net
 +.ninja.akamaized.net
++.speee-ad.akamaized.net
 +.akanoo.com
 +.pstat.akathists.com
 +.akavita.com
@@ -8858,12 +8858,12 @@
 +.atnzgchtjbers.online
 +.a8clk.ato-barai.com
 +.atofsegchckii.space
-+.atom
 +.atom-data.io
 +.analytics.atom.com
 +.members.atomcomplete.com
 +.atomex.net
 +.smetrics.atomic.com
++.atomicplanets.cc
 +.atomicqueen.com
 +.atonementimmersedlacerate.com
 +.atonicsparody.com
@@ -9220,6 +9220,7 @@
 +.avads.live
 +.avads.net
 +.availablerest.com
++.get-test.avakin.com
 +.get.avakin.com
 +.avalancheofnews.com
 +.avalanchetremorunfilled.com
@@ -9472,6 +9473,7 @@
 +.awrqrrlscmkmv.website
 +.awrwwedcoeeyq.site
 +.awryau.com
++.is-info-lgsmartad-com.aws-prd.
 +.ae-ad-lgsmartad-com.aws-prd.net
 +.ae-info-lgsmartad-com.aws-prd.net
 +.ae-rdx2-lgtvsdp-com.aws-prd.net
@@ -9682,7 +9684,6 @@
 +.ir-info-lgsmartad-com.aws-prd.net
 +.ir-rdx2-lgtvsdp-com.aws-prd.net
 +.is-ad-lgsmartad-com.aws-prd.net
-+.is-info-lgsmartad-com.aws-prd.net
 +.is-rdx2-lgtvsdp-com.aws-prd.net
 +.it-ad-lgsmartad-com.aws-prd.net
 +.it-info-lgsmartad-com.aws-prd.net
@@ -19087,6 +19088,7 @@
 +.ifsau-eu.coloros.com
 +.ifsau-in.coloros.com
 +.ifsau.coloros.com
++.log-eap-in.coloros.com
 +.log-eap-sg.coloros.com
 +.log-eap.coloros.com
 +.moa-upload-online-in.coloros.com
@@ -19168,6 +19170,7 @@
 +.adn-plus.com.cn
 +.adnet.vivo.com.cn
 +.adnetstatic.vivo.com.cn
++.adnewnc.app.autohome.com.cn
 +.adproxy.autohome.com.cn
 +.adreq.vivo.com.cn
 +.ads-go.adroi.com.cn
@@ -19378,7 +19381,6 @@
 +.newwiesdom.com.cn
 +.ngtraveler.com.cn
 +.nuffnang.com.cn
-+.obus-dc20123-sg.heyt.autohome.com.cn
 +.oneyouxi.com.cn
 +.open-ad.vivo.com.cn
 +.opto-22.com.cn
@@ -21861,12 +21863,12 @@
 +.images.daikinchemicals.com
 +.www2.daikinchemicals.com
 +.m.dailiq.cn
-+.daily
 +.daily-datehere.com
 +.info.dailybuzzbarrel.com
 +.dailyc24.com
 +.securemetrics.dailycandy.com
 +.dailydesigned.com
++.dailydivision.com
 +.dailydomino.com
 +.t.dailydot.com
 +.info.dailyfx.com
@@ -22326,6 +22328,7 @@
 +.dcfxk68sp2.com
 +.dcfxujucjmgun.site
 +.dcgbuqiqsxrsv.online
++.dcgfjjawtjxte.website
 +.portal.dcgone.com
 +.dchmfcewghsll.online
 +.marketing.dcihollowmetal.com
@@ -25718,7 +25721,6 @@
 +.trck.www4.earlywarning.com
 +.earmasterchina.cn
 +.earmuffpostnasalrisotto.com
-+.earmuffvintagevitality.com
 +.earnbaht.com
 +.links.earncarrot.com
 +.earnestlytouristnecessity.com
@@ -26117,9 +26119,9 @@
 +.analytics-sg.tiktok.com.edgekey.net
 +.analytics.edgekey.net
 +.analytics.tiktok.com.edgekey.net
++.ceuswatcab01.blob.core.won-boot.tiktokv.com.edgekey.net
 +.experiments.apple.com.edgekey.net
 +.iadsdk.apple.com.edgekey.net
-+.mon-boot.tiktokv.com.edgekey.net
 +.partiality.itunes.apple.com.edgekey.net
 +.wildcard.moatads.com.edgekey.net
 +.xp.apple.com.edgekey.net
@@ -27226,7 +27228,6 @@
 +.enmityclaspexperiments.com
 +.enmvvyoxasqbk.site
 +.ennuyeelaroid.com
-+.ennxeslzxsfyb.space
 +.enormousearth.com
 +.enormousfoot.com
 +.enosblurter.com
@@ -32014,7 +32015,6 @@
 +.gapcontroversialprodigal.com
 +.gapgwfmsaibho.online
 +.gapmeezmpklpd.website
-+.gapmobile.com
 +.gapwadfcmeilz.space
 +.gaqxkizfpyhpc.site
 +.garbagefit.com
@@ -36430,6 +36430,7 @@
 +.obus-dc2-in.heytapmobile.com
 +.obus-dc2-sg.heytapmobile.com
 +.obus-dc20123-in.heytapmobile.com
++.obus-dc20123-sg.heytapmobile.com
 +.obus-dc20142-sg.heytapmobile.com
 +.obus-dc20305-in.heytapmobile.com
 +.obus-dc20305-sg.heytapmobile.com
@@ -47008,7 +47009,6 @@
 +.pgtus2-powerpoint-telemetry-vip.officeapps.live.com
 +.pgtus2-word-telemetry-vip.officeapps.live.com
 +.pgtus3-excel-telemetry-vip.officeapps.live.com
-+.pgtus3-powerpoint-telemetry-vip.officeapps.live.com
 +.pgtus3-word-telemetry-vip.officeapps.live.com
 +.pgtus4-excel-telemetry-vip.officeapps.live.com
 +.pgtus4-powerpoint-telemetry-vip.officeapps.live.com
@@ -48233,6 +48233,7 @@
 +.lwxsocpvczuiq.online
 +.lwxuo.com
 +.lwywgysunkygy.site
++.lx-upload-log.yidianzixu
 +.lx167.com
 +.lx2rv.com
 +.lxadqdidnsnzd.online
@@ -50931,7 +50932,6 @@
 +.cse.avlyun.sec.miui.com
 +.data.sec.intl.miui.com
 +.data.sec.miui.com
-+.dcgfjjawtjxtc.miui.com
 +.etl.xlmc.sec.miui.com
 +.events.miui.com
 +.fb.xk.miui.com
@@ -50990,6 +50990,7 @@
 +.staging-notify.sec.miui.com
 +.stat.miui.com
 +.streamback.ff.avast.sec.miui.com
++.target.eonc.miui.com
 +.testit.miui.com
 +.tracking.eu.miui.com
 +.tracking.intl.miui.com
@@ -52536,6 +52537,7 @@
 +.mvcfkpklzjhoc.site
 +.mvctfbwtxjtar.site
 +.mvcyhxoblhdua.site
++.mve.com
 +.datadog-service.mvfglobal.com
 +.mvfmsotjykacv.online
 +.mvftmypmzprjt.space
@@ -55974,6 +55976,7 @@
 +.octryzgqtreua.com
 +.oculirellyan.com
 +.ocvdi0rum.com
++.ocwlhv.ecinet
 +.ocxlihabtozf.com
 +.ocxmbarylsyde.space
 +.ocydpculhabrh.online
@@ -56144,6 +56147,7 @@
 +.fp.measure.office.com
 +.measure.office.com
 +.measure.office.net
++.pgtus3-powerpoint-telemetry-vip.officeapps.li
 +.vkkasm.officechairsusa.com
 +.officecornsoftware.com
 +.data.cs.officedepot.com
@@ -68251,7 +68255,6 @@
 +.uaemarketing.sedgwick.com
 +.ukmarketing.sedgwick.com
 +.sediinklyldfm.site
-+.protect.dev.sedivision.com
 +.promotion.sedo.com
 +.sedodna.com
 +.sedoparking.com
@@ -84155,7 +84158,6 @@
 +.analytics-dev-simpad-events.servicebus.windows.net
 +.analyticsehnwe.servicebus.windows.net
 +.best10cdn.blob.core.windows.net
-+.ceuswatcab01.blob.core.windows.net
 +.ceuswatcab02.blob.core.windows.net
 +.citrixanalyticseh-alias.servicebus.windows.net
 +.citrixanalyticseh.servicebus.windows.net
@@ -87899,7 +87901,6 @@
 +.yidaweb.com
 +.imagelx.yidianzixun.com
 +.l.yidianzixun.com
-+.lx-upload-log.yidianzixun.com
 +.s.yidianzixun.com
 +.static-ssp.yidianzixun.com
 +.yidu.cc
