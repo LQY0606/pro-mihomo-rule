@@ -6276,7 +6276,6 @@
 +.prod-event-relay-sports-api.v.aaplimg.com
 +.prod-event-relay-stocks-api.v.aaplimg.com
 +.prod-event-relay-weather-api.v.aaplimg.com
-+.prod-event-relay-web-api.v.aaplimg.com
 +.prod-iwork-events.v.aaplimg.com
 +.prod-news-notification-events.v.aaplimg.com
 +.securemetrics-cn.v.aaplimg.com
@@ -7695,7 +7694,7 @@
 +.actuallysheep.com
 +.actuallysnake.com
 +.a.actualno.com
-+.actualtrade.eu
++.actualtrade.
 +.actualys.com
 +.actuanius.com
 +.app.info.actuate.com
@@ -8107,6 +8106,7 @@
 +.e.adcubes.com
 +.adcy.net
 +.adcycle.com
++.add
 +.add-like.com
 +.addabai.com
 +.smetrics.addabilify.com
@@ -15135,7 +15135,6 @@
 +.vaes.amazon-adsystem.amazon.com
 +.ads.eu.prod.channels.firetv.amazon.dev
 +.ads.na.prod.channels.firetv.amazon.dev
-+.adserver.pubtech.amazon.dev
 +.adskit.juno.alexa.amazon.dev
 +.advertising.amazon.dev
 +.api.imdb.us-east-1.prod.mario.imdbtv.amazon.dev
@@ -15159,6 +15158,7 @@
 +.session.bugsnag-fatals.shopbop.amazon.dev
 +.session.bugsnag.goodreads.amazon.dev
 +.session.prod.bugsnag.bunny.last-mile.amazon.dev
++.simperver.pubtech.amazon.dev
 +.sonar.prime-video.amazon.dev
 +.stream-sentry.last-mile.amazon.dev
 +.trace.app-performance.music.amazon.dev
@@ -15190,7 +15190,6 @@
 +.ad-interactions-prod-lb-799516835.ap-southeast-2.elb.amazonaws.com
 +.ad-ops-assets.s3.us-east-1.amazonaws.com
 +.adagiobanner.s3.amazonaws.com
-+.addshoppers.s3.amazonaws.com
 +.adktracking-1671721947.eu-west-3.elb.amazonaws.com
 +.admarvel.s3.amazonaws.com
 +.adpublisher.s3.amazonaws.com
@@ -17840,13 +17839,8 @@
 +.sgtm.applausemusicacademy.com
 +.applausetint.com
 +.feedbackws.fe.apple-dns.cn
-+.books-analytics-events.news.apple-dns.net
-+.feedbackws.fe.apple-dns.net
 +.feedbackws.fe2.apple-dns.net
 +.me.apple-dns.net
-+.notes-analytics-events.news.apple-dns.net
-+.stocks-analytics-events.news.apple-dns.net
-+.weather-analytics-events.news.apple-dns.net
 +.apple-net.com
 +.apple-photos.com
 +.ads.apple.com
@@ -20355,6 +20349,7 @@
 +.atyvapfwastoa.space
 +.atznwgwkbswnj.site
 +.atzonebd.com
++.au
 +.au-globallink.com
 +.acv.au-hikari-kddi.com
 +.a8.au-hikarinet.com
@@ -34382,7 +34377,6 @@
 +.images.rsvp.capitalgrouppcs.com
 +.capitalholding.pro
 +.capitalhospitals.org
-+.capitalhritage.com
 +.capitaliaes.com
 +.forms.capitaliq.com
 +.seniorliving.capitalmanor.com
@@ -81937,6 +81931,7 @@
 +.ads-bdapi-vn.heytapmobile.com
 +.ads-cps-in.heytapmobile.com
 +.ads.heytapmobile.com
++.adx-ads-fr-heytapmobila-c7870.fr-w01.cngw.heytapmobile.com
 +.adx-ads-fr.heytapmobile.com
 +.adx-ads-ru.heytapmobile.com
 +.adx-op-fr-heytapmobilea-a7bbf.fr-w01.cngw.heytapmobile.com
@@ -81944,6 +81939,7 @@
 +.adx-op-in.heytapmobile.com
 +.adx-op-ru.heytapmobile.com
 +.adx-op-sg.heytapmobile.com
++.adx-u-fr.heytapmobile.com
 +.adx-u-in-heytapmobile-a-9ae47.in-s01.cngw.heytapmobile.com
 +.adx-u-in.heytapmobile.com
 +.adx-u-ru.heytapmobile.com
@@ -81967,6 +81963,7 @@
 +.browser-api-id.heytapmobile.com
 +.browser-api-in.heytapmobile.com
 +.browser-api-my.heytapmobile.com
++.browser-api-nz.heytapmobile.com
 +.browser-api-ph.heytapmobile.com
 +.browser-api-ru.heytapmobile.com
 +.browser-api-th.heytapmobile.com
@@ -83756,6 +83753,18 @@
 +.marketing.homeofpurdue.com
 +.aldlstore.homeofpure.shop
 +.track.homeoguru.com
++.c455dbf95c4eb328dc8d756c607727e2.fp.measure.office.com.homeonair.net
++.config.fp.measure.office.com.homeonair.net
++.ecs.nel.measure.office.net.homeonair.net
++.excelonline.nel.measure.office.net.homeonair.net
++.exo.nel.measure.office.net.homeonair.net
++.js.monitor.azure.com.homeonair.net
++.m365cdn.nel.measure.office.net.homeonair.net
++.onenoteonline.nel.measure.office.net.homeonair.net
++.spo.nel.measure.office.net.homeonair.net
++.teams.nel.measure.office.net.homeonair.net
++.upload.fp.measure.office.com.homeonair.net
++.upload2.fp.measure.office.com.homeonair.net
 +.homeorento.com
 +.trk.homeownersavesbig.com
 +.trk.homeownersavingstoday.com
@@ -103975,7 +103984,6 @@
 +.linker.hr
 +.linkev.com
 +.linkexchange.com
-+.fastcounter.linkexchange.net
 +.linkexchangers.net
 +.linkfame.com
 +.linkfars.com
@@ -104416,7 +104424,8 @@
 +.outlookads.live.com
 +.pgtbr1-excel-telemetry-vip.officeapps.live.com
 +.pgtbr2-excel-telemetry-vip.officeapps.live.com
-+.pgtca1-powerpoint-telemetry-vip.officeapps.live.com
++.pgtbr2-word-telemetry-vip.officeapps.live.com
++.pgtca1-excel-telemetry-vip.officeapps.live.com
 +.pgteu1-excel-telemetry-vip.officeapps.live.com
 +.pgteu1-powerpoint-telemetry-vip.officeapps.live.com
 +.pgteu1-word-telemetry-vip.officeapps.live.com
@@ -104430,8 +104439,9 @@
 +.pgteu4-powerpoint-telemetry-vip.officeapps.live.com
 +.pgteu4-word-telemetry-vip.officeapps.live.com
 +.pgteu5-excel-telemetry-vip.officeapps.live.com
++.pgteu5-powerpoint-telemetry-vip.officeapps.live.com
 +.pgteu5-word-telemetry-vip.officeapps.live.com
-+.pgtmx1-excel-telemetry-vip.officeapps.live.com
++.pgtsg1-powerpoint-telemetry-vip.officeapps.live.com
 +.pgtus1-excel-telemetry-vip.officeapps.live.com
 +.pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 +.pgtus1-word-telemetry-vip.officeapps.live.com
@@ -112220,6 +112230,7 @@
 +.adserver.mgsex.com
 +.simg.mgsgamesonline.com
 +.ad.intl.xiaomi.com.mgslb.com
++.ad.xiaomi.com.mgslb.com
 +.mistat.xiaomi.com.mgslb.com
 +.mgsnicqdeydae.space
 +.mgtckhufqjlad.store
@@ -116430,7 +116441,6 @@
 +.msmmetallindustry.com
 +.m.msmuseumart.org
 +.browser.events.data.msn.cn
-+.events-sandbox.data.msn.cn
 +.events.data.msn.cn
 +.srtb.msn.cn
 +.ac2.msn.com
@@ -123605,6 +123615,7 @@
 +.data.adviser.nsandi.com
 +.data.savings.nsandi.com
 +.nsapm.com
++.adsyndication.msn.com.nsatc.net
 +.choice.microsoft.com.nsatc.net
 +.i1.services.social.microsoft.com.nsatc.net
 +.oca.telemetry.microsoft.com.nsatc.net
@@ -124943,7 +124954,7 @@
 +.at.ocean-skills.com
 +.lab.ocean-vert.com
 +.oms.ocean985.com
-+.oceanarmouroutnumber.com
++.oceanarmouroutnumber.
 +.oceancloudhosts.com
 +.marketing.oceanclubmyrtlebeach.com
 +.oceancode.top
@@ -125394,7 +125405,6 @@
 +.oferta513516.help
 +.oferta7483895.cfd
 +.oferta755.sbs
-+.oferta7861893.top
 +.oferta9102366.icu
 +.oferta91820467.icu
 +.oferta9198702.cfd
@@ -126265,6 +126275,7 @@
 +.olzari.shop
 +.olzbnpdywxtrm.online
 +.olzqzehjhayam.site
++.om
 +.tpp.om-stock.com
 +.om1aq1t27.com
 +.k2oez6.om7jm29izqk8wtfp2uzgiecxe2o.cyou
@@ -129825,6 +129836,7 @@
 +.a46e0368.forwarding-request-consent.pages.dev
 +.abbonamento-premium-com.pages.dev
 +.ads01.pages.dev
++.adstodiscover-obrum-pl.pages.dev
 +.adtest.pages.dev
 +.agilvaltrix-shop.pages.dev
 +.aivorax-tech-com.pages.dev
@@ -129836,7 +129848,6 @@
 +.aurixiontrust-pro.pages.dev
 +.aurora-capital-digital.pages.dev
 +.auto-deploy.pages.dev
-+.autodiscover-obrum-pl.pages.dev
 +.balticpipe-pro.pages.dev
 +.bayancapital-solution-com.pages.dev
 +.bitcoincodes-digital.pages.dev
@@ -148264,8 +148275,6 @@
 +.acr.roku.com
 +.ad-eng.prod.rpay.int.roku.com
 +.ad-eng.staging.rpay.int.roku.com
-+.ad.qa.ap.int.roku.com
-+.ad.usw2.qa.ap.int.roku.com
 +.adeng-identity-prod3.bdp.roku.com
 +.adeng-looker-bi-oneview-prod-1001.bdp.roku.com
 +.adeng-looker-dev-1001.bdp.roku.com
@@ -148306,7 +148315,6 @@
 +.item-tracking.dev.sr.roku.com
 +.logs.dev.sr.roku.com
 +.logs.prod.ap.int.roku.com
-+.logs.qa.ap.int.roku.com
 +.logs.roku.com
 +.logs.sr.roku.com
 +.pixel.staging.web.roku.com
@@ -149513,6 +149521,7 @@
 +.rtyznd.com
 +.rtznhfqlsdmnf.site
 +.rtztthwgifaal.site
++.ru-ctdbonrt-stsange.net
 +.yybrtm.ru-mi.com
 +.app.dreambox.ru.com
 +.filosvybfimpsv.ru.gg
@@ -154054,6 +154063,7 @@
 +.ant.september.digital
 +.septemberbrightest.com
 +.load.gtms.septimostore.com
++.stats.septum.
 +.seputartuban.com
 +.cdn.sepyok.com
 +.sepyra.com
@@ -171258,6 +171268,7 @@
 +.analytics16-normal-alisg.tiktok.com
 +.analytics16-normal.tiktok.com
 +.business-api.tiktok.com
++.location-i18n.tiktok.com
 +.location.tiktok.com
 +.mcs-i18n.tiktok.com
 +.mcs-sg.tiktok.com
@@ -171275,6 +171286,7 @@
 +.lf-static.tiktokpangle-cdn-us.com
 +.tts-metric-center.tiktokshop.com
 +.log-snssdk.tiktokv-us.com
++.tnc16-platform-my.tiktokv.cocom
 +.ad-format-i18n.tiktokv.com
 +.ad-format-ru.tiktokv.com
 +.ad-format-sg.tiktokv.com
@@ -171291,7 +171303,6 @@
 +.live-video-log16-normal-useast1a.tiktokv.com
 +.live-video-log16-normal-useast2a.tiktokv.com
 +.location-i18n.tiktokv.com
-+.location-ru.tiktokv.com
 +.location-sg.tiktokv.com
 +.location-ttp2.us.tiktokv.com
 +.location-v6-i18n.tiktokv.com
@@ -171402,7 +171413,6 @@
 +.rtc-logger.tiktokv.com
 +.rtc-logger.us.tiktokv.com
 +.rtc-logger16-normal-alisg.tiktokv.com
-+.rtc-logger16-normal.tiktokv.com
 +.rtlog-i18n.tiktokv.com
 +.rtlog-phx.tiktokv.com
 +.rtlog-ru.tiktokv.com
@@ -171482,7 +171492,6 @@
 +.tnc16-normal-zr-alisg.tiktokv.com
 +.tnc16-normal-zr-useast1a.tiktokv.com
 +.tnc16-platform-alisg.tiktokv.com
-+.tnc16-platform-my.tiktokv.com
 +.tnc16-platform-useast1a.tiktokv.com
 +.tnc16-platform-useast2a.tiktokv.com
 +.tnc16-platform-useast5.us.tiktokv.com
@@ -171521,7 +171530,6 @@
 +.log-dr.tiktokv.eu
 +.log-dr16-normal-no1a.tiktokv.eu
 +.log-dr16-normal-useastred.tiktokv.eu
-+.log-dr19-normal-no1a.tiktokv.eu
 +.log.tiktokv.eu
 +.log16-normal-ie.tiktokv.eu
 +.log19-normal-no1a.tiktokv.eu
@@ -171531,7 +171539,6 @@
 +.log32-normal-useastred.tiktokv.eu
 +.mon.tiktokv.eu
 +.mon16-normal-ie.tiktokv.eu
-+.rtc-logger-ie.tiktokv.eu
 +.rtc-logger-ttp2.tiktokv.eu
 +.rtc-logger.tiktokv.eu
 +.rtc-logger16-normal-useastred.tiktokv.eu
@@ -171561,7 +171568,6 @@
 +.ads16-normal-useastred.tiktokw.eu
 +.analytics-exp-ie.tiktokw.eu
 +.analytics-exp-ttp2.tiktokw.eu
-+.analytics-exp.tiktokw.eu
 +.analytics-exp16-normal-useastred.tiktokw.eu
 +.analytics-ie.tiktokw.eu
 +.analytics-ttp2.tiktokw.eu
@@ -174085,7 +174091,6 @@
 +.ir-tracking.trafficmanager.net
 +.irreverselookuptm.trafficmanager.net
 +.ism-telemetry.trafficmanager.net
-+.keyniusprod-events.trafficmanager.net
 +.legacywatson.trafficmanager.net
 +.noam.events.data.trafficmanager.net
 +.o365diagtelemetry.trafficmanager.net
@@ -174118,6 +174123,7 @@
 +.tm-enrollment-telemetry-datacore.trafficmanager.net
 +.tracker.flightview.com.trafficmanager.net
 +.uks.b.prd.ags.trafficmanager.net
++.us-mesh-events-data-leafs.trafficmanager.net
 +.vortex.data.trafficmanager.net
 +.vstelemetry.trafficmanager.net
 +.watsoncab.trafficmanager.net
@@ -184311,6 +184317,7 @@
 +.eu-domaincfg.vivoglobal.com
 +.eu-errup.vivoglobal.com
 +.eu-monitor-stsdk.vivoglobal.com
++.eu-nrt-stsdk.vivoglobal.com
 +.eu-onrt-stsdk.vivoglobal.com
 +.eu-ort-stsdk.vivoglobal.com
 +.eu-p.vivoglobal.com
@@ -184326,6 +184333,7 @@
 +.ex-adreq-asia.vivoglobal.com
 +.ex-adreq-in.vivoglobal.com
 +.ex-romsp-unifyconfig.vivoglobal.com
++.fastcounter.linkexchapi.vivoglobal.com
 +.id-analyzer-appstore.vivoglobal.com
 +.id-third-appstore.vivoglobal.com
 +.il-api-stsdk.vivoglobal.com
@@ -184433,7 +184441,6 @@
 +.ru-compnrt-stsdk.vivoglobal.com
 +.ru-comprt-stsdk.vivoglobal.com
 +.ru-cota.vivoglobal.com
-+.ru-ctdbonrt-stsdk.vivoglobal.com
 +.ru-ctdbort-stsdk.vivoglobal.com
 +.ru-ctdbpnrt-stsdk.vivoglobal.com
 +.ru-ctdbprt-stsdk.vivoglobal.com
@@ -184448,6 +184455,7 @@
 +.ru-pnrt-stsdk.vivoglobal.com
 +.ru-prt-stsdk.vivoglobal.com
 +.ru-romsp-unifyconfig.vivoglobal.com
++.ru-rt-stsdk.vivoglobal.com
 +.ru-st-exappupgrade.vivoglobal.com
 +.ru-st-sl.vivoglobal.com
 +.ru-stsdk.vivoglobal.com
@@ -184457,6 +184465,7 @@
 +.ru-vcode-od.vivoglobal.com
 +.ru-vcode-or.vivoglobal.com
 +.sg-cfg-stsdk.vivoglobal.com
++.sjyskm.litres.rudk.vivoglobal.com
 +.st-sl.vivoglobal.com
 +.stsdk.vivoglobal.com
 +.tr-album-api.vivoglobal.com
@@ -189769,6 +189778,7 @@
 +.eaus2watcab02.blob.core.windows.net
 +.faduciwup.z4.web.core.windows.net
 +.fsuseaad1.blob.core.windows.net
++.hme-live-loganalytics-namespace.servicebus.windows.net
 +.hme-uat-loganalytics-namespace.servicebus.windows.net
 +.hotelembuguacu.blob.core.windows.net
 +.insitez.blob.core.windows.net
@@ -189779,7 +189789,6 @@
 +.open8video.blob.core.windows.net
 +.optanon.blob.core.windows.net
 +.prd-qlik-telemetry.servicebus.windows.net
-+.prod-eh-v1-analytics.servicebus.windows.net
 +.prod-eventhub-analytics.servicebus.windows.net
 +.production-jobactivity-analytics.servicebus.windows.net
 +.rawtelemetry-east.servicebus.windows.net
